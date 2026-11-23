@@ -1,0 +1,730 @@
+{
+ "nr": 3,
+ "name": "Landstraße",
+ "kurz": "Ein Bezirk entlang der alten Fernstraße nach Ungarn, in dem Prinz Eugens Schloss, Viehmärkte, ein Festungsarsenal und Botschaften nebeneinander liegen.",
+ "profil": [
+  "Die Landstraße entstand 1850 aus drei Vorstädten: Landstraße, Erdberg und Weißgerber. Den Namen erhielt der Bezirk von der größten von ihnen, die schon 1302 als „Lantstrazz“ urkundlich erwähnt ist, ein mittelhochdeutscher Ausdruck für den öffentlichen Weg durchs Land. Die Landstraßer Hauptstraße und der Rennweg gehen auf die Fernstraße nach Ungarn zurück, die der Anlage nach auf eine Römerstraße zurückgeht. An ihr siedelten sich seit etwa 1200 Spitäler, Klöster und Gasthöfe an.",
+  "Der älteste Kern liegt am „Platzel“, dem heutigen Rochusmarkt, wo einst das Nikolaikloster stand, ein Zisterzienserinnenkloster aus der Zeit Leopolds VI. vor 1228, das 1529 von den Osmanen zerstört und 1534 niedergerissen wurde. Der Nikolaifriedhof bestand bis 1784 an dieser Stelle. Das Bezirkswappen vereint die Siegel der drei Vorstädte: den heiligen Nikolaus für die Landstraße, eine Erdbeere für Erdberg und zwei Böcke für die Weißgerber.",
+  "Der Bezirk war immer ein Standort für Dinge, die nicht in die Stadt sollten oder sie versorgten. Der Ochsenmarkt, der Zentralviehmarkt in St. Marx (1884 bis 1997, 1976 besetzte man den benachbarten Schlachthof und gründete die Arena), die Spitäler, das Waisenhaus am Rennweg, die Kasernen und das 1849 bis 1856 erbaute Arsenal als Festung gegen den „inneren Feind“ nach 1848. Daneben liegt im Nordwesten der Adelsbogen aus dem Barock: Belvedere und Schwarzenbergpalais am Rennweg, das Palais des Fürsten Rasumofsky, das Hauptmünzamt, heute das Diplomatenviertel mit Botschaften.",
+  "Die wirtschaftliche Mitte des Bezirks verschob sich im 19. Jahrhundert mit der Donauregulierung, den Bahnhöfen und der Wienflussregulierung. Die Weißgerber, Gerber und Fleischhauer des Rückstaubereichs des Wienflusses wichen Mietshausvierteln: Arenbergviertel (1905 bis 1914), Esteplatzviertel (1909 bis 1914) und Invalidenstraße-Viertel (1910/11) sind einheitlich geplante Jugendstil-Ensembles. In der Zwischenkriegszeit entstanden große Gemeindebauten wie der Rabenhof mit 1.112 Wohnungen, der Hanuschhof und der Wildganshof.",
+  "Politisch und zeitgeschichtlich trägt die Landstraße schwer: Der Aspangbahnhof war Ausgangspunkt für Deportationen, im Obdachlosenheim Gänsbachergasse lag 1939 ein Sammellager für die Nisko-Transporte, und die Synagoge in der Unteren Viaduktgasse wurde 1938 devastiert. Von 1946 bis 1956 hieß der Schwarzenbergplatz Stalinplatz, das Befreiungsdenkmal der Roten Armee steht bis heute dort. Im Haus der Industrie tagte der Alliierte Rat.",
+  "Heute ist die Landstraße ein Bezirk der Kontraste: das Wien-Mitte-Areal mit Hochhäusern, das Heumarkt-Projekt am Eislaufverein, das den Welterbe-Status der Innenstadt gefährdete, das neue Viertel um St. Marx und das Medien- und Bürogebiet, dazu die ruhigen, dichten Grätzel um Rochusmarkt und Hundertwasserhaus. Die Fläche beträgt 7,40 Quadratkilometer, Katastralgemeinde ist nur die Landstraße selbst."
+ ],
+ "politik": "Bezirksvorsteher ist Erich Hohenberger (SPÖ), der laut Medienberichten seit mehr als drei Jahrzehnten im Amt ist und als dienstältester Bezirksvorsteher gilt. Bei der Bezirksvertretungswahl 2025 erzielte die SPÖ 36,5 Prozent, die Grünen 22,0, die FPÖ 13,2, die NEOS 11,3, die ÖVP 10,3 und die KPÖ 4,9; die Beteiligung lag bei 47,5 Prozent. Die Landstraße wird seit Jahrzehnten sozialdemokratisch regiert.",
+ "quellen": [
+  {
+   "t": "Wien Geschichte Wiki: Landstraße (Bezirk)",
+   "u": "https://www.geschichtewiki.wien.gv.at/Landstra%C3%9Fe"
+  },
+  {
+   "t": "Wikipedia: Landstraße (Wien)",
+   "u": "https://de.wikipedia.org/wiki/Landstra%C3%9Fe_(Wien)"
+  },
+  {
+   "t": "Stadt Wien: Wahlen",
+   "u": "https://www.wien.gv.at/politik/wahlen/"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Landstraße (Niklasvorstadt)",
+   "art": "Vorstadt",
+   "wiki": "Landstraße (Vorstadt)",
+   "lon": 16.39068,
+   "lat": 48.20288,
+   "text": "Der älteste Kern entstand dort, wo der Anstieg zur Terrasse des Wientals überwunden ist; die Siedlung lässt sich als Niklasvorstadt bis um 1200 zurückverfolgen. 1302 wurde „Lantstrazz“ erstmals erwähnt. Aus einer Straßengabelung vor dem Nikolaikloster entstand das „Platzel“, der heutige Rochusmarkt. 1642 wurde der Grundstein zur Rochuskirche gelegt. 1850 wurde die Landstraße mit Erdberg und Weißgerber als 3. Bezirk eingemeindet.",
+   "quellen": []
+  },
+  {
+   "n": "Weißgerber",
+   "art": "Vorstadt",
+   "wiki": "Weißgerber (Vorstadt)",
+   "lon": 16.39067,
+   "lat": 48.21031,
+   "text": "Die Vorstadt entstand nach den Zerstörungen von 1529 im überschwemmungsgefährdeten Rückstaugebiet des Wienflusses durch Gärtner und Fleischhauer, später folgten Flecksieder, Rot- und Weißgerber. Ferdinand I. verlegte 1561 die Lederer und Gerber in die „Alt-Tunaw-Gemeinde“. 1693 entschied Leopold I., die Siedlung um 10.000 Gulden der Stadt Wien zu überlassen und zur Vorstadt zu erheben. Eine mittelalterliche Siedlungsform ist nicht erhalten, ein Zentrum nicht erkennbar; heute liegt hier das Hundertwasserhaus-Viertel.",
+   "quellen": []
+  },
+  {
+   "n": "Erdberg",
+   "art": "Dorf",
+   "wiki": null,
+   "lon": 16.4,
+   "lat": 48.199,
+   "text": "Der Kern des Dorfes ist die Erdburg, seit 1192 urkundlich nachweisbar, zwischen Erdbergstraße, Kardinal-Nagl-Platz und Schlachthausgasse. Dazu kamen Nottendorf und der Paulusgrund. Die Erdberger Kirche (Peter und Paul) steht an der Stelle einer Kapelle, die 1353 erstmals urkundlich erwähnt wird. Erdberg war bis ins 19. Jahrhundert gärtnerisch und landwirtschaftlich geprägt und wurde 1850 mit Landstraße und Weißgerber zum 3. Bezirk.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Erdberger Kirche",
+     "u": "https://www.geschichtewiki.wien.gv.at/Erdberger_Kirche"
+    }
+   ]
+  },
+  {
+   "n": "Erdburg",
+   "art": "Grätzel",
+   "wiki": "Erdburg",
+   "lon": 16.40695,
+   "lat": 48.19485,
+   "text": "Der seit 1192 nachgewiesene Kern des späteren Erdberg. Über die Lage war man lange im Unklaren: Wendelin Boeheim vermutete sie im Raum Rabengasse, Wällischgasse und Apostelgasse. Hans Pemmer legte mit Hilfe späterer Grundbücher ihre Ausdehnung fest: Erdbergstraße, Kardinal-Nagl-Platz, Hainburger Straße 61 bis 85 und Schlachthausgasse.",
+   "quellen": []
+  },
+  {
+   "n": "Nottendorf",
+   "art": "Dorf",
+   "wiki": "Nottendorf",
+   "lon": 16.40179,
+   "lat": 48.19596,
+   "text": "Gegen Ende des 14. Jahrhunderts berief Albrecht III. eine Kolonie flämischer Gärtner und Wollfärber, die den Auwald urbar machten. Die Siedlung wird 1389 mit 13 Häusern erstmals erwähnt, der Name bedeutet niederdeutsch „Dorf der Genossen“. Sie reichte von der heutigen Erdberger Pfarrkirche über den Kardinal-Nagl-Platz bis zur Leonhardgasse und hatte eine genossenschaftliche Dorfverfassung.",
+   "quellen": []
+  },
+  {
+   "n": "Paulusgrund",
+   "art": "Siedlung",
+   "wiki": "Paulusgrund",
+   "lon": 16.40147,
+   "lat": 48.19287,
+   "text": "Nach dem Pauluskirchlein in erhöhter Lage, der Erdberger Kirche, wird die Ansiedlung in Erdberg schon 1330 so genannt (auch Paulushöhe). Seit 1862 heißt der Platz Paulusplatz.",
+   "quellen": []
+  },
+  {
+   "n": "Erdberger Maiß",
+   "art": "Grätzel",
+   "wiki": "Erdberger Maiß",
+   "lon": 16.40929,
+   "lat": 48.19243,
+   "text": "Um 1700 war der Maiß ein Waldflecken (Maiß: Jungholz), der von einer Schlinge des Donaukanals in einem Dreiviertelkreis umschlossen wurde. 1715 wurde eine nördliche Flussschlinge durchgestochen, 1726 auch die große um den Maiß; der Damm erlaubte weiterhin jährliche Überschwemmungen, die den Altarm verlanden ließen. Damit begann die Siedlungsgeschichte. Die Bezeichnung ist inoffiziell vor 1863, amtlich seit 1905.",
+   "quellen": []
+  },
+  {
+   "n": "St. Marx",
+   "art": "Grätzel",
+   "wiki": "St. Marx",
+   "lon": 16.4067,
+   "lat": 48.18647,
+   "text": "Der Name kommt von der um 1370 dem heiligen Markus geweihten Kapelle des Siechenhauses St. Lazar, das spätestens um 1270 bestand und lange Lepra-Kranke isolierte. 1706 wurde das Spital dem Bürgerspital einverleibt. Im 19. Jahrhundert wurde St. Marx zum Viehmarkt- und Schlachthofviertel, mit Brauhaus, Friedhof und später dem Fleischzentrum (1972).",
+   "quellen": []
+  },
+  {
+   "n": "Heumarkt",
+   "art": "Grätzel",
+   "wiki": "Heumarkt",
+   "lon": 16.37912,
+   "lat": 48.20078,
+   "text": "Seit 1368 hieß die Gegend vom untersten Rennweg bis zur Salesianergasse „Im Gereuth“, auch „Im Paradeis“ oder „Am Heugries“. Noch im 17. Jahrhundert dehnte sich der Heumarkt vom Stubentor bis gegen das Kärntnertor aus. Heute liegen hier Konzerthaus, Akademietheater, der Eislaufverein und das umstrittene Hochhausprojekt.",
+   "quellen": []
+  },
+  {
+   "n": "Modenaparkviertel",
+   "art": "Grätzel",
+   "wiki": "Modenaparkviertel (3)",
+   "lon": 16.38433,
+   "lat": 48.20223,
+   "text": "Um 1700 lag hier ein langgestreckter Ziergarten, den Franz Stockhammer besaß; im 18. Jahrhundert stand ein palaisartiges Gebäude des Freiherrn von Harrucker, 1806 für Erzherzogin Maria Beatrix von Este erweitert. Das Viertel ist eine Mischung aus Palais, Villen und Mietshäusern.",
+   "quellen": []
+  },
+  {
+   "n": "Arenbergviertel",
+   "art": "Grätzel",
+   "wiki": "Arenbergviertel",
+   "lon": 16.39136,
+   "lat": 48.19842,
+   "text": "Das Viertel rund um den Arenbergpark wurde zwischen 1905 und 1914 einheitlich mit repräsentativen Miethäusern im späthistoristischen und secessionistischen Stil verbaut: Sebastianplatz (1905 bis 1908), Hintzerstraße, Dannebergplatz, Dapontegasse, Neulinggasse und Ziehrerplatz (1910 bis 1914).",
+   "quellen": []
+  },
+  {
+   "n": "Esteplatzviertel",
+   "art": "Grätzel",
+   "wiki": "Esteplatzviertel",
+   "lon": 16.39024,
+   "lat": 48.20538,
+   "text": "Das aus Häusern am rechteckigen Esteplatz und in Teilen der Weyr-, Czapka-, Geusau- und Uchatiusgasse bestehende Wohnviertel ist eine städtebauliche Einheit aus der Zeit vor dem Ersten Weltkrieg (1909 bis 1914), mit eleganten späthistoristischen Häusern und Einflüssen der Secession.",
+   "quellen": []
+  },
+  {
+   "n": "Invalidenstraße-Viertel",
+   "art": "Grätzel",
+   "wiki": "Invalidenstraße-Viertel",
+   "lon": 16.38641,
+   "lat": 48.2064,
+   "text": "Nach der Demolierung des Invalidenhauses (1909) entstand 1910/11 ein privates Ensemble aus drei regelmäßigen Baublöcken mit je vier Häusern zwischen Invalidenstraße, Marxergasse, Unterer Viaduktgasse und Landstraßer Hauptstraße, neoklassizistisch-secessionistisch.",
+   "quellen": []
+  },
+  {
+   "n": "Diplomatenviertel",
+   "art": "Grätzel",
+   "wiki": "Diplomatenviertel",
+   "lon": 16.38171,
+   "lat": 48.203,
+   "text": "Volkstümliche Bezeichnung für den Teil zwischen Reisnerstraße, Heumarkt und Rennweg, in dem eine größere Zahl ausländischer Botschaften konzentriert ist, darunter die russische (neben der russisch-orthodoxen Kathedrale).",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Das Platzel und der Nikolaifriedhof",
+   "kat": "verschwunden",
+   "wiki": "Nikolaikloster (3)",
+   "adr": "Rochusmarkt / Landstraßer Hauptstraße",
+   "lon": 16.39364,
+   "lat": 48.2044,
+   "jahr": "vor 1228–1784",
+   "text": "Herzog Leopold VI. gründete vor 1228 das Zisterzienserinnenkloster „Santa Maria bei St. Niklas vor dem Stubentor“, das wegen der Nähe zur Nikolaikapelle bald den Namen St. Niklas trug. Die Osmanen zerstörten es 1529, 1534 wurde es gänzlich niedergerissen, seine topografische Lage ist heute nicht mehr erkennbar. Über die Fläche legte sich ein Friedhof mit der Nikolaikirche (1563 bis 1784), aus dem später der Rochusmarkt hervorging.",
+   "fakt": "Wo heute Marktstände stehen, war bis 1784 ein Friedhof.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Rochusmarkt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Rochusmarkt"
+    }
+   ]
+  },
+  {
+   "n": "Rochusmarkt",
+   "kat": "alltag",
+   "wiki": "Rochusmarkt",
+   "adr": "Landstraßer Hauptstraße / Rochusgasse",
+   "lon": 16.39087,
+   "lat": 48.2026,
+   "jahr": "1950",
+   "text": "Der Markt hieß früher Augustinermarkt, gegründet von den Beschuhten Augustinern, und „Am Platzl“. Der Platz hieß bis 1863 Kirchenplatz. Die Verkaufsbuden wurden 1950 erneuert. Beim Bau der U3 wurde der Marktstandort 1984 bis 1989 in den Bereich der gesperrten Landstraßer Hauptstraße verlegt. Daneben steht die Rochuskirche, deren Grundstein 1642 gelegt wurde.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Belvedere",
+   "kat": "bauwerk",
+   "wiki": "Belvedere",
+   "adr": "Rennweg 6 / Prinz-Eugen-Straße 27",
+   "lon": 16.38035,
+   "lat": 48.19425,
+   "jahr": "1713–1723",
+   "text": "Prinz Eugen kaufte 1697 rund 88.400 Quadratmeter am Rennweg, einen Lustgarten des Leibarztes Franz Stockhammer. Johann Lukas von Hildebrandt baute ab 1713 das Untere Belvedere mit Wohnappartement, dann das Obere Belvedere als Festschloss (1717 bis 1723). Dominique Girard legte ab 1700 den Garten an. Zukäufe 1716 vom Nikolaikloster-Areal und 1721 vom Bürgerspital schufen Platz für einen Tiergarten (Menagerie), 1719 vollendet.",
+   "fakt": "Der Garten bekam seine Wasserversorgung erst durch eine 1707 erteilte Erlaubnis, die kaiserliche Wasserleitung anzuzapfen.",
+   "quellen": []
+  },
+  {
+   "n": "Palais Schwarzenberg",
+   "kat": "bauwerk",
+   "wiki": "Palais Schwarzenberg",
+   "adr": "Rennweg 2",
+   "lon": 16.37691,
+   "lat": 48.19697,
+   "jahr": "1692–1704",
+   "text": "Heinrich Franz Mansfeld, Fürst Fondi, kaufte 1692 am Rennweg Weinrieden für ein Sommerpalais; 1704 war es im Rohbau fertig, die Entwürfe stammten von Johann Lukas von Hildebrandt. Es wurde später Schwarzenbergpalais. Vor dem Palais liegt der Schwarzenbergplatz mit dem Befreiungsdenkmal.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Befreiungsdenkmal am Schwarzenbergplatz",
+   "kat": "politik",
+   "wiki": "Befreiungsdenkmal",
+   "adr": "Schwarzenbergplatz",
+   "lon": 16.37631,
+   "lat": 48.19802,
+   "jahr": "1945",
+   "text": "Das Denkmal, im Volksmund „Russendenkmal“, erinnert an rund 18.000 Soldatinnen und Soldaten der Roten Armee, die bei der Befreiung Wiens fielen. Es steht auf dem Teil des Platzes, der von April 1946 bis Juli 1956 Stalinplatz hieß. Das Haus der Industrie am Platz war in der Besatzungszeit Sitz des Alliierten Rates.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Haus der Industrie",
+     "u": "https://www.geschichtewiki.wien.gv.at/Haus_der_Industrie"
+    }
+   ]
+  },
+  {
+   "n": "Rasumofskypalais",
+   "kat": "bauwerk",
+   "wiki": "Rasumofskypalais",
+   "adr": "Rasumofskygasse 23–25",
+   "lon": 16.39365,
+   "lat": 48.2044,
+   "jahr": "1806–1807",
+   "text": "Louis Montoyer baute das klassizistische Palais für den russischen Gesandten Andrej Rasumofsky, den Gönner Beethovens; der Park reichte bis zum Donaukanal. Am 31. Dezember 1814 brach bei den Vorbereitungen eines Silvesterballs von Zar Alexander I. durch einen Schaden an einer neuartigen Heizungsanlage ein Feuer aus, dem der Hintertrakt mit zahlreichen Kunstschätzen zum Opfer fiel. Der Zar gewährte noch am Brandplatz ein Darlehen von 400.000 Silberrubel. 1797 hatte Rasumofsky eine hölzerne Brücke über den Donaukanal zum Prater bauen lassen, die 1809 der Eisstoß zerstörte.",
+   "fakt": "Der Brand brach am Morgen des Silvestertags 1814 mitten im Wiener Kongress aus.",
+   "quellen": []
+  },
+  {
+   "n": "Zentralviehmarkt und Schlachthof St. Marx",
+   "kat": "industrie",
+   "wiki": "Zentralviehmarkt",
+   "adr": "Viehmarktgasse 5–7",
+   "lon": 16.40385,
+   "lat": 48.18893,
+   "jahr": "1879–1997",
+   "text": "Der Ochsenmarkt lag früher am Ochsengries (Am Heumarkt) und wurde 1797 beim Bau des Hafens des Wiener Neustädter Kanals nach St. Marx vor den Linienwall verlegt. 1874 kam die Viehschleppbahn, 1879 bis 1884 entstand der Zentralviehmarkt mit Platz für 8.000 Rinder, 4.500 Kälber, 12.000 Schafe und 12.000 Schweine und war einer der größten Europas. Er hielt bis 1997. Ein Teil der Anlage, der ehemalige Auslandsschlachthof, wurde 1976 besetzt und wurde zur Arena.",
+   "fakt": "Bis zum Bahnanschluss wurden Ochsen noch durch die Vororte nach St. Marx getrieben, die „Ochsenhetze“.",
+   "quellen": []
+  },
+  {
+   "n": "St. Marxer Friedhof",
+   "kat": "erinnerung",
+   "wiki": null,
+   "adr": "Leberstraße 6–8",
+   "lon": 16.4003,
+   "lat": 48.1889,
+   "jahr": "1784",
+   "text": "Der Kommunalfriedhof wurde 1784 nach den josephinischen Reformen vor dem Linienwall eingerichtet und liegt beim ehemaligen Spital zu St. Marx. Er gilt als einziger erhaltener Biedermeier-Friedhof Wiens; berühmt ist das Grabdenkmal für Wolfgang Amadeus Mozart, dessen genaue Grabstelle unbekannt ist.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wikipedia: St. Marxer Friedhof",
+     "u": "https://de.wikipedia.org/wiki/St._Marxer_Friedhof"
+    }
+   ]
+  },
+  {
+   "n": "Arsenal",
+   "kat": "geschichte",
+   "wiki": "Arsenal",
+   "adr": "Arsenalstraße / Ghegastraße",
+   "lon": 16.38916,
+   "lat": 48.18198,
+   "jahr": "1849–1856",
+   "text": "Nach der Revolution 1848 wurde das Arsenal als Artilleriearsenal gebaut, ausdrücklich im Gedanken, es mit einem „inneren Feind“ zu tun zu haben. Der Komplex bildet ein Rechteck von 688 mal 480 Metern mit 72 Objekten, das wichtigste ist das Kommandantengebäude von Sicardsburg und van der Nüll im Stil italienischer Burgen. Hanns Gasser schuf die Fassadenskulpturen. Das Arsenal gehörte erst zum 4., dann ab 1874 zum 10. und seit 1938 zum 3. Bezirk.",
+   "fakt": "Es war eine Festung gegen die eigene Hauptstadt.",
+   "quellen": []
+  },
+  {
+   "n": "Aspangbahnhof",
+   "kat": "erinnerung",
+   "wiki": "Aspangbahnhof",
+   "adr": "Aspangstraße / Rennweg",
+   "lon": 16.39427,
+   "lat": 48.19076,
+   "jahr": "1880–1945",
+   "text": "Der Bahnhof der Wien-Aspang-Bahn (Wien–Saloniki-Bahn) wurde 1880 bis 1883 im Stil der Renaissance gebaut, eher ein stattlicher Provinzbahnhof, dessen Gleise in die Verbindungsbahn mündeten. In der NS-Zeit gingen von hier zwischen 1939 und 1942 Deportationen von rund 47.000 Wiener Jüdinnen und Juden aus. Auf dem Areal entstand später das Gebiet der Eurogate-Siedlung.",
+   "fakt": "Entlang der Strecke stehen Kilometersteine mit „WSB“ für Wien-Saloniki-Bahn.",
+   "quellen": [
+    {
+     "t": "Wikipedia: Aspangbahnhof",
+     "u": "https://de.wikipedia.org/wiki/Aspangbahnhof"
+    }
+   ]
+  },
+  {
+   "n": "Sammellager Gänsbachergasse",
+   "kat": "erinnerung",
+   "wiki": "Sammellager Gänsbachergasse 3",
+   "adr": "Gänsbachergasse 3",
+   "lon": 16.39686,
+   "lat": 48.17696,
+   "jahr": "1939–1944",
+   "text": "Das städtische Obdachlosenheim, 1866 von der Gemeinde Wien erworben, diente von Oktober 1939 bis Februar 1940 als Sammellager für Deportationen in das geplante „Judenreservat“ Nisko am San. 1944 war es Durchgangslager für ungarisch-jüdische Zwangsarbeiterinnen und Zwangsarbeiter, weil es unweit des Ostbahnhofs und der Industriebetriebe im 10. und 11. Bezirk lag.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rabenhof",
+   "kat": "wohnen",
+   "wiki": "Rabenhof",
+   "adr": "Baumgasse 29–41",
+   "lon": 16.3992,
+   "lat": 48.19716,
+   "jahr": "1925–1928",
+   "text": "Auf dem Gelände der Krimskykaserne entstand die Anlage mit 1.112 Wohnungen nach Plänen von Heinrich Schmid und Hermann Aichinger, mit einer bogenförmigen Durchgangsstraße unter einem großen Spitzbogenbau. 1931 war sie nach Friedrich Austerlitz, dem Chefredakteur der Arbeiterzeitung, benannt; Bürgermeister Richard Schmitz benannte sie 1935 in Rabenhof um. Nach 1945 gab es keine Rückbenennung.",
+   "fakt": "Der 1931 vergebene Name Austerlitz-Hof wurde 1935 getilgt und nach 1945 nicht wiederhergestellt.",
+   "quellen": []
+  },
+  {
+   "n": "Hanuschhof",
+   "kat": "wohnen",
+   "wiki": "Hanuschdenkmal (3)",
+   "adr": "Erdberger Lände / Hanuschhof",
+   "lon": 16.40908,
+   "lat": 48.19678,
+   "jahr": "1926",
+   "text": "Im ersten Hof des Hanuschhofs (475 Wohnungen, 1927) steht ein Bronzekoloss eines Athleten von Karl Gelles, am 16. Oktober 1926 von den Arbeiterkammern enthüllt, gewidmet dem „Schöpfer des modernen Arbeitsrechts“ Ferdinand Hanusch. Er schützt, so die Deutung, die Schwachen gegen andrängende Gestalten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wiener Rettung und der Ringtheaterbrand",
+   "kat": "ereignis",
+   "wiki": "Wiener Rettung",
+   "adr": "Radetzkystraße 1",
+   "lon": 16.38617,
+   "lat": 48.21136,
+   "jahr": "1881",
+   "text": "Am 8. Dezember 1881 brannte das Ringtheater, am 9. Dezember gründeten Jaromir von Mundy, Hans Wilczek und Eduard Lamezan-Salins die „Wiener Freiwillige Rettungsgesellschaft“. Die Zentrale in der Radetzkystraße wurde 1897 eröffnet und 2000 neu gebaut. Vor dem Haus stehen die Büsten von Mundy und Wilczek (Teresa Feodorowna Ries, 1898 und 1902) und die Dreifaltigkeitssäule der Weißgerbervorstadt.",
+   "fakt": "Die Rettung wurde am Tag nach dem Ringtheaterbrand gegründet.",
+   "quellen": []
+  },
+  {
+   "n": "Sophienbad",
+   "kat": "verschwunden",
+   "wiki": "Sophienbad (3)",
+   "adr": "Marxergasse 17",
+   "lon": 16.39085,
+   "lat": 48.20676,
+   "jahr": "1838",
+   "text": "Der Tuchscherergehilfe Franz Morawetz kam zur Zeit des Wiener Kongresses nach Wien, kaufte ein Haus und eröffnete ein „russisches Dampfbad“, nachdem eine erkrankte Kammerfrau der Erzherzogin Sophie genesen war. 1838 wurde es Sophienbad; 1846/47 bauten van der Nüll und Sicardsburg es neu, mit einer Schwimmhalle von 18 mal 46 Metern und eisernen Trägern. Der Sophiensaal war das größte öffentliche Lokal Wiens, 2.000 bis 2.700 Personen; am 12. Jänner 1848 dirigierte Johann Strauß Vater den Eröffnungsball.",
+   "fakt": "1853 startete hier ein Franzose namens Godard mit einem Gasballon.",
+   "quellen": []
+  },
+  {
+   "n": "Hetztheater unter den Weißgerbern",
+   "kat": "verschwunden",
+   "wiki": "Hetztheater (3)",
+   "adr": "Hetzgasse 2",
+   "lon": 16.38745,
+   "lat": 48.20966,
+   "jahr": "1755",
+   "text": "Nach der Schließung des Hetztheaters am Heumarkt 1743 erhielt der Franzose Carl Defraine 1755 das Privileg für Tierhetzen. Er baute eine kreisrunde Arena mit drei hölzernen Logenrängen (angeblich 3.000 Personen), mit einem Steigbaum in der Mitte, auf den sich die Hetzmeister retten konnten. Auerochsen, Bären, Löwen, Wölfe und Wildschweine wurden von Hunden gehetzt. Nach Defraines Tod (1768) erwarb die Theatral-Direktion das Haus und verpachtete es, die Erlöse kamen der Armenkasse zugute. Die Hetzgasse erinnert daran.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Waisenhaus am Rennweg",
+   "kat": "geschichte",
+   "wiki": "Waisenhaus (3)",
+   "adr": "Rennweg 89–93",
+   "lon": 16.39647,
+   "lat": 48.19236,
+   "jahr": "1742–1797",
+   "text": "Johann Michael von Kienmayer stiftete 1742 ein Haus als Waisenhaus für 20 verwaiste Mädchen. Ab 1759 baute der Jesuit Ignaz Parhamer es aus und wurde wegen seiner strengen militärischen Erziehung „Pater Kindergeneral“ genannt; 1761 kaufte Maria Theresia den Besitz. Nach der Verlegung der Zöglinge 1785 wurde die Anlage 1797 zur Artilleriekaserne (Rennweger Kaserne). Die Waisenhauskirche (1768) wurde Pfarrkirche.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Invalidenhaus",
+   "kat": "geschichte",
+   "wiki": "Invalidenhaus (3)",
+   "adr": "Invalidenstraße 1–11",
+   "lon": 16.38671,
+   "lat": 48.20709,
+   "jahr": "1727–1909",
+   "text": "Hier lag im 16. und 17. Jahrhundert der Kielmannseggsche Garten, 1683 von den Osmanen verwüstet. Erzbischof Sigismund Graf Kollonitsch kaufte das Haus am 24. Jänner 1727 und ließ es zum Armenhaus umbauen; schon am 11. März 1727 führte er die Armen in einer Prozession ein. Das Gebäude wurde 1909 demoliert, 1910/11 folgte das Invalidenstraße-Viertel.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hundertwasserhaus",
+   "kat": "wohnen",
+   "wiki": null,
+   "adr": "Kegelgasse 36 / Löwengasse 41",
+   "lon": 16.3943,
+   "lat": 48.2074,
+   "jahr": "1983–1985",
+   "text": "Das Hundertwasserhaus ist eine Wohnhausanlage der Stadt Wien nach einer Idee von Friedensreich Hundertwasser, ausgeführt von den Architekten Josef Krawina und Peter Pelikan. Es entstand 1983 bis 1985 an der Kegelgasse und Löwengasse im alten Weißgerber-Gebiet und hat 52 Wohnungen, begrünte Dächer und unebene Böden. Gegenüber liegt das KunstHausWien.",
+   "fakt": "Es ist ein Gemeindebau, kein Privathaus.",
+   "quellen": [
+    {
+     "t": "Wikipedia: Hundertwasserhaus",
+     "u": "https://de.wikipedia.org/wiki/Hundertwasserhaus"
+    }
+   ]
+  },
+  {
+   "n": "Villa Wittgenstein",
+   "kat": "bauwerk",
+   "wiki": "Villa Wittgenstein",
+   "adr": "Kundmanngasse 19",
+   "lon": 16.39407,
+   "lat": 48.2035,
+   "jahr": "1926–1928",
+   "text": "Margaret Stonborough-Wittgenstein beauftragte ihren Freund Paul Engelmann, einen Schüler von Adolf Loos, mit dem Stadthaus. Ab Juni 1926 trat ihr Bruder, der Philosoph Ludwig Wittgenstein, offiziell in den Entwurfsprozess ein und überarbeitete die Pläne; Jacques Groag leitete den technischen Teil. Das Grundstück an der Kundmanngasse kaufte man am 24. November 1926. Der Bau ist streng kubisch und frei von Ornament.",
+   "fakt": "Wittgenstein plante sogar Türgriffe und Heizkörper selbst.",
+   "quellen": []
+  },
+  {
+   "n": "Konzerthaus und Kunstschau 1908",
+   "kat": "kultur",
+   "wiki": "Konzerthaus",
+   "adr": "Lothringerstraße 20",
+   "lon": 16.3772,
+   "lat": 48.20077,
+   "jahr": "1912–1913",
+   "text": "Auf dem Gelände, auf dem 1908 die von Gustav Klimt und seinen Künstlerfreunden gestaltete Kunstschau stand, entstand 1912 bis 1913 das Konzerthaus als Alternative zum Musikverein. Im Komplex liegt das Akademietheater (1911 bis 1914 von Baumann, Fellner und Helmer), ursprünglich als Übungsbühne der Akademie gebaut; seine erste Aufführung war am 4. Februar 1914 mit Verdis „Maskenball“.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Heumarkt-Projekt und das Welterbe",
+   "kat": "politik",
+   "wiki": "Heumarkt",
+   "adr": "Am Heumarkt / Lothringerstraße",
+   "lon": 16.37912,
+   "lat": 48.20078,
+   "jahr": "2012–2017",
+   "text": "1960 wurde ein Teil der Eisfläche des Eislaufvereins für das Hotel Intercontinental abgetrennt. 2012 kaufte WertInvest das Areal, 2014 gewann der Entwurf des Brasilianers Isay Weinfeld, mit einem Hochhaus, das den Welterbe-Status der Innenstadt gefährden könnte. Planungsstadträtin Vassilakou verkündete im Mai 2016 eine „Nachdenkpause“. Am 1. Juni 2017 beschloss der Gemeinderat den Flächenwidmungs- und Bebauungsplan.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wien Mitte und die Pressburger Bahn",
+   "kat": "kurios",
+   "wiki": "Wien Mitte",
+   "adr": "Landstraßer Hauptstraße 1c",
+   "lon": 16.38543,
+   "lat": 48.20611,
+   "jahr": "1975",
+   "text": "Die unterirdische Stadtbahnstation hieß Hauptzollamt; in der Gigergasse lag die Abfahrtsstelle der Pressburger Bahn. Mit der Bündelung von U4, U3 und Schnellbahn erhielt der Bahnhof im Juni 1975 den Namen Wien Mitte. 1965 wurde auf dem Grundstück des demolierten Bürgertheaters die Zentralsparkasse eröffnet, die 1988 bis 1992 Günther Domenig umbaute.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Großmarkthalle und Hilton",
+   "kat": "verschwunden",
+   "wiki": "Großmarkthalle",
+   "adr": "Vordere Zollamtsstraße 17 / Am Stadtpark",
+   "lon": 16.38338,
+   "lat": 48.20658,
+   "jahr": "1864–1975",
+   "text": "Die Stadt Wien baute 1864/65 an dieser Stelle eine Zentralmarkthalle, in die alle landwirtschaftlichen Produzenten der Monarchie per Bahn Ware senden sollten. Hohe Verzehrsteuer und schlechter Bahntransport ließen das Marktleben nicht gedeihen, schon 1866 stand sie teilweise leer; 1868 wurde sie zur Fleisch-Großmarkthalle umgestaltet. 1972 wurde sie abgebrochen. An ihrer Stelle eröffnete das Hilton am 6. Juni 1975.",
+   "fakt": "Das Hilton war mit 622 Zimmern das größte Hotel der Kette in Europa.",
+   "quellen": []
+  },
+  {
+   "n": "Gardekirche",
+   "kat": "bauwerk",
+   "wiki": "Resurrektionistenkirche",
+   "adr": "Rennweg 5A",
+   "lon": 16.37893,
+   "lat": 48.19773,
+   "jahr": "1755",
+   "text": "1754 verlegte Maria Theresia das Kaiserspital auf den Rennweg, die Spitalskirche wurde 1755 erbaut. 1782 erhielt sie nach der Polnischen Leibgarde den Namen Gardekirche (Polnische Kirche). Heute gehört sie den Resurrektionisten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Russisch-orthodoxe Kathedrale",
+   "kat": "bauwerk",
+   "wiki": "Russisch-orthodoxe Kathedrale",
+   "adr": "Jaurèsgasse 2–4",
+   "lon": 16.38503,
+   "lat": 48.19736,
+   "jahr": "1893–1899",
+   "text": "Der St. Petersburger Architekt Grigorij Kotov entwarf den fünfkuppligen Backsteinbau im russisch-spätbyzantinischen Stil, unter Leitung von Luigi Giacomelli errichtet und 1899 geweiht. Er steht direkt neben der Botschaft der Russischen Föderation, die Straße hieß zur Bauzeit noch Richardgasse.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Neuer Streicherhof und Sünnhof",
+   "kat": "kultur",
+   "wiki": "Neuer Streicherhof",
+   "adr": "Ungargasse 27",
+   "lon": 16.38743,
+   "lat": 48.20208,
+   "jahr": "1837",
+   "text": "Johann Baptist Streicher verlegte die Klavierfabrikation 1837 in das von Anton Grünn erbaute Haus „Zum goldenen Karpfen“, den Neuen Streicherhof; sein Vorführraum im ersten Geschoß wurde ein beliebter Konzertsaal, Gäste waren Clara und Robert Schumann. Der Sünnhof (Landstraßer Hauptstraße 28) ist ein typischer Biedermeierkomplex: 17 Meter breit und 170 Meter lang, mit einem etwa 5 Meter breiten Hof.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Eos-Kino",
+   "kat": "verschwunden",
+   "wiki": "Eos-Kino",
+   "adr": "Rennweg 60 / Ungargasse",
+   "lon": 16.3977,
+   "lat": 48.19433,
+   "jahr": "1921–1944",
+   "text": "Die „EOS-Lichtspielbühne“ wurde 1921 an der Ecke Rennweg und Ungargasse gegründet und gilt als wohl erster Kinopalast Wiens; 1931 neu eröffnet von der Sascha Film. 1944 brannte das Haus nach einem Bombenangriff vollständig aus. An der Stelle steht heute ein Hotel.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Mautner Markhofsches Kinderspital",
+   "kat": "geschichte",
+   "wiki": "Kronprinz-Rudolf-Kinderspital",
+   "adr": "Baumgasse 75 / Schlachthausgasse 26–28",
+   "lon": 16.40583,
+   "lat": 48.19423,
+   "jahr": "1872",
+   "text": "Am 11. November 1872 stifteten Adolf Ignaz Mautner (ab 1872 Ritter von Markhof) und seine Frau Julie dem Bezirk 150.000 Gulden für ein Kinderspital, das arme Kinder ohne Rücksicht auf die Konfession aufnehmen sollte. Es hieß zuerst Kronprinz-Rudolf-Kinderspital. Mautner betrieb auch das Brauhaus St. Marx, das er 1857 kaufte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Verkehrsmuseum Remise",
+   "kat": "industrie",
+   "wiki": "Verkehrsmuseum Remise",
+   "adr": "Ludwig-Koeßler-Platz",
+   "lon": 16.40628,
+   "lat": 48.19659,
+   "jahr": "2012",
+   "text": "Das Museum der Wiener Linien in der früheren Straßenbahnremise Erdberg dokumentiert 150 Jahre öffentlichen Verkehr und hieß bis 2012 Straßenbahnmuseum. Es geht auf Vereine zurück, die seit 1949 historische Wagen retteten; von 1972 bis 1985 standen die Wagen in der Remise Ottakring.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Elisabethinenkirche",
+   "kat": "bauwerk",
+   "wiki": "Elisabethinenkirche",
+   "adr": "Landstraßer Hauptstraße 4a",
+   "lon": 16.3866,
+   "lat": 48.20531,
+   "jahr": "1709",
+   "text": "Die Elisabethinen kamen 1709 auf Veranlassung von Maria Gräfin Leslie aus Graz nach Wien und wohnten zunächst im Haus „Zum schwarzen Ochsen“ in der Ungargasse 37. Sie pflegten arme, kranke Frauen; ihr Kloster samt Spital und Hausapotheke besteht an der Landstraßer Hauptstraße.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Wann wurde die Landstraße erstmals urkundlich erwähnt, und als was?",
+   "a": "1302 als „Lantstrazz“",
+   "f": [
+    "1137 als „Rennweg“",
+    "1529 als „Weißgerber“",
+    "1683 als „Niklasvorstadt“"
+   ],
+   "erkl": "Der Name bedeutet öffentlicher Weg durchs Land; die Straße geht auf eine Römerstraße zurück.",
+   "wiki": "Landstraße (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Welche drei Vorstädte bildeten 1850 den 3. Bezirk?",
+   "a": "Landstraße, Erdberg und Weißgerber",
+   "f": [
+    "Landstraße, Wieden und Erdberg",
+    "Landstraße, Simmering und Weißgerber",
+    "Erdberg, Weißgerber und Rennweg"
+   ],
+   "erkl": "Das Wappen zeigt Nikolaus, eine Erdbeere und zwei Böcke.",
+   "wiki": "Landstraße",
+   "quellen": []
+  },
+  {
+   "q": "Was bedeutet der Name „Nottendorf“ nach der Überlieferung?",
+   "a": "„Dorf der Genossen“",
+   "f": [
+    "„Dorf der Notleidenden“",
+    "„Dorf im Moor“",
+    "„Neues Dorf“"
+   ],
+   "erkl": "Albrecht III. berief gegen Ende des 14. Jahrhunderts flämische Gärtner und Wollfärber, die es gründeten.",
+   "wiki": "Nottendorf",
+   "quellen": []
+  },
+  {
+   "q": "Wer gründete das Zisterzienserinnenkloster am heutigen Rochusmarkt?",
+   "a": "Herzog Leopold VI.",
+   "f": [
+    "Herzog Albrecht III.",
+    "Kaiser Ferdinand II.",
+    "Rudolf IV."
+   ],
+   "erkl": "Das Nikolaikloster bestand vor 1228 und wurde 1534 niedergerissen.",
+   "wiki": "Nikolaikloster (3)",
+   "quellen": []
+  },
+  {
+   "q": "Auf welchem früheren Gelände entstand 1880 bis 1883 der Aspangbahnhof?",
+   "a": "Auf dem Hafengelände des Wiener Neustädter Kanals",
+   "f": [
+    "Auf dem Gelände des Zentralviehmarkts",
+    "Auf dem Areal des Nikolaiklosters",
+    "Auf dem Garten des Prinzen Eugen"
+   ],
+   "erkl": "Die Gleise mündeten in die Verbindungsbahn Richtung Hauptzollamt und Nordbahnhof.",
+   "wiki": "Aspangbahnhof",
+   "quellen": []
+  },
+  {
+   "q": "Wie viele Wohnungen hat der Rabenhof?",
+   "a": "1.112",
+   "f": [
+    "749",
+    "475",
+    "2.000"
+   ],
+   "erkl": "Er entstand 1925 bis 1928 auf dem Gelände der Krimskykaserne.",
+   "wiki": "Rabenhof",
+   "quellen": []
+  },
+  {
+   "q": "Nach wem war der Rabenhof ursprünglich benannt?",
+   "a": "Friedrich Austerlitz",
+   "f": [
+    "Ferdinand Hanusch",
+    "Karl Seitz",
+    "Julius Deutsch"
+   ],
+   "erkl": "1935 benannte Bürgermeister Richard Schmitz ihn um, nach 1945 wurde das nicht rückgängig gemacht.",
+   "wiki": "Rabenhof",
+   "quellen": []
+  },
+  {
+   "q": "Welches Ereignis führte zur Gründung der Wiener Rettungsgesellschaft am 9. Dezember 1881?",
+   "a": "Der Ringtheaterbrand am Vortag",
+   "f": [
+    "Die Weltausstellung 1873",
+    "Das Hochwasser 1862",
+    "Der Brand der Rotunde"
+   ],
+   "erkl": "Jaromir von Mundy, Hans Wilczek und Lamezan-Salins gründeten sie einen Tag nach dem Brand.",
+   "wiki": "Wiener Rettung",
+   "quellen": []
+  },
+  {
+   "q": "Wann brach im Rasumofskypalais das berühmte Feuer aus?",
+   "a": "Am 31. Dezember 1814",
+   "f": [
+    "Am 1. Mai 1815",
+    "Am 8. Dezember 1881",
+    "Am 17. September 1937"
+   ],
+   "erkl": "Bei den Vorbereitungen eines Silvesterballs von Zar Alexander I. fiel der Hintertrakt mit Kunstschätzen dem Feuer zum Opfer.",
+   "wiki": "Rasumofskypalais",
+   "quellen": []
+  },
+  {
+   "q": "Wie hieß der Schwarzenbergplatz von April 1946 bis Juli 1956?",
+   "a": "Stalinplatz",
+   "f": [
+    "Leninplatz",
+    "Platz der Roten Armee",
+    "Befreiungsplatz"
+   ],
+   "erkl": "Das Befreiungsdenkmal erinnert an rund 18.000 gefallene Soldaten der Roten Armee.",
+   "wiki": "Befreiungsdenkmal",
+   "quellen": []
+  },
+  {
+   "q": "Was wurde 1976 auf dem Gelände des Zentralviehmarkts besetzt?",
+   "a": "Der ehemalige Auslandsschlachthof, aus dem die Arena wurde",
+   "f": [
+    "Das Arsenal, aus dem die Kunsthalle wurde",
+    "Der Aspangbahnhof",
+    "Die Rotunde"
+   ],
+   "erkl": "Der Zentralviehmarkt bestand 1884 bis 1997.",
+   "wiki": "St. Marx",
+   "quellen": []
+  },
+  {
+   "q": "Warum ist das Arsenal gebaut worden?",
+   "a": "Als Festungsanlage gegen den „inneren Feind“ nach der Revolution 1848",
+   "f": [
+    "Als Hauptquartier gegen die Türken",
+    "Als Kaserne für die Hofjäger",
+    "Als Depot der Nordbahn"
+   ],
+   "erkl": "Von dort aus konnte die Artillerie die Innenstadt beherrschen; gebaut 1849 bis 1856.",
+   "wiki": "Arsenal",
+   "quellen": []
+  },
+  {
+   "q": "Wer arbeitete mit Ludwig Wittgenstein am Entwurf der Villa in der Kundmanngasse?",
+   "a": "Paul Engelmann",
+   "f": [
+    "Adolf Loos",
+    "Josef Hoffmann",
+    "Otto Wagner"
+   ],
+   "erkl": "Engelmann, ein Schüler von Loos, plante zuerst; ab Juni 1926 trat Wittgenstein offiziell in den Entwurfsprozess ein.",
+   "wiki": "Villa Wittgenstein",
+   "quellen": []
+  },
+  {
+   "q": "Was stand 1908 auf dem Gelände des späteren Konzerthauses?",
+   "a": "Die von Klimt gestaltete Kunstschau",
+   "f": [
+    "Die Weltausstellung",
+    "Eine Pferdereitschule",
+    "Ein Hetztheater"
+   ],
+   "erkl": "Das Konzerthaus wurde 1912 bis 1913 auf dem Gelände gebaut.",
+   "wiki": "Konzerthaus",
+   "quellen": []
+  }
+ ]
+}

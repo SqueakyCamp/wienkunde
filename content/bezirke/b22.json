@@ -1,0 +1,842 @@
+{
+ "nr": 22,
+ "name": "Donaustadt",
+ "kurz": "Der größte Bezirk Wiens ist ein Gebiet, in dem sich Marchfeld-Dörfer, Au, Wasser, Flugfeld und Hochhäuser so nebeneinander ausbreiten, dass er eher einem Land als einem Bezirk gleicht.",
+ "profil": [
+  "Die Donaustadt ist mit 102,30 Quadratkilometern der flächenmäßig größte Bezirk Wiens. Sie entstand 1938 als Bezirk Groß-Enzersdorf (22. Bezirk) und trägt ihren heutigen Namen mit dem Zuschnitt, den das Gebietsänderungsgesetz vom 1. September 1954 festlegte. Sie umfasst die ehemaligen Orte Aspern, Hirschstetten, Kagran, Stadlau, Süßenbrunn, Breitenlee und Essling sowie Kaisermühlen. Die Katastralgemeinden sind Aspern, Breitenlee, Essling, Hirschstetten, Kagran, Kaiserebersdorf Herrschaft, Kaisermühlen, Landjägermeisteramt, Stadlau und Süßenbrunn.",
+  "Die Zugehörigkeit änderte sich oft. Kagran, Aspern, Hirschstetten, Stadlau und ein Teil von Breitenlee wurden 1904/05 zum 21. Bezirk Floridsdorf geschlagen. Süßenbrunn, Essling und der Rest von Breitenlee kamen erst 1938 zu Wien. Kaisermühlen gehörte seit 1850 zum 2. Bezirk, obwohl es nach der Donauregulierung am linken Ufer lag, bis 1938, dann zum 21. Bezirk und seit 1954 zum 22. Die Grenze zwischen 21. und 22. verlief bis 1954 am nördlichen Ast der Ostbahn und wurde dann nordwestlich verschoben.",
+  "Der Raum war Siedlungsboden im Marchfeld: Anger- und Straßendörfer des 12. und 13. Jahrhunderts wie Aspern, Essling, Kagran und Hirschstetten, die immer wieder von der Donau überschwemmt, von Türken, Schweden und Franzosen heimgesucht wurden. Breitenlee entstand nach seiner Verödung 1694 planmäßig neu. Weltgeschichtlich berühmt wurde Aspern durch die Schlacht vom 21. und 22. Mai 1809, in der Napoleon erstmals persönlich gegen Erzherzog Carl keinen Sieg errang. Die zugehörigen Orte Aspern und Essling tragen bis heute Denkmäler und Museen dazu.",
+  "Mit der Donauregulierung 1870 bis 1875 verschwanden die Auen und Nebenarme. Die Alte Donau blieb als Rest des früheren Hauptarms, am Kaiserwasser, in Kaisermühlen und am Gänsehäufel entstanden Siedlungen, Bäder und das Wiener Bäderleben. Dazu kam die Industrie: Stadlauer Malzfabrik (1884), das Flugfeld Aspern (1912), später das Elektrizitätswerk Steinsporn und, nach 1945, Raffinerie und Tanklager in der Lobau. Im Roten Wien entstanden Siedlungen wie Am Freihof (1923 bis 1927) und Gemeindebauten wie der Goethehof, in dem im Februar 1934 der Schutzbund seine letzte Bastion hielt.",
+  "Nach 1945 wurde die Donaustadt zum Wachstumsraum der Stadt. Die Zweite Donauregulierung (1972 bis 1988) schuf Neue Donau und Donauinsel, die WIG 64 den Donaupark mit dem Donauturm. In den 1970ern entstanden UNO-City (1979), Donauzentrum (1975), große Wohnanlagen wie Rennbahngründe und Bundesländerhof, seit 1990 die Donau-City mit Hochhäusern und das Donauspital (1992). Die Einwohnerzahl wuchs in kurzer Zeit stark.",
+  "Das größte aktuelle Vorhaben ist die Seestadt Aspern auf dem früheren Flugfeld. Auf 240 Hektar sollen Wohnungen für rund 20.000 Menschen und ebenso viele Arbeitsplätze entstehen, die ersten Wohnungen wurden im September 2014 bezogen, abgeschlossen soll es 2028 sein. Die Politik streitet in der Donaustadt oft um Verkehr (U2, Stadtstraße, Lobau-Autobahn-Debatte), Verdichtung und den Erhalt von Grünraum.",
+  "Charakter heute: Vom Geschäftszentrum rund um die UNO-City bis zu den dörflichen Anger-Zentren von Breitenlee und Süßenbrunn, von den Großwohnanlagen in Kagran bis zu den Wiesen und Auen der Lobau, die seit 1996 Teil des Nationalparks Donau-Auen sind. Die Donaustadt ist der Bezirk, in dem die Wiener Stadtgrenze am ehesten unscharf wirkt."
+ ],
+ "politik": "Bezirksvorsteher ist Ernst Nevrivy (SPÖ), der das Amt seit 2014 innehat und auch nach der Bezirksvertretungswahl am 27. April 2025 im Amt blieb. Die SPÖ kam dabei auf 37,5 %, die FPÖ auf 27,9 %, die Grünen auf 11,9 %, die ÖVP auf 8,6 %, NEOS auf 8,3 %, die KPÖ auf 3,0 % und HC auf 1,6 % (Beteiligung 50,3 %). Die Donaustadt ist traditionell sozialdemokratisch regiert, die Grünen stehen hier deutlich stärker da als im Nachbarbezirk Floridsdorf.",
+ "quellen": [
+  {
+   "t": "Donaustadt – Wikipedia",
+   "u": "https://de.wikipedia.org/wiki/Donaustadt"
+  },
+  {
+   "t": "Wiener Bezirksvertretungswahlen 2025 – Stadt Wien",
+   "u": "https://www.wien.gv.at/advwahlkand/internet/KandidatAlphabet.aspx?N=N&WID=BV251"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Kaisermühlen",
+   "art": "Katastralgemeinde",
+   "wiki": "Kaisermühlen (Ort)",
+   "lon": 16.42365,
+   "lat": 48.22646,
+   "text": "Kaisermühlen liegt zwischen Hubertusdamm und Alter Donau und hat den Namen von den kaiserlichen Schiffsmühlen am Kaiserwasser, die schon 1674 belegt sind. Bis zur Eingemeindung 1850 hieß der Ort Fahnenstangen nach dem Fahnenstangenhaufen. Seine Anlage ist schachbrettartig, was auf junge Entstehung hinweist. Obwohl es nach der Donauregulierung links des neuen Stroms lag, gehörte es bis 1938 zum 2. Bezirk, danach bis 1954 zum 21. und seither zum 22. Es ist der stadtzentrumsnächste Teil des Bezirks.",
+   "quellen": []
+  },
+  {
+   "n": "Kagran",
+   "art": "Dorf",
+   "wiki": "Kagran (Ort)",
+   "lon": 16.4448,
+   "lat": 48.25025,
+   "text": "Kagran ist ein altes Marchfelddorf, ein Linsenangerdorf, dessen Pfarrkirche außerhalb des Ortes auf einem Hügel liegt. Es wird um 1200 als de Chagaran genannt. Im 17. Jahrhundert ist ein Freihof bekannt, 1674 kam das Dorf zum Stift Klosterneuburg. Kagran war für Gänse- und Entenzucht berühmt, bis 1904 gab es einen großen Dorfteich, der zugeschüttet wurde. Am Kagraner Platz stehen noch alte Bauernhäuser mit Giebelfronten. Heute sitzen hier die Bezirksvorstehung und das Bezirksmuseum.",
+   "quellen": []
+  },
+  {
+   "n": "Hirschstetten",
+   "art": "Dorf",
+   "wiki": "Hirschstetten (Ort)",
+   "lon": 16.46497,
+   "lat": 48.23583,
+   "text": "Hirschstetten, ein dreieckiges Längsangerdorf, wird vor 1240 als Hecsteten erstmals genannt. Der Name ist schwer zu deuten, vielleicht von herent, diesseits des Stroms. Das Dorf gehörte zur Pfarre Kagran, 1830 richtete das Hochwasser schwere Schäden an. 1848 bis 1872 bildete es mit Stadlau eine Gemeinde. Die Gärten der Stadt Wien, die Blumengärten Hirschstetten, sind seit 1957 hier. Das Gerinne im Hirschstettner Park zeigt die frühere Lage am Strom.",
+   "quellen": []
+  },
+  {
+   "n": "Breitenlee",
+   "art": "Dorf",
+   "wiki": "Breitenlee (Ort)",
+   "lon": 16.49777,
+   "lat": 48.25116,
+   "text": "Breitenlee besteht seit der Mitte des 12. Jahrhunderts, 1200 wird Preitenle genannt (le = Hügel, wohl Sanddüne). Das Dorf gehörte zum Schottenstift. Nach der Zerstörung 1529 lag es über 100 Jahre öde, bis Abt Sebastian Faber es 1694 planmäßig etwa 750 Meter weiter südlich neu gründete. Der Gutshof wurde 1698 vollendet, die Kirche 1699 geweiht. Das bäuerliche Angerdorf mit Haken- und Zwerchhöfen ist gut erhalten.",
+   "quellen": []
+  },
+  {
+   "n": "Aspern",
+   "art": "Dorf",
+   "wiki": "Aspern (Ort)",
+   "lon": 16.48788,
+   "lat": 48.21717,
+   "text": "Aspern wird im 13. Jahrhundert als Asparn erwähnt und wurde wiederholt so von der Donau verwüstet, dass die Bewohner*innen es 1568 für immer verlassen wollten. 1809 fand hier die Schlacht statt. 1912 entstand das Flugfeld, auf dem später das General-Motors-Werk (1982) und seit 2009 die Seestadt entstanden. Die Zahl der Häuser stieg von 187 (1900) auf 916 (2001). Bei der Kirche liegt der Löwe von Aspern.",
+   "quellen": []
+  },
+  {
+   "n": "Essling",
+   "art": "Dorf",
+   "wiki": "Essling (Grätzel)",
+   "lon": 16.52227,
+   "lat": 48.21452,
+   "text": "Essling ist ein Breitstraßendorf des Marchfeldtyps mit Zwerchhöfen, der Siedlungsboden ist alt (Funde um 3000 v. Chr.). Der Name Ezzelaren wird 1250/1260 erstmals genannt, ab 1286 treten Vertreter der Familie Eslarn auf. 1579 kaufte Freiherr von Teufel das Gut (Teufelsfeld), 1760 kam es an die Habsburger. Das Geburtshaus von Georg Raphael Donner (1692) steht Hauptstraße 95. Das Schloss wurde 1988 revitalisiert.",
+   "quellen": []
+  },
+  {
+   "n": "Stadlau",
+   "art": "Dorf",
+   "wiki": null,
+   "lon": 16.45213,
+   "lat": 48.22316,
+   "text": "Stadlau war ursprünglich Sitz der alten Pfarre mit einer dem heiligen Georg geweihten Kirche, die 1438 durch eine Überschwemmung zerstört wurde; danach entstand Kagran als Pfarre. 1848 bildete es mit Hirschstetten eine Gemeinde, 1872 trennten sie sich wieder. Mit der Ostbahn (1870) und der Industrie, vor allem der Malzfabrik (1884), wuchs Stadlau zum Arbeiterort. Die Pfarrkirche (1923/24) bauten die Salesianer Don Boscos.",
+   "quellen": [
+    {
+     "t": "Stadlau – Wikipedia",
+     "u": "https://de.wikipedia.org/wiki/Stadlau"
+    }
+   ]
+  },
+  {
+   "n": "Süßenbrunn",
+   "art": "Dorf",
+   "wiki": "Süßenbrunn (Ort)",
+   "lon": 16.49576,
+   "lat": 48.27749,
+   "text": "Süßenbrunn kam erst 1938 zu Wien. Ein 1320 erwähntes Festes Haus verödete nach 1529, die Neubesiedlung erfolgte durch Urban Sueß, nach dem der Ort heißt. Das Schloss wurde im vierten Viertel des 16. Jahrhunderts gebaut und kam 1926 an die Theresianische Akademie. Die Kapelle (1837) wurde 1979/80 durch einen Kirchenneubau ersetzt.",
+   "quellen": []
+  },
+  {
+   "n": "Lobau-Gebiet (Landjägermeisteramt, Kaiserebersdorf Herrschaft)",
+   "art": "Katastralgemeinde",
+   "wiki": "Lobau",
+   "lon": 16.50274,
+   "lat": 48.18801,
+   "text": "Die Katastralgemeinden Landjägermeisteramt und Kaiserebersdorf Herrschaft tragen Namen alter Verwaltungs- und Besitzeinheiten. Sie liegen im Süden des Bezirks im Bereich der Donau-Auen und der Lobau, die als kaiserliches Jagdgebiet diente. Genaue Abgrenzungen und Geschichte sind in den Quellen nur knapp belegt, sie sind hier vor allem als Namen zu verstehen.",
+   "quellen": []
+  },
+  {
+   "n": "Bretteldorf",
+   "art": "Siedlung",
+   "wiki": "Bretteldorf",
+   "lon": 16.40567,
+   "lat": 48.24277,
+   "text": "Bretteldorf entstand um 1900 am Großen Säulenhaufen, einer Insel im früheren Donaustrom, als Hüttenkolonie. Nach 1918 wurde es erweitert, die Pächter errichteten ohne Genehmigung Notunterkünfte. Eine Räumung 1925 verhinderten sie mit kollektiven Aktionen (Bretteldorfer Krieg). 1935 gehörte das Gebiet der Stadt Wien, ab 1936 war es als zukünftiges Grünland gewidmet und wurde Deponie. Bis 1937 wurden rund 100 Familien abgesiedelt, in den 1950er und 1960er Jahren folgten weitere Kündigungen. Das Gelände liegt im heutigen Donaupark.",
+   "quellen": []
+  },
+  {
+   "n": "Siedlung Am Freihof",
+   "art": "Siedlung",
+   "wiki": "Am Freihof (Siedlung)",
+   "lon": 16.44653,
+   "lat": 48.24353,
+   "text": "Die Siedlung Am Freihof entstand 1923 bis 1927 nach Plänen von Karl Schartelmüller als Gemeindesiedlung zwischen Wagramer Straße, Rugierstraße und Kagraner Anger. Zuerst waren es 99 Kleinhäuser für Bedienstete von E- und Gaswerk und Straßenbahn, mit den Siedlungsgenossenschaften wuchs sie auf 687 Objekte mit 1.014 Wohnungen und wurde die größte Wiens.",
+   "quellen": []
+  },
+  {
+   "n": "Wulzendorf",
+   "art": "Dorf",
+   "wiki": "Wulzendorf",
+   "lon": 16.50018,
+   "lat": 48.24208,
+   "text": "Wulzendorf ist eine Ortswüstung südlich von Breitenlee. Das Stift Heiligenkreuz bezog um 1220 bis 1240 Einkünfte von 12 Lehen, später waren es 28. Nach Überflutungen 1526 und 1568 wurde das Dorf wohl endgültig aufgegeben. Karten von Marinoni (1726 bis 1729) und Luftbilder zeigen noch Hofstellen entlang eines Angers und den Rest eines Hausbergs. Die Wulzendorfstraße trägt den Namen weiter.",
+   "quellen": []
+  },
+  {
+   "n": "Teimdorf",
+   "art": "Dorf",
+   "wiki": "Teimdorf",
+   "lon": 16.54427,
+   "lat": 48.22775,
+   "text": "Teimdorf lag östlich von Essling und wird 1250/1260 erstmals erwähnt. Ab 1437 verödete es allmählich und war im 16. Jahrhundert abgekommen. Nur der Flurname Oeden Deindorf im Osten und Süden der Katastralgemeinde Essling erinnert noch daran.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Löwe von Aspern und die Schlacht 1809",
+   "kat": "ereignis",
+   "wiki": "Löwe von Aspern",
+   "adr": "Asperner Heldenplatz",
+   "lon": 16.48329,
+   "lat": 48.21801,
+   "jahr": "1809, 1858",
+   "text": "In der Schlacht bei Aspern am 21. und 22. Mai 1809 konnte Napoleon I. erstmals mit einem von ihm persönlich geführten Heer nicht siegen. Zum Gedenken stellte man 1858 einen von Anton Dominik Fernkorn geschaffenen sterbenden Löwen vor der Martinskirche auf: Zwischen den Pranken liegen ein napoleonischer Adler, ein Kürass mit N und der Imperatorenmantel. Es war das Werk, das Fernkorn bekannt machte. Ein Artilleristendenkmal (1909) steht daneben.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hummelhaus in Aspern",
+   "kat": "kurios",
+   "wiki": "Hummelhaus",
+   "adr": "Siegesplatz 15",
+   "lon": 16.48737,
+   "lat": 48.21696,
+   "jahr": "1809",
+   "text": "Das einstöckige Haus gehört zu den wenigen Gebäuden in Aspern, die während der Kämpfe 1809 nicht zerstört wurden. Damals gehörte es dem Kaufmann Mayer, um 1900 kam es an die Familie Hummel. Innen sind alte Gewölbe erhalten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schüttkasten Essling und das Schlachtendiorama",
+   "kat": "kultur",
+   "wiki": "Schüttkasten",
+   "adr": "Simonsgasse, hinter dem Schloss",
+   "lon": 16.52445,
+   "lat": 48.21573,
+   "jahr": "1993",
+   "text": "Der alte Getreidespeicher hinter dem Esslinger Schloss wurde 1993 renoviert und am 22. Mai 1993 mit dem Schlachtendiorama zur Schlacht bei Aspern eröffnet. Es zeigt 8.500 Figuren und ist eine Außenstelle des Sondermuseums Aspern.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Esslinger Schloss und Georg Raphael Donner",
+   "kat": "bauwerk",
+   "wiki": "Esslinger Schloss",
+   "adr": "Esslinger Hauptstraße 81-87",
+   "lon": 16.52266,
+   "lat": 48.21476,
+   "jahr": "1287–1988",
+   "text": "Das Schloss wird 1287 erstmals genannt und war als Lehen bei der Familie Eslarn. 1672 zeigt ein Stich von Vischer einen Neubau, 1722 kam es an die Kinsky, die die niederen Wirtschaftstrakte anfügten. 1760 gelangte es an die Habsburger (Franz I.), später wurde es landwirtschaftlicher Betrieb der Stadt Wien. 1988 erwarb es Alexander Maculan und begann die Revitalisierung. Ein Schmiedeeisentor, das Maria-Theresien-Tor, wurde 1960 abgetragen, ein Teil ist im Bezirksmuseum. Im Ort wurde Georg Raphael Donner 1692 geboren.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Seestadt Aspern",
+   "kat": "politik",
+   "wiki": "Seestadt Aspern",
+   "adr": "Seestadtstraße",
+   "lon": 16.50894,
+   "lat": 48.22777,
+   "jahr": "2003–2028",
+   "text": "Das frühere Flugfeld wurde nach 1992 von der Stadt Wien erworben, 2003 begann die Masterplanung, 2007 beschloss der Gemeinderat. Auf 240 Hektar rund um einen See sollen Wohnungen für rund 20.000 Menschen und 20.000 Arbeitsplätze entstehen. Im September 2014 wurden die ersten Wohnungen bezogen, 2028 soll das Projekt abgeschlossen sein. Straßen und Plätze sind bevorzugt nach Frauen benannt, wie auch die Parks nach Yella Hertzka, Madame d'Ora und Pippi Langstrumpf. Die U2 erschließt die Seestadt seit 2013.",
+   "fakt": "Der Pippi-Langstrumpf-Park trägt seit 2018 den Namen einer Kinderbuchfigur, die 1941 erfunden wurde.",
+   "quellen": [
+    {
+     "t": "Seestadt Aspern – Wikipedia",
+     "u": "https://de.wikipedia.org/wiki/Seestadt_Aspern"
+    }
+   ]
+  },
+  {
+   "n": "Flugfeld Aspern",
+   "kat": "geschichte",
+   "wiki": "Flugfeld Aspern",
+   "adr": "Zachgasse / Seestadt",
+   "lon": 16.50231,
+   "lat": 48.22299,
+   "jahr": "1912–1977",
+   "text": "Das Flugfeld wurde 1912 eröffnet (850 mal 800 Meter) und war Österreichs wichtigster Flugplatz. Beim Internationalen Flugmeeting vom 23. bis 30. Juni 1912 kamen täglich bis zu 100.000 Besucher*innen. Nach 1938 wurde der Flughafen Schwechat gebaut, 1977 wurde Aspern geschlossen. Das General-Motors-Werk (1982) nutzte einen Teil, seit 2009 entsteht die Seestadt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Fliegerkaserne Aspern",
+   "kat": "verschwunden",
+   "wiki": "Fliegerkaserne Aspern",
+   "adr": "Pilotengasse / Böcklingasse",
+   "lon": 16.49524,
+   "lat": 48.22004,
+   "jahr": "1937–1955",
+   "text": "Die fast fertige Kaserne wurde im Dezember 1937 bezogen, nur Monate später übernahm sie die deutsche Luftwaffe. Nach 1945 nutzte sie zum Teil die sowjetische Besatzungsmacht, später verfiel sie. Grundmauern sind auf dem ungenutzten Gelände erhalten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Donauinsel und Neue Donau",
+   "kat": "wasser",
+   "wiki": "Donauinsel",
+   "adr": "Donauinsel",
+   "lon": 16.42447,
+   "lat": 48.21681,
+   "jahr": "1972–1988",
+   "text": "Nach dem Hochwasser von 1954 entwarf der Zivilingenieur August Zottl 1957 den Plan eines Entlastungsgerinnes, die Neue Donau. Der Gemeinderatsbeschluss fiel am 12. September 1969 gegen die ÖVP. 1972 begann der Aushub, am 13. Oktober 1987 endeten die Baggerarbeiten. Dazwischen entstand die 20 Kilometer lange und bis 250 Meter breite Insel, die laut Beschluss von 1979 unverbaut bleiben sollte. Der offizielle Name stammt vom 7. Mai 1984.",
+   "fakt": "Das Donauinselfest findet seit den 1980er Jahren jährlich statt.",
+   "quellen": []
+  },
+  {
+   "n": "Alte Donau",
+   "kat": "wasser",
+   "wiki": "Alte Donau",
+   "adr": "Alte Donau",
+   "lon": 16.42895,
+   "lat": 48.23737,
+   "jahr": "1875",
+   "text": "Die Alte Donau ist der letzte größere Rest des früheren Donauhauptarms. Seit 1875 ist sie durch den Hubertusdamm vom Strom getrennt und wird vom Grundwasser gespeist. Wo die Wagramer Straße sie quert, verengt ein Damm sie auf 50 Meter und teilt sie in Obere und Untere Alte Donau. Hier liegen mehrere Strandbäder wie Gänsehäufel, Angelibad und das Strandbad Alte Donau, 1899 kam die erste Straßenbahn.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gänsehäufel",
+   "kat": "alltag",
+   "wiki": "Gänsehäufel",
+   "adr": "Moissigasse 21",
+   "lon": 16.43298,
+   "lat": 48.23016,
+   "jahr": "1900–1907",
+   "text": "Das Gänsehäufel war eine bewaldete Sandinsel in der abgedämmten Donau. Der Naturapostel Florian Berndl pachtete sie von der Donauregulierungskommission und machte sie um 1900 zum Sonnen- und Strombad. Die Stadt Wien eröffnete am 5. August 1907 ein großstädtisches Strandbad mit Gastwirtschaft und elektrischem Licht. Der Name stammt von den vielen Haufen (Sandinseln) im alten Flussbett.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kaiserwasser",
+   "kat": "wasser",
+   "wiki": "Kaiserwasser",
+   "adr": "Wagramer Straße",
+   "lon": 16.42086,
+   "lat": 48.23234,
+   "jahr": "bis 1876",
+   "text": "Vor der Donauregulierung war das Kaiserwasser der zentrumsnächste Hauptarm der Donau in Wien, viel größer als heute. Es bildet den Nordrand von Kaisermühlen und ist heute ein Seitenarm der Alten Donau.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Die Eishäuser",
+   "kat": "verschwunden",
+   "wiki": "Eishäuser",
+   "adr": "zwischen Alter Donau und Kaiserwasser",
+   "lon": 16.42527,
+   "lat": 48.23059,
+   "jahr": "1873–1921",
+   "text": "Hier standen fünf lange Holzgebäude, in denen im Winter auf der Alten Donau geschnittenes Eis für den Sommer gelagert wurde. Die letzte Einlagerung war 1917, mit den Kunsteisfabriken wurden sie überflüssig. Die Eiswerkstraße erinnert daran.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Lobau",
+   "kat": "natur",
+   "wiki": "Lobau",
+   "adr": "Lobau",
+   "lon": 16.50274,
+   "lat": 48.18801,
+   "jahr": "1905–1996",
+   "text": "Die Lobau (2.160 Hektar) war kaiserliches Jagdgebiet, Kronprinz Rudolf kam häufig, jährlich wurden rund 10.000 Rebhühner geschossen. 1905 wurde sie Schutzgebiet, 1918 schenkte Karl I. einen großen Teil der Stadt. Die Napoleonsteine markieren das Lager vor der Schlacht bei Aspern, im Gebiet liegt ein Franzosenfriedhof. Zwischen 1942 und 1945 gab es ein Zwangsarbeiterlager. 1996 wurde die Lobau Teil des Nationalparks Donau-Auen. Das Wienerlied Drunt in der Lobau stammt von Fritz Löhner-Beda und Alois Eckhardt (Musik von Heinrich Strecker).",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Ölhafen und Raffinerie in der Lobau",
+   "kat": "industrie",
+   "wiki": "Erdölraffinerie",
+   "adr": "Lobgrundstraße 2",
+   "lon": 16.49986,
+   "lat": 48.1755,
+   "jahr": "nach 1945",
+   "text": "Im als Industriegebiet gewidmeten Teil der Städtischen Lobau wurde das Zentraltanklager der ÖMV angelegt. Zusammen mit Ölstraße und Bahngleisen entzog sie der Naturschutzfläche einen weiteren Teil, der schon 1938 durch die Arbeiten am Donau-Oder-Kanal stark gelitten hatte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Donaupark und die WIG 64",
+   "kat": "kultur",
+   "wiki": "Donaupark",
+   "adr": "Donaupark",
+   "lon": 16.41113,
+   "lat": 48.2386,
+   "jahr": "1964",
+   "text": "Die Wiener Internationale Gartenschau 1964 war eines der größten Stadtprojekte nach 1945 und sollte Erneuerung zeigen. Ein Alfred-Auer-Entwurf sah offene Flächen und geometrische Ausstellungsbereiche vor, es gab Liliputbahn, einen über 2 km langen Sessellift und rund 2,1 Millionen Besuche. Ab 1965 war das Gelände öffentlich. UNO-City, Austria Center, Donau-City und die Autobahn verkleinerten es auf rund 65 Hektar. Auf Teilen des Geländes lagen zuvor die Mülldeponie und Bretteldorf.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Donauturm",
+   "kat": "bauwerk",
+   "wiki": "Donauturm",
+   "adr": "Donaupark 4",
+   "lon": 16.40225,
+   "lat": 48.24109,
+   "jahr": "1962–1964",
+   "text": "Der 252 Meter hohe Turm von Hannes Lintl (Statik: Robert Krapfenbauer) wurde mit der WIG 64 am 16. April 1964 eröffnet und ist das höchste Bauwerk Österreichs. Finanziert wurde er überwiegend von der Zentralsparkasse. Am 6. Juni 1968 kollidierte ein Fesselballon mit dem Turm, drei Menschen starben. Seit 2023 gibt es eine Außenrutsche. Der DC Tower 1 daneben ist mit 250 Metern zwei Meter niedriger.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "UNO-City (Vienna International Centre)",
+   "kat": "bauwerk",
+   "wiki": "Vienna International Centre",
+   "adr": "Wagramer Straße 5",
+   "lon": 16.41591,
+   "lat": 48.23432,
+   "jahr": "1968–1979",
+   "text": "Seit 1957 ist Wien Sitz von UN-Organisationen. Die Bundesregierung bot ein gemeinsames Quartier an, 1968 wurde ein Wettbewerb ausgeschrieben (280 Entwürfe). 1973 begann der Bau, 1979 war er fertig, die Kosten von 8,8 Milliarden Schilling trugen Republik (65 %) und Wien (35 %). Heute sitzen hier unter anderem IAEA und UNIDO.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Austria Center Vienna",
+   "kat": "politik",
+   "wiki": "Austria Center Vienna",
+   "adr": "Bruno-Kreisky-Platz 1",
+   "lon": 16.41363,
+   "lat": 48.23474,
+   "jahr": "1967–1987",
+   "text": "Der Bau des Konferenzzentrums wurde 1967 beschlossen, 1980 begonnen und nach einem Volksbegehren (10. bis 17. Mai 1982, über 1,36 Millionen Unterschriften) kurz unterbrochen. Fertiggestellt wurde er im Frühjahr 1987, eröffnet am 22. April. Er bietet 14 Konferenzsäle und Platz für 9.500 Teilnehmende.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Donau-City",
+   "kat": "bauwerk",
+   "wiki": "Donau-City",
+   "adr": "Donau-City-Straße",
+   "lon": 16.4124,
+   "lat": 48.2339,
+   "jahr": "ab 1990",
+   "text": "Über der überdeckten Donauuferautobahn gewann man 17 Hektar, auf denen ursprünglich die gemeinsam mit Budapest geplante Weltausstellung 1995 stattfinden sollte (nach einer Volksbefragung 1991 abgesagt). Das Konzept stammt von Hans Hollein und Coop Himmelb(l)au. Der erste fertige Turm war der Andromedaturm von Wilhelm Holzbauer (1995 bis 1998), der Seidler-Turm (Hochhaus Neue Donau, 1998 bis 2001) mit 35 Stockwerken folgte. Eigentümerin ist die WED. Mit dem DC Tower 1 (2013) hat die Donau-City Wiens höchstes Hochhaus.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Goethehof",
+   "kat": "wohnen",
+   "wiki": "Goethehof",
+   "adr": "Schüttaustraße 1-39",
+   "lon": 16.41855,
+   "lat": 48.23006,
+   "jahr": "1928–1930",
+   "text": "Der Goethehof war als Brückenkopf am linken Donauufer gedacht und wurde von einer Arbeitsgemeinschaft um Hugo Mayer, Rudolf Fraß und andere geplant (heute 677 Wohnungen, ursprünglich 727). Im Februar 1934 war er die letzte Bastion des Republikanischen Schutzbunds. Er geriet unter Artilleriefeuer vom Mexikoplatz, dazu kam ein Angriff mit Heeresflugzeug. Im Hof gab es einen Montessori-Kindergarten, zur Kunst gehört der Rattenfänger von Hans Vohburger.",
+   "fakt": "Auf einen Gemeindebau wurde 1934 sogar ein Angriff aus der Luft geflogen.",
+   "quellen": []
+  },
+  {
+   "n": "Schüttauhof",
+   "kat": "wohnen",
+   "wiki": "Schüttauhof",
+   "adr": "Am Kaisermühlendamm 55-61",
+   "lon": 16.42071,
+   "lat": 48.22577,
+   "jahr": "1924–1926",
+   "text": "Die Anlage (280 Wohnungen, ursprünglich 310) wurde von Rodler, Stutterheim und Tremmel für Kaisermühlen gebaut. Die Bewohner*innen nannten sie Alter Neubau, weil der eigentliche Schüttauhof in der Schüttaustraße schon länger bestand.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Marschallhof",
+   "kat": "wohnen",
+   "wiki": "Marschallhof",
+   "adr": "Am Kaisermühlendamm 1-5",
+   "lon": 16.41864,
+   "lat": 48.22783,
+   "jahr": "1953–1959",
+   "text": "Der Marschallhof von Hermann Stiegholzer hat drei 15-stöckige Punkthäuser, die lange das linke Donauufer prägten. Er ist nach dem US-General George C. Marshall (Marshallplan) benannt, ein Marshalldenkmal von Alexander Wahl wurde 1963 enthüllt. Am 7. Mai 1969 besichtigte ihn Königin Elisabeth II. mit Bürgermeister Bruno Marek.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Siedlung Am Freihof",
+   "kat": "wohnen",
+   "wiki": "Am Freihof (Siedlung)",
+   "adr": "Am Freihof",
+   "lon": 16.44653,
+   "lat": 48.24353,
+   "jahr": "1923–1927",
+   "text": "Die Gemeindesiedlung nach Plänen von Karl Schartelmüller wurde mit 1.014 Wohnungen in 687 Objekten die größte Wiens. Die Schule Freihofsiedlung (1930 bis 1933) gehört dazu. In der Nähe liegt die ähnliche Siedlung Plankenäcker (1922).",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rennbahngründe",
+   "kat": "wohnen",
+   "wiki": "Rennbahngründe",
+   "adr": "Rennbahnweg 27",
+   "lon": 16.45418,
+   "lat": 48.25599,
+   "jahr": "1973–1977",
+   "text": "Die Anlage mit sechs Höfen hat 2.426 Wohnungen (Stand 2026) und rund 8.500 Bewohner*innen, doppelt bis dreimal so viel wie alte Superblocks. Der Name stammt von der Aushilfsrennbahn des Trabrennplatzes. Zur Kunst gehören Arbeiten von Hans Muhr, Josef Schagerl und Roland Göschl.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rudolf-Köppl-Hof und der Baumlehrpfad",
+   "kat": "wohnen",
+   "wiki": "Rudolf-Köppl-Hof",
+   "adr": "Saikogasse 4-8",
+   "lon": 16.43804,
+   "lat": 48.25177,
+   "jahr": "1965–1967",
+   "text": "Die Anlage von Oskar und Peter Payer hat 1.314 Wohnungen in elf neun- und zwölf viergeschossigen Blöcken. Sie ist nach Rudolf Köppl benannt, Bezirksvorsteher von 1959 bis 1977. 2014 eröffnete Wohnbaustadtrat Michael Ludwig hier den ersten Gemeindebau-Baumlehrpfad Wiens.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Siedlung Pilotengasse",
+   "kat": "wohnen",
+   "wiki": "Siedlung Pilotengasse",
+   "adr": "Pilotengasse",
+   "lon": 16.4887,
+   "lat": 48.22018,
+   "jahr": "1989–1992",
+   "text": "Auf einem Feld am Stadtrand bauten Herzog & de Meuron, Otto Steidle und Adolf Krischanitz gemeinsam Häuserzeilen mit 21 verschiedenen Wohnformen und einem Farbkonzept von Oskar Putz.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kaisermühlener Kirche",
+   "kat": "bauwerk",
+   "wiki": "Kaisermühlener Kirche",
+   "adr": "Schüttauplatz 24",
+   "lon": 16.42365,
+   "lat": 48.22646,
+   "jahr": "1887–1895",
+   "text": "Die Herz-Jesu-Kirche im Stil frühchristlicher Basiliken wurde nach Entwürfen von Viktor Luntz auf einem Areal der Donauregulierungskommission gebaut und 1895 geweiht. Zwei Säulen im Inneren stammen aus dem 1881 abgebrannten Ringtheater. Der Turm kam erst 1966.",
+   "fakt": "Zwei Säulen stammen aus der Ruine des Ringtheaters, das 1881 abbrannte.",
+   "quellen": []
+  },
+  {
+   "n": "Russenkirche",
+   "kat": "kultur",
+   "wiki": "Russenkirche",
+   "adr": "Wagramer Straße 17",
+   "lon": 16.42075,
+   "lat": 48.234,
+   "jahr": "1917–1922",
+   "text": "Die Kapelle Zum göttlichen Heiland wurde nach Plänen von Hans Prutscher gebaut. Weil russische (und italienische) Kriegsgefangene mitbauten, hieß sie Russenkirche. Später nutzten UNO-Beamte sie, 2003 gelangte sie an die Koptisch-Orthodoxe Kirche und wurde dem Evangelisten Markus geweiht.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kagraner Freihof",
+   "kat": "geschichte",
+   "wiki": "Kagraner Freihof",
+   "adr": "Kagraner Platz 33",
+   "lon": 16.44946,
+   "lat": 48.2483,
+   "jahr": "1494",
+   "text": "Der Freihof ist seit 1494 nachweisbar und kam 1773 an das Stift Klosterneuburg, 1800 an die Gemeinde, die ein Gasthaus einrichtete. Heute heißt er Napoleon, weil Napoleon hier 1809 gewohnt haben soll.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kagraner Kirche",
+   "kat": "bauwerk",
+   "wiki": "Kagraner Kirche",
+   "adr": "Wagramer Straße 150",
+   "lon": 16.44359,
+   "lat": 48.24974,
+   "jahr": "1438",
+   "text": "Nachdem die Georgskirche in Stadlau 1438 durch eine Überschwemmung zerstört wurde, entstand die Kirche an einem sicheren Ort außerhalb Kagrans. Der Chor von 1438 hat gotische Kreuzrippengewölbe, das Langhaus wurde 1642 erweitert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hirschstettner Schloss",
+   "kat": "bauwerk",
+   "wiki": "Hirschstettner Schloss",
+   "adr": "Hirschstettner Straße 89-93",
+   "lon": 16.46497,
+   "lat": 48.23583,
+   "jahr": "1693–1952",
+   "text": "1693 ließ Graf Hohenfeld das Haus errichten, ab 1713 baute es Fürst Schwarzenberg zum Jagdschloss um (Martinelli, Deckengemälde Daniel Gran). Ab 1868 gehörte es Peter Zeno Freiherr von Pirquet, dem Vater des Kinderarztes Clemens Pirquet und des Raumfahrtpioniers Guido Pirquet. 1952 erwarben es die Claretiner. Die Hauskapelle von 1739 steht der Bevölkerung offen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Süßenbrunner Schloss",
+   "kat": "bauwerk",
+   "wiki": "Süßenbrunner Schloss",
+   "adr": "Süßenbrunner Hauptstraße 9",
+   "lon": 16.49428,
+   "lat": 48.27873,
+   "jahr": "16. Jahrhundert",
+   "text": "Der Ortsname geht auf Urban Sueß zurück, der Süßenbrunn nach 1529 neu besiedelte. Das Schloss kam 1926 an die Theresianische Akademie und wurde Anfang der 1970er Jahre restauriert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Breitenleer Gutshof und die Neugründung 1694",
+   "kat": "geschichte",
+   "wiki": "Breitenleer Gutshof",
+   "adr": "Breitenleer Straße",
+   "lon": 16.49591,
+   "lat": 48.25161,
+   "jahr": "1694–1699",
+   "text": "Nach über 100 Jahren Wüstung gründete Abt Sebastian Faber 1694 das Dorf neu, nach den Himmelsrichtungen ausgerichtet und typisch barock. Der Gutshof wurde 1698 vollendet, die Kirche 1699 geweiht. Von 1807 bis 1917 gab es einen Stiftsfriedhof mit rund 130 bestatteten Patres.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stadlauer Malzfabrik",
+   "kat": "industrie",
+   "wiki": "Stadlauer Malzfabrik",
+   "adr": "Smolagasse 1",
+   "lon": 16.44614,
+   "lat": 48.22377,
+   "jahr": "1884–1886",
+   "text": "Die Erste Wiener Exportmalzfabrik von Hauser und Sobotka wurde von Josef Pflugmacher gebaut, nach einem Brand 1889 wieder hergestellt und erhielt 1979 eine neue Fassade. Arbeiterhäuser (1895 bis 1900) und Verwaltung stehen daneben.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Elektrizitätswerk Donaustadt",
+   "kat": "industrie",
+   "wiki": "Elektrizitätswerk Donaustadt",
+   "adr": "Steinspornweg",
+   "lon": 16.46232,
+   "lat": 48.20107,
+   "jahr": "1968–1987",
+   "text": "Der Gemeinderat beschloss 1968 zwei Kraftwerksblöcke am Standort Steinsporn, die 1973 und 1975 in Betrieb gingen (je 162.000 Kilowatt). Eine Entstickungsanlage wurde 1987 in Betrieb genommen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rinterzelt",
+   "kat": "verschwunden",
+   "wiki": "Rinterzelt",
+   "adr": "Rautenweg",
+   "lon": 16.46613,
+   "lat": 48.26172,
+   "jahr": "1980–2019",
+   "text": "Die Müllverwertungsanlage der Rinter AG wurde nach Plänen von Lukas Lang 1980/81 gebaut, mit einem Hängedach von 170,6 Metern Durchmesser, getragen von 48 hölzernen Rippen. Im Dezember 1981 eröffnet, hieß sie auch Mistzelt, Müllzelt oder Riesenzelt. 2019 wurde sie abgetragen.",
+   "fakt": "Die Anlage trug das Zelt sogar im Firmenlogo.",
+   "quellen": []
+  },
+  {
+   "n": "Donauzentrum",
+   "kat": "alltag",
+   "wiki": "Donauzentrum",
+   "adr": "Donaustadtstraße 1",
+   "lon": 16.436,
+   "lat": 48.2422,
+   "jahr": "1975",
+   "text": "Das Einkaufszentrum wurde am 23. Oktober 1975 eröffnet (20.000 m² Verkaufsfläche, 1.500 Parkplätze, Kosten rund 400 Millionen Schilling). Die Grundsteinlegung hatte Bürgermeister Leopold Gratz 1974.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Jüdischer Kulturverein in Kaisermühlen",
+   "kat": "erinnerung",
+   "wiki": "Jüdischer Kulturverein in Kaisermühlen",
+   "adr": "Schüttaustraße 45",
+   "lon": 16.42146,
+   "lat": 48.2278,
+   "jahr": "1931–1938",
+   "text": "Der Verein wurde 1931 gegründet und unterhielt bis 1938 in der Schüttaustraße 45 ein Bethaus und Vereinslokal. Er steht für das jüdische Leben in der Arbeiterkolonie am linken Donauufer.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Jazzskulptur Essling",
+   "kat": "kurios",
+   "wiki": "Jazzskulptur",
+   "adr": "Fatty-George-Gasse, Bill-Grah-Park",
+   "lon": 16.5252,
+   "lat": 48.21459,
+   "jahr": "2000",
+   "text": "Die laut Quelle erste Jazzskulptur der Welt wurde am 3. September 2000 enthüllt. Elf Lehrlinge der Steinmetzwerkstätte der Stadt Wien schufen sie unter Leopold Grausam, Initiator war der Musikliebhaber Roman Kuntner.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Blumengärten Hirschstetten",
+   "kat": "natur",
+   "wiki": "Blumengärten Hirschstetten",
+   "adr": "Quadenstraße 15",
+   "lon": 16.474,
+   "lat": 48.23968,
+   "jahr": "seit 1952",
+   "text": "Der frühere Reservegarten der Stadt Wien ist seit 1952 hier. Bis 2014 war es der Kultivierungsbetrieb der Wiener Stadtgärten, seither wird die Produktion der Frühjahrs- und Sommerblumen in Essling gezogen, die Bäume in Mauerbach.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Welche Bedeutung hat das Gebietsänderungsgesetz vom 1. September 1954 für die Donaustadt?",
+   "a": "Es gab dem Bezirk Donaustadt den verkleinerten Zuschnitt, den er bis heute hat",
+   "f": [
+    "Es schuf den 22. Bezirk",
+    "Es trennte Kaisermühlen vom 2. Bezirk ab",
+    "Es vereinigte Floridsdorf und Donaustadt"
+   ],
+   "erkl": "1938 bestand Groß-Enzersdorf als 22. Bezirk, 1954 kam die heutige Grenze und der Name Donaustadt.",
+   "wiki": "Donaustadt",
+   "quellen": []
+  },
+  {
+   "q": "Wie hieß Kaisermühlen bis 1850?",
+   "a": "Fahnenstangen",
+   "f": [
+    "Schüttau",
+    "Fischerstrand",
+    "Kaiserwasser"
+   ],
+   "erkl": "Der Ort hieß nach dem Fahnenstangenhaufen im Fahnenstangenwasser.",
+   "wiki": "Kaisermühlen (Ort)",
+   "quellen": []
+  },
+  {
+   "q": "Wer schuf den Löwen von Aspern?",
+   "a": "Anton Dominik Fernkorn",
+   "f": [
+    "Johann Martin Fischer",
+    "Viktor Tilgner",
+    "Franz Xaver Messerschmidt"
+   ],
+   "erkl": "Der sterbende Löwe wurde 1858 aufgestellt und machte Fernkorn bekannt.",
+   "wiki": "Löwe von Aspern",
+   "quellen": []
+  },
+  {
+   "q": "Wann fand die Schlacht bei Aspern statt?",
+   "a": "21. und 22. Mai 1809",
+   "f": [
+    "12. und 13. Juli 1809",
+    "2. Dezember 1805",
+    "13. Mai 1809"
+   ],
+   "erkl": "Erstmals konnte Napoleon hier mit persönlich geführtem Heer nicht siegen.",
+   "wiki": "Löwe von Aspern",
+   "quellen": []
+  },
+  {
+   "q": "Wer machte das Gänsehäufel zum Sonnen- und Strombad?",
+   "a": "Florian Berndl",
+   "f": [
+    "Hans Angeli",
+    "Karl Seitz",
+    "Josef Wernhart"
+   ],
+   "erkl": "Berndl pachtete die Insel und nannte sich Naturapostel, 1907 eröffnete die Stadt das Strandbad.",
+   "wiki": "Gänsehäufel",
+   "quellen": []
+  },
+  {
+   "q": "Wer entwarf 1957 die Idee der Neuen Donau mit Donauinsel?",
+   "a": "August Zottl",
+   "f": [
+    "Felix Slavik",
+    "Rudolf Koller",
+    "Hannes Lintl"
+   ],
+   "erkl": "Slavik und Koller trieben das Projekt politisch und planerisch voran.",
+   "wiki": "Donauinsel",
+   "quellen": []
+  },
+  {
+   "q": "Wie hoch ist der Donauturm?",
+   "a": "252 Meter",
+   "f": [
+    "200 Meter",
+    "235 Meter",
+    "270 Meter"
+   ],
+   "erkl": "Er wurde zur WIG 64 eröffnet und ist das höchste Bauwerk Österreichs.",
+   "wiki": "Donauturm",
+   "quellen": []
+  },
+  {
+   "q": "Woher stammen zwei Säulen der Kaisermühlener Kirche?",
+   "a": "Aus dem 1881 abgebrannten Ringtheater",
+   "f": [
+    "Aus dem Stephansdom",
+    "Aus der Hofburg",
+    "Aus der Votivkirche"
+   ],
+   "erkl": "Die Kirche wurde 1887 bis 1895 gebaut.",
+   "wiki": "Kaisermühlener Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Wer malte das Deckengemälde im Westsaal des Hirschstettner Schlosses?",
+   "a": "Daniel Gran",
+   "f": [
+    "Paul Troger",
+    "Martino Altomonte",
+    "Franz Anton Maulbertsch"
+   ],
+   "erkl": "Das Schloss wurde unter Fürst Schwarzenberg bis 1724 zum Jagdschloss umgebaut.",
+   "wiki": "Hirschstettner Schloss",
+   "quellen": []
+  },
+  {
+   "q": "Welches Stift gründete 1694 das Dorf Breitenlee neu?",
+   "a": "Das Schottenstift",
+   "f": [
+    "Stift Klosterneuburg",
+    "Stift Heiligenkreuz",
+    "Stift Melk"
+   ],
+   "erkl": "Abt Sebastian Faber legte das Dorf 750 m südlich des alten Standorts an.",
+   "wiki": "Breitenlee (Ort)",
+   "quellen": []
+  },
+  {
+   "q": "In welchem Donaustädter Ort wurde Georg Raphael Donner geboren?",
+   "a": "Essling",
+   "f": [
+    "Aspern",
+    "Kagran",
+    "Stadlau"
+   ],
+   "erkl": "Sein Geburtshaus steht Hauptstraße 95.",
+   "wiki": "Essling (Grätzel)",
+   "quellen": []
+  },
+  {
+   "q": "Wofür diente das Rinterzelt?",
+   "a": "Müllverwertung",
+   "f": [
+    "Sportveranstaltungen",
+    "Messen",
+    "Zirkus"
+   ],
+   "erkl": "Das Zeltdach hatte 170,6 Meter Durchmesser, 2019 wurde das Gebäude abgetragen.",
+   "wiki": "Rinterzelt",
+   "quellen": []
+  },
+  {
+   "q": "Was war vor der Seestadt Aspern an dieser Stelle?",
+   "a": "Das Flugfeld Aspern",
+   "f": [
+    "Eine Mülldeponie",
+    "Ein Truppenübungsplatz",
+    "Ein Industriegelände der Raffinerie"
+   ],
+   "erkl": "Das Flugfeld bestand von 1912 bis 1977, die ersten Wohnungen der Seestadt wurden im September 2014 bezogen.",
+   "wiki": "Seestadt Aspern",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Gemeindebau der Donaustadt war im Februar 1934 die letzte Bastion des Schutzbunds?",
+   "a": "Goethehof",
+   "f": [
+    "Schüttauhof",
+    "Karl-Seitz-Hof",
+    "Schlingerhof"
+   ],
+   "erkl": "Der Goethehof wurde auch aus der Luft angegriffen.",
+   "wiki": "Goethehof",
+   "quellen": []
+  },
+  {
+   "q": "Wie viele Unterschriften hatte das Volksbegehren gegen das Konferenzzentrum 1982?",
+   "a": "Über 1,36 Millionen",
+   "f": [
+    "Rund 250.000",
+    "Über 600.000",
+    "Rund 2,5 Millionen"
+   ],
+   "erkl": "Der Bau wurde dennoch fortgesetzt und 1987 eröffnet.",
+   "wiki": "Austria Center Vienna",
+   "quellen": []
+  },
+  {
+   "q": "Wann trennte der Hubertusdamm die Alte Donau vom Strom?",
+   "a": "1875",
+   "f": [
+    "1830",
+    "1912",
+    "1964"
+   ],
+   "erkl": "Die Donauregulierung 1870 bis 1875 schuf den neuen Hauptstrom.",
+   "wiki": "Alte Donau",
+   "quellen": []
+  },
+  {
+   "q": "Wie heißt der Protest von 1925, mit dem Siedler*innen ihre Räumung verhinderten?",
+   "a": "Bretteldorfer Krieg",
+   "f": [
+    "Bruckhaufner Aufstand",
+    "Säulenhaufen-Streik",
+    "Siedlerkrieg am Kaiserwasser"
+   ],
+   "erkl": "Durch kollektive Aktionen und Medienauftritte verhinderten die Bewohner*innen die baupolizeiliche Räumung der Hüttenkolonie.",
+   "wiki": "Bretteldorf",
+   "quellen": []
+  }
+ ]
+}

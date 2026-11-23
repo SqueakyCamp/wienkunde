@@ -1,0 +1,767 @@
+{
+ "nr": 10,
+ "name": "Favoriten",
+ "kurz": "Ein Bezirk, der als Ziegel- und Fabrikvorstadt für Zugewanderte aus Böhmen und Mähren entstand und bis heute mehrere Stadtteile mit eigenen Dorfkernen und Neubauvierteln vereint.",
+ "profil": [
+  "Favoriten wurde 1874 als zehnter Bezirk geschaffen, und zwar aus den Teilen der Bezirke Wieden, Margareten und Landstraße, die außerhalb des Linienwalls (der heutigen Gürtelstraße) lagen. Dazu kamen Teile der niederösterreichischen Ortsgemeinden Inzersdorf, Oberlaa und Unterlaa. Der Name geht auf die Favoritenlinie zurück, also das Tor im Linienwall, das nach dem kaiserlichen Sommerschloss Favorita (dem heutigen Theresianum) benannt war. Die Grenze wird heute durch Arsenalstraße, Ostbahn, Eibesbrunnergasse und Gürtel bestimmt.",
+  "Die Siedlung vor der Favoritenlinie wuchs ab 1850 mit der Industrialisierung rasant. Ziegeleien am Wienerberg und am Laaer Berg, Maschinenfabriken und die Bahn zogen Arbeitskräfte vor allem aus Böhmen und Mähren an. Die Ziegelarbeiter lebten in Barackenkolonien am Rand der Gruben, die tschechische Sprache prägte ganze Straßenzüge, und noch um 1900 waren Vereine, Schulen und Gasthäuser stark tschechisch geprägt. Aus dieser Vorstadt entstand die größte Arbeiterschaft Wiens südlich des Gürtels.",
+  "Geografisch liegt der Bezirk auf den Stadtterrassen von Wienerberg und Laaer Berg, die zugleich die Wasserscheide zwischen Wienfluss und Liesingbach bilden. Der Liesingbach ist das einzige fließende Gewässer des Bezirks. Über den Wienerberg verlief im Mittelalter die Fernhandelsstraße nach Kärnten, Venedig und Triest. Das älteste erhaltene Denkmal ist die Spinnerin am Kreuz aus dem 15. Jahrhundert, an deren Standort jahrhundertelang hingerichtet wurde.",
+  "Die Gebiete südlich der Donauländebahn, also Oberlaa, Unterlaa und Rothneusiedl, waren bis ins 20. Jahrhundert selbstständige Dörfer. Teile davon kamen 1890/1892 zu Wien, der Rest 1938 in den damaligen 23. Bezirk (Schwechat) und erst 1954 zu Favoriten. Dadurch hat der Bezirk heute fast ländliche Ränder mit Weingärten, Äckern, Gutshöfen und Dorfkirchen, während im Norden dichte Gründerzeitblöcke stehen. Mit 31,83 Quadratkilometern ist er und mit rund 220.000 Einwohner*innen der bevölkerungsreichste Wiens.",
+  "In der Zwischenkriegszeit wurde Favoriten zu einem Kernbezirk des Roten Wien. Das Arbeiterheim von Hubert Gessner (1902), der Amalienbad-Komplex (1926) und große Gemeindebauten wie Zürcher Hof, Pernerstorferhof oder George-Washington-Hof bilden bis heute das Stadtbild. Am Wienerberg und am Laaer Berg entstanden Siedlungen der Genossenschaftsbewegung mit Selbstversorgergärten. Nach 1945 folgten die Per-Albin-Hansson-Siedlung (die erste große Wohnhausanlage der Zweiten Republik) und Großanlagen der 1970er und 1980er Jahre.",
+  "Die NS-Zeit hinterließ Spuren: Die Vereinssynagoge in der Humboldtgasse wurde im November 1938 zerstört, in zahlreichen Lagern in Favoriten, vor allem entlang der Laaer Straße, waren Zwangsarbeiter*innen untergebracht, und die Ankerbrotfabrik der Familie Mendl wurde 1938 arisiert. Nach 1945 lag der Bezirk in der sowjetischen Besatzungszone, was etwa die Nutzung des Arbeiterheims erklärt.",
+  "Heute ist Favoriten durch Zuwanderung aus der Türkei, dem ehemaligen Jugoslawien und vielen anderen Ländern der vielfältigste Bezirk der Stadt und zugleich Schauplatz der größten Stadtentwicklung Wiens. Mit dem 2015 fertiggestellten Hauptbahnhof entstanden das Quartier Belvedere und das Sonnwendviertel auf dem Gelände des alten Südbahnhofs und des Frachtenbahnhofs. Am Wienerberg wuchs aus einem Ziegelfabrikareal die Wienerberg-City, und am Laaer Berg entstanden Monte Laa und die Therme Wien. Am Stadtrand um Rothneusiedl wird seit Jahren über ein neues Stadtviertel diskutiert."
+ ],
+ "politik": "Bezirksvorsteher ist seit 27. September 2017 Marcus Franz (SPÖ). Bei der Bezirksvertretungswahl 2025 erreichte die SPÖ 42,5 Prozent, die FPÖ 27,6 Prozent, die ÖVP 8,5 Prozent, die Grünen 7,7 Prozent, NEOS 5,6 Prozent und die KPÖ 3,6 Prozent, bei einer Beteiligung von 42,0 Prozent. Favoriten wird seit 1946 durchgehend von der SPÖ geführt, die FPÖ ist aber in den letzten Jahrzehnten zur klaren zweiten Kraft geworden.",
+ "quellen": [
+  {
+   "t": "Wien Geschichte Wiki: Favoriten",
+   "u": "https://www.geschichtewiki.wien.gv.at/Favoriten"
+  },
+  {
+   "t": "Wikipedia: Favoriten",
+   "u": "https://de.wikipedia.org/wiki/Favoriten"
+  },
+  {
+   "t": "Stadt Wien: Bezirksvorsteher*innen und Stellvertreter*innen seit 1945 (10. Bezirk)",
+   "u": "https://www.wien.gv.at/politik/bezirksvorsteher-stellvertreter-seit-1945-1100"
+  },
+  {
+   "t": "Stadt Wien: Bezirksvertretungswahl 2025 (OGD-Ergebnisse)",
+   "u": "https://www.wien.gv.at/advwahlkand/internet/KandidatAlphabet.aspx?N=B&WID=BV251"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Favoriten (Katastralgemeinde)",
+   "art": "Katastralgemeinde",
+   "wiki": "Favoriten",
+   "lon": 16.3775,
+   "lat": 48.1736,
+   "text": "Die Katastralgemeinde Favoriten umfasst den dicht verbauten Norden des Bezirks von der Gürtelstraße bis hinauf zum Reumannplatz und weit darüber hinaus. Sie entstand aus den Vorstadtflächen vor dem Linienwall, die ab 1850 mit Fabriken und Mietskasernen verbaut wurden. Der Name stammt von der Favoritenlinie, dem Tor im Linienwall, das nach dem Sommerschloss Favorita benannt war. Die Gemeinde wurde 1874 zum zehnten Bezirk. Das Straßenraster mit den Hauptachsen Favoritenstraße und Laxenburger Straße ist bis heute das Rückgrat des Bezirks.",
+   "quellen": []
+  },
+  {
+   "n": "Inzersdorf Stadt",
+   "art": "Katastralgemeinde",
+   "wiki": null,
+   "lon": 16.352,
+   "lat": 48.1655,
+   "text": "Inzersdorf Stadt ist der Teil der ehemaligen Ortsgemeinde Inzersdorf, der 1892 zu Wien kam und heute den Westen von Favoriten rund um den Wienerberg bildet. Der alte Ortskern von Inzersdorf selbst liegt jenseits des Liesingbachs im 23. Bezirk. Im Bezirkswappen von Favoriten steht die Weintraube mit drei Ähren für diesen Ortsteil. Die Fläche ist durch die Ziegelindustrie des Wienerbergs, die Wohnhausanlagen der Zwischenkriegszeit (George-Washington-Hof) und die Büro- und Wohntürme der Wienerberg-City geprägt.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Favoriten",
+     "u": "https://www.geschichtewiki.wien.gv.at/Favoriten"
+    }
+   ]
+  },
+  {
+   "n": "Oberlaa Land und Oberlaa Stadt",
+   "art": "Katastralgemeinde",
+   "wiki": "Oberlaa",
+   "lon": 16.40433,
+   "lat": 48.13753,
+   "text": "Oberlaa ist ein Straßendorf mit angerartiger Verbauung und einer Reihe von Dreiseit- und Zwerchhöfen, urkundlich 1324 erstmals genannt, als Filiale von Laa schon 1267. Die beiden Katastralgemeinden Oberlaa Stadt und Oberlaa Land spiegeln wohl die Teilung des Dorfs wider: Die nördlich der Donauländebahn gelegenen Teile kamen 1890/1892 zu Wien, die südlichen erst 1938 zum 23. Bezirk und 1954 zu Favoriten. Der Dorfkern liegt um den Oberlaaer Platz mit der Kirche zum heiligen Ägidius und dem Kriegerdenkmal. Oberlaa litt 1529, 1683 und 1809 schwer unter Feindeinfällen, außerdem unter Pest und Cholera, und bis zur Regulierung des Liesingbachs 1954 unter Überschwemmungen.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Laa",
+     "u": "https://www.geschichtewiki.wien.gv.at/Laa"
+    }
+   ]
+  },
+  {
+   "n": "Rothneusiedl",
+   "art": "Katastralgemeinde",
+   "wiki": "Rothneusiedl (Ort)",
+   "lon": 16.38284,
+   "lat": 48.13804,
+   "text": "Rothneusiedl wird 1301 als „Newensidel“ erstmals urkundlich erwähnt, nach Sylvia Petrin eventuell schon 1217. Der Name bedeutet Neusiedlung, das „Rot“ bezieht sich wohl auf den rötlichen Lehm und die Ziegelerzeugung. Der Kern liegt an der Kreuzung von Liesingbachstraße und Himberger Straße, mit dem Schloss Liesingbachstraße 203-205 als einstigem Sitz der Ortsherrschaft (zuletzt Grafen Starhemberg, dann Rechberg). Um 1900 lebte die Bevölkerung von Feldwirtschaft und Viehzucht, die zugewanderten Tschechen arbeiteten in den Ziegeleien der Umgebung. Der Ort kam teilweise 1874, vollständig 1938 zu Wien und ist seit 1954 Teil des 10. Bezirks.",
+   "quellen": []
+  },
+  {
+   "n": "Unterlaa",
+   "art": "Katastralgemeinde",
+   "wiki": "Unterlaa (Ort)",
+   "lon": 16.41372,
+   "lat": 48.13333,
+   "text": "Unterlaa ist ein Straßendorf, das sich aus einer Uferzeile am Liesingbach entwickelt hat. Es war eine niederösterreichische Ortsgemeinde, wurde 1938 nach Groß-Wien eingemeindet und gehörte zum 23. Bezirk, bis es 1954 zum 10. Bezirk kam. Am Ortsrand steht die Johanneskirche, eines der ältesten Gotteshäuser Wiens, über den Resten einer römischen Villa. Im Ort liegen der barocke Prentlhof und die frühere Mühle (Schlussstein 1779), die bis 1935 in Betrieb war. Der Mühlteich verschwand 1940 beim Bau des Liesingtalsammelkanals.",
+   "quellen": []
+  },
+  {
+   "n": "Wienerberg",
+   "art": "Grätzel",
+   "wiki": "Wienerberg",
+   "lon": 16.35247,
+   "lat": 48.16204,
+   "text": "Der Wienerberg war im Mittelalter dicht bewaldet und galt als unsicheres Gelände an der Fernstraße nach Süden. Im 19. Jahrhundert entstanden am Südabhang ausgedehnte Ziegeleien, der Nordabhang wurde ab dem späten 19. Jahrhundert mit Mietshäusern verbaut. Auf der Höhe stehen die Spinnerin am Kreuz und der Wasserturm. Nach dem Ersten Weltkrieg entstanden dort städtische Siedlungen (George-Washington-Hof), nach 1945 Bürohäuser wie das Philipshaus, schließlich die Wienerberg-City mit ihren Hochhäusern. Ein 1960 errichteter Gasometer von 104 Metern Höhe wurde inzwischen abgetragen.",
+   "quellen": []
+  },
+  {
+   "n": "Laaer Berg",
+   "art": "Grätzel",
+   "wiki": "Laaer Berg",
+   "lon": 16.39622,
+   "lat": 48.15738,
+   "text": "Der Laaer Berg wird um 1331 erstmals genannt und trägt seinen Namen nach den Dörfern Oberlaa und Unterlaa an seinem Südfuß. Im 18. Jahrhundert stand auf der Höhe ein kleines Jagdschloss, das nach einem Brand nicht wieder aufgebaut wurde. Am Rand siedelten sich Wirtshäuser, Schießbuden und Ringelspiele an, der Böhmische Prater. In den 1970er Jahren wurde der Berg mit dem Laaer Wald trotz schwieriger Böden aufgeforstet, 1974 entstand hier der Landschaftspark für die Wiener Internationale Gartenschau. An den Südosthängen gibt es bis heute Weingärten.",
+   "quellen": []
+  },
+  {
+   "n": "Kreta",
+   "art": "Grätzel",
+   "wiki": "Kreta",
+   "lon": 16.39188,
+   "lat": 48.17456,
+   "text": "Kreta ist die volkstümliche Bezeichnung für das Gebiet zwischen Quellen-, Gudrun- und Geiselbergstraße. Als es südlich der Absberggasse verbaut wurde, galt die Gegend als unsicher. Da zur selben Zeit auf der Insel Kreta ein Aufstand herrschte, soll sich der Name davon ableiten. Im Grätzel liegt unter anderem die Ankerbrotfabrik. Es ist ein Beispiel dafür, wie Vorstadtviertel ihre Spitznamen aus Zeitungsberichten bezogen.",
+   "quellen": []
+  },
+  {
+   "n": "Quartier Belvedere und Sonnwendviertel",
+   "art": "Grätzel",
+   "wiki": "Sonnwendviertel",
+   "lon": 16.38316,
+   "lat": 48.18072,
+   "text": "Das Quartier Belvedere liegt auf dem 2009 aufgelassenen Südbahnhof rund um den neuen Hauptbahnhof, das Sonnwendviertel südlich der Alfred-Adler-Straße auf dem früheren Frachtenbahnhof. Die Planungsvereinbarung zwischen ÖBB und Stadt Wien wurde 2004 geschlossen. Der Name Quartier Belvedere ist ein Immobilienbegriff, der auf das nahe Schloss Belvedere im 3. Bezirk verweist. Straßen und Plätze wurden unter anderem nach Karl Popper, Elias Canetti, Gertrude Fröhlich-Sandner, Alfred Adler und Helmut Zilk benannt. Der Bildungscampus Sonnwendviertel (2014) war der erste Campus für Null- bis Vierzehnjährige in Wien.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Quartier Belvedere",
+     "u": "https://www.geschichtewiki.wien.gv.at/Quartier_Belvedere"
+    }
+   ]
+  },
+  {
+   "n": "Per-Albin-Hansson-Siedlung",
+   "art": "Siedlung",
+   "wiki": "Per-Albin-Hansson-Siedlung",
+   "lon": 16.37892,
+   "lat": 48.1515,
+   "text": "Die Siedlung am Südhang des Laaer Bergs besteht aus drei Teilen mit zusammen 5.915 Wohnungen. Der älteste Teil, Per-Albin-Hansson-Siedlung West, wurde 1947 bis 1951 nach Plänen von Friedrich Pangratz, Franz Schuster, Stephan Simony und Eugen Wörle gebaut. Der Name erinnert an die schwedischen Hilfslieferungen nach dem Krieg, viele Gassen tragen schwedische Namen. Der Teil Nord folgte 1969 bis 1971, der Teil Ost (PAHO) 1970 bis 1974.",
+   "quellen": []
+  },
+  {
+   "n": "Am Wasserturm",
+   "art": "Siedlung",
+   "wiki": "Am Wasserturm",
+   "lon": 16.35326,
+   "lat": 48.16812,
+   "text": "Die Siedlung Am Wasserturm an der Raxstraße wurde 1923/1924 von Franz Schacherl und Franz Schuster für die GESIBA aus Mitteln der Heimbauhilfe der Stadt gebaut. Die 188 Häuser mit Gartenanteil bildeten einen echten Siedlungsverband mit Wohnstraßen und kleinen Plätzen. Weil die Häuser nicht genossenschaftlich verwaltet, sondern verkauft wurden, wandelte sich die Anlage rasch zur Eigenheimkolonie, und der Ensemblecharakter ging großteils verloren.",
+   "quellen": []
+  },
+  {
+   "n": "Wienerfeld",
+   "art": "Siedlung",
+   "wiki": "Wienerfeld",
+   "lon": 16.37031,
+   "lat": 48.15889,
+   "text": "Wienerfeld ist ein historischer Flurname am Südabhang des Wienerbergs. Die Wienerfeldgasse wurde 1909 danach benannt, später übertrug man den Namen auf zwei Siedlungen: Wienerfeld West (zwischen Neilreichgasse und Laxenburger Straße) und Wienerfeld Ost (bis zur Südosttangente). Die Anlage der Siedlung begann 1939 und wurde nach dem Krieg fortgesetzt. Für die 160 Hektar große Siedlung wurde 1939/1940 ein eigener Sammelkanal in der Laxenburger Straße im Trennsystem gebaut.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Spinnerin am Kreuz",
+   "kat": "mythos",
+   "wiki": "Spinnerin am Kreuz",
+   "adr": "Triester Straße bei Nr. 52",
+   "lon": 16.35068,
+   "lat": 48.17101,
+   "jahr": "1451–1452",
+   "text": "Das gotische Denkmal geht auf eine ältere Säule zurück, die 1446 beim Einfall von Johann Hunyadi zerstört wurde. Die Stadt Wien ließ 1451/1452 durch Dombaumeister Hans Puchsbaum eine neue errichten. Mit der Hinrichtungsstätte (Galgen und Rad) in der Gemarkung von Inzersdorf dürfte die Säule in Verbindung stehen, denn die Stadt Wien übte dort die Hochgerichtsbarkeit aus. Die Namen wechselten häufig: 1598 bis 1624 hieß sie Martersäule am Wienerberg, 1709 Kreuzspinnerin, seit 1804 Spinnerin am Kreuz. Die letzte öffentliche Hinrichtung fand hier am 8. Mai 1868 statt. Die populäre Sage von einer Frau, die auf den Kreuzzug wartend spann, ist spätere Zutat.",
+   "fakt": "Die oft erzählte Herleitung von der Länderteilung 1375 ist unmöglich: Der Teilungsvertrag von Neuberg wurde erst 1379 geschlossen.",
+   "quellen": []
+  },
+  {
+   "n": "Ziegel vom Wienerberg",
+   "kat": "industrie",
+   "wiki": "Wienerberger Ziegelfabrik",
+   "adr": "Wienerberg, zwischen Triester Straße und Wienerbergstraße",
+   "lon": 16.3535,
+   "lat": 48.1605,
+   "jahr": null,
+   "text": "Im 19. Jahrhundert entstanden am Südhang des Wienerbergs riesige Ziegelgruben und Ringöfen. Die Arbeitskräfte kamen überwiegend aus Böhmen und Mähren, sie wohnten in Baracken bei den Gruben und stellten einen großen Teil der Bevölkerung Favoritens. Aus dem Ton wurden die Ziegel für die Gründerzeitblöcke der Stadt gebrannt. Das Sgraffito „Ziegelarbeiter“ am Pernerstorferhof (1953) erinnert an diese Geschichte. Auf dem aufgelassenen Fabrikareal wuchs seit den 1990er Jahren die Wienerberg-City.",
+   "fakt": "Der Wienerberg ist heute zu großen Teilen Erholungsgebiet mit Teichen in den früheren Lehmgruben.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Wienerberg",
+     "u": "https://www.geschichtewiki.wien.gv.at/Wienerberg"
+    }
+   ]
+  },
+  {
+   "n": "Ankerbrotfabrik",
+   "kat": "industrie",
+   "wiki": "Ankerbrotfabrik",
+   "adr": "Absberggasse 35",
+   "lon": 16.38928,
+   "lat": 48.17177,
+   "jahr": "1891",
+   "text": "Die Brüder Heinrich und Fritz Mendl übernahmen die in Konkurs gegangene Bäckerei des Favoritner Bäckermeisters Emanuel Adler und gründeten am 1. Juli 1891 eine Brotfabrik, deren Markenzeichen der Anker wurde (1893 geschützt). Seit 1893 steht der Betrieb in der Absberggasse. Der erste Teil der heutigen Anlage wurde um 1900 von Friedrich Schön errichtet und bis 1925 erweitert. 1938 wurde die Fabrik arisiert, im Krieg bildeten sich hier Widerstandsgruppen, an die eine Gedenktafel im Hof erinnert. Den berühmten Werbespruch der 1930er Jahre kennt man als „Worauf freut sich der Wiener, wenn er vom Urlaub kommt? Auf Hochquellwasser und Ankerbrot“.",
+   "fakt": "Zu Beginn der 1970er Jahre hatte die Firma rund 3.000 Beschäftigte, bis Ende des Jahrzehnts sank der Personalstand auf etwa 1.900.",
+   "quellen": []
+  },
+  {
+   "n": "Arbeiterheim Favoriten",
+   "kat": "politik",
+   "wiki": "Arbeiterheim Favoriten",
+   "adr": "Laxenburger Straße 8-10",
+   "lon": 16.3735,
+   "lat": 48.18089,
+   "jahr": "1901–1902",
+   "text": "Das „Rothe Haus“ wurde 1901/1902 von Hubert Gessner für den Verein „Arbeiterheim in Favoriten“ gebaut und am 7. September 1902 eröffnet. Es war das erste Arbeiterheim der Sozialdemokratie in Wien. Der Bau gelang erst, nachdem Viktor Adler in der Arbeiterzeitung geworben und der Besitzer der Ottakringer Brauerei, Moritz von Kuffner, einen Kredit gegeben hatte. Es gab einen großen Saal mit Bühne, Klubzimmer, Restaurant, Bibliothek, Konsumfiliale und 40 Wohnungen. 1912 entstand hier das erste Kino Favoritens, ab 1928 das Amalienkino. Hier tagten ab 1903 mehrere Parteitage der SDAP, und im Oktober 1933 fand der letzte außerordentliche Parteitag vor dem Parteiverbot statt.",
+   "fakt": "Nach 1945 nutzte die sowjetische Besatzungsmacht das Haus, weshalb die Bezirks-SPÖ bis 1952 im Pölzerhof untergebracht war.",
+   "quellen": []
+  },
+  {
+   "n": "Amalienbad",
+   "kat": "wohnen",
+   "wiki": "Amalienbad",
+   "adr": "Reumannplatz 23",
+   "lon": 16.37881,
+   "lat": 48.17428,
+   "jahr": "1923–1926",
+   "text": "Das Amalienbad war das Prunkstück des Bäderprogramms, mit dem der Gemeinderat 1919 den Bau von 20 städtischen Bädern beschloss. Die Wohnungen waren damals kaum mit Bad oder Dusche ausgestattet, auch die Gemeindebauten hatten sie nicht, daher war Baden eine gesundheitspolitische Frage. Karl Schmalhofer und Otto Nadel planten das Bad, am 8. Juli 1926 wurde es unter Bürgermeister Karl Seitz eröffnet. Benannt ist es nach Amalie Pölzer, die 1919 in Favoriten als erste Frau in den Gemeinderat gewählt wurde. Der Bau beherrscht noch immer den Reumannplatz.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Vom Wien-Gloggnitzer-Bahnhof zum Südbahnhof",
+   "kat": "verschwunden",
+   "wiki": "Wien-Gloggnitzer-Bahnhof",
+   "adr": "Wiedner Gürtel / Arsenalstraße",
+   "lon": 16.37983,
+   "lat": 48.18746,
+   "jahr": "1840–2009",
+   "text": "Der Wien-Gloggnitzer-Bahnhof entstand 1840/1841 als „Doppelkopfbahnhof“ mit dem Wien-Raaber Bahnhof, entworfen von Matthias von Schönerer im Stil des Klassizismus, und war weltweit ohne Beispiel. Der Südbahnhof entstand 1869 bis 1873 aus ihm. Nach den Zerstörungen des Zweiten Weltkriegs wurden Südbahnhof und Ostbahnhof in einem Gebäude vereint, das von 1956 bis 2009 als Dritter Südbahnhof diente. 2009 wurde er abgerissen. An seiner Stelle steht heute ein Bürohaus der Ersten Bank.",
+   "fakt": "Die Schnellbahnstation heißt seit Ende 2009 Quartier Belvedere, vorher Südbahnhof.",
+   "quellen": []
+  },
+  {
+   "n": "Hauptbahnhof",
+   "kat": "bauwerk",
+   "wiki": "Hauptbahnhof",
+   "adr": "Am Hauptbahnhof 1",
+   "lon": 16.3764,
+   "lat": 48.18481,
+   "jahr": "1995–2015",
+   "text": "1995 entschied der Zürcher Architekt Theo Hotz den Wettbewerb für einen zentralen Durchgangsbahnhof, der den Kopfbahnhof Südbahnhof ersetzen sollte. Der Bahnhof liegt schräg zwischen den bisherigen Gleisanlagen der Süd- und Ostbahn in Hochlage. Die Straßenbahnlinie D wurde 2012 unter ihm bis zur Alfred-Adler-Straße verlängert. Auf den nicht mehr benötigten 59 Hektar des alten Bahnareals entstanden nach einem Masterplan von 2004 Quartier Belvedere, Sonnwendviertel und der Helmut-Zilk-Park.",
+   "fakt": "Die Südbahnhofbrücke wurde erst am 1. August 2018 für den Verkehr freigegeben, der Arsenalsteg am 1. Juli 2020.",
+   "quellen": []
+  },
+  {
+   "n": "Vereinssynagoge Humboldtgasse",
+   "kat": "erinnerung",
+   "wiki": "Vereinssynagoge des Israelitischen Tempel- und Schulvereins für den 10. Gemeindebezirk Favoriten",
+   "adr": "Humboldtgasse 27",
+   "lon": 16.3778,
+   "lat": 48.17968,
+   "jahr": "1896–1938",
+   "text": "Der Israelitische Tempel- und Schulverein für den 10. Bezirk baute die Synagoge nach Plänen von Jakob Gartner. Baukomitee 1886, Grundstückskauf 1893, Einweihung 1896. Der Betsaal hatte 428 Sitze für Männer, auf der Galerie 277 Plätze für Frauen. Die Synagoge war bis 1938 das gesellschaftliche, religiöse und kulturelle Zentrum der Favoritner Juden und Jüdinnen. Im Novemberpogrom wurde sie am 10. November 1938 verwüstet, die Reste wurden abgerissen. Auf dem Grundstück entstand 1954 bis 1956 ein deutlich höherer Wohnbau.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Matzleinsdorfer Katholischer Friedhof",
+   "kat": "verschwunden",
+   "wiki": "Matzleinsdorfer Katholischer Friedhof",
+   "adr": "Landgutgasse / Herzgasse / Dampfgasse / Karmarschgasse",
+   "lon": 16.36548,
+   "lat": 48.18081,
+   "jahr": "1784",
+   "text": "Der Friedhof war einer der fünf Kommunalfriedhöfe, die 1784 nach dem Begräbnisverbot Kaiser Josephs II. für Kirchen und innerstädtische Friedhöfe außerhalb des Linienwalls eröffnet wurden. Mit der Eröffnung des Zentralfriedhofs 1874 wurden diese Friedhöfe gesperrt und später aufgelassen. Auf dem Areal liegt heute der Waldmüllerpark.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Johanneskirche Unterlaa",
+   "kat": "bauwerk",
+   "wiki": "Johanneskirche (10)",
+   "adr": "Klederinger Straße, gegenüber Nr. 107",
+   "lon": 16.41993,
+   "lat": 48.13289,
+   "jahr": null,
+   "text": "Das schindelgedeckte Kirchlein mit spitzem, achteckigem Turm und Malteserkreuz zählt zu den ältesten Sakralbauten Wiens. Der Platz war schon römerzeitlich besiedelt: Südlich der Kirche wurde eine Siedlung, darunter eine Landvilla mit Vorhalle, Innenhof und Werkstätte zur Metallverarbeitung, angeschnitten, Mauerreste liegen unter der Kirche und ein Grabstein steht rechts vom Eingang. Der Bau selbst steht nach Ortolf Harl nicht in direktem baulichen Zusammenhang mit den römischen Gebäuden. Daneben steht die Heilig-Grab-Kapelle um 1700, nach dem Vorbild der Jerusalemer Grabeskirche. Das Bezirksmuseum hat unter der Kirche einen archäologischen Schauraum.",
+   "fakt": "Die Heilig-Grab-Kapelle wurde 1979 auf Initiative des Favoritner Museumsvereins restauriert.",
+   "quellen": []
+  },
+  {
+   "n": "Zur mageren Henne",
+   "kat": "mythos",
+   "wiki": "Zur mageren Henne",
+   "adr": "Laaer-Berg-Straße 94-98",
+   "lon": 16.39211,
+   "lat": 48.16318,
+   "jahr": "1548",
+   "text": "Die runde Sandsteinsäule mit korinthischem Kapitell errichtete Max Beck von Leopoldsdorf 1548 als Grenzsäule. Die gängige Legende führt den Namen auf ein Gasthaus zurück, dessen Wirt Napoleon 1809 eine magere Henne vorgesetzt haben soll. Tatsächlich ist der Flurname viel älter: Schon im 16. Jahrhundert wird ein Acker „bey Laaerweg gegen Magerhenn über“ erwähnt. Wahrscheinlich besteht ein Zusammenhang mit einem Zehent in Form von Hühnern, geklärt ist es nicht.",
+   "fakt": "Auch als Hendlkreuz bekannt.",
+   "quellen": []
+  },
+  {
+   "n": "Ecce-Homo-Säule",
+   "kat": "mythos",
+   "wiki": "Ecce-Homo-Säule",
+   "adr": "Leopoldsdorfer Straße 17, Ecke Scheunenstraße",
+   "lon": 16.39867,
+   "lat": 48.13521,
+   "jahr": null,
+   "text": "Der Vierkantpfeiler gehört zu den wenigen Arma-Christi-Kreuzen auf Wiener Boden und zeigt Reliefs der Leidenswerkzeuge Christi und darüber die Figur des gefesselten Schmerzensmanns. Gestiftet hat sie im 18. Jahrhundert der Oberlaaer Bürger Simon Knabl in Erinnerung an einen nie aufgeklärten Mord an seiner Frau. Am Schaft hängt eine Metalllaterne, und vier Kastanien stehen um die Säule.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Beschornerkreuz",
+   "kat": "geschichte",
+   "wiki": "Beschornerkreuz",
+   "adr": "Favoritenstraße bei Nr. 175",
+   "lon": 16.38124,
+   "lat": 48.1671,
+   "jahr": "1679",
+   "text": "Die „Favoritner Pestsäule“ stifteten nach der Pestepidemie von 1679 Lorenz und Walburga Beschorner und Mathias Resch. Der vierkantige Sandsteinpfeiler trägt eine Dreifaltigkeitsgruppe in Form eines Gnadenstuhls mit Inschriften. Die Säule gehört zu den ältesten Zeugnissen aus der Zeit, als hier noch Felder lagen, und erinnert daran, dass Favoriten vor 1850 überwiegend Landwirtschaft war.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "George-Washington-Hof",
+   "kat": "wohnen",
+   "wiki": "George-Washington-Hof",
+   "adr": "Triester Straße 52-58 / Unter-Meidlinger Straße 3-5",
+   "lon": 16.34734,
+   "lat": 48.17149,
+   "jahr": "1927–1930",
+   "text": "Der Washingtonhof mit 1.028 Wohnungen (ursprünglich 1.084) von Robert Oerley und Karl Krist, eröffnet am 6. April 1930, gruppiert sich um fünf große Höfe, die nach ihren Bäumen heißen: Ahorn-, Akazien-, Birken-, Flieder- und Ulmenhof. Auffallend ist die geringe Bauhöhe bei zugleich großen, durchlässigen Höfen. Die Anlage liegt zum Teil im 12. Bezirk, Untermeidling, und wird oft als Gartenstadt-Anlage des Roten Wien beschrieben. Das Reliefmedaillon Washingtons schuf K. H. Scholz (1929).",
+   "fakt": "Der Gemeindebau ist nach dem ersten Präsidenten der USA benannt.",
+   "quellen": []
+  },
+  {
+   "n": "Per-Albin-Hansson-Siedlung West",
+   "kat": "wohnen",
+   "wiki": "Per-Albin-Hansson-Siedlung",
+   "adr": "Favoritenstraße, Stockholmer Platz",
+   "lon": 16.38026,
+   "lat": 48.15013,
+   "jahr": "1947–1951",
+   "text": "Die erste große Wohnhausanlage der Zweiten Republik wurde am 23. August 1947 begonnen und am 5. August 1951 eröffnet. Sie hat 1.095 Wohnungen, davon 662 in Einfamilienhäusern und 359 in Mehrfamilienhäusern, auf 30 Hektar, von denen nur 2,7 verbaut sind. Der Name erinnert an den schwedischen Ministerpräsidenten Per Albin Hansson, wegen der schwedischen Hilfslieferungen. Am Stockholmer Platz steht eine Büste von Emil Näsvall (5. August 1951). Die Gesamtbaukosten betrugen etwa 80 Millionen Schilling.",
+   "fakt": "Viele Gassen der Siedlung tragen schwedische Namen, etwa Selma-Lagerlöf-Gasse.",
+   "quellen": []
+  },
+  {
+   "n": "Siedlung Süd-Ost",
+   "kat": "wohnen",
+   "wiki": "Siedlung Süd-Ost",
+   "adr": "Laaer-Berg-Straße 151-199",
+   "lon": 16.39616,
+   "lat": 48.15543,
+   "jahr": "1921",
+   "text": "Die Süd-Ost-Siedlung entstand 1921 für Kriegsheimkehrer als Selbstversorgersiedlung der gleichnamigen Genossenschaft. Franz Schuster und Franz Schacherl planten 215 Wohneinheiten mit langen Parzellen für Obst- und Gemüsegärten, denn die Ernährungslage nach dem Ersten Weltkrieg war prekär. Die Pläne gehen auf Entwürfe von Adolf Loos zurück, der damals Chefarchitekt des Siedlungsamtes war. Die Realisierung folgte aber in einer abgewandelten Form.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Pernerstorferhof",
+   "kat": "wohnen",
+   "wiki": "Pernerstorferhof",
+   "adr": "Hardtmuthgasse 77-81",
+   "lon": 16.3647,
+   "lat": 48.17048,
+   "jahr": "1924–1926",
+   "text": "Der erste städtische Wohnbau der beiden Otto-Wagner-Schüler Camillo Fritz Discher und Paul Gütl hat 431 Wohnungen (ursprünglich 458). Er ist nach Engelbert Pernerstorfer benannt und als symmetrische Blockverbauung mit vergiebeltem Mittelteil gestaltet. Das Sgraffito „Ziegelarbeiter“ von Heribert Potuznik (1953) erinnert an die überwiegend tschechischen Ziegelarbeiter der Gegend.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zürcher Hof",
+   "kat": "wohnen",
+   "wiki": "Zürcher Hof",
+   "adr": "Gudrunstraße 145-149 / Laxenburger Straße 49-57",
+   "lon": 16.37409,
+   "lat": 48.17794,
+   "jahr": "1928–1931",
+   "text": "Emil Hoppe und Otto Schönthal planten die axialsymmetrische Blockrandanlage mit 223 Wohnungen (ursprünglich 233) um einen großen Innenhof. An der Laxenburger Straße unterbricht ein monumentaler Torbau mit einem keramischen „Fries der Arbeit“ von Siegfried Charoux (1930) den Block. Der Name wurde 1949 vergeben und bedankt sich bei der Stadt Zürich für die Schweizerhilfe nach dem Zweiten Weltkrieg.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Otto-Planetta-Hof",
+   "kat": "politik",
+   "wiki": "Otto-Planetta-Hof",
+   "adr": "Laxenburger Straße 98",
+   "lon": 16.36894,
+   "lat": 48.16654,
+   "jahr": "1938",
+   "text": "Der Hof wurde 1938 nach dem Juliputschisten Otto Planetta benannt, der am 25. Juli 1934 einen der tödlichen Schüsse auf Bundeskanzler Engelbert Dollfuß abgegeben hatte und am 31. Juli 1934 hingerichtet wurde. Die Umbenennung der Wohnhausanlage durch die Nationalsozialisten ist ein Beispiel dafür, wie NS-Namen im Stadtbild verankert wurden. Seit 1949 heißt der Bau Maria-und-Rudolf-Fischer-Hof, nach Maria Fischer, die 1943 hingerichtet wurde.",
+   "fakt": "Der Bau von Konstantin Peller (1930/1931) hat 133 Wohnungen.",
+   "quellen": []
+  },
+  {
+   "n": "Margarethe-Hilferding-Hof",
+   "kat": "erinnerung",
+   "wiki": "Margarethe-Hilferding-Hof",
+   "adr": "Leebgasse 100",
+   "lon": 16.36772,
+   "lat": 48.16771,
+   "jahr": "1928–1929",
+   "text": "Der Gemeindebau von Franz Zabza hat 107 Wohnungen, einen mit Gittern abgeschlossenen Straßenhof und eine repräsentative Front mit Rundbögen, Erkern und Loggien. 2006 wurde er nach Margarete Hilferding benannt (1871 bis 1942), Ärztin, Bezirksrätin in Favoriten und Opfer des Nationalsozialismus. Sie gehörte zu den ersten Ärztinnen, die in Wien promovierten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Philipshaus",
+   "kat": "bauwerk",
+   "wiki": "Philipshaus",
+   "adr": "Triester Straße 64",
+   "lon": 16.34812,
+   "lat": 48.16823,
+   "jahr": "1962–1964",
+   "text": "Karl Schwanzer baute das Bürohaus für Philips an der Einfahrt der Südautobahn. Das Gebäude gilt als erstes Beispiel für die Verlegung eines großen Verwaltungszentrums an den Stadtrand. Es inszeniert den Schwellenbereich zur Stadt. Zeittypisch ist die vorgespannte Stahlbetonkonstruktion, die für Wien neu war.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wasserturm und Hochquellenleitung",
+   "kat": "bauwerk",
+   "wiki": "Wasserturm (10)",
+   "adr": "Triester Straße 83",
+   "lon": 16.35312,
+   "lat": 48.16933,
+   "jahr": "1898–1899",
+   "text": "Der Wasserturm ist 67 Meter hoch und wurde nach Plänen des Stadtbauamts ab 23. März 1898 gebaut (Betriebsaufnahme 3. August 1899). Er versorgt hochgelegene Teile des 10. und 12. Bezirks. Das unterirdische Reservoir unter Triester Straße 83 ist der älteste Teil und stammt von 1873 für die Erste Hochquellenleitung, wurde aber 1898/1899 unter Franz Borkowitz umgebaut. Am Laaer Berg gibt es einen weiteren Hochquellen-Wasserbehälter, erbaut 1872 bis 1874.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Klinik Favoriten",
+   "kat": "alltag",
+   "wiki": "Klinik Favoriten",
+   "adr": "Kundratstraße 3",
+   "lon": 16.35065,
+   "lat": 48.17417,
+   "jahr": "1887–1892",
+   "text": "Das Spital wurde als Kaiser-Franz-Joseph-Spital eröffnet und trug diesen Namen von 1887 bis 1939 und von 1945 bis 2003. Dazwischen hieß es Robert-Koch-Krankenhaus. Zwischen 1894 und 1902 wurde es mehrfach erweitert, 1906 folgte der Kinderpavillon. Ab 2003 hieß es Sozialmedizinisches Zentrum Süd, seit 1. Juni 2020 trägt es den Namen Klinik Favoriten. Im Zweiten Weltkrieg wurde es schwer beschädigt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Oberlaaer Kurzentrum und Therme",
+   "kat": "natur",
+   "wiki": "Oberlaaer Kurzentrum",
+   "adr": "Kurbadstraße",
+   "lon": 16.40557,
+   "lat": 48.14202,
+   "jahr": "1934–2010",
+   "text": "Die Schwefelquelle wurde 1934 bei Probebohrungen der Firma Eurogasco auf der Suche nach Erdöl und Erdgas entdeckt, das Bohrloch aber wieder geschlossen. Erst 1965 stieß die Stadt Wien bei einer Bohrung in 380 Metern Tiefe wieder darauf. 1969 nahm eine provisorische Quellenstation den Betrieb auf. Die heutige Quelle liegt in 418,5 Metern Tiefe und hat 53,3 Grad. Sie zählt zu den stärksten Schwefelquellen Österreichs. 2010 wurde die neue Therme Wien eröffnet. Die Thermalabwässer mit bis zu 45 Grad belasteten früher den Liesingbach, seit dem Liesingtal Kanal werden sie abgeleitet.",
+   "fakt": "Vor dem Kurzentrum steht ein Bronzestandbild Alexander Puschkins von Juri Orechow.",
+   "quellen": []
+  },
+  {
+   "n": "Filmstadt am Laaer Berg",
+   "kat": "kultur",
+   "wiki": "Laaer Berg",
+   "adr": "Laaer Berg",
+   "lon": 16.39622,
+   "lat": 48.15738,
+   "jahr": "1922–1925",
+   "text": "1922 entstand am Laaer Berg auf Initiative von Sascha Kolowrat eine Filmstadt. Bis 1925 wurden hier die Außenaufnahmen zu drei Monumentalfilmen gedreht: „Sodom und Gomorrha“ (1922), ein Frühwerk von Mihaly Kertesz, der später in Hollywood als Michael Curtiz Karriere machte, „Der junge Medardus“ (1923, nach Arthur Schnitzler) und „Die Sklavenkönigin“ (1924). Die Kulissen standen auf den Hügeln über den Ziegelgruben.",
+   "fakt": "Michael Curtiz drehte später „Casablanca“.",
+   "quellen": []
+  },
+  {
+   "n": "Ernst-Kirchweger-Haus",
+   "kat": "politik",
+   "wiki": "Ernst-Kirchweger-Haus",
+   "adr": "Wielandgasse 2-4",
+   "lon": 16.37896,
+   "lat": 48.1775,
+   "jahr": null,
+   "text": "Das EKH ist das Zentrum der autonomen Szene Wiens und nach dem Widerstandskämpfer Ernst Kirchweger benannt. Er wurde 1965 bei einer Demonstration gegen den antisemitischen Professor Taras Borodajkewycz von einem Rechtsextremen niedergeschlagen und starb daran. Das ehemalige Schulgebäude wird seit 1990 als autonomes Zentrum genutzt, früher war hier die Tschechische Schule mit einem Schulkino untergebracht.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Viktor-Adler-Markt",
+   "kat": "alltag",
+   "wiki": "Viktor-Adler-Markt",
+   "adr": "Viktor-Adler-Platz",
+   "lon": 16.37622,
+   "lat": 48.1768,
+   "jahr": "1877",
+   "text": "Ab 1865/66 gab es einen täglichen Viktualienmarkt am Columbusplatz. Auf Wunsch des Bezirksausschusses wurde 1877 auf dem Eugenplatz ein neuer Markt eingerichtet, der so viel Zuspruch fand, dass der Columbusplatz-Markt aufgelassen wurde. Daher hieß er zuerst Eugenmarkt. 1882 durften Viktualien- und Blumenhändler im 10. Bezirk bis zur Abenddämmerung verkaufen, weil die Arbeiterschaft erst abends einkaufte. Seit der Umbenennung 1919 heißt er Viktor-Adler-Markt, von 1938 bis 1945 hieß der Platz Horst-Wessel-Platz. Im Krieg verbrannten alle Marktstände, die Betreiber bauten sie selbst wieder auf.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zwangsarbeiterlager an der Laaer Straße",
+   "kat": "erinnerung",
+   "wiki": "Zwangsarbeiterlager Laaer Straße 67",
+   "adr": "Laaer Straße, Schrankenberggasse, Davidgasse",
+   "lon": 16.39084,
+   "lat": 48.16499,
+   "jahr": "1942–1945",
+   "text": "Zwischen 1942 und 1945 gab es in Wien zahlreiche Lager, in Favoriten besonders viele, vor allem im Gebiet der Laaer Straße und am Laaer Berg. Es gab Lager für Zwangsarbeiter*innen und Sammellager für zur Deportation vorgesehene Jüdinnen und Juden. Eine Liste des Wilhelminenspitals nennt unter anderem ein „Lager Favoriten“ für russische Zwangsarbeiter*innen, dessen Lage nicht geklärt ist. Heute erinnert im Stadtbild kaum etwas an diese Lager.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wienerberg-City",
+   "kat": "bauwerk",
+   "wiki": "Wienerberg-City",
+   "adr": "Wienerbergstraße",
+   "lon": 16.34355,
+   "lat": 48.16829,
+   "jahr": "1995–",
+   "text": "Auf dem ehemaligen Ziegelfabrikareal entstand seit 1995 ein Stadtviertel mit Hochhäusern: Der Spatenstich erfolgte mit dem 22-geschossigen Business Park Vienna (Atelier 4), dann kamen die 38-geschossigen Twin Towers, der Delugan-Meissl-Tower mit fast 100 Metern Höhe, der Mischek-Tower und der SEG-Tower von Coop Himmelb(l)au sowie das Hochhaus Monte Verde von Albert Wimmer. Die Wienerberg-City ist ein Gegenbild zu den Blockrandstraßen der Gründerzeit.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Monte Laa",
+   "kat": "wohnen",
+   "wiki": "Monte Laa",
+   "adr": "Südosttangente (A 23) bei Ausfahrt Favoriten",
+   "lon": 16.39055,
+   "lat": 48.16602,
+   "jahr": "2000–",
+   "text": "Das Städtebauprojekt wurde 2000 begonnen, auf einer Überplattung der Südosttangente, die zwei getrennte Areale vereint. Albert Wimmer lieferte den Masterplan, Entwürfe kamen auch von Hans Hollein. Geplant waren rund 200.000 Quadratmeter Nutzfläche, 1.000 Wohnungen von Adolf Krischanitz, Elsa Prochazka und Peter Scheifinger und ein Park mit Anschluss an den Laaer Wald. Das erste Projekt, der Büro-Wohn-Komplex „Carré Vert“, wird seit Mai 2003 errichtet.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Fußballklub Austria Wien",
+   "kat": "kultur",
+   "wiki": "Fußballklub Austria Wien",
+   "adr": "Generali-Arena, Fischhofgasse 12",
+   "lon": 16.38799,
+   "lat": 48.16076,
+   "jahr": "1911",
+   "text": "Der Verein wurde am 29. Oktober 1910 im Uraniakeller gegründet, 1911 als Wiener Amateur-Sportverein bei der Meisterschaft gemeldet und galt als Klub der Intellektuellen und des assimilierten jüdischen Bürgertums, im Gegensatz zum „Arbeiterklub“ Rapid. Die Spiele fanden anfangs im Prater statt, 1914 folgte ein eigener Platz in Ober St. Veit. Die Austria ist österreichischer Rekordcupsieger und 24-facher Meister und ist heute im Süden Favoritens zu Hause.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Unterlaaer Mühle und Nepomuk",
+   "kat": "wasser",
+   "wiki": "Unterlaa (Ort)",
+   "adr": "Unterlaaer Straße, Liesingbach",
+   "lon": 16.41246,
+   "lat": 48.13496,
+   "jahr": "1779",
+   "text": "An der Unterlaaer Brücke über die Liesing steht eine barocke Figur des heiligen Johannes Nepomuk aus dem 18. Jahrhundert, Schutz vor Überschwemmungen des Liesingbachs. Gegenüber dem Prentlhof stand die Alte Mühle, über dem Eingangstor ein Schlussstein mit 1779 und Mühlrad. Sie war bis 1935 in Betrieb, danach elektrisch bis 1957. Der von einer Quelle gespeiste Mühlteich ist im Boden noch zu erkennen. Im Winter wurde bis 1937 Eis für Kühlzwecke gewonnen. Der Teich verschwand 1940 beim Bau des Liesingtalsammelkanals.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Arbeiterwohnhäuser Puchsbaumgasse",
+   "kat": "wohnen",
+   "wiki": "Arbeiterwohnhäuser (10)",
+   "adr": "Puchsbaumgasse 2-8 / Kiesewettergasse 3-13",
+   "lon": 16.38991,
+   "lat": 48.17319,
+   "jahr": "1886",
+   "text": "Der 1886 auf Anregung von Dr. Maximilian Steiner gegründete „Verein für Arbeiterwohnhäuser“ baute hier nach Plänen von Josef Unger 18 Einfamilienhäuser mit Gärten. Über im Mietzins eingerechnete Annuitäten sollten sie nach 25 Jahren in das Eigentum der Mieter übergehen. Es ist ein früher Versuch, Arbeiterfamilien Eigentum zu ermöglichen, lange vor den Siedlungen der 1920er Jahre.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Fabrik Quellenstraße 149",
+   "kat": "industrie",
+   "wiki": "Quellenstraße 149",
+   "adr": "Quellenstraße 149",
+   "lon": 16.37025,
+   "lat": 48.17571,
+   "jahr": "1888–1890",
+   "text": "Die ersten Teile des Komplexes errichtete 1888/1889 der Architekt Oskar Laske für den Industriellen Hugo Reinhold Gläser: Werkstatthallen, Schmiede, Kessel- und Maschinenhaus, Fabrikantenwohnhaus und Nebengebäude in Sichtziegelbauweise. 1890 kam über der Toreinfahrt der Bürotrakt dazu. Die drei unterschiedlichen Giebel mit verfremdeter Tudor-Neogotik setzen sich deutlich von den Wohnhäusern der Umgebung ab. 1899 kam die Fabrik an Maximilian Luzatto aus Triest, 1934 an die Firma Franke und Scholz mit Hauptsitz in Römerstadt in Mähren.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Woher hat der Bezirk Favoriten seinen Namen?",
+   "a": "Von der Favoritenlinie, dem Tor im Linienwall, das nach dem Schloss Favorita benannt war",
+   "f": [
+    "Von einem beliebten Gasthaus am Reumannplatz",
+    "Von der Lieblingsresidenz Kaiser Franz Josephs",
+    "Von einer Kaiserin namens Favorita"
+   ],
+   "erkl": "Die Favoritenlinie leitete sich vom kaiserlichen Sommerschloss Favorita (heute Theresianum) ab.",
+   "wiki": "Favoriten",
+   "quellen": []
+  },
+  {
+   "q": "In welchem Jahr wurde Favoriten zum eigenen Bezirk?",
+   "a": "1874",
+   "f": [
+    "1850",
+    "1892",
+    "1938"
+   ],
+   "erkl": "Der 10. Bezirk wurde 1874 aus Teilen von Wieden, Margareten und Landstraße sowie aus Teilen von Inzersdorf, Oberlaa und Unterlaa gebildet.",
+   "wiki": "Favoriten",
+   "quellen": []
+  },
+  {
+   "q": "Wann kamen Oberlaa, Unterlaa und Rothneusiedl endgültig zum 10. Bezirk?",
+   "a": "1954",
+   "f": [
+    "1892",
+    "1938",
+    "1946"
+   ],
+   "erkl": "1938 wurden sie zum 23. Bezirk Schwechat, 1954 kamen sie zu Favoriten.",
+   "wiki": "Unterlaa (Ort)",
+   "quellen": []
+  },
+  {
+   "q": "Wer errichtete 1451/1452 die heutige Spinnerin am Kreuz?",
+   "a": "Dombaumeister Hans Puchsbaum im Auftrag der Stadt Wien",
+   "f": [
+    "Anton Pilgram im Auftrag des Kaisers",
+    "Meister Michael für Herzog Albrecht III.",
+    "Jakob Prandtauer für das Stift Klosterneuburg"
+   ],
+   "erkl": "Die Säule war 1446 beim Einfall Hunyadis zerstört worden.",
+   "wiki": "Spinnerin am Kreuz",
+   "quellen": []
+  },
+  {
+   "q": "Wann fand an der Spinnerin am Kreuz die letzte öffentliche Hinrichtung statt?",
+   "a": "1868",
+   "f": [
+    "1747",
+    "1804",
+    "1918"
+   ],
+   "erkl": "Am 8. Mai 1868 wurde hier die letzte öffentliche Justifizierung durchgeführt.",
+   "wiki": "Spinnerin am Kreuz",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Architekt baute 1901/1902 das Arbeiterheim Favoriten?",
+   "a": "Hubert Gessner",
+   "f": [
+    "Otto Wagner",
+    "Josef Hoffmann",
+    "Karl Schmalhofer"
+   ],
+   "erkl": "Es war Gessners erstes bedeutendes Bauvorhaben in Wien.",
+   "wiki": "Arbeiterheim Favoriten",
+   "quellen": []
+  },
+  {
+   "q": "Nach wem ist das Amalienbad benannt?",
+   "a": "Amalie Pölzer, der ersten Gemeinderätin Favoritens",
+   "f": [
+    "Kaiserin Amalie",
+    "Amalie Seidel, einer Kinderfreunde-Gründerin",
+    "Amalie Wilhelmine, der Gattin Josephs I."
+   ],
+   "erkl": "Amalie Pölzer wurde 1919 als erste Frau in Favoriten in den Gemeinderat gewählt.",
+   "wiki": "Amalienbad",
+   "quellen": []
+  },
+  {
+   "q": "Welches Jahr wurde das Amalienbad eröffnet?",
+   "a": "1926",
+   "f": [
+    "1919",
+    "1923",
+    "1931"
+   ],
+   "erkl": "Eröffnet wurde es am 8. Juli 1926 unter Bürgermeister Karl Seitz.",
+   "wiki": "Amalienbad",
+   "quellen": []
+  },
+  {
+   "q": "Woran erinnert der Name der Per-Albin-Hansson-Siedlung?",
+   "a": "An schwedische Hilfslieferungen nach dem Zweiten Weltkrieg",
+   "f": [
+    "An die schwedische Besatzung im Dreißigjährigen Krieg",
+    "An einen schwedischen Architekten der Anlage",
+    "An einen Wettbewerb unter schwedischer Leitung"
+   ],
+   "erkl": "Per Albin Hansson war schwedischer Ministerpräsident, auch viele Gassennamen haben mit Schweden zu tun.",
+   "wiki": "Per-Albin-Hansson-Siedlung",
+   "quellen": []
+  },
+  {
+   "q": "Wer gewann 1995 den Wettbewerb für den Hauptbahnhof?",
+   "a": "Theo Hotz",
+   "f": [
+    "Albert Wimmer",
+    "Coop Himmelb(l)au",
+    "Hans Hollein"
+   ],
+   "erkl": "Der Zürcher Architekt Theo Hotz gewann; der Masterplan stammt von Hotz, Hoffmann und Wimmer.",
+   "wiki": "Hauptbahnhof",
+   "quellen": []
+  },
+  {
+   "q": "Was ist der Kern des Namens Rothneusiedl?",
+   "a": "Neusiedlung auf rötlichem Lehmboden, verbunden mit Ziegelerzeugung",
+   "f": [
+    "Rote Neusiedler Weinbauern",
+    "Neusiedlung, benannt nach roten Dächern",
+    "Siedlung der Roten Armee 1945"
+   ],
+   "erkl": "Das „Rot“ hängt wohl mit dem Lehmboden und der Ziegelerzeugung zusammen.",
+   "wiki": "Rothneusiedl (Ort)",
+   "quellen": []
+  },
+  {
+   "q": "Was entdeckte man 1934 bei Probebohrungen in Oberlaa?",
+   "a": "Eine Schwefelquelle",
+   "f": [
+    "Eine Erdölquelle",
+    "Ein römisches Gräberfeld",
+    "Eine Kohlenlagerstätte"
+   ],
+   "erkl": "Gesucht wurde Erdöl und Erdgas, gefunden eine Schwefeltherme, die 1965 wiederentdeckt wurde.",
+   "wiki": "Oberlaaer Kurzentrum",
+   "quellen": []
+  },
+  {
+   "q": "Welche Filmstadt entstand 1922 am Laaer Berg und wer war der Initiator?",
+   "a": "Sascha Kolowrat",
+   "f": [
+    "Max Reinhardt",
+    "Fritz Lang",
+    "Michael Curtiz"
+   ],
+   "erkl": "Gedreht wurden Außenaufnahmen für drei Monumentalfilme, darunter „Sodom und Gomorrha“ mit Mihaly Kertesz.",
+   "wiki": "Laaer Berg",
+   "quellen": []
+  },
+  {
+   "q": "Wer entwarf die Vereinssynagoge in der Humboldtgasse 27?",
+   "a": "Jakob Gartner",
+   "f": [
+    "Max Fleischer",
+    "Wilhelm Stiassny",
+    "Hubert Gessner"
+   ],
+   "erkl": "Eingeweiht wurde sie 1896, im November 1938 zerstört.",
+   "wiki": "Vereinssynagoge des Israelitischen Tempel- und Schulvereins für den 10. Gemeindebezirk Favoriten",
+   "quellen": []
+  },
+  {
+   "q": "Was bedeutet das Sgraffito „Ziegelarbeiter“ am Pernerstorferhof?",
+   "a": "Es erinnert an die überwiegend tschechischen Ziegelarbeiter der Gegend",
+   "f": [
+    "Es erinnert an Bauarbeiter des Hauptbahnhofs",
+    "Es erinnert an Streikende von 1934",
+    "Es erinnert an Kriegsgefangene des Ersten Weltkriegs"
+   ],
+   "erkl": "Geschaffen wurde es 1953 von Heribert Potuznik.",
+   "wiki": "Pernerstorferhof",
+   "quellen": []
+  },
+  {
+   "q": "Welches Symbol wählten die Brüder Mendl 1891 als Markenzeichen ihrer Brotfabrik?",
+   "a": "Den Anker",
+   "f": [
+    "Das Wiener Kipferl",
+    "Den Doppeladler",
+    "Eine Weizenähre"
+   ],
+   "erkl": "Der Anker steht für Vertrauen und Sicherheit und wurde 1893 als Marke geschützt.",
+   "wiki": "Ankerbrotfabrik",
+   "quellen": []
+  }
+ ]
+}

@@ -1,0 +1,1155 @@
+{
+ "nr": 1,
+ "name": "Innere Stadt",
+ "kurz": "Ein Bezirk aus Legionslager, Babenberger-Residenz und Ringstraße, in dem fast jede Gasse eine verschwundene Stadt verrät.",
+ "profil": [
+  "Die Innere Stadt ist der 1. Bezirk und deckt mit 2,87 Quadratkilometern die historische Altstadt und die Ringstraßenzone ab. Bis 1850 war das Gebiet innerhalb der Stadtmauer identisch mit dem Stadtgebiet; erst die provisorische Gemeindeordnung machte es zum Bezirk. Nach der Schleifung der Basteien ab 1857 wurde er bis an den Rand der Vorstädte erweitert, 1862 kam ein Stück zwischen Schottenring und Maria-Theresien-Straße vom 9. Bezirk dazu. Heute begrenzen Donaukanal, Wienfluss und die Zweierlinie den Bezirk.",
+  "Das Gebiet ist seit römischer Zeit besiedelt: Das Legionslager Vindobona lag zwischen Graben, Naglergasse, Tuchlauben und Hohem Markt, und noch heute folgen Straßen seinem Grundriss. Der Hohe Markt gilt als ältester Marktplatz der Stadt, Am Hof war die erste Babenberger-Residenz, und das Schottenstift wurde 1155 gegründet. Der Name der Stadtviertel, Stuben-, Kärntner, Schotten- und Widmerviertel, geht auf die Tore der Stadtmauer zurück.",
+  "Die mittelalterliche Stadt hatte ein jüdisches Viertel am Judenplatz, das 1420/21 durch die Wiener Gesera zerstört wurde. Rudolf IV. gründete 1365 die Universität und plante dafür eine abgeschlossene „Pfaffenstadt“. Brände wie 1262 und 1276 prägten die Stadt, ebenso die beiden Türkenbelagerungen 1529 und 1683, die die Vorstädte und die Befestigung zerstörten. Die Namen der Gassen erinnern an Märkte, Handwerke und verschwundene Tore: Bretzeneck, Silberbühel, Sauwinkel, Im Elend, Refelbühel.",
+  "Im Barock verwandelte sich der Bezirk zur Residenz des Adels. Prinz Eugen baute sein Winterpalais in der Himmelpfortgasse, Fischer von Erlach und Hildebrandt gestalteten Peterskirche, Palais und Plätze. Joseph II. hob viele Klöster auf (etwa das Himmelpfortkloster 1783), und die Gassen füllten sich mit Wohnhäusern und Geschäften.",
+  "Mit dem Handschreiben vom 20. Dezember 1857 begann die Schleifung der Stadtbefestigung. Der Wettbewerb 1858 und die Verbauung der Ringstraße bis zum Ersten Weltkrieg schufen Oper, Parlament, Rathaus, Universität und Börsenviertel. Die Ringstraße ist rund 57 Meter breit und wurde am 1. Mai 1865 eröffnet. Die Altstadt blieb relativ unangetastet, vieles aber verschwand: Kärntnertor, Arsenal, das alte Burgtheater, Kaffeehäuser wie das Griensteidl.",
+  "Im 20. Jahrhundert war die Innere Stadt Schauplatz der Politik: Republikausrufung 1918, Rede Hitlers am Heldenplatz 1938, Gestapo-Leitstelle im Hotel Métropole am Morzinplatz. Das jüdische Leben der Stadt wurde ausgelöscht; das Textilviertel am Franz-Josefs-Kai war stark betroffen. Bomben im März und April 1945 beschädigten Oper, Stephansdom und Hoher Markt.",
+  "Heute ist der Bezirk Verwaltungs- und Tourismuszentrum, aber auch Wohnort mit wenigen, oft älteren Bewohner*innen. Das Bermudadreieck hat sich seit den 1980ern als Lokalviertel etabliert. Die Debatte um das Luegerdenkmal und die Gestaltung von Plätzen zeigt, wie umstritten Erinnerungspolitik im Zentrum ist. Der Bezirk hat nur eine Katastralgemeinde, die Innere Stadt."
+ ],
+ "politik": "Bezirksvorsteher ist Markus Figl (ÖVP), im Amt seit 2015; er blieb auch nach der Wahl 2025 im Amt. Die Innere Stadt ist der einzige Bezirk, in dem die ÖVP seit Jahrzehnten fast durchgehend die Bezirksvorstehung stellt. Bei der Bezirksvertretungswahl 2025 erreichte die ÖVP 36,5 Prozent (Beteiligung 54,5 Prozent), die SPÖ 21,0, die Grünen 14,8, NEOS 12,6 und die FPÖ 12,2 Prozent. Der Bezirk ist traditionell bürgerlich geprägt und seit Jahrzehnten ÖVP-geführt, während bei der Gemeinderatswahl 2025 hier die SPÖ mit 30,8 Prozent vor der ÖVP (22,1) lag.",
+ "quellen": [
+  {
+   "t": "Wien Geschichte Wiki: Innere Stadt",
+   "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+  },
+  {
+   "t": "Innere Stadt (Wien) (Wikipedia)",
+   "u": "https://de.wikipedia.org/wiki/Innere_Stadt_(Wien)"
+  },
+  {
+   "t": "Wiener Ringstraße (Wikipedia)",
+   "u": "https://de.wikipedia.org/wiki/Wiener_Ringstraße"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Stubenviertel",
+   "art": "Grätzel",
+   "wiki": "Stubenviertel",
+   "lon": 16.37937,
+   "lat": 48.20794,
+   "text": "Eines der vier mittelalterlichen Stadtviertel, benannt nach dem Stubentor im Südosten der ummauerten Stadt. Das heutige Bild stammt aber aus der Ringstraßenzeit: Nach dem Abbruch der Franz-Joseph-Kaserne 1898 wurde das Areal zwischen Dominikanerbastei, Lueger-Platz, Franz-Josefs-Kai und Stubenring parzelliert, weitgehend nach einem Entwurf Otto Wagners. Den Kern bildet die Postsparkasse. Im Westen reicht das Viertel in die Gassen um Dominikanerkirche und Universität, die schon im Mittelalter zur Pfaffenstadt-Gegend gehörten.",
+   "quellen": []
+  },
+  {
+   "n": "Kärntner Viertel",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.3705,
+   "lat": 48.205,
+   "text": "Das Viertel im Südwesten der alten Stadt, benannt nach dem Kärntnertor, durch das die Straße nach Süden und Kärnten führte. Die Kärntner Straße ist bis heute das Rückgrat; hier lagen Bürgerspital, Kapuzinerkloster am Neuen Markt, Himmelpfortkloster und viele Adelspalais. Nach 1858 fiel das Tor, das Kärntnertortheater wich 1870 dem Hotel Sacher, und der Kärntner Ring mit dem Opernviertel entstand. Die Gassen zwischen Albertina und Neuem Markt zeigen noch das mittelalterliche Netz.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Schottenviertel",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.364,
+   "lat": 48.2125,
+   "text": "Das nordwestliche der vier Stadtviertel, benannt nach dem Schottentor und dem 1155 gegründeten Schottenstift an der Freyung. Es reichte von Am Hof und Tiefem Graben bis zur Stadtmauer am Schottenring. Im Mittelalter wohnten hier Hofbeamte und Klöster, später Adelige, die sich Palais an Herrengasse und Freyung bauten. Die Mölker Bastei am Rand ist ein Rest der Befestigung, die 1857 zur Schleifung freigegeben wurde.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Widmerviertel",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.3745,
+   "lat": 48.2105,
+   "text": "Das Viertel im Nordosten der Stadt zwischen Rotenturmstraße, Hohem Markt und Donaukanal, benannt nach dem Widmertor, einem alten Namen des Rotenturmtors. Es umfasste den ältesten Markt Wiens, den Hohen Markt, die Gegend um Ruprechts- und Judengasse sowie das Ufer am Salzgries. Der Name ist als Verwaltungsbegriff verschwunden, aber in Straßennamen und Grundbüchern des Mittelalters belegt. Die Gegend war lange von Händlern, Fischern und Salzverkehr geprägt.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Textilviertel",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.379,
+   "lat": 48.2125,
+   "text": "Das Gebiet zwischen Franz-Josefs-Kai, Rotenturmstraße und Schwedenplatz, das nach der Schleifung der Rotenturm-Bastei ab 1858 parzelliert wurde. Hier siedelten sich Stoffhändler, Konfektionäre und Textilgroßhändler an, oft in Geschäftshäusern mit Lagern und Kontoren. Viele Firmen waren jüdisch geführt, was 1938 zu massenhaften „Arisierungen“ führte. Heute sind die Häuser Büros, Hotels und Wohnungen; die Bezeichnung hält sich vor allem in Stadtgeschichten.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Bermudadreieck",
+   "art": "Grätzel",
+   "wiki": "Bermudadreieck",
+   "lon": 16.37473,
+   "lat": 48.21189,
+   "text": "Volkstümlicher Name für die Lokalszene um Rabensteig, Ruprechtsplatz und Judengasse, in Anlehnung an das Bermudadreieck im Atlantik, in dem Schiffe angeblich spurlos verschwinden. Den Anfang machte Anfang der 1980er Jahre der „Rote Engel“ von Michael Satke, gestaltet von Coop Himmelb(l)au; es folgten Krah-Krah, Kaktus, Ma Pitom und das Salzamt mit Einrichtung von Hermann Czech. Anrainer*innen beschwerten sich schon Mitte der 1980er Jahre über Lärm von Schanigärten. Das Viertel liegt im ältesten Teil der Stadt, gleich bei der Ruprechtskirche.",
+   "quellen": []
+  },
+  {
+   "n": "Freyung",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.3655,
+   "lat": 48.2117,
+   "text": "Der Platz vor dem Schottenstift ist nach dem Asylrecht benannt: Wer sich in den „Freiung“ des Klosters flüchtete, durfte von der Stadtjustiz nicht verfolgt werden. Das Schottenstift wurde 1155 von Heinrich II. Jasomirgott mit iro-schottischen Mönchen aus Regensburg gegründet. Die heutige Gestalt des Platzes prägen Palais Harrach, Palais Ferstel und der Austriabrunnen; ein temporärer Markt findet statt.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Judenplatz und Judenviertel",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.3693,
+   "lat": 48.2128,
+   "text": "Im Mittelalter lag hier das jüdische Viertel Wiens mit Synagoge, Schule, Spital und Bad; nachweisbar ist es seit dem 13. Jahrhundert. Nach dem Pogrom und der „Wiener Gesera“ 1420/21 wurde die Synagoge abgerissen, ihre Steine wurden wiederverwendet. Seit den Ausgrabungen 1995/96 ist ein Teil im Museum Judenplatz zugänglich. Der Platz ist heute auch Ort des Mahnmals von Rachel Whiteread.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Am Hof",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.3683,
+   "lat": 48.211,
+   "text": "Der größte Platz der Altstadt geht auf den Hof der Babenberger zurück, die hier um 1155/56 ihre Residenz einrichteten, ehe sie in die Burg wechselten. Später wurde der Platz Markt, Turnierplatz und Aufstellungsort der Mariensäule. Die Karmeliterkirche (heute Kirche Am Hof) und das Zeughaus mit der Zentralfeuerwache prägen die Ränder. Blumen- und Antiquitätenmarkt zeigen die Marktnutzung bis heute.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Hoher Markt",
+   "art": "Grätzel",
+   "wiki": "Hoher Markt",
+   "lon": 16.37304,
+   "lat": 48.21083,
+   "text": "Der erste Marktplatz der Stadt, erstmals 1208 als Markt erwähnt und 1233 als „forum altum“. Hier lag das römische Prätorium, später standen Schranne, Fischmarkt, Narrenkotter und Zunfthäuser auf dem Platz. Nach 1850 wurden die Marktbauten abgeräumt; heute stehen Vermählungsbrunnen und Ankeruhr in einem Platz, den Bomben 1945 stark beschädigten.",
+   "quellen": []
+  },
+  {
+   "n": "Salzgries",
+   "art": "Grätzel",
+   "wiki": "Salzgries",
+   "lon": 16.37286,
+   "lat": 48.21298,
+   "text": "Das „sandige Ufer“ am südlichsten Donauarm hieß seit 1322 Salzgries, weil hier Salzschiffe anlegten. Es gab viele Einkehrwirtshäuser; die Ringmauer wurde erst 1661–1664 durch eine Kurtine ersetzt. Nach Abbruch von Arsenal (1873–1875) und Salzgrieskaserne (1880) und der Anlage des Morzinplatzes 1888 verlor das Viertel sein altes Gesicht. Der Bärringerhof von 1896 erinnert noch an die Gründerzeit.",
+   "quellen": []
+  },
+  {
+   "n": "Schanzel",
+   "art": "Grätzel",
+   "wiki": "Schanzel",
+   "lon": 16.37495,
+   "lat": 48.21364,
+   "text": "Uferstrecke am Donaukanal vor dem Fischertor, wo im späten 18. Jahrhundert eine Art Hafen Wiens bestand. Hier landeten Obstzillen, der Schanzelmarkt war der wichtigste Obst- und Gemüsemarkt für Schiffsware, 1839 erließ die Stadt eine Dienstordnung. Der Markt zog im 19. Jahrhundert um und verschwand um 1900. Der Name lebt im Schanzelufer und einem Lokal.",
+   "quellen": []
+  },
+  {
+   "n": "An der langen Mauer",
+   "art": "Vorstadt",
+   "wiki": "An der langen Mauer",
+   "lon": 16.36718,
+   "lat": 48.21011,
+   "text": "Mittelalterliche Vorstadt vor dem Peurertor, vermutlich noch vor der Einebnung des Grabens um 1200 angelegt. Sie dehnte sich zwischen Naglergasse und Herrengasse, Kohlmarkt und Strauchgasse aus; ihre Hauptachse war die Wallnerstraße. Bedeutendstes Gebäude war der Kraftshof. Sie entstand wie weitere Vorstädte an den Fernhandelsstraßen und wurde in die erweiterte Stadt einbezogen; der Name hielt sich bis 1417.",
+   "quellen": []
+  },
+  {
+   "n": "Pfaffenstadt (Universitätsviertel)",
+   "art": "Grätzel",
+   "wiki": "Pfaffenstadt",
+   "lon": 16.36581,
+   "lat": 48.20859,
+   "text": "Herzog Rudolf IV. wollte 1365 bei der Gründung der Universität ein eigenes, durch eine Mauer abgetrenntes Universitätsviertel nach dem Vorbild des Pariser Quartier Latin schaffen, die „Pfaffenstadt“. Es sollte sich nahe der Burg zwischen Herrengasse, Schauflergasse und Schottentor erstrecken, mit dem Minoritenkloster im Zentrum. Rudolfs früher Tod 1365 stoppte den Plan. Unter Albrecht III. entstand 1384 das Collegium ducale beim Dominikanerkloster; dort blieb die Universität bis ins 19. Jahrhundert.",
+   "quellen": []
+  },
+  {
+   "n": "Apothekenviertel",
+   "art": "Grätzel",
+   "wiki": "Apothekenviertel",
+   "lon": 16.37165,
+   "lat": 48.20824,
+   "text": "Im Mittelalter lagen die meisten Apotheken rund um Graben, Roßmarkt (Stock-im-Eisen-Platz), Stephansplatz und Rotenturmstraße, daher die Bezeichnung. Der Name beschreibt eher eine Gewohnheit als ein Viertel mit Grenzen. Er erinnert an die Nähe zu Stephansdom und Bürgerhäusern, in denen Apotheker gleichzeitig Händler waren.",
+   "quellen": []
+  },
+  {
+   "n": "Rathausviertel",
+   "art": "Grätzel",
+   "wiki": "Rathausviertel",
+   "lon": 16.35823,
+   "lat": 48.2115,
+   "text": "Das Ringstraßenviertel zwischen Ring, Stadiongasse, Landesgerichtsstraße und Universitätsstraße entstand auf dem ehemaligen Exerzier- und Paradeplatz. Neben Parlament, Rathaus und Universität wurden 77 Häuser in Blöcken von vier bis sechs Häusern verbaut, teils als Arkadenhäuser, nach Gesamtplanung von Franz Neumann dem Jüngeren und Friedrich Schmidt. Einige im Zweiten Weltkrieg zerstörte Häuser wurden vereinfacht oder durch Neubauten ersetzt, etwa das Felderhaus.",
+   "quellen": []
+  },
+  {
+   "n": "Sauwinkel",
+   "art": "Grätzel",
+   "wiki": "Sauwinkel",
+   "lon": 16.37724,
+   "lat": 48.20173,
+   "text": "Bis Mitte des 18. Jahrhunderts hieß ein tiefliegender Teil der Stadt gegen den Roten Turm zu Sauwinkel: der Bereich des großen Viehmarkts, wo die Schweine lagerten. Hier stand die städtische „Preukuchel“ (Schlachthäusl), erwähnt 1566 und 1587, außerdem Getreidekasten, Hauptmaut und Schlesische Burse. Der Name wandelte sich zum feineren „Auwinkel“.",
+   "quellen": []
+  },
+  {
+   "n": "Im Elend",
+   "art": "Grätzel",
+   "wiki": "Im Elend (1)",
+   "lon": 16.37018,
+   "lat": 48.21372,
+   "text": "„Im Elend“ hieß die Gegend zwischen dem Tiefen Graben und dem Salzgries gegen Nordwesten, vermutlich wegen ihrer abgelegenen Lage („Elend“ im alten Sinn von Fremde). Der Name steht auf dem Stadtplan des Bonifaz Wolmuet von 1547. Die meisten Häuser fielen dem Bau von Arsenal und Elendbastei zum Opfer.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Römisches Legionslager Vindobona: Die Naglergasse als Mauer",
+   "kat": "geschichte",
+   "wiki": "Römerlager-Gedenktafel",
+   "adr": "Naglergasse 2 / Bognergasse",
+   "lon": 16.36848,
+   "lat": 48.20974,
+   "jahr": "1901",
+   "text": "Die gerade nummerierten Häuser der nördlichen Naglergasse stehen auf den Fundamenten der römischen Lagermauer. An der Ecke Tuchlauben, Bognergasse und Naglergasse lag das südliche Tor des Legionslagers, die porta decumana. Beim Neubau der Häuserzeile zwischen Naglergasse und Bognergasse wurden 1901 Reste des Tores, ein beträchtliches Stück der bis zu drei Meter breiten Mauer und Türme entdeckt. Unmittelbar vor der Mauer lag ein dreiteiliges Grabensystem. Im Mittelalter verlief an dieser Stelle die Burgmauer.",
+   "fakt": "Der Straßenverlauf des Legionslagers prägt das Wiener Zentrum bis heute: Die Linien von Naglergasse, Tuchlauben und Graben folgen den Lagergrenzen.",
+   "quellen": []
+  },
+  {
+   "n": "Hoher Markt: Der älteste Marktplatz",
+   "kat": "geschichte",
+   "wiki": "Hoher Markt",
+   "adr": "Hoher Markt",
+   "lon": 16.37304,
+   "lat": 48.21083,
+   "jahr": "1208–1850",
+   "text": "Der Hohe Markt wurde als „Markt zu Wien“ 1208, 1210 und 1213 genannt und 1233 erstmals als „forum altum“ bezeichnet. Hier lag in römischer Zeit das Prätorium des Lagers, in dem laut Überlieferung Marc Aurel länger wohnte. Im Mittelalter standen auf dem Platz die Schranne (Gericht; die ältere ab 1311/1325 belegt, 1437 abgebrannt, die jüngere 1438–1441 bis 1850 in Betrieb), Zunfthäuser und Verkaufsstätten, 1282–1753 der Fischmarkt mit einem Fischbrunnen. Auch Narrenkotter und Pranger gehörten zum Inventar. 1753 zog der Fischmarkt an das Schanzel.",
+   "fakt": "Das Prätorium von Vindobona soll nahe dem heutigen Hohen Markt gelegen haben; eine Tafel von Waldmüller im Haus Nr. 4 erinnert daran.",
+   "quellen": []
+  },
+  {
+   "n": "Ankeruhr",
+   "kat": "kultur",
+   "wiki": null,
+   "adr": "Hoher Markt 10–11",
+   "lon": 16.37212,
+   "lat": 48.2109,
+   "jahr": "1911–1917",
+   "text": "Die Ankeruhr überspannt als Jugendstil-Brücke die Gasse zwischen zwei Häusern der Ankerversicherung und wurde von Franz Matsch 1911–1917 gestaltet. Zwölf Figuren der Wiener Geschichte ziehen im Lauf von Uhr und Tag an: von Marc Aurel und Karl dem Großen über Walther von der Vogelweide bis zu Joseph Haydn. Zu jeder vollen Stunde läuft eine Figur über die Brücke. Der Mittag mit allen zwölf Figuren und Musik ist der Höhepunkt.",
+   "fakt": "Zu Mittag spielt die Uhr dazu Musik aus der jeweiligen Zeit der Figur.",
+   "quellen": [
+    {
+     "t": "Ankeruhr (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Ankeruhr"
+    }
+   ]
+  },
+  {
+   "n": "Wiener Gesera und die zerstörte Synagoge am Judenplatz",
+   "kat": "ereignis",
+   "wiki": null,
+   "adr": "Judenplatz 1–11 / Museum Judenplatz",
+   "lon": 16.36935,
+   "lat": 48.21285,
+   "jahr": "1420–1421",
+   "text": "Im Mai 1420 ließ Herzog Albrecht V. die Wiener Jüdinnen und Juden unter dem Vorwurf der Hostienschändung verhaften; wer nicht konvertierte, wurde vertrieben oder in Haft gehalten. Am 12. März 1421 verbrannte man rund 200 Menschen auf der Gänseweide in Erdberg. Die Synagoge am Judenplatz wurde zerstört, ihre Steine fanden Verwendung für den Bau der Universität. Bei Ausgrabungen 1995/96 fand man die Fundamente der Synagoge, mittelalterliche Ghettohäuser, Straßenstücke, Brunnen und Reste der römischen Kasernen. Heute zeigt das Museum Judenplatz die Reste.",
+   "fakt": "Das Haus „Zum großen Jordan“ am Platz trägt ein Relief der Taufe im Jordan mit einer lateinischen Inschrift, die die Vertreibung von 1421 rechtfertigt.",
+   "quellen": [
+    {
+     "t": "Wiener Gesera (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gesera"
+    },
+    {
+     "t": "Judenplatz (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Judenplatz"
+    }
+   ]
+  },
+  {
+   "n": "Mahnmal für die jüdischen Opfer der Shoa",
+   "kat": "erinnerung",
+   "wiki": null,
+   "adr": "Judenplatz",
+   "lon": 16.36945,
+   "lat": 48.21265,
+   "jahr": "2000",
+   "text": "Das Mahnmal von Rachel Whiteread wurde im Oktober 2000 enthüllt und erinnert an rund 65.000 ermordete österreichische Jüdinnen und Juden. Es ist eine geschlossene, aus Beton gegossene Bibliothek: Die Buchrücken zeigen nach innen, die Seiten nach außen, die Doppeltür hat keine Klinke. Am Sockel stehen die Namen der Orte, an denen Österreicher*innen ermordet wurden. Der Bau verzögerte sich Jahre wegen Streit um Standort und Kosten. Er steht über den Resten der mittelalterlichen Synagoge.",
+   "fakt": "Die Bibliothek ist „namenlos“: Das Mahnmal zeigt bewusst keine Titel.",
+   "quellen": [
+    {
+     "t": "Judenplatz (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Judenplatz"
+    }
+   ]
+  },
+  {
+   "n": "Stadttempel: Die unsichtbare Synagoge",
+   "kat": "bauwerk",
+   "wiki": "Stadttempel",
+   "adr": "Seitenstettengasse 4",
+   "lon": 16.37479,
+   "lat": 48.21162,
+   "jahr": "1825–1826",
+   "text": "Der Wiener Stadttempel wurde 1825–1826 von Joseph Kornhäusel gebaut und am 9. April 1826 eröffnet. Weil nach dem Toleranzpatent ein jüdisches Gotteshaus von der Straße nicht sichtbar sein durfte, versteckt er sich hinter einer Wohnhausfassade im Hof. Das Innere ist ein ovaler Kuppelraum mit Säulenkranz. Dass der Tempel 1938 beim Novemberpogrom nicht niederbrannte, verdankt er seiner Lage zwischen Wohnhäusern; er wurde dennoch geschändet. Er ist die Hauptsynagoge der Israelitischen Kultusgemeinde.",
+   "fakt": "Die Kultusgemeinde erwarb 1811 den Pempflingerhof und eröffnete 1812 dort ein Bethaus, bevor der eigentliche Tempel entstand.",
+   "quellen": []
+  },
+  {
+   "n": "Ruprechtskirche: Die Kirche der Salzer",
+   "kat": "bauwerk",
+   "wiki": "Ruprechtskirche",
+   "adr": "Ruprechtsplatz",
+   "lon": 16.37436,
+   "lat": 48.21201,
+   "jahr": "12. Jahrhundert",
+   "text": "Die Ruprechtskirche gilt als eine der ältesten Kirchen Wiens; der älteste erhaltene Teil ist der Turm. Ihr Patron, der heilige Rupert, war der Heilige der Salzer, und am Salzgries landeten die Salzschiffe. Ab dem 14. Jahrhundert bildeten die Salzer hier eine eigene Zeche. Die älteste Erwähnung (1200) bestätigt, dass Heinrich II. Jasomirgott sie dem Schottenstift schenkte. Der Dichter Jans Enenkel nannte sie um 1280 die älteste Kirche der Stadt; ein Beweis dafür fehlt. Die romanische Kirche war ein einschiffiger Bau von 14 mal 7 Metern, dessen Mauern teilweise erhalten sind.",
+   "fakt": "Die Kirche besaß Weingärten in Grinzing, Sievering und Ottakring.",
+   "quellen": []
+  },
+  {
+   "n": "Peterskirche und ihre Gründungslegende",
+   "kat": "bauwerk",
+   "wiki": "Peterskirche",
+   "adr": "Petersplatz",
+   "lon": 16.37003,
+   "lat": 48.20945,
+   "jahr": "1701–1733",
+   "text": "Der Legende nach gründete Karl der Große die Peterskirche nach dem Awarenfeldzug 791; Belege gibt es keine. 1137 wurde sie dem Pfarrer von St. Stephan unterstellt, 1170 schenkte Heinrich II. Jasomirgott sie dem Schottenstift, 1544 kam sie durch Tausch zurück an den Landesfürsten. Die heutige barocke Kirche mit ihrer Kuppel entstand ab 1701. Rund um die alte Kirche lag der Petersfreithof, der bis 1783 als Name weiterlebte und als Lebensmittelmarkt diente.",
+   "fakt": "Im 16. Jahrhundert beschrieb Wolfgang Schmeltzl, wie auf dem Friedhof dreißig Wagen mit Eiern standen.",
+   "quellen": []
+  },
+  {
+   "n": "Schneckenmarkt am Petersplatz",
+   "kat": "alltag",
+   "wiki": "Schneckenmarkt",
+   "adr": "Petersplatz",
+   "lon": 16.37001,
+   "lat": 48.20945,
+   "jahr": "1779–1860",
+   "text": "Vom Mittelalter bis weit ins 19. Jahrhundert wurden in Wien Schnecken gegessen, und der Hauptmarkt war der Petersplatz, wo die „Schneckenweiber“ standen. Kinder sammelten sie im Sommer, Händler mästeten sie bis September mit Kohl, Gemüseabfällen und Kleie und verpackten sie in Fässer. In der Fastenzeit waren sie beliebt, mit Essig, Kren und Zwiebeln zubereitet. 1824 sollen über vier Millionen Stück in Fässern zu je 10.000 Stück nach Wien gekommen sein. Um 1860 verschwanden die letzten Schneckenhändler.",
+   "fakt": "Am Petersplatz gab es sogar ein Gasthaus „Zur Schnecke“.",
+   "quellen": []
+  },
+  {
+   "n": "Stock im Eisen",
+   "kat": "mythos",
+   "wiki": null,
+   "adr": "Stock-im-Eisen-Platz",
+   "lon": 16.37105,
+   "lat": 48.2086,
+   "jahr": "1533",
+   "text": "Der Baumstamm mit unzähligen Nägeln steht in einer Mauernische am Eck zum Graben und ist seit 1533 bezeugt. Die Sage erzählt von einem Schlossergesellen, der mit dem Teufel einen Pakt schloss und ein unaufsperrbares Schloss anfertigte; das Schloss sitzt noch heute am Stamm. Später hatten wandernde Gesellen den Brauch, bei der Durchreise einen Nagel einzuschlagen. Der Platz ist nach dem Stamm benannt.",
+   "fakt": "Als Ersatz im Ersten Weltkrieg gab es den „Wehrmann in Eisen“, gegen Spende benagelt.",
+   "quellen": [
+    {
+     "t": "Stock im Eisen (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Stock_im_Eisen"
+    }
+   ]
+  },
+  {
+   "n": "Basilisk in der Schönlaterngasse",
+   "kat": "mythos",
+   "wiki": null,
+   "adr": "Schönlaterngasse 7",
+   "lon": 16.3779,
+   "lat": 48.2083,
+   "jahr": "1212 (Legende)",
+   "text": "Im Haus Schönlaterngasse 7 soll 1212 im Brunnen ein Basilisk gehaust haben, ein Mischwesen aus Hahn und Schlange, das mit seinem Blick tötete. Ein Bäckerlehrling hielt ihm einen Spiegel vor, worauf das Tier an seinem Anblick starb, so die Sage. An der Fassade erinnert ein steinernes Abbild des Wesens am Haus. Die Gasse ist nach einer kunstvollen Laterne benannt, die einst an einem der Häuser hing.",
+   "fakt": "Das Spiegel-Motiv der Sage ist aus antiken Basilisken-Erzählungen bekannt.",
+   "quellen": [
+    {
+     "t": "Basiliskenhaus (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Basiliskenhaus"
+    }
+   ]
+  },
+  {
+   "n": "Der liebe Augustin und das Griechenbeisl",
+   "kat": "mythos",
+   "wiki": null,
+   "adr": "Fleischmarkt 11",
+   "lon": 16.3772,
+   "lat": 48.21085,
+   "jahr": "1679",
+   "text": "Marx Augustin war ein Dudelsackpfeifer und Bänkelsänger, der im Pestjahr 1679 in der Stadt aufspielte. Die Legende erzählt, er sei betrunken in eine Pestgrube gefallen, habe dort geschlafen und die Seuche unbeschadet überlebt. Das Lied „O du lieber Augustin, alles ist hin“ ist erst später belegt, ob es mit ihm zu tun hat, ist offen. Das Griechenbeisl am Fleischmarkt, eines der ältesten Gasthäuser Wiens, nimmt ihn für sich in Anspruch; dort soll er gespielt haben.",
+   "fakt": "Die Pest 1679 war Anlass für die Stiftung der Pestsäule am Graben.",
+   "quellen": [
+    {
+     "t": "Lieber Augustin (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Lieber_Augustin"
+    }
+   ]
+  },
+  {
+   "n": "Zum Heidenschuß",
+   "kat": "mythos",
+   "wiki": "Zum Hayden Schuß",
+   "adr": "Strauchgasse 1",
+   "lon": 16.36617,
+   "lat": 48.2109,
+   "jahr": "1365",
+   "text": "Hier stand seit dem 13. Jahrhundert ein Haus mit dem Hausschild „Da der Hayden scheuzzt“, 1365 erstmals erwähnt. Das Schild nannte 1701 sogar den „Haidenschuss oder Kiell allwo der Türck reitt“; am Haus saß ein Sarazene mit Pfeil und Bogen. 1850 kaufte Fürst Montenuovo das Haus, ließ es abreißen und ein Palais bauen; zur Erinnerung wurde ein Reiter mit Säbel angebracht. Eine Tafel erinnert daran, dass hier der Alsbach floss.",
+   "fakt": "Der „Heidenschuss“ bezieht sich nicht auf Türken von 1529, sondern ist älter.",
+   "quellen": []
+  },
+  {
+   "n": "Pestsäule am Graben",
+   "kat": "geschichte",
+   "wiki": "Dreifaltigkeitssäule (1)",
+   "adr": "Graben",
+   "lon": 16.36978,
+   "lat": 48.20871,
+   "jahr": "1679–1693",
+   "text": "Die Dreifaltigkeitssäule geht auf ein Gelübde Kaiser Leopolds I. in der Pestepidemie 1679 zurück und bestand zuerst nur aus Holz. Die steinerne Säule ist ein hervorragendes Beispiel der Hochbarock-Bildhauerei. Der Name Graben erinnert an den Lagergraben des römischen Legionslagers, der später zugeschüttet wurde.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Adlerturm: Der unvollendete Nordturm",
+   "kat": "bauwerk",
+   "wiki": "Adlerturm",
+   "adr": "Stephansplatz",
+   "lon": 16.37343,
+   "lat": 48.20862,
+   "jahr": "1450",
+   "text": "Am 3. August 1450 legte Hans Puchsbaum die Fundamente für den Nordturm, den „Adlerturm“, unter Friedrich III. Er sollte höher als der Südturm werden, blieb aber unausgebaut. Die Überlieferung sagt, dass der Wein in jenem Jahr so sauer war, dass der Kaiser ihn zum Löschen des Kalks verwenden ließ. Bauchemiker haben bestätigt, dass Wein im Mörtel die Festigkeit erhöht.",
+   "fakt": "Der Turm trägt heute einen Renaissance-Helm mit Haube von 1579 und beherbergt die Pummerin.",
+   "quellen": []
+  },
+  {
+   "n": "12. April 1945: Der Stephansdom brennt",
+   "kat": "ereignis",
+   "wiki": "Stephansdom",
+   "adr": "Stephansplatz",
+   "lon": 16.37326,
+   "lat": 48.20842,
+   "jahr": "1945",
+   "text": "In den letzten Kriegstagen entstanden um den Stephansplatz Brände, die durch Plünderungen und Funkenflug auf den Dachstuhl des Domes übergriffen. Am 12. April 1945 brannte der Dachstuhl ab; die Pummerin stürzte ab und zerschellte. Die neue Pummerin wurde 1951 in St. Florian gegossen und im April 1952 geweiht. Der Wiederaufbau wurde durch Spenden aus ganz Österreich getragen.",
+   "fakt": "Die Pummerin wog 20.130 Kilogramm.",
+   "quellen": []
+  },
+  {
+   "n": "Stephansfreithof: Der große Friedhof um den Dom",
+   "kat": "verschwunden",
+   "wiki": "Stephansfreithof",
+   "adr": "Stephansplatz",
+   "lon": 16.37409,
+   "lat": 48.20855,
+   "jahr": "bis 1732",
+   "text": "Um den Stephansdom lag der größte und berühmteste Friedhof innerhalb der babenbergischen Ringmauer. Er bestand bis 1732 und wurde dann aufgelassen. Die Gräber sind unter dem Pflaster, die Gebeine der Pest- und Kriegstoten in den Katakomben unter dem Dom. Der Platz heißt bis heute Stephansplatz; die Fläche wurde zur Straße.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kolschitzky und die Legende vom ersten Kaffeehaus",
+   "kat": "mythos",
+   "wiki": "Kolschitzky-Gedenktafel",
+   "adr": "Domgasse 8",
+   "lon": 16.3753,
+   "lat": 48.20785,
+   "jahr": "1683–1685",
+   "text": "Nach der Legende brachte Georg Franz Kolschitzky 1683 als Kundschafter Kaffeesäcke aus dem Lager der Osmanen mit und eröffnete das erste Kaffeehaus. Historisch ist das erste Privileg 1685 an den Armenier Johannes Diodato vergeben worden. Kolschitzky war Dolmetscher und Kurier. Die Tafel am Haus in der Domgasse wurde 1983 von der Warschauer Konditorenzunft gestiftet. Er wohnte im hinteren Teil, der zur Grünangergasse reicht.",
+   "fakt": "Das Haus hieß „Zum Grünen Kreuz“.",
+   "quellen": []
+  },
+  {
+   "n": "Mozarthaus: Figaro in der Domgasse",
+   "kat": "kultur",
+   "wiki": null,
+   "adr": "Domgasse 5",
+   "lon": 16.3757,
+   "lat": 48.20775,
+   "jahr": "1784–1787",
+   "text": "Mozart wohnte hier von September 1784 bis April 1787 im ersten Stock; es ist die einzige erhaltene seiner Wiener Wohnungen. In diesen Räumen entstand „Die Hochzeit des Figaro“, die 1786 im Burgtheater uraufgeführt wurde. Seit 2006 ist das Haus ein Museum und trägt den Beinamen Figarohaus.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Mozarthaus Vienna (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Mozarthaus_Vienna"
+    }
+   ]
+  },
+  {
+   "n": "Alte Universität und Haydns letzter Auftritt",
+   "kat": "kultur",
+   "wiki": null,
+   "adr": "Dr.-Ignaz-Seipel-Platz 2",
+   "lon": 16.3776,
+   "lat": 48.20865,
+   "jahr": "1808",
+   "text": "Das Gebäude der Alten Universität entstand 1753–1755 nach Plänen von Jean Nicolas Jadot und beherbergt heute die Akademie der Wissenschaften. Im Festsaal wurde am 27. März 1808 Haydns „Schöpfung“ unter Antonio Salieri aufgeführt. Der gebrechliche Haydn wurde im Sessel hereingetragen; es war einer seiner letzten öffentlichen Auftritte. Daneben steht die Jesuitenkirche (Universitätskirche).",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Alte Universität (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Alte_Universität_(Wien)"
+    }
+   ]
+  },
+  {
+   "n": "Augustinerkirche: Hochzeiten und Herzen",
+   "kat": "bauwerk",
+   "wiki": "Augustinerkirche",
+   "adr": "Augustinerstraße 3",
+   "lon": 16.36804,
+   "lat": 48.20519,
+   "jahr": "1736–1854",
+   "text": "Die Augustinerkirche war Hofpfarrkirche: Hier heirateten Maria Theresia und Franz Stephan 1736, Marie Louise und Napoleon 1810 per procurationem und Franz Joseph und Elisabeth am 24. April 1854. In der Loretokapelle stehen die Herzurnen der Habsburger in der Herzgruft.",
+   "fakt": "Herzen und Körper wurden getrennt bestattet: Herzen in der Augustinerkirche, Eingeweide in der Stephansgruft, Körper in der Kapuzinergruft.",
+   "quellen": []
+  },
+  {
+   "n": "Kapuzinergruft",
+   "kat": "bauwerk",
+   "wiki": "Kapuzinerkirche",
+   "adr": "Neuer Markt",
+   "lon": 16.36993,
+   "lat": 48.20573,
+   "jahr": "1617–2011",
+   "text": "Die Kapuzinerkirche wurde 1617 von Kaiser Matthias und Kaiserin Anna gestiftet und wurde zur Grablege der Habsburger. Über 140 Mitglieder der Familie sind hier bestattet. Der Doppelsarkophag für Maria Theresia und Franz Stephan von Balthasar Ferdinand Moll zählt zu den Meisterwerken. 1916 wurde Franz Joseph beigesetzt, 1989 Kaiserin Zita und 2011 Otto von Habsburg.",
+   "fakt": "Die Beerdigung 2011 wurde nach altem Zeremoniell abgehalten: Der Zeremonienmeister klopfte dreimal an die Tür.",
+   "quellen": []
+  },
+  {
+   "n": "Donnerbrunnen und die Keuschheitskommission",
+   "kat": "kurios",
+   "wiki": null,
+   "adr": "Neuer Markt",
+   "lon": 16.3705,
+   "lat": 48.2055,
+   "jahr": "1739",
+   "text": "Der Brunnen von Georg Raphael Donner (1737–1739) zeigt die Providentia mit vier Figuren, die die Nebenflüsse der Donau Traun, Enns, Ybbs und March darstellen. Die nackten Figuren störten Maria Theresia und die „Keuschheitskommission“; sie wurden entfernt. Die Originale aus Blei stehen heute im Belvedere, auf dem Platz Kopien aus Bronze.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Donnerbrunnen (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Donnerbrunnen_(Wien)"
+    }
+   ]
+  },
+  {
+   "n": "Kärntnertor und Kärntnerturm",
+   "kat": "verschwunden",
+   "wiki": "Kärntnerturm-Gedenktafel",
+   "adr": "Walfischgasse / Kärntner Ring",
+   "lon": 16.37065,
+   "lat": 48.20341,
+   "jahr": "1296–1861",
+   "text": "Der Kärntnerturm sicherte das Kärntnertor, 1296 erstmals erwähnt. Im Jahr 1529 war er Hauptangriffsziel der Osmanen und wurde schwer beschädigt, aber wieder aufgebaut. Vom 13. bis 16. Jahrhundert diente er als Stadtgefängnis, vor 1589 wurde er teilweise abgetragen. 1861–1864 errichteten Ludwig Förster und Theophil Hansen an dieser Stelle das Palais Todesco, einen der frühesten Bauten der Ringstraße. Eine Tafel an der Walfischgasse erinnert an den Turm.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kärntnertortheater: Beethovens Neunte",
+   "kat": "verschwunden",
+   "wiki": null,
+   "adr": "Philharmonikerstraße (Hotel Sacher)",
+   "lon": 16.3693,
+   "lat": 48.2038,
+   "jahr": "1709–1870",
+   "text": "Das Kärntnertortheater diente als Hof- und Opernhaus bis 1870. Hier wurde am 7. Mai 1824 Beethovens Neunte Symphonie uraufgeführt; der fast taube Komponist stand am Pult. Nach der Eröffnung der neuen Oper wurde das Haus abgerissen und 1876 das Hotel Sacher an seiner Stelle gebaut.",
+   "fakt": "Die berühmte Szene: Die Altistin Caroline Unger drehte den tauben Beethoven zum Publikum um, damit er den Applaus sah.",
+   "quellen": [
+    {
+     "t": "Kärntnertortheater (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Kärntnertortheater"
+    }
+   ]
+  },
+  {
+   "n": "Wiener Staatsoper: Ein Bau mit Tragödie",
+   "kat": "bauwerk",
+   "wiki": null,
+   "adr": "Opernring 2",
+   "lon": 16.3694,
+   "lat": 48.203,
+   "jahr": "1869",
+   "text": "Das Haus von Eduard van der Nüll und August Sicard von Sicardsburg wurde am 25. Mai 1869 mit „Don Giovanni“ eröffnet. Weil der Ringstraßenplatz nachträglich angehoben wurde, spottete man, die Oper sei „versunken“. Van der Nüll nahm sich im April 1868 das Leben, Sicardsburg starb wenige Wochen später. Am 12. März 1945 wurde die Oper bombardiert; sie öffnete am 5. November 1955 mit Beethovens „Fidelio“ wieder.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Altes Burgtheater am Michaelerplatz",
+   "kat": "verschwunden",
+   "wiki": null,
+   "adr": "Michaelerplatz",
+   "lon": 16.3663,
+   "lat": 48.20795,
+   "jahr": "1741–1888",
+   "text": "Bis 1888 stand am Michaelerplatz das alte Burgtheater, ein umgebauter Ballhaus-Bau. Hier wurden Mozarts „Entführung aus dem Serail“ (1782), „Figaro“ (1786) und „Così fan tutte“ (1790) uraufgeführt. 1888 übersiedelte das Haus an den Ring. Die Fläche gehört heute zum Michaelerplatz mit Römerausgrabungen.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Café Griensteidl und Jung-Wien",
+   "kat": "kultur",
+   "wiki": null,
+   "adr": "Michaelerplatz 2",
+   "lon": 16.3665,
+   "lat": 48.2086,
+   "jahr": "1847–1897",
+   "text": "Das Café Griensteidl war Treffpunkt von Hugo von Hofmannsthal, Arthur Schnitzler, Hermann Bahr und Karl Kraus. 1897 wurde das Café abgebrochen, Kraus schrieb dazu „Die demolirte Literatur“. Seit 1990 gibt es wieder ein Café dieses Namens an der Stelle.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Café Griensteidl (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Café_Griensteidl"
+    }
+   ]
+  },
+  {
+   "n": "Looshaus: Das Haus ohne Augenbrauen",
+   "kat": "bauwerk",
+   "wiki": null,
+   "adr": "Michaelerplatz 3",
+   "lon": 16.36765,
+   "lat": 48.20835,
+   "jahr": "1909–1911",
+   "text": "Adolf Loos baute das Geschäftshaus für die Herrenschneiderei Goldman & Salatsch gegenüber der Hofburg. Die glatte Fassade ohne Fensterverdachungen löste einen Skandal aus; man sprach vom „Haus ohne Augenbrauen“. Der Bau wurde zeitweise gestoppt, bis Blumenkästen angebracht wurden. Kaiser Franz Joseph soll das Haus ignoriert haben.",
+   "fakt": "Die Säulen im Erdgeschoß sind aus grünem Cipollino-Marmor.",
+   "quellen": [
+    {
+     "t": "Looshaus (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Looshaus"
+    }
+   ]
+  },
+  {
+   "n": "Burgkapelle und Sängerknaben",
+   "kat": "kultur",
+   "wiki": "Burgkapelle",
+   "adr": "Hofburg, Schweizerhof",
+   "lon": 16.36597,
+   "lat": 48.20656,
+   "jahr": "1498",
+   "text": "In der Burgkapelle singen sonntags die Wiener Sängerknaben, die auf die Hofmusikkapelle von Kaiser Maximilian I. 1498 zurückgehen. Die Kapelle gehört zum ältesten Teil der Hofburg, dem Schweizerhof. Das Vierturmkastell der Burg ist der Kern der Anlage.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Heldenplatz, 15. März 1938",
+   "kat": "ereignis",
+   "wiki": null,
+   "adr": "Heldenplatz",
+   "lon": 16.3642,
+   "lat": 48.2064,
+   "jahr": "1938",
+   "text": "Am 15. März 1938 hielt Adolf Hitler vom Balkon der Neuen Burg eine Rede an eine große Menschenmenge und verkündete den „Anschluss“. Der Platz ist damit Symbol für den Anschluss Österreichs. 1988 löste Thomas Bernhards Stück „Heldenplatz“ im Burgtheater einen Skandal aus.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Heldendenkmal im Äußeren Burgtor",
+   "kat": "erinnerung",
+   "wiki": "Österreichisches Heldendenkmal",
+   "adr": "Heldenplatz",
+   "lon": 16.36291,
+   "lat": 48.20549,
+   "jahr": "1934",
+   "text": "Peter Nobiles Äußeres Burgtor (1821–1824) wurde 1933/34 durch Rudolf Wondracek zum Heldendenkmal für die Gefallenen des Ersten Weltkriegs umgebaut. Es war das wichtigste Denkmal des Dollfuß-/Schuschnigg-Regimes. Das Gerücht, unter der Skulptur des gefallenen Kriegers von Wilhelm Frass liege ein NS-Huldigungsschreiben, bestätigte sich 2012: Der Granitblock wurde gehoben, und eine Hülse mit dem Schreiben kam zutage.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Parlament und der 12. November 1918",
+   "kat": "politik",
+   "wiki": null,
+   "adr": "Dr.-Karl-Renner-Ring 3",
+   "lon": 16.3594,
+   "lat": 48.2077,
+   "jahr": "1918",
+   "text": "Am 12. November 1918 wurde vor dem Parlament die Republik ausgerufen. Beim Hissen der Fahne wurde aus der rot-weiß-roten Flagge der weiße Streifen ausgeschnitten und rot gelassen; im Tumult fielen Schüsse. Das Haus wurde 1874–1883 von Theophil Hansen gebaut. Der Pallas-Athene-Brunnen davor entstand 1902.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Parlamentsgebäude (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Parlamentsgebäude_(Wien)"
+    }
+   ]
+  },
+  {
+   "n": "13. März 1848 im Landhaus",
+   "kat": "ereignis",
+   "wiki": null,
+   "adr": "Herrengasse 13",
+   "lon": 16.36523,
+   "lat": 48.21014,
+   "jahr": "1848",
+   "text": "Am 13. März 1848 versammelten sich Bürger und Studenten vor dem niederösterreichischen Landhaus in der Herrengasse. Adolf Fischhof hielt eine Rede, der Druck führte zum Rücktritt Metternichs. Der Landtag tagte hier; die Revolution von 1848 begann in dem Gebäude.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Mölker Bastei und Pasqualatihaus",
+   "kat": "verschwunden",
+   "wiki": null,
+   "adr": "Mölker Bastei 8",
+   "lon": 16.36437,
+   "lat": 48.21282,
+   "jahr": "1857–1858",
+   "text": "Die Mölker Bastei ist eines der wenigen erhaltenen Stücke der Renaissancebefestigung. Mit dem Handschreiben vom 20. Dezember 1857 ordnete Franz Joseph die Schleifung der Stadtmauer an. Das Pasqualatihaus auf der Bastei bewohnte Beethoven 1804–1808 und 1810–1814; hier entstanden unter anderem Teile der Vierten und Fünften Symphonie.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Pasqualatihaus (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Pasqualatihaus"
+    }
+   ]
+  },
+  {
+   "n": "Die Ringstraße entsteht",
+   "kat": "geschichte",
+   "wiki": "Ringstraße (Viertel)",
+   "adr": "Ringstraße",
+   "lon": 16.3722,
+   "lat": 48.2022,
+   "jahr": "1857–1865",
+   "text": "Nach dem Handschreiben von 1857 wurden Basteien abgetragen und der Stadtgraben zugeschüttet. Der Wettbewerb 1858 brachte Ludwig Förster, van der Nüll und Sicardsburg und Friedrich Stache als Preisträger. Die Verbauung erfolgte in Phasen: zuerst Franz-Josefs-Kai und Opernviertel, nach dem Börsenkrach 1873 Votivkirchen- und Rathausviertel, zuletzt Postsparkassenviertel. Eröffnet wurde die Ringstraße am 1. Mai 1865; sie ist rund 57 Meter breit.",
+   "fakt": "Die Altstadt blieb weitgehend unangetastet.",
+   "quellen": []
+  },
+  {
+   "n": "Brand des Ringtheaters und Sühnhaus",
+   "kat": "ereignis",
+   "wiki": "Sühnhauskapelle",
+   "adr": "Schottenring 7",
+   "lon": 16.36396,
+   "lat": 48.21496,
+   "jahr": "1881",
+   "text": "Am 8. Dezember 1881 brannte das Ringtheater vor der Aufführung von „Hoffmanns Erzählungen“ ab. Nach amtlicher Zählung starben 384 Menschen, vermutlich mehr. Aus Privatmitteln Kaiser Franz Josephs entstand 1885 nach Plänen von Friedrich von Schmidt das Sühnhaus, in dem eine Kapelle eingerichtet wurde. Aus der Katastrophe folgten Feuerschutzvorschriften und die Gründung der Freiwilligen Rettungsgesellschaft.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gestapo-Leitstelle Morzinplatz",
+   "kat": "erinnerung",
+   "wiki": null,
+   "adr": "Morzinplatz",
+   "lon": 16.3765,
+   "lat": 48.2142,
+   "jahr": "1938–1945",
+   "text": "Das Hotel Métropole am Morzinplatz war ab 1938 die Zentrale der Gestapo in Wien. Tausende Menschen wurden hier verhört, viele misshandelt. Das Gebäude wurde 1945 zerstört; ein Gedenkstein erinnert mit den Worten „Hier stand das Haus der Gestapo. Es war für die Bekämpfer eines freien Österreich die Hölle.“",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Laurenzerberg: Zwangsarbeiterlager",
+   "kat": "erinnerung",
+   "wiki": "Laurenzerberg",
+   "adr": "Laurenzerberg 1",
+   "lon": 16.37825,
+   "lat": 48.21082,
+   "jahr": "1942–1945",
+   "text": "Der Laurenzerberg wurde 1857 nach dem Laurenzerinnenkloster benannt und folgt dem abfallenden Gelände zum Donaukanal. Im Haus Nummer 1 befand sich zwischen 1942 und 1945 ein Zwangsarbeiterlager. Im Haus Nummer 2 steht das Laurenzergebäude.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Luegerdenkmal",
+   "kat": "politik",
+   "wiki": "Luegerdenkmal (1)",
+   "adr": "Dr.-Karl-Lueger-Platz",
+   "lon": 16.37976,
+   "lat": 48.20754,
+   "jahr": "1926",
+   "text": "Das Denkmal von Josef Müllner wurde 1913–1916 geschaffen und erst am 19. September 1926 enthüllt. Karl Lueger war von 1897 bis 1910 Bürgermeister und machte Antisemitismus zum politischen Programm. Der Ring wurde 2012 in Universitätsring umbenannt, der Platz blieb. 2021 wählte eine Jury einen Entwurf zur Kontextualisierung, der das Standbild neigen sollte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Postsparkasse: Otto Wagners Meisterwerk",
+   "kat": "bauwerk",
+   "wiki": null,
+   "adr": "Georg-Coch-Platz 2",
+   "lon": 16.3814,
+   "lat": 48.2103,
+   "jahr": "1904–1912",
+   "text": "Otto Wagner baute die Postsparkasse 1904–1906 und erweiterte sie 1910–1912. Die Fassade ist mit Marmorplatten verkleidet, die mit Aluminiumbolzen befestigt sind. Die Schalterhalle hat ein Glasdach. Das Viertel ringsum, das Stubenviertel, orientierte sich an Wagners Entwurf.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Österreichische Postsparkasse (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Österreichische_Postsparkasse"
+    }
+   ]
+  },
+  {
+   "n": "Wehrmann in Eisen",
+   "kat": "kurios",
+   "wiki": "Wehrmann in Eisen",
+   "adr": "Felderstraße 6–8 / Ebendorferstraße 1",
+   "lon": 16.35689,
+   "lat": 48.21186,
+   "jahr": "1915",
+   "text": "Nach dem Vorbild des Stock im Eisen ließ Korvettenkapitän Theodor Graf Hartig 1914 einen „Wehrmann in Eisen“ schaffen. Gegen Spenden durften Bürger Nägel einschlagen, in Eisen, Silber oder Gold. Das Geld ging an Kriegerwitwen und Waisen. Aufgestellt wurde er 1915 am Schwarzenbergplatz, seit 1934 steht er am Rathaus.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zentralfischmarkt und Schanzel",
+   "kat": "alltag",
+   "wiki": "Zentralfischmarkt",
+   "adr": "Donaukanal, Obere Donaustraße",
+   "lon": 16.36818,
+   "lat": 48.21199,
+   "jahr": "1904",
+   "text": "1904 entstand am Donaukanal der Zentralfischmarkt mit zwei Hallen und zwölf Ständen. Er war aus dem mehrfach wechselnden Fischmarkt hervorgegangen, der zuvor am Hohen Markt, vor dem Schanzeltor und kurz in der Markthalle Zedlitzgasse lag. Die Kühlanlage wurde im Zweiten Weltkrieg zerstört. 1955 lag die Fischzufuhr bei 7,32 Millionen Kilogramm.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Tiefer Graben und der eingewölbte Alsbach",
+   "kat": "wasser",
+   "wiki": "Neue Hohe Brücke",
+   "adr": "Wipplingerstraße / Tiefer Graben",
+   "lon": 16.36863,
+   "lat": 48.21274,
+   "jahr": "1782–1904",
+   "text": "Der Tiefe Graben ist der alte Bachlauf des Alsbachs, der durch Strauchgasse und Tiefen Graben zum Donauarm floss. Die Hohe Brücke überspannt ihn seit 1782; sie wurde 1858 und 1903/04 durch Neubauten ersetzt. Die heutige Brücke von Josef Hackhofer steht unter Denkmalschutz.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Elefant Soliman 1552",
+   "kat": "kurios",
+   "wiki": "Schebenzerlucke (1, Innere Stadt)",
+   "adr": "Wienfluss vor dem Stubentor",
+   "lon": 16.38199,
+   "lat": 48.20636,
+   "jahr": "1552",
+   "text": "In der Schebenzerlucke, einer Lücke am Wienfluss vor dem Stubentor, stand 1552 eine Scheune, in der der erste Elefant auf Wiener Boden besichtigt werden konnte. Erzherzog Maximilian II. hatte ihn nach Wien gebracht. Der Name Schebenzerlucke geht auf die Bürgerfamilie Schemnitzer zurück. Das Tier ist als Soliman bekannt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Himmelpfortkloster und Winterpalais",
+   "kat": "verschwunden",
+   "wiki": "Himmelpfortkloster",
+   "adr": "Himmelpfortgasse",
+   "lon": 16.37269,
+   "lat": 48.20583,
+   "jahr": "13. Jahrhundert–1783",
+   "text": "Das Kloster St. Agnes zur Himmelpforte soll Konstanze, Tochter Bélas III. und Witwe Ottokars I. von Böhmen, gegründet haben. Es war zuerst Prämonstratenserinnen-, dann ab 1586 Augustiner-Chorfrauenkloster, 1783 wurde es aufgehoben. Die Gasse trägt den Namen bis heute. Das Winterpalais des Prinzen Eugen steht in derselben Gasse.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Irene-Harand-Hof",
+   "kat": "wohnen",
+   "wiki": null,
+   "adr": "Judengasse, Innere Stadt",
+   "lon": 16.3739,
+   "lat": 48.2117,
+   "jahr": "1953",
+   "text": "Der Gemeindebau wurde 1953 mit 22 Wohnungen errichtet. Er trägt den Namen von Irene Harand, die in den 1930er Jahren eine Bewegung gegen Antisemitismus gründete und 1935 das Buch „Sein Kampf“ gegen Hitler schrieb. Sie floh 1938 und starb 1975 in New York.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Palais Ferstel und Café Central",
+   "kat": "kultur",
+   "wiki": null,
+   "adr": "Herrengasse 14 / Freyung 2",
+   "lon": 16.366,
+   "lat": 48.2109,
+   "jahr": "1856–1876",
+   "text": "Heinrich von Ferstel baute 1856–1860 das Bank- und Börsengebäude, heute Palais Ferstel. Das Café Central öffnete 1876. Zu den Stammgästen gehörten Peter Altenberg und Leo Trotzki, der von 1907 bis 1914 in Wien lebte.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Am Hof: Pfalz und Mariensäule",
+   "kat": "geschichte",
+   "wiki": null,
+   "adr": "Am Hof",
+   "lon": 16.3683,
+   "lat": 48.21099,
+   "jahr": "1155–1667",
+   "text": "Heinrich II. Jasomirgott machte 1155/56 den Platz Am Hof zur Residenz. Die Mariensäule wurde 1667 aufgestellt, nachdem Ferdinand III. 1645 ein Gelübde im Schwedenkrieg abgelegt hatte. Die Putten kämpfen gegen Löwe, Basilisk, Drache und Schlange als Sinnbilder für Krieg, Hunger, Pest und Ketzerei.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Innere Stadt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Innere_Stadt"
+    }
+   ]
+  },
+  {
+   "n": "Minoritenkirche und das Abendmahl-Mosaik",
+   "kat": "bauwerk",
+   "wiki": "Minoritenkirche",
+   "adr": "Minoritenplatz 2A",
+   "lon": 16.36374,
+   "lat": 48.20934,
+   "jahr": "1224–1846",
+   "text": "Die Minoriten wurden 1224 von Leopold VI. nach Wien berufen. Die gotische Kirche (Maria Schnee) ist heute die italienische Nationalkirche. Im Innern hängt ein Mosaik nach Leonardos Abendmahl, das 1846 für das Kaiserhaus erworben wurde. 1596–1620 war die Kirche protestantisch.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Wann wurde die Ringstraße feierlich eröffnet?",
+   "a": "1. Mai 1865",
+   "f": [
+    "20. Dezember 1857",
+    "12. November 1918",
+    "1. Mai 1873"
+   ],
+   "erkl": "Das Handschreiben zur Schleifung der Basteien stammt vom Dezember 1857, die feierliche Eröffnung der Ringstraße war am 1. Mai 1865.",
+   "wiki": "Ringstraße (Viertel)",
+   "quellen": []
+  },
+  {
+   "q": "Woher hat der Salzgries seinen Namen?",
+   "a": "Hier legten Salzschiffe am sandigen Ufer des Donauarms an.",
+   "f": [
+    "Hier stand das Salzamt der Hofkammer.",
+    "Er geht auf die Familie Salz zurück.",
+    "Hier wurde Salz aus dem Wienfluss gewonnen."
+   ],
+   "erkl": "Gries heißt sandiges Ufer; seit 1322 ist Salzgries belegt, weil Salzschiffe am südlichsten Donauarm anlegten.",
+   "wiki": "Salzgries",
+   "quellen": []
+  },
+  {
+   "q": "Für welche Berufsgruppe war die Ruprechtskirche besonders wichtig?",
+   "a": "Salzer",
+   "f": [
+    "Fischer",
+    "Bäcker",
+    "Schiffbauer"
+   ],
+   "erkl": "Der heilige Rupert ist Patron der Salzer; ab dem 14. Jahrhundert bildeten sie bei der Kirche eine eigene Zeche.",
+   "wiki": "Ruprechtskirche",
+   "quellen": []
+  },
+  {
+   "q": "Was geschah am 12. März 1421 in Erdberg?",
+   "a": "Rund 200 Jüdinnen und Juden wurden verbrannt.",
+   "f": [
+    "Die Universität wurde eröffnet.",
+    "Die Stadtmauer wurde fertiggestellt.",
+    "Die Synagoge am Judenplatz wurde geweiht."
+   ],
+   "erkl": "Die Wiener Gesera 1420/21 endete mit der Verbrennung von rund 200 Menschen; die Synagoge am Judenplatz wurde zerstört.",
+   "wiki": null,
+   "quellen": []
+  },
+  {
+   "q": "Wo wurde Beethovens Neunte Symphonie 1824 uraufgeführt?",
+   "a": "Kärntnertortheater",
+   "f": [
+    "Altes Burgtheater",
+    "Theater an der Wien",
+    "Theater in der Josefstadt"
+   ],
+   "erkl": "Am 7. Mai 1824 im Kärntnertortheater, an dessen Stelle heute das Hotel Sacher steht.",
+   "wiki": null,
+   "quellen": []
+  },
+  {
+   "q": "Was bedeutet der Name „Pfaffenstadt“?",
+   "a": "Ein von Rudolf IV. 1365 geplantes abgetrenntes Universitätsviertel",
+   "f": [
+    "Der Spitzname des Schottenstifts",
+    "Das Viertel der Domherren von St. Stephan",
+    "Ein mittelalterliches Armenviertel"
+   ],
+   "erkl": "Die Gründungsurkunde der Universität 1365 sah ein eigenes Universitätsviertel nach Pariser Vorbild vor; es kam nicht zustande.",
+   "wiki": "Pfaffenstadt",
+   "quellen": []
+  },
+  {
+   "q": "Wer erwarb 1846 das Abendmahl-Mosaik in der Minoritenkirche?",
+   "a": "Das Kaiserhaus",
+   "f": [
+    "Die Stadt Wien",
+    "Der Orden der Minoriten",
+    "Fürst Metternich"
+   ],
+   "erkl": "Das Mosaik nach Leonardo kam 1846 für das Kaiserhaus nach Wien; die Minoritenkirche ist italienische Nationalkirche.",
+   "wiki": "Minoritenkirche",
+   "quellen": []
+  },
+  {
+   "q": "Wann brannte das Ringtheater?",
+   "a": "8. Dezember 1881",
+   "f": [
+    "12. März 1945",
+    "15. Juli 1927",
+    "1. Mai 1865"
+   ],
+   "erkl": "Der Brand von 1881 kostete nach amtlicher Zählung 384 Menschen das Leben; danach entstand das Sühnhaus.",
+   "wiki": "Sühnhauskapelle",
+   "quellen": []
+  },
+  {
+   "q": "Worauf spielt der Name „Bermudadreieck“ für das Lokalviertel am Ruprechtsplatz an?",
+   "a": "Auf das Bermudadreieck im Atlantik, in dem Schiffe angeblich verschwinden",
+   "f": [
+    "Auf eine Familie Bermuda",
+    "Auf einen Wirt aus Bermuda",
+    "Auf die Form des Judenplatzes"
+   ],
+   "erkl": "Der Name spielt auf das Dreieck im Atlantik an, wo Schiffe angeblich verschwinden, und auf die Szene der Lokale seit den 1980ern.",
+   "wiki": "Bermudadreieck",
+   "quellen": []
+  },
+  {
+   "q": "Wer baute die Postsparkasse am Georg-Coch-Platz?",
+   "a": "Otto Wagner",
+   "f": [
+    "Adolf Loos",
+    "Heinrich von Ferstel",
+    "Theophil Hansen"
+   ],
+   "erkl": "Wagner baute sie 1904–1906 und erweiterte sie 1910–1912.",
+   "wiki": null,
+   "quellen": []
+  },
+  {
+   "q": "Welches Wesen soll in der Schönlaterngasse einst im Brunnen gelebt haben?",
+   "a": "Ein Basilisk",
+   "f": [
+    "Ein Drache",
+    "Ein Lindwurm",
+    "Ein Wolfsmensch"
+   ],
+   "erkl": "Der Sage nach tötete ein Bäckerlehrling 1212 den Basilisken mit einem Spiegel.",
+   "wiki": null,
+   "quellen": []
+  },
+  {
+   "q": "Wer erhielt 1685 das erste Wiener Kaffeesieder-Privileg?",
+   "a": "Johannes Diodato",
+   "f": [
+    "Georg Franz Kolschitzky",
+    "Marx Augustin",
+    "Prinz Eugen"
+   ],
+   "erkl": "Das Kolschitzky-Narrativ ist Legende; das erste Privileg erhielt der Armenier Johannes Diodato.",
+   "wiki": "Kolschitzky-Gedenktafel",
+   "quellen": []
+  },
+  {
+   "q": "Was war die Preukuchel im Sauwinkel?",
+   "a": "Das städtische Schlachthäusl für Schweine",
+   "f": [
+    "Ein Brauhaus",
+    "Eine Backstube",
+    "Ein Kloster"
+   ],
+   "erkl": "Im Sauwinkel lagerten die Schweine des Viehmarkts; hier stand das städtische Schlachthäusl.",
+   "wiki": "Sauwinkel",
+   "quellen": []
+  },
+  {
+   "q": "Welches Datum markiert die Ausrufung der Republik vor dem Parlament?",
+   "a": "12. November 1918",
+   "f": [
+    "15. März 1938",
+    "13. März 1848",
+    "8. Mai 1945"
+   ],
+   "erkl": "Am 12. November 1918 wurde vor dem Parlament die Republik ausgerufen.",
+   "wiki": null,
+   "quellen": []
+  },
+  {
+   "q": "Warum ist der Wiener Stadttempel von der Straße nicht sichtbar?",
+   "a": "Das Toleranzpatent verbot jüdischen Gotteshäusern ein Straßenportal.",
+   "f": [
+    "Er wurde im Zweiten Weltkrieg abgetragen.",
+    "Er liegt unter dem Erdboden.",
+    "Der Architekt wollte es so aus Platzgründen."
+   ],
+   "erkl": "Joseph Kornhäusel baute ihn 1825–1826 im Hof hinter einer Wohnhausfassade.",
+   "wiki": "Stadttempel",
+   "quellen": []
+  },
+  {
+   "q": "Welches Tier wurde 1552 in der Schebenzerlucke gezeigt?",
+   "a": "Ein Elefant",
+   "f": [
+    "Ein Löwe",
+    "Ein Kamel",
+    "Ein Nashorn"
+   ],
+   "erkl": "Erzherzog Maximilian II. brachte 1552 den ersten Elefanten nach Wien.",
+   "wiki": "Schebenzerlucke (1, Innere Stadt)",
+   "quellen": []
+  },
+  {
+   "q": "Was zeigte das Hausschild „Da der Hayden scheuzzt“ in der Strauchgasse?",
+   "a": "Einen Sarazenen mit Pfeil und Bogen",
+   "f": [
+    "Einen Jäger mit Gewehr",
+    "Einen Türken mit Krummsäbel zu Fuß",
+    "Einen Wolf"
+   ],
+   "erkl": "Das Schild ist 1365 erstmals bezeugt; am Haus saß eine Figur mit Pfeil und Bogen.",
+   "wiki": "Zum Hayden Schuß",
+   "quellen": []
+  }
+ ]
+}

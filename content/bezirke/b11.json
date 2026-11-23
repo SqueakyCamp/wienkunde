@@ -1,0 +1,702 @@
+{
+ "nr": 11,
+ "name": "Simmering",
+ "kurz": "Ein Bezirk der großen Infrastruktur und der Toten, zwischen Gaswerk, Kraftwerk und Zentralfriedhof, mit zwei Dorfkernen, die älter sind als Wien selbst als Großstadt.",
+ "profil": [
+  "Simmering entstand 1890/1892 im Zuge der Stadterweiterung aus den bis dahin selbstständigen Vorortgemeinden Simmering und Kaiserebersdorf sowie aus Teilen von Albern, Schwechat und Kledering. Der Ort Simmering wird schon 1028 als „Simmanningen“ urkundlich genannt, Ebersdorf (ab 1499 Kaiserebersdorf) um 1108/1125. Albern wurde 1938 nach Groß-Wien eingemeindet, kam zum 23. Bezirk Schwechat und wurde 1956 endgültig zu Simmering geschlagen. Die Katastralgemeinden sind Simmering, Kaiserebersdorf und Albern.",
+  "Die Gegend liegt auf der Praterterrasse an der Donau. Das Dorf Simmering war ein Uferranddorf und von Hochwässern bedroht, daher die vielen Nepomukfiguren. Albern wurde 1775 und 1793 nach Überschwemmungen neu gebaut und liegt seither weiter Richtung Schwechat. Östlich von Simmering erstreckt sich die Simmeringer Haide, im Volksmund „Simmeringer Had“, ein flaches, lange unwirtliches Heideland, das sogar im Wienerlied verewigt ist. Diese Fläche wurde zur Aufmarsch-, Exerzier- und Übungsfläche und später zur Industriezone der Stadt.",
+  "Schon in der Frühgeschichte wurde hier gelebt und bestattet. In der Csokorgasse liegt der größte Friedhof der Frühgeschichte Wiens: Bei Grabungen bis 1977 wurden 705 Awarengräber geöffnet, belegt vom 7. bis zum späten 8. Jahrhundert. Die alte Laurentiuskirche steht auf einem Hügel neben der Limesstraße nach Carnuntum. In Kaiserebersdorf entstand aus einer Burg der Herren von Ebersdorf ein habsburgisches Jagdschloss, und Maximilian II. ließ zwischen 1568 und 1575 mit dem Neugebäude eine der größten Renaissanceanlagen nördlich der Alpen anlegen.",
+  "Die Industrialisierung machte aus der Haide einen Standort für städtische Infrastruktur: Das erste städtische Gaswerk der Stadt (1896 bis 1899) mit seinen vier Gasometern, das Elektrizitätswerk (ab 1900), die Waffenfabrik (1927 bis 1930), die Saurerwerke (Lastwagen und Autobusse, 1916 in Simmering) und später die Hauptkläranlage (1980) und die Müllverbrennungsanlage Pfaffenau (2008). Die Brauerei der Familie Mautner Markhof im Thurnhof prägte den Ort bis 1930. Der Zentralfriedhof, 1874 auf Kaiserebersdorfer Gebiet angelegt, bedeckt mehr als zwei Quadratkilometer.",
+  "Simmering war ein Kerngebiet der Arbeiterbewegung. Die Gemeindebauten des Roten Wien, etwa Widholzhof, Karl-Höger-Hof, Anton-Schrammel-Hof oder Rosa-Jochmann-Hof, prägen den Ortskern. Im Arbeiterheim kam es im Oktober 1932 zu einem bewaffneten Zusammenstoß zwischen Nationalsozialisten und dem Schutzbund. Im Februar 1934 wurde der Widholzhof vom Bundesheer zusammengeschossen. Nach 1945 entstanden große Gemeindebauanlagen wie Salvador-Allende-Hof und Karl-Maisel-Hof.",
+  "In der NS-Zeit gab es in Simmering zahlreiche Zwangsarbeiterlager, und ab August 1944 war bei den Saurerwerken ein Außenlager des KZ Mauthausen, in dem mehr als 1.600 Häftlinge Panzermotoren fertigten. Die Simmeringer Synagoge in der Braunhubergasse 7 wurde im Novemberpogrom 1938 zerstört. Nach 1945 lag der Bezirk in der sowjetischen Besatzungszone, Albern verblieb vorübergehend beim 2. Bezirk, weil ein Anschluss an Simmering den Ort unter britische Besatzung gebracht hätte.",
+  "Heute ist Simmering ein Bezirk der Gegensätze: Die Gasometer sind seit 2001 als Wohnanlage, Einkaufs- und Veranstaltungsort umgenutzt, die U3 endet im Bezirk, und Neubau- und Gemeindebaugrätzel wachsen entlang der Simmeringer Hauptstraße. Gleichzeitig gibt es am Ostrand Gärten, Schrebergärten, Albern mit dem Hafen und Au. Starkregen ist ein Problem, wofür die Stadt 2013 bis 2016 unter einem Sportplatz ein Speicherbecken für 28,5 Millionen Liter Wasser baute."
+ ],
+ "politik": "Bezirksvorsteher ist seit 30. November 2020 Thomas Steinhart (SPÖ). Bei der Bezirksvertretungswahl 2025 kam die SPÖ auf 42,1 Prozent, die FPÖ auf 37,0 Prozent, die Grünen auf 6,0, die ÖVP auf 5,3, NEOS auf 4,2 und die KPÖ auf 2,6 Prozent bei einer Beteiligung von 43,2 Prozent. Simmering ist traditionell sozialdemokratisch und zählt zugleich zu den Bezirken, in denen die FPÖ den größten Abstand zur SPÖ aufgeholt hat.",
+ "quellen": [
+  {
+   "t": "Wien Geschichte Wiki: Simmering",
+   "u": "https://www.geschichtewiki.wien.gv.at/Simmering"
+  },
+  {
+   "t": "Wikipedia: Simmering",
+   "u": "https://de.wikipedia.org/wiki/Simmering"
+  },
+  {
+   "t": "Stadt Wien: Bezirksvorsteher*innen und Stellvertreter*innen seit 1945 (11. Bezirk)",
+   "u": "https://www.wien.gv.at/politik/bezirksvorsteher-stellvertreter-seit-1945-1110"
+  },
+  {
+   "t": "Stadt Wien: Bezirksvertretungswahl 2025 (Kandidat*innen)",
+   "u": "https://www.wien.gv.at/advwahlkand/internet/KandidatAlphabet.aspx?N=B&WID=BV251"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Simmering (Katastralgemeinde)",
+   "art": "Katastralgemeinde",
+   "wiki": "Simmering (Katastralgemeinde)",
+   "lon": 16.4211,
+   "lat": 48.17,
+   "text": "Der alte Ortskern liegt rund um die Simmeringer Hauptstraße bei der Laurentiuskirche und der früheren Brauerei im Thurnhof. 1028 wird der Ort als „Simmanningen“ genannt, um 1130 ein Isinrich von Simmanningen als Herr der Herrschaft. 1677 erwarb das Himmelpfortkloster die Herrschaft, nach der Aufhebung 1783 kam sie an die Staatsgüteradministration. Der Ort wuchs durch Fabriken und Gaswerk rasant und wurde 1892 zum 11. Bezirk.",
+   "quellen": []
+  },
+  {
+   "n": "Kaiserebersdorf",
+   "art": "Katastralgemeinde",
+   "wiki": "Ebersdorf",
+   "lon": 16.45248,
+   "lat": 48.15462,
+   "text": "Ebersdorf wird um 1108/1125 als „Eberisdorf“ erstmals erwähnt und war neben Simmering die zweite Altsiedlung des Bezirks. Die Herren von Ebersdorf besaßen bis 1499 das feste Haus beim heutigen Münnichplatz, dann kam es an Maximilian I., seitdem heißt der Ort Kaiserebersdorf. In der zweiten Hälfte des 15. Jahrhunderts terrorisierten die Räuberfürsten Ludwenko und Pangratz mit Söldnerbanden die Gegend bis Fischamend. Der Ortskern am Münnichplatz mit Schloss, Kirche und Thürnlhof ist noch zu erkennen.",
+   "quellen": []
+  },
+  {
+   "n": "Albern",
+   "art": "Katastralgemeinde",
+   "wiki": "Albern (Ort)",
+   "lon": 16.48119,
+   "lat": 48.15857,
+   "text": "Albern wird am 4. Juli 1162 als „Albrah“ erstmals genannt. Der Ort litt unter Donauhochwässern, 1557 verlieh Ferdinand I. den Bewohnern die Weiße Au, die 1618 weggeschwemmt wurde. 1775 und 1793 musste das Dorf nach Überschwemmungen neu erbaut werden. 1892 wurden Teile nach Wien eingemeindet, der Rest am 15. Oktober 1938 zum 23. Bezirk. 1954 kam Albern auf Wunsch der Sowjets zum 2. Bezirk und seit 1956 zum 11.",
+   "quellen": []
+  },
+  {
+   "n": "Neu Albern",
+   "art": "Siedlung",
+   "wiki": "Neu Albern",
+   "lon": 16.479,
+   "lat": 48.16718,
+   "text": "Neu Albern erscheint auf Stadtplänen um 1900 noch nicht, ist aber um 1930 als Siedlung jenseits der damaligen südöstlichen Stadtgrenze verzeichnet. Auch die Neubachbrücke (1957) erinnert an den Neubach, der seit den 1980er Jahren nicht mehr besteht.",
+   "quellen": []
+  },
+  {
+   "n": "Neusimmering",
+   "art": "Grätzel",
+   "wiki": "Neusimmeringer Kirche",
+   "lon": 16.41345,
+   "lat": 48.17595,
+   "text": "Mit der rasch wachsenden Bevölkerung forderte man schon 1872 eine zweite Kirche neben der Laurentiuskirche. Der Baugrund am Enkplatz konnte aber erst 1904 gesichert werden, ein Volksentscheid wählte aus drei Entwürfen jenen von Hans Schneider. Der Enkplatz hieß ursprünglich Marktplatz, der Simmeringer Markt wurde dort 1874 eröffnet. Rund um den Platz stehen Arbeiterheim, Bezirksmuseum und Gemeindehaus.",
+   "quellen": []
+  },
+  {
+   "n": "Hasenleiten",
+   "art": "Siedlung",
+   "wiki": "Städtische Wohnhausanlage Hasenleiten",
+   "lon": 16.41884,
+   "lat": 48.16802,
+   "text": "Der Flurname Hasenleiten bezeichnet die Anlage, die 1937 im Austrofaschismus beschlossen wurde, um Kriegsbaracken zu ersetzen. Architekt war Morzin Aemilian Servé. Bis 1938 begann man sechs von dreißig geplanten Blöcken, 34 Baracken standen noch. Ab 1950 wurde die Siedlung fertiggestellt, am Ende standen 1.249 Wohnungen.",
+   "quellen": []
+  },
+  {
+   "n": "Siedlung Weißenböckstraße",
+   "art": "Siedlung",
+   "wiki": "Siedlung Weißenböckstraße",
+   "lon": 16.42674,
+   "lat": 48.16021,
+   "text": "Die Siedlung entstand 1923 (erster Abschnitt) und 1928 nach Plänen von Franz Kaym und Alfons Hetmanek. Der erste Abschnitt umfasste 71 nicht unterkellerte Häuser mit Stall und Wirtschaftsgebäude auf nur 350 Quadratmeter großen Parzellen, ausgelegt für Selbstversorgung durch Obst- und Gemüseanbau. In der NS-Zeit erwog man eine Erweiterung mit Finnenhäusern aus Holz für Wehrmachtsangehörige, der Plan scheiterte kriegsbedingt.",
+   "quellen": []
+  },
+  {
+   "n": "Simmeringer Haide",
+   "art": "Grätzel",
+   "wiki": "Simmeringer Haide",
+   "lon": 16.45035,
+   "lat": 48.1755,
+   "text": "Die Simmeringer Haide gehört zur Praterterrasse und war bis zur Donaukanalregulierung 1832 mit dem Prater verbunden. Bis Mitte des 19. Jahrhunderts übte hier die Wiener Garnison mit Artillerie. 1896 bis 1902 entstanden Gaswerk und Elektrizitätswerk, nach dem Ersten Weltkrieg ein Industriegebiet. Die Haide war bis zum Ersten Weltkrieg auch Domäne des Fußballs.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Zentralfriedhof",
+   "kat": "geschichte",
+   "wiki": "Zentralfriedhof",
+   "adr": "Simmeringer Hauptstraße 232-244, Haupteingang Tor 2",
+   "lon": 16.43644,
+   "lat": 48.14972,
+   "jahr": "1874",
+   "text": "Der Gemeinderat beschloss die Anlage am 24. November 1863 auf Kommunalkosten, die Standortwahl erhitzte jahrelang die Gemüter. Dem Bürgermeister Cajetan Felder wurde Parteilichkeit vorgeworfen, weil er auch Vormund des Besitzers der Schwechater Brauerei, Anton Dreher junior, war. 1866 kaufte man 328 Joch von der Gemeinde Kaiserebersdorf. Den Wettbewerb von 1871 gewannen Alfred Friedrich Bluntschli und Carl Jonas Mylius aus Frankfurt. Der Friedhof wurde am 1. November 1874 eröffnet und war von Beginn an interkonfessionell geplant, was zu Widerständen der katholischen Kirche führte. Er ist heute 2,35 Quadratkilometer groß und hat rund 330.000 Gräber, darunter rund 1.000 Ehrengräber.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Luegerkirche",
+   "kat": "bauwerk",
+   "wiki": "Luegerkirche",
+   "adr": "Zentralfriedhof, Hauptallee",
+   "lon": 16.44169,
+   "lat": 48.15404,
+   "jahr": "1908–1911",
+   "text": "Die offiziell dem heiligen Karl Borromäus geweihte Kirche bildet den Mittelpunkt des Zentralfriedhofs. Max Hegele entwarf sie nach einem Wettbewerb von 1899, die Grundsteinlegung war am 11. Mai 1908 und die Einweihung am 11. Juni 1911. Sie ist mit der Otto-Wagner-Kirche am Steinhof verwandt, aber für doppelt so viele Besucher gedacht. Karl Lueger hat in der Gruft seine letzte Ruhestätte. Die Kuppel hatte ursprünglich einen Sternenhimmel aus Goldglas auf dunkelblauem Grund, seit 1952 zeigt sie die vier Elemente. Bis 2000 hieß sie amtlich Dr.-Karl-Lueger-Gedächtniskirche.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Neue Zeremonienhalle",
+   "kat": "erinnerung",
+   "wiki": "Neue Zeremonienhalle",
+   "adr": "Zentralfriedhof, Israelitische Abteilung, beim V. Tor",
+   "lon": 16.44139,
+   "lat": 48.15428,
+   "jahr": "1928",
+   "text": "Weil im alten jüdischen Teil beim I. Tor kein Platz mehr war, wurde 1914 beim V. Tor ein neuer jüdischer Friedhof angelegt. Ignaz Nathan Reiser baute die neue Zeremonienhalle mit stark orientalisierenden Elementen, sie wurde am 9. September 1928 übergeben. Im Novemberpogrom, am 10. November 1938, wurde sie weitgehend zerstört. 1967 stellte Robert Kanfer sie nach dem Originalentwurf wieder her.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Denkmal für die 1934 gefallenen Exekutivkräfte",
+   "kat": "politik",
+   "wiki": "Denkmal Opfer seitens der Exekutive 1934",
+   "adr": "Zentralfriedhof, Gruppe 71F",
+   "lon": 16.43611,
+   "lat": 48.14833,
+   "jahr": "1934",
+   "text": "In der ehrenhalber gewidmeten Grabanlage wurden im Februar 1934 Angehörige des Bundesheeres, der Polizei und des austrofaschistischen Freiwilligen Schutzkorps begraben, am 1. August 1934 auch drei Polizisten, die beim nationalsozialistischen Putschversuch starben. Die Tafel ehrt die „Helden der Pflicht“. Der Historiker Kurt Bauer hielt fest, dass einige der hier Bestatteten gar nicht an den Kämpfen beteiligt waren, sondern zufällig starben, hohe Opferzahlen waren im Sinne des Regimes.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schloss Neugebäude",
+   "kat": "bauwerk",
+   "wiki": "Schloss Neugebäude",
+   "adr": "Simmeringer Hauptstraße 337",
+   "lon": 16.44135,
+   "lat": 48.15833,
+   "jahr": "1568–1597",
+   "text": "Maximilian II. ließ 1568 bis 1575 einen „neuen Fasan- oder Lustgarten“ zwischen Simmering und dem Jagdschloss Ebersdorf anlegen. Pietro Ferrabosco führte die riesige Anlage aus, vielleicht nach einem Konzept von Jacopo da Strada. Es gab zwei Geländeterrassen, Arkadengänge mit Ecktürmen, ein Labyrinth, einen Teich mit Schwänen und drei Marmorbrunnen des Bildhauers Alexander Colin. Unter Rudolf II. entstand 1576 bis 1585 das steinerne Lusthaus, für das erstmals 1597 der Name „Neu(es) Gebäude“ belegt ist, der später auf die ganze Anlage überging. 1597 wurden die Arbeiten aus finanziellen Gründen eingestellt, 1600 stürzte ein Gewölbe ein.",
+   "fakt": "Die Menagerie, deren Begriff hier erstmals verwendet worden sein soll, wurde 1607 aus Kaiserebersdorf ins Neugebäude verlegt.",
+   "quellen": []
+  },
+  {
+   "n": "Schloss Kaiserebersdorf",
+   "kat": "geschichte",
+   "wiki": "Kaiserebersdorfer Schloss",
+   "adr": "Kaiser-Ebersdorfer Straße 297",
+   "lon": 16.47366,
+   "lat": 48.15926,
+   "jahr": "1499",
+   "text": "1499 kam die Herrschaft an Maximilian I., der das Schloss zu einem fürstlichen Jagdschloss ausbauen ließ. Maximilian II. richtete hier 1552 schon als Erzherzog eine Menagerie ein, das Wort wird hier erstmals verwendet. 1558 bis 1561 wurde es aufgestockt, 1619 besetzten böhmische Rebellen das Schloss und machten es zum Hauptquartier unter Thurn-Valsassina. 1683 beschädigten es die Osmanen schwer, danach stellte Burnacini es wieder her. Seit 1929 war hier die Bundesanstalt für Erziehungsbedürftige, die sich zum berüchtigten Jugendgefängnis entwickelte und 1974 geschlossen wurde, heute ist es die Justizanstalt Simmering.",
+   "fakt": "Die Anlage der Justizanstalt enthält bis heute Bauteile aus dem Hoch- und Spätmittelalter.",
+   "quellen": []
+  },
+  {
+   "n": "Awarengräber in der Csokorgasse",
+   "kat": "geschichte",
+   "wiki": "Awarengräber",
+   "adr": "Csokorgasse (früher Kelleracker)",
+   "lon": 16.46021,
+   "lat": 48.14541,
+   "jahr": "7.–8. Jahrhundert",
+   "text": "Erste Fundberichte stammen von 1927 und 1954, doch erst 1971 bei Straßenbauarbeiten entdeckte Skelette und die großflächigen Grabungen ab 1976 bewiesen, dass unter dem Kelleracker der größte Friedhof der Frühgeschichte Wiens liegt. Bis 21. Oktober 1977 öffnete man 705 Gräber, darunter vier Reitergräber. Das Gräberfeld war vom Beginn des 7. bis ins späte 8. Jahrhundert belegt. Zwei Bestattungen mit Beigaben sind im Bezirksmuseum Simmering ausgestellt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Alte Simmeringer Kirche",
+   "kat": "bauwerk",
+   "wiki": "Alte Simmeringer Kirche",
+   "adr": "Simmeringer Hauptstraße 157-159",
+   "lon": 16.4211,
+   "lat": 48.17,
+   "jahr": "1267",
+   "text": "Die dem heiligen Laurentius geweihte Kirche gehört zu den ältesten auf Wiener Gebiet und soll schon vor rund 1.000 Jahren hier gestanden haben, auf einem Hügel neben der Limesstraße nach Carnuntum. Am 25. November 1267 wird sie erstmals als Filialkirche von St. Stephan genannt, 1440 reichte ihr Pfarrbezirk bis Erdberg, St. Marx, Rennweg und Landstraße. Die Laurentiusverehrung hängt mit dem Sieg auf dem Lechfeld am 10. August 955 gegen die Ungarn zusammen. 1529 wurde sie fast zerstört, 1683 wieder beschädigt und 1691 bis 1693 neu aufgebaut.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gasometer-City",
+   "kat": "industrie",
+   "wiki": "Gasometer-City",
+   "adr": "Guglgasse 6-14",
+   "lon": 16.41854,
+   "lat": 48.18527,
+   "jahr": "1896–2001",
+   "text": "Die vier Gasometer gehörten zum ersten städtischen Gaswerk, das 1896 bis 1899 erbaut wurde. Auf dem Areal stand zuvor die Zündhütchenfabrik des liberalen Bezirksvorstehers Georg Krepp. Am 31. Oktober 1899 beleuchtete das Gas erstmals die Ringstraße. Bei der Umnutzung blieben die Fassaden erhalten: Jean Nouvel plante Gasometer A, Coop Himmelb(l)au B, Manfred Wehdorn C, die offizielle Eröffnung war am 31. August 2001. Das Shoppingkonzept bewährte sich nicht, bis 2013 wurde daraus die größte Music-City Mitteleuropas mit Popakademie und Jam Music Lab.",
+   "fakt": "Laut Rechnungshof waren 2007 bis 2009 nur 50 Prozent der Mall vermietet.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Gaswerk Simmering",
+     "u": "https://www.geschichtewiki.wien.gv.at/Gaswerk_Simmering"
+    }
+   ]
+  },
+  {
+   "n": "Elektrizitätswerk Simmering",
+   "kat": "industrie",
+   "wiki": "Elektrizitätswerk Simmering",
+   "adr": "Simmeringer Lände / Haide",
+   "lon": 16.43209,
+   "lat": 48.18539,
+   "jahr": "1900–1902",
+   "text": "Der Gemeinderat beschloss am 11. Mai 1900 den Bau eines städtischen Kraftwerks in Simmering. Das „Bahnwerk“ lieferte ab 8. April 1902 Strom für die inzwischen elektrifizierte Straßenbahn, das „Lichtwerk“ nahm am 22. September 1902 den Betrieb auf. 1944/1945 wurde es schwer zerstört und war Anfang 1956 zu drei Vierteln wieder betriebsbereit. In den 1960er Jahren kamen mehrere Blockkraftwerke dazu, 1970 Block 6.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Brauerei im Thurnhof",
+   "kat": "industrie",
+   "wiki": "Simmeringer Brauerei",
+   "adr": "Mautner-Markhof-Gasse 40-50",
+   "lon": 16.42081,
+   "lat": 48.17689,
+   "jahr": "1605–1930",
+   "text": "Der Thurnhof wird schon 1405 erwähnt und stand unter dem Schutz der Herren von Ebersdorf. Ein Brief von 1605 belegt hier ein Brauhaus, das schon „Märzenbier“ gebraut haben soll. 1677 kaufte das Himmelpfortkloster die Grundherrschaft, 1801 führte man mit einem Kessel von Joseph Lenoble die Steinkohleheizung ein. 1802 ersteigerte Johann Georg Dittmann den Hof samt Brauhaus. Die Brauerei bestand bis 1930, der Ort ist heute nach der Brauerfamilie Mautner Markhof benannt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kaiserebersdorfer Brauhaus und Georgskapelle",
+   "kat": "verschwunden",
+   "wiki": "Kaiserebersdorfer Brauhaus",
+   "adr": "Mailergasse 5 und 12-14; Georgskapelle Kaiserebersdorfer Straße",
+   "lon": 16.46751,
+   "lat": 48.15912,
+   "jahr": "1470–1868",
+   "text": "Im Mühlberghof wurde schon in der zweiten Hälfte des 15. Jahrhunderts Bier gebraut. Braumeister Johann Georg Uhl erwarb den überschuldeten Besitz 1716 und stiftete 1763 die gemauerte Georgskapelle, 1912 wurde sie wegen der Straßenbahn auf den heutigen Platz versetzt. Der Schlussstein zeigt gekreuzte Malzschaufeln, Uhls Firmenzeichen. An Mailergasse 12 erinnert eine Tafel an Marschall Jean Lannes, der nach der Schlacht bei Aspern 1809 hier starb. 1868 legte der neue Besitzer die Brauerei still.",
+   "fakt": "Die Malzfabrik des Hauses war 1893 bei der Weltausstellung in Chicago vertreten.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Georgskapelle (11, Kaiserebersdorfer Straße)",
+     "u": "https://www.geschichtewiki.wien.gv.at/Georgskapelle_(11,_Kaiserebersdorfer_Straße)"
+    }
+   ]
+  },
+  {
+   "n": "Friedhof der Namenlosen",
+   "kat": "wasser",
+   "wiki": "Neuer Friedhof der Namenlosen",
+   "adr": "Molostraße / Alberner Hafen",
+   "lon": 16.50246,
+   "lat": 48.15952,
+   "jahr": "1900",
+   "text": "Der Friedhof der Namenlosen dient der Bestattung von Wasserleichen, die die Donau anschwemmte. Der Wiener Stadtrat überließ der Gemeinde Albern 1899 eine Waldparzelle, 1900 wurde der neue Friedhof angelegt, durch Dämme vor Überflutung geschützt. Als 1939 die Donau durch den Bau von Getreidesilo und Alberner Hafen eine andere Richtung erhielt, wurden keine Leichen mehr hier angeschwemmt. 1940 fand die letzte Bestattung statt, 1957 kam er an die MA 7. Die Auferstehungskapelle (1933 bis 1935, Carl Eder) entstand beim Bau verstärkter Hochwasserdämme.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Auferstehungskapelle",
+     "u": "https://www.geschichtewiki.wien.gv.at/Auferstehungskapelle"
+    }
+   ]
+  },
+  {
+   "n": "Widholzhof und der Februar 1934",
+   "kat": "politik",
+   "wiki": "Widholzhof",
+   "adr": "Geiselbergstraße 60-64",
+   "lon": 16.40999,
+   "lat": 48.17403,
+   "jahr": "1925–1926",
+   "text": "Engelbert Mang baute den Hof 1925/1926, er ist nach Laurenz Widholz benannt. Der „Pelikanbrunnen“ stammt von Alfred Hoffmann (1925). Im Februar 1934 versammelten sich hier kampfbereite Schutzbündler. Am 13. Februar wurde der Widholzhof vom Bundesheer sturmreif geschossen, am 14. Februar ergaben sich die Schutzbündler, als Gebirgskanonen und Minenwerfer in Stellung gebracht wurden. Blickfang ist der dreieckige Straßenhof zur Geiselbergstraße.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Arbeiterheim Simmering",
+   "kat": "politik",
+   "wiki": "Arbeiterheim Simmering",
+   "adr": "Drischützgasse 4",
+   "lon": 16.41179,
+   "lat": 48.17565,
+   "jahr": "1932",
+   "text": "Am 16. Oktober 1932 griffen Nationalsozialisten im Verlauf eines Propagandaaufmarschs das Arbeiterheim bewaffnet an. Da man damit gerechnet hatte, war eine Kompanie des Republikanischen Schutzbunds im Haus, die das Feuer erwiderte. Vier Menschen starben, darunter der sozialdemokratische Polizei-Rayonsinspektor Karl Tlasek (Gedenktafel). Die Polizei besetzte danach das Haus, ging gegen Sozialdemokraten vor und verwüstete die Einrichtung.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Flugfeld Simmering",
+   "kat": "ereignis",
+   "wiki": "Flugfeld Simmering",
+   "adr": "Simmeringer Haide",
+   "lon": 16.44964,
+   "lat": 48.17609,
+   "jahr": "1909–1910",
+   "text": "Am 23. Oktober 1909 führte Louis Blériot, der im Juli den Ärmelkanal überflogen hatte, auf der Haide Schauflüge vor. Am 10. Oktober 1910 startete Karl Illner mit einer Etrichtaube zum Überlandflug Wien-Horn-Wien, fast 300.000 Zuschauer*innen kamen. Die „Neue Freie Presse“ jubelte „Der Mensch fliegt“. Im Juni 1910 startete auch ein Wettflug Wien-Budapest-Wien. Der Flugplatz Wiens wurde dennoch 1912 in Aspern errichtet.",
+   "fakt": "Der Simmeringer Rudolf Simon baute selbst den Doppeldecker „Simon I“.",
+   "quellen": []
+  },
+  {
+   "n": "Saurerwerke und KZ-Außenlager",
+   "kat": "erinnerung",
+   "wiki": "Österreichische Saurerwerke",
+   "adr": "Haidestraße 22",
+   "lon": 16.43615,
+   "lat": 48.17438,
+   "jahr": "1916–1969",
+   "text": "Die Saurerwerke stellten von 1906 bis 1969 Lastwagen und Autobusse her, mit einer Lizenz der Schweizer Firma Adolph Saurer. 1916 entstand in Simmering eine neue Fabrik für den Heeresbedarf. Im Zweiten Weltkrieg wurden zivile Zwangsarbeiter*innen und Kriegsgefangene eingesetzt, von August 1944 bis April 1945 bestand das KZ-Außenlager Saurerwerke des KZ Mauthausen, in dem mehr als 1.600 Häftlinge Panzermotoren fertigten. Ein Gedenkstein in der Haidestraße 22 wurde am 2. April 1981 enthüllt. 1969 ging das Werk in der Steyr-Daimler-Puch AG auf.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Waffenfabrik Simmeringer Haide",
+   "kat": "industrie",
+   "wiki": "Waffenfabrik",
+   "adr": "Haidestraße",
+   "lon": 16.43155,
+   "lat": 48.17774,
+   "jahr": "1927–1930",
+   "text": "Auf dem früheren Exerzierplatz Simmeringer Haide entstand 1927 bis 1930 eine Staatsfabrik, in der Waffen für das Bundesheer erzeugt wurden. Gelagert wurden sie in der Kaiserebersdorfer Landwehrkaserne. Im Nachbarbereich hatte es schon vorher ein Artilleriefuhrwesendepot gegeben. Seit 1961 trägt die Anlage den Namen „Militärische Liegenschaft Simmering“.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hauptkläranlage",
+   "kat": "wasser",
+   "wiki": "Hauptkläranlage",
+   "adr": "Haidequerstraße 6",
+   "lon": 16.46268,
+   "lat": 48.17373,
+   "jahr": "1970–1980",
+   "text": "Als die Belastung der Donau durch ungeklärte Abwässer in den 1960er Jahren untragbar wurde, plante man eine Kläranlage an einem der tiefsten Punkte der Stadt, wo alle Abwässer im freien Gefälle ankommen. Bürgermeister Bruno Marek legte am 4. Juni 1970 den Grundstein, 1980 ging sie in Betrieb. 2005 wurde sie durch eine zweite biologische Stufe auf vier Millionen Einwohnergleichwerte verdoppelt. Auch das Abwasser der Therme Oberlaa und der Bezirke jenseits der Donau fließt hierher.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Speicherbecken Simmering",
+   "kat": "wasser",
+   "wiki": "Speicherbecken Simmering",
+   "adr": "Haidestraße 10, unter dem Sportplatz des SC Mautner Markhof",
+   "lon": 16.43316,
+   "lat": 48.17736,
+   "jahr": "2013–2016",
+   "text": "Große Teile des Bezirks sind wegen der tiefen Lage besonders von Starkregen betroffen. Unter dem Sportplatz entstand ein 90 Meter langes, 45 Meter breites und 7 Meter tiefes Becken, das bis zu 28,5 Millionen Liter zwischenspeichert. Zwei Transportkanäle (Unter der Kirche und Florian-Hedorfer-Straße) mit zwei Metern Durchmesser und 1,9 Kilometern Länge wurden unterirdisch in geschlossener Bauweise gebohrt. Die Bauzeit dauerte von Oktober 2013 bis Juni 2016.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Müllverbrennungsanlage Pfaffenau",
+   "kat": "industrie",
+   "wiki": "Müllverbrennungsanlage Pfaffenau",
+   "adr": "Haidequerstraße / Pfaffenau",
+   "lon": 16.46108,
+   "lat": 48.17596,
+   "jahr": "2008",
+   "text": "Die dritte Wiener Müllverbrennungsanlage nach Flötzersteig und Spittelau wurde 2008 fertiggestellt. Die Gestaltung stammt von der Architektin Sne Veselinovic und den Architekten Herbert und Erwin Resetarits. Die Umweltverträglichkeitserklärung wurde 2003 eingereicht. Bei Vollbetrieb versorgt sie rund 12.000 Haushalte mit Fernwärme und 5.000 mit Strom.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Salvador-Allende-Hof",
+   "kat": "wohnen",
+   "wiki": "Salvador-Allende-Hof",
+   "adr": "Wilhelm-Kreß-Platz 29-30 / Simmeringer Hauptstraße 190-192",
+   "lon": 16.42691,
+   "lat": 48.16344,
+   "jahr": "1963–1968",
+   "text": "Die Anlage hat 1.092 Wohnungen (ursprünglich 1.177) in 23 freistehenden Häusern mit zusammen 86 Stiegen. Die Gebäude sind vier bis acht Geschosse hoch und in Zeilenbauweise angelegt, jeweils drei Blöcke liegen parallel nebeneinander und bilden quer zur Weißenböckstraße ausgerichtete Gruppen, von der Straße zurückgesetzt. Mehrere Architekt*innen, darunter Otto Frank, Richard Horner, Matthäus Jiszda, Rudolf Angelides und Anny Beranek, waren beteiligt.",
+   "fakt": "Der Bau wurde nach dem 1973 beim Putsch in Chile umgekommenen Präsidenten Salvador Allende benannt.",
+   "quellen": []
+  },
+  {
+   "n": "Rosa-Jochmann-Hof",
+   "kat": "wohnen",
+   "wiki": "Rosa-Jochmann-Hof",
+   "adr": "Simmeringer Hauptstraße 142-150",
+   "lon": 16.4212,
+   "lat": 48.16824,
+   "jahr": "1931–1932",
+   "text": "Josef Frank und Oskar Wlach, bekannt für Haus & Garten, bauten die Anlage mit 286 Wohnungen. Vier- bis fünfgeschossige Blöcke umgeben als Randbebauung ein unregelmäßiges Grundstück, ein Block ragt in den großen Hof hinein. 2013 wurde sie nach Rosa Jochmann benannt, Sozialdemokratin und Widerstandskämpferin.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Alfred-Wunsch-Hof",
+   "kat": "kultur",
+   "wiki": "Alfred-Wunsch-Hof",
+   "adr": "Lorystraße 35-37",
+   "lon": 16.41248,
+   "lat": 48.17347,
+   "jahr": "1953–1959",
+   "text": "Der Hof hat 105 Wohnungen und eine kunstvolle Ausstattung: Das Mosaik „Auf der Simmeringer Had’ hat’s an Schneider verwaht“ schuf Franz Zülow 1954, das Messingrelief „Mann mit Pferden“ Rudolf Kedl 1958/1960, die Knabengruppe im Grünen Rudolf Schwaiger. Der Mosaiktitel zitiert das bekannte Wienerlied über die Simmeringer Haide. Benannt ist der Hof nach einem Klubobmann der Sozialisten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Glaubenskirche von Roland Rainer",
+   "kat": "bauwerk",
+   "wiki": "Glaubenskirche",
+   "adr": "Braunhubergasse 20",
+   "lon": 16.41453,
+   "lat": 48.17011,
+   "jahr": "1962–1963",
+   "text": "Roland Rainer entwarf die evangelische Kirche als Atriumhaus mit fast kubischem Kirchenschiff. Sie wurde am 29. September 1963 von Superintendent Georg Traar geweiht, als 100. evangelische Kirche nach dem Zweiten Weltkrieg. Ihr Standort liegt in der Nähe der zerstörten Synagoge an der Braunhubergasse 7.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Synagoge Braunhubergasse",
+   "kat": "erinnerung",
+   "wiki": "Vereinssynagoge des Israelitischen Tempelvereins Simmering",
+   "adr": "Braunhubergasse 7",
+   "lon": 16.41701,
+   "lat": 48.17091,
+   "jahr": "1899–1938",
+   "text": "Die Vereinssynagoge des Israelitischen Tempelvereins Simmering wurde am 24. August 1899 eingeweiht und war bis 1938 das gesellschaftliche, religiöse und kulturelle Zentrum der Jüdinnen und Juden des 11. Bezirks. Dem Verein war der Israelitische Frauen-Wohltätigkeitsverein angeschlossen. Im Novemberpogrom 1938 wurde sie schwer beschädigt und abgerissen. 1977 entstand an ihrer Stelle ein privates Mehrfamilienhaus.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Weißes Kreuz in Kaiserebersdorf",
+   "kat": "mythos",
+   "wiki": "Weißes Kreuz (11, Kaiserebersdorf)",
+   "adr": "Etrichstraße 34 / Ecke Mühlsangergasse",
+   "lon": 16.46632,
+   "lat": 48.15461,
+   "jahr": "1848",
+   "text": "Die schmucklose weiße Steinsäule geht der Legende nach auf das Revolutionsjahr 1848 zurück: Ungarische Spione trieben sich bei der Kaiserebersdorfer Kaserne herum, wurden gemeldet und verhaftet. Die Form spricht aber für eine Entstehung im 17. Jahrhundert, 1848 wurde wohl nur restauriert. Früher stand das Kreuz an einer Wegkreuzung, heute gegenüber dem Neubaugebiet Muhrhoferweg aus den 1970er Jahren.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Seeschlachtpark",
+   "kat": "wasser",
+   "wiki": "Seeschlachtpark",
+   "adr": "Seeschlachtweg",
+   "lon": 16.43394,
+   "lat": 48.16832,
+   "jahr": "2004",
+   "text": "Der Park wurde am 18. Oktober 2004 nach dem Flurnamen benannt. Der Name geht auf einen Seitenbach der Schwechat zurück, der oft über die Ufer trat und einen See bildete, bis er „eingeschlachtet“, also reguliert wurde. Der Flurname hat also nichts mit einer Seeschlacht zu tun.",
+   "fakt": "Mit „einschlachten“ ist hier „regulieren“ gemeint.",
+   "quellen": []
+  },
+  {
+   "n": "Simmeringer Markt",
+   "kat": "alltag",
+   "wiki": "Simmeringer Markt (11)",
+   "adr": "Geiselbergstraße",
+   "lon": 16.41169,
+   "lat": 48.17426,
+   "jahr": "1874",
+   "text": "Bürgermeister Lorenz Gey eröffnete den Markt 1874 auf dem Marktplatz, der seit 1894 Enkplatz heißt. Wegen des Kirchenneubaus 1909 wurde er an die Ecke zur Sedlitzkygasse verlegt, 1924 schließlich in die Geiselbergstraße. Der Markt wanderte also mit dem wachsenden Ortskern.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zwangsarbeiterlager in Simmering",
+   "kat": "erinnerung",
+   "wiki": "Zwangsarbeiterlager Simmering",
+   "adr": "Simmeringer Lände 700, Geiereckstraße, Haidestraße u.a.",
+   "lon": 16.43791,
+   "lat": 48.18358,
+   "jahr": "1942–1945",
+   "text": "Zwischen 1942 und 1945 gab es auf Wiener Boden zahlreiche Lager für Zwangsarbeiter*innen und Sammellager für zur Deportation vorgesehene Jüdinnen und Juden. In Simmering war die Dichte hoch, etwa wegen der Rüstungsbetriebe auf der Haide. Eine Liste aus dem Volksgerichtsakt von Siegfried Seidl nennt ein Lager an der Simmeringer Lände 700 für ungarisch-jüdische Zwangsarbeiter*innen: Bei einer Inspektion umfasste es 37 Personen, 13 Männer und 24 Frauen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Dirndlhofkino",
+   "kat": "kultur",
+   "wiki": "Dirndlhofkino",
+   "adr": "Dreherstraße 1 / Münnichplatz 2",
+   "lon": 16.47208,
+   "lat": 48.15433,
+   "jahr": "1911–1912",
+   "text": "Die Hauseigentümerfamilie Kling suchte 1911 um die Genehmigung für ein „ebenerdiges, gemauertes, feuersicheres“ Kinogebäude an. Die Baubewilligung stammt vom 2. September 1911, Anfang 1912 nahm es den Betrieb auf. Lizenzinhaber war Karl Fischer junior. Das Kino in Kaiserebersdorf hatte einen Saal von 15 mal 8,5 Metern.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Aus welchen Orten wurde der 11. Bezirk 1890/1892 im Wesentlichen gebildet?",
+   "a": "Aus Simmering, Kaiserebersdorf und Teilen von Albern, Schwechat und Kledering",
+   "f": [
+    "Aus Simmering, Schwechat und Mannswörth",
+    "Aus Simmering, Erdberg und Albern",
+    "Aus Simmering, Rannersdorf und Himberg"
+   ],
+   "erkl": "Die Katastralgemeinden sind heute Simmering, Kaiserebersdorf und Albern.",
+   "wiki": "Simmering",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde Albern endgültig Teil des 11. Bezirks?",
+   "a": "1956",
+   "f": [
+    "1892",
+    "1938",
+    "1946"
+   ],
+   "erkl": "Albern kam 1938 zum 23. Bezirk, 1954 vorübergehend zum 2. Bezirk und 1956 zu Simmering.",
+   "wiki": "Albern (Ort)",
+   "quellen": []
+  },
+  {
+   "q": "Wie viele Awarengräber wurden bis 1977 in Simmering geöffnet?",
+   "a": "705",
+   "f": [
+    "77",
+    "1.205",
+    "305"
+   ],
+   "erkl": "Das Gräberfeld unter dem Kelleracker in der Csokorgasse war vom 7. bis ins späte 8. Jahrhundert belegt.",
+   "wiki": "Awarengräber",
+   "quellen": []
+  },
+  {
+   "q": "Welcher römischen Straße lag die Laurentiuskirche in Simmering benachbart?",
+   "a": "Der Limesstraße nach Carnuntum",
+   "f": [
+    "Der Bernsteinstraße nach Aquileia",
+    "Der Triester Straße nach Venedig",
+    "Der Salzstraße nach Mauthausen"
+   ],
+   "erkl": "Die Kirche steht auf einem Hügel neben der alten Limesstraße.",
+   "wiki": "Alte Simmeringer Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde der Zentralfriedhof eröffnet?",
+   "a": "1. November 1874",
+   "f": [
+    "24. November 1863",
+    "1. November 1784",
+    "1. Mai 1888"
+   ],
+   "erkl": "Der Beschluss fiel 1863, der Friedhof wurde 1874 auf Kaiserebersdorfer Gebiet eröffnet.",
+   "wiki": "Zentralfriedhof",
+   "quellen": []
+  },
+  {
+   "q": "Wer gewann 1871 den Wettbewerb zur Anlage des Zentralfriedhofs?",
+   "a": "Alfred Friedrich Bluntschli und Carl Jonas Mylius",
+   "f": [
+    "Max Hegele und Otto Wagner",
+    "Theophil Hansen und Carl Rahl",
+    "Camillo Sitte und Heinrich Ferstel"
+   ],
+   "erkl": "Beide kamen aus Frankfurt am Main.",
+   "wiki": "Zentralfriedhof",
+   "quellen": []
+  },
+  {
+   "q": "Wer entwarf die Luegerkirche am Zentralfriedhof?",
+   "a": "Max Hegele",
+   "f": [
+    "Otto Wagner",
+    "Josef Hoffmann",
+    "Clemens Holzmeister"
+   ],
+   "erkl": "Sie wurde 1908 bis 1911 gebaut und ist der Kirche am Steinhof verwandt.",
+   "wiki": "Luegerkirche",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Kaiser ließ ab 1568 das Neugebäude anlegen?",
+   "a": "Maximilian II.",
+   "f": [
+    "Ferdinand I.",
+    "Rudolf II. allein",
+    "Leopold I."
+   ],
+   "erkl": "Maximilian II. ließ den „neuen Fasan- oder Lustgarten“ anlegen, Rudolf II. setzte ihn fort.",
+   "wiki": "Schloss Neugebäude",
+   "quellen": []
+  },
+  {
+   "q": "Was wurde 1552 im Schloss Kaiserebersdorf eingerichtet?",
+   "a": "Eine Menagerie",
+   "f": [
+    "Eine Münzstätte",
+    "Eine Kanonengießerei",
+    "Eine Hofbibliothek"
+   ],
+   "erkl": "Maximilian II. richtete sie schon als Erzherzog ein, der Begriff wird hier erstmals verwendet.",
+   "wiki": "Kaiserebersdorfer Schloss",
+   "quellen": []
+  },
+  {
+   "q": "Was beleuchtete am 31. Oktober 1899 erstmals mit Gas aus Simmering?",
+   "a": "Die Laternen der Ringstraße",
+   "f": [
+    "Die Laternen der Mariahilfer Straße",
+    "Das Rathaus",
+    "Den Prater"
+   ],
+   "erkl": "Das Gaswerk Simmering war das erste städtische Gaswerk und bestand 1896 bis 1899.",
+   "wiki": "Gaswerk Simmering",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Architekt plante den Gasometer A der Gasometer-City?",
+   "a": "Jean Nouvel",
+   "f": [
+    "Manfred Wehdorn",
+    "Hans Hollein",
+    "Coop Himmelb(l)au"
+   ],
+   "erkl": "B stammt von Coop Himmelb(l)au und C von Manfred Wehdorn.",
+   "wiki": "Gasometer-City",
+   "quellen": []
+  },
+  {
+   "q": "Wer wurde im Februar 1934 im Widholzhof in Simmering vom Bundesheer beschossen?",
+   "a": "Schutzbundangehörige, die sich dort kampfbereit versammelt hatten",
+   "f": [
+    "Streikende Gasarbeiter",
+    "Nationalsozialistische Putschisten",
+    "Heimwehrangehörige"
+   ],
+   "erkl": "Am 13. Februar wurde der Hof sturmreif geschossen, am 14. ergaben sich die Schutzbündler.",
+   "wiki": "Widholzhof",
+   "quellen": []
+  },
+  {
+   "q": "Was geschah am 16. Oktober 1932 im Arbeiterheim Simmering?",
+   "a": "Ein bewaffneter Angriff von Nationalsozialisten wurde vom Schutzbund erwidert",
+   "f": [
+    "Ein Parteitag der SDAP",
+    "Ein Brand zerstörte den Saal",
+    "Eine Hausdurchsuchung der Polizei"
+   ],
+   "erkl": "Vier Menschen starben, darunter der Polizist Karl Tlasek.",
+   "wiki": "Arbeiterheim Simmering",
+   "quellen": []
+  },
+  {
+   "q": "Was wurde in den Saurerwerken in Simmering ab August 1944 gefertigt?",
+   "a": "Panzermotoren von KZ-Häftlingen",
+   "f": [
+    "Flugzeugpropeller von Kriegsgefangenen",
+    "Munition von Zwangsarbeiterinnen",
+    "Lastwagenreifen von Zivilarbeitern"
+   ],
+   "erkl": "Es war ein Außenlager des KZ Mauthausen mit mehr als 1.600 Häftlingen.",
+   "wiki": "Österreichische Saurerwerke",
+   "quellen": []
+  },
+  {
+   "q": "Was bedeutet der Flurname „Seeschlachtweg“?",
+   "a": "Er geht auf einen regulierten, oft überfluteten Bach zurück",
+   "f": [
+    "Er erinnert an ein Seemanöver der Donauflotte",
+    "Er geht auf eine Schlacht an einem See zurück",
+    "Er geht auf eine Fischzucht zurück"
+   ],
+   "erkl": "„Eingeschlachtet“ bedeutet reguliert.",
+   "wiki": "Seeschlachtpark",
+   "quellen": []
+  },
+  {
+   "q": "Welches Fassungsvermögen hat das Speicherbecken Simmering?",
+   "a": "28,5 Millionen Liter",
+   "f": [
+    "2,85 Millionen Liter",
+    "285 Millionen Liter",
+    "6 Millionen Liter"
+   ],
+   "erkl": "Sechs Millionen Liter fassen die beiden Transportkanäle, das Becken selbst bis zu 28,5 Millionen Liter.",
+   "wiki": "Speicherbecken Simmering",
+   "quellen": []
+  },
+  {
+   "q": "Wer startete am 10. Oktober 1910 von der Simmeringer Haide zu einem Überlandflug nach Horn und zurück?",
+   "a": "Karl Illner",
+   "f": [
+    "Louis Blériot",
+    "Igo Etrich",
+    "Rudolf Simon"
+   ],
+   "erkl": "Blériot unternahm am 23. Oktober 1909 Schauflüge, Illner flog 1910 mit einer Etrichtaube.",
+   "wiki": "Flugfeld Simmering",
+   "quellen": []
+  }
+ ]
+}

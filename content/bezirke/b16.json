@@ -1,0 +1,694 @@
+{
+ "nr": 16,
+ "name": "Ottakring",
+ "kurz": "Vom Weinhauerdorf am Wienerwaldrand und der Neugründung Neulerchenfeld zum Arbeiterbezirk mit Brauerei, Volksbildung und Heurigenhügel.",
+ "profil": [
+  "Ottakring entstand 1890/1892 aus den Vorortgemeinden Ottakring und Neulerchenfeld; die stadtnäheren Teile des Lerchenfelds waren schon 1850 an den 7. und 8. Bezirk gegangen. Die Grenze zur Stadt bildet der Gürtel, nach Westen läuft der Bezirk in Hügel und Wald aus. Mit 8,67 Quadratkilometern ist er deutlich größer als Rudolfsheim-Fünfhaus. Die ebenen Flächen waren ursprünglich Felder, die Hügel Weingärten, Weiden und Wald.",
+  "Der Name geht auf eine Siedlung zurück, die um 800 als Dorf der Leute eines Otacher aus einem Chiemgauer Grafengeschlecht entstanden sein soll. Um 1150 wird Ottakring erstmals urkundlich genannt. Das alte Dorf lag auf dem Hügel, den heute der Ottakringer Friedhof einnimmt, und hatte mit der Lambertkirche (1230 als „ad septem nuces“ erwähnt) eine eigene Kirche. 1683 wurde der alte Ortsteil von den Osmanen eingeäschert und nicht mehr an derselben Stelle aufgebaut, die Menschen siedelten sich im Tal um die Wolfgangkapelle von 1415/16 an.",
+  "Neulerchenfeld wurde um 1700 auf Grund des Stifts Klosterneuburg als Unter-Ottakring gegründet, 1704 trennte der Linienwall Alt- von Neulerchenfeld. Beide Orte wurden 1849 selbständige Gemeinden. Eine Feuersbrunst zerstörte 1835 einen großen Teil Ottakrings; durch Zuwanderung ärmerer Schichten wurde daraus Groß-Ottakring. 1856 öffnete das Thaliatheater, 1865 fuhr die Pferdetramway, 1873 wurde die Gürtelstraße eröffnet. Das Bezirkswappen vereint die Zeichen der Vororte, einen mit Mitra geschmückten Schild mit Kreuz auf einem Dreiberg für Ottakring und einen Baum mit drei Lerchen für Neulerchenfeld.",
+  "Die Industrialisierung machte aus dem Dorf einen Arbeiterbezirk. 1837 gründete Heinrich Plank die Ottakringer Brauerei, 1850 kauften die Vettern Ignaz und Jakob Kuffner sie und bauten sie zum Großbetrieb aus. Vereine und Arbeiterorganisationen schufen eine eigene Infrastruktur: 1905 öffnete die Volkshochschule Ottakring als Volksheim, 1907 das Arbeiterheim. Zugleich blieb der Westen des Bezirks Ausflugsziel. Das Liebhartstal galt als „Ottakringer Prater“, und der Heurigen 10er Marie besteht seit 1740.",
+  "Die Wohnbaugeschichte ist ungewöhnlich breit. Die Jubiläumshäuser (1899 bis 1901) waren ein Vorläufer des kommunalen Wohnbaus; 1922 baute die Gemeinde mit dem Haus im alten Ort ihren ersten Gemeindebau in Ottakring. In den 1920er-Jahren folgte mit dem Sandleitenhof (1587 Wohnungen) einer der größten Gemeindebauten des Roten Wien, in den 1930ern die Siedlung Starchant als Muster des christlichsozialen Siedlungsbaus. Nach 1945 kamen die Großanlagen wie der Novyhof.",
+  "Der Bezirk hat auch eine dunkle Seite. Die Synagoge in der Hubergasse wurde am 10. November 1938 verwüstet und später abgetragen, die Familie Kuffner musste 1938 die Brauerei unter Druck verkaufen, das Warenhaus Dichter wurde „arisiert“. Am Gallitzinberg entstand der Gaubefehlsstand, der sogenannte Schirachbunker. Auch das 1927 als modernes Kinderheim gegründete Schloss Wilhelminenberg ist mit späteren Missbrauchsvorwürfen verbunden.",
+  "Heute ist Ottakring ein migrantisch geprägter, junger und dicht bewohnter Bezirk, in dem der Brunnenmarkt mit etwa 160 Ständen einer der größten ständigen Straßenmärkte Europas ist und der Yppenplatz zum Treffpunkt eines neuen Publikums wurde. Die Klinik Ottakring, bis 31. Mai 2020 Wilhelminenspital, ist ein Großarbeitgeber. Im Westen bieten Ottakringer Wald, Jubiläumswarte und Weinberge Erholung, die der Stadt mit dem Wienerwald verbinden."
+ ],
+ "politik": "Bezirksvorsteherin ist Stefanie Lamp (SPÖ); sie hat das Amt vor der Wahl 2025 vom langjährigen Bezirksvorsteher übernommen. Bei der Bezirksvertretungswahl 2025 kam die SPÖ auf 38,2 %, die Grünen auf 18,9 %, die FPÖ auf 17,6 %, die ÖVP auf 9,5 %, NEOS auf 7,3 % und die KPÖ auf 6,0 % (Beteiligung 46,4 %). Seit 1946 stellt die SPÖ durchgehend den Bezirksvorsteher bzw. die Bezirksvorsteherin.",
+ "quellen": [
+  {
+   "t": "Wien Geschichte Wiki: Ottakring",
+   "u": "https://www.geschichtewiki.wien.gv.at/Ottakring"
+  },
+  {
+   "t": "Wikipedia: Ottakring",
+   "u": "https://de.wikipedia.org/wiki/Ottakring"
+  },
+  {
+   "t": "Wien-Wahl 2025: Neue Gesichter an der Spitze von fünf Bezirken",
+   "u": "https://www.vienna.at/wien-wahl-2025-neue-gesichter-an-der-spitze-von-fuenf-bezirken/9346235"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Ottakring (Dorf)",
+   "art": "Dorf",
+   "wiki": "Ottakring (Herrschaft)",
+   "lon": 16.2908,
+   "lat": 48.2164,
+   "text": "Das alte Weinhauerdorf lag auf dem Hügel des heutigen Friedhofs und gehörte seit dem 12. Jahrhundert bis 1848 zum Stift Klosterneuburg. Es wurde im späten 15. Jahrhundert und in den Türkenbelagerungen 1529 und 1683 zerstört. Nach 1683 verlagerte sich der Ort ins Tal um die Wolfgangkapelle, wo heute die Altottakringer Kirche steht. Weitere Grundherren waren das Bürgerspital und das Schottenstift (Ottakringer Freihof).",
+   "quellen": []
+  },
+  {
+   "n": "Neulerchenfeld",
+   "art": "Vorort",
+   "wiki": "Neulerchenfeld (Herrschaft)",
+   "lon": 16.3327,
+   "lat": 48.2118,
+   "text": "Neulerchenfeld entstand um 1700 auf Grund des Stifts Klosterneuburg als Teil von Ottakring (Unter-Ottakring). Der Linienwall trennte 1704 Alt- und Neulerchenfeld. Kern ist die Gegend um die Neulerchenfelder Kirche, den Austriabrunnen und den alten Friedhof. 1849 wurde es selbständige Gemeinde und 1890/1892 zusammen mit Ottakring eingemeindet. Das Wappen zeigt einen Baum mit drei Lerchen.",
+   "quellen": []
+  },
+  {
+   "n": "Liebhartstal",
+   "art": "Grätzel",
+   "wiki": "Liebhartstal",
+   "lon": 16.2881,
+   "lat": 48.2167,
+   "text": "Quellgebiet des Ottakringer Bachs zwischen Ausläufern des Gallitzinbergs, vermutlich nach einem Weingartenbesitzer Liebhart (1354 Liebhartsgraben). Bis 1873 stand nur die Lacknerhütte, 1874 baute Johann Weidner ein Gasthaus „Im Liebhartstal“, der Name ging auf die entstehende Ansiedlung über. Viele Wirtshäuser und Cottagevierteln machten es zum „Ottakringer Prater“.",
+   "quellen": []
+  },
+  {
+   "n": "Wilhelminenberg",
+   "art": "Grätzel",
+   "wiki": "Gallitzinberg",
+   "lon": 16.276,
+   "lat": 48.2194,
+   "text": "Der Berg hieß früher Predigtstuhl und wurde nach dem russischen Botschafter Demetrius Fürst Gallitzin benannt, der um 1780 hier ein Lusthaus nutzte. Fürst Montléart schenkte das Schloss 1866 seiner Gattin Wilhelmine, danach setzte sich „Wilhelminenberg“ durch. Er ist 387 Meter hoch, am Südhang liegt die Anstalt Am Steinhof (1907).",
+   "quellen": []
+  },
+  {
+   "n": "Sandleiten",
+   "art": "Siedlung",
+   "wiki": "Sandleiten (Wohnhausanlage)",
+   "lon": 16.307,
+   "lat": 48.2192,
+   "text": "Das Gebiet nördlich der Ottakringer Straße wurde in den 1920er-Jahren mit dem Sandleitenhof (1924 bis 1928) bebaut. Nördlich davon liegt der Kongresspark mit dem Kongressbad (1928). Die Sandleitenkirche folgte 1935/36 als moderner Kirchenbau.",
+   "quellen": []
+  },
+  {
+   "n": "Siedlung Starchant",
+   "art": "Siedlung",
+   "wiki": "Siedlung Starchant",
+   "lon": 16.2901,
+   "lat": 48.2146,
+   "text": "Die Eigenheimsiedlung der christlichen Genossenschaft „Heim“ wurde ab 1921 nach Plänen von Silvio Mohr und Robert Hartinger an der Gallitzinstraße gebaut. Der Name erinnert an einen Besitzer des Ottakringer Freihofs von 1340. Die Siedlung lag am Rand des Weinbaugebiets und besaß eine eigene Kirche (1928/29).",
+   "quellen": []
+  },
+  {
+   "n": "Brunnenviertel",
+   "art": "Grätzel",
+   "wiki": "Brunnenmarkt",
+   "lon": 16.3356,
+   "lat": 48.2097,
+   "text": "Das Grätzel am Brunnenmarkt gehörte zu Neulerchenfeld und wuchs im 19. Jahrhundert rund um die Brunnengasse zu einem dicht bebauten Arbeiter- und Geschäftsviertel. Der Markt geht auf 1786 zurück, bei Thaliastraße und Gürtel entstanden Theater, Säle und Kinos.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Brunnenmarkt und Yppenmarkt",
+   "kat": "alltag",
+   "wiki": "Brunnenmarkt",
+   "adr": "Brunnengasse / Yppenplatz",
+   "lon": 16.33564,
+   "lat": 48.20974,
+   "jahr": "1786 bis 2010",
+   "text": "Der Brunnenmarkt entstand 1786 rund um einen Brunnen an der Leitung vom Wienerwald in die Hofburg, Joseph II. bewilligte ihn. 1880 musste der Brunnen der Pferdestraßenbahn weichen, der Markt blieb. Der Yppenmarkt entstand 1897 auf dem ehemaligen Exerzierplatz beim Yppenheim und wuchs 2009 mit dem Brunnenmarkt zusammen. Mit rund 160 Marktständen zählt er zu den größten ständigen Straßendetailmärkten Europas; 2010 war die Sanierung mit niveaugleicher Fußgängerzone abgeschlossen.",
+   "fakt": "Der Brunnen, der dem Markt den Namen gab, musste 1880 der Pferdestraßenbahn weichen.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Yppenmarkt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Yppenmarkt"
+    }
+   ]
+  },
+  {
+   "n": "Yppenheim",
+   "kat": "geschichte",
+   "wiki": "Yppenheim",
+   "adr": "Lerchenfelder Gürtel 57",
+   "lon": 16.33837,
+   "lat": 48.21191,
+   "jahr": "1770",
+   "text": "Der niederländische Offizier Simon Peter Freiherr van Yppen kaufte einen größeren Grundkomplex in Ottakring und bestimmte ihn testamentarisch (1770) zur Stiftung für Invalide. Es entstand ein Invalidenhaus; das übrige Gelände diente bis 1848 als Exerzierplatz. Anfang der 1870er wurden Exerzierplatz und Felder parzelliert, 1897 entstand dort der Yppenmarkt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Ottakringer Brauerei und Palais Kuffner",
+   "kat": "industrie",
+   "wiki": "Ottakringer Brauerei",
+   "adr": "Ottakringer Platz 1",
+   "lon": 16.32276,
+   "lat": 48.21338,
+   "jahr": "1837 bis heute",
+   "text": "Der Müllermeister Heinrich Plank gründete 1837 das Brauhaus im Haus „Zu den drei Röserln“, mit Tanzsaal und Biergarten. 1850 kauften die Vettern Ignaz und Jakob Kuffner die überschuldete Brauerei und bauten sie aus. 1893 ließ die Familie gegenüber das Palais Kuffner errichten. 1938 musste sie den Betrieb unter NS-Druck verkaufen. Heute ist die Brauerei die letzte unabhängige Großbrauerei Wiens.",
+   "fakt": "Das Arbeiterheim wurde mit einem Baukredit der Brauerei finanziert, die dafür das Monopol auf die Bierlieferung erhielt.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Palais Kuffner",
+     "u": "https://www.geschichtewiki.wien.gv.at/Palais_Kuffner"
+    }
+   ]
+  },
+  {
+   "n": "Kuffner-Sternwarte",
+   "kat": "kultur",
+   "wiki": "Kuffner-Sternwarte",
+   "adr": "Johann-Staud-Straße 10",
+   "lon": 16.29125,
+   "lat": 48.21274,
+   "jahr": "1884 bis 1886",
+   "text": "Moriz von Kuffner, Brauereibesitzer, ließ 1884 bis 1886 nach Plänen von Franz von Neumann junior eine Privatsternwarte mit Repsold- und Steinheil-Instrumenten und einer Bibliothek bauen. Erster Direktor war Norbert Herz. Sie wurde rasch zur Konkurrenz der Universitätssternwarte, Kuffner finanzierte von 1889 bis 1915 den Druck der Ergebnisse. 1944 wurde das Gebäude beschädigt.",
+   "fakt": "Der Astronom Karl Schwarzschild arbeitete in den 1890er-Jahren an der Kuffner-Sternwarte.",
+   "quellen": []
+  },
+  {
+   "n": "Volkshochschule Ottakring",
+   "kat": "kultur",
+   "wiki": "Volkshochschule Ottakring",
+   "adr": "Ludo-Hartmann-Platz 7",
+   "lon": 16.33387,
+   "lat": 48.2067,
+   "jahr": "1901 bis 1905",
+   "text": "Auf Initiative von Ludo Moritz Hartmann entstand das Volksheim 1901, das Haus in Jugendstilformen wurde 1904/05 nach Plänen von Franz von Neumann errichtet und am 5. November 1905 eröffnet. Rothschild zahlte den Großen Saal. Mitglieder des Wiener Kreises wie Otto Neurath, Hans Hahn, Rudolf Carnap und Moritz Schlick hielten Vorträge, um wissenschaftliche Erkenntnisse einem breiten Publikum zugänglich zu machen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Arbeiterheim Ottakring",
+   "kat": "politik",
+   "wiki": "Arbeiterheim Ottakring",
+   "adr": "Kreitnergasse 29-33",
+   "lon": 16.32334,
+   "lat": 48.20877,
+   "jahr": "1906 bis 1907",
+   "text": "Das Haus der sozialdemokratischen Arbeiterschaft entstand 1906/07 nach Plänen von Ludwig Fuchsik und Ernst Ornstein, Spatenstich war am 14. März 1906, Eröffnung am 16. Juni 1907. Es enthielt Klubräume, einen Theatersaal für 1500 Personen, ein Kino (Plaza) und 40 Wohnungen gehobenen Standards mit Zentralheizung. Die Ottakringer Brauerei stellte den Kredit zur Verfügung.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hubertempel",
+   "kat": "erinnerung",
+   "wiki": "Synagoge der Israelitischen Kultusgemeinde 16, Hubergasse 8",
+   "adr": "Hubergasse 8",
+   "lon": 16.33368,
+   "lat": 48.21327,
+   "jahr": "1885 bis 1970",
+   "text": "Die Synagoge der Kultusgemeinde für Hernals, Ottakring und Neulerchenfeld wurde 1885/86 nach Plänen von Ludwig Tischler gebaut und bot 406 Männern und 266 Frauen Platz. 1927 kam ein Wintertempel von Ignaz Reiser hinzu. Am 10. November 1938 wurde sie zerstört. Die Ruine blieb Jahrzehnte stehen und wurde erst Anfang 1970 abgetragen; im Jahr darauf entstand die bestehende Wohnhausanlage.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Warenhaus Dichter",
+   "kat": "erinnerung",
+   "wiki": "Warenhaus Dichter",
+   "adr": "Brunnengasse 40",
+   "lon": 16.33587,
+   "lat": 48.21014,
+   "jahr": "1890 bis 1938",
+   "text": "Leopold Dichter gründete 1890 das Warenhaus und warb mit dem Slogan, es sei das größte Warenhaus der äußeren Bezirke. 1923 ließ er Lautsprecher mit Schlagermusik installieren. Am Tag nach dem „Anschluss“ 1938 wandten sich die meisten Mitarbeiter*innen gegen die jüdische Familie, Edmund Topolansky „arisierte“ das Haus. Walter Arlen, Enkel des Gründers und später Komponist, konnte im März 1939 nach New York fliehen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Thaliatheater",
+   "kat": "verschwunden",
+   "wiki": "Thaliatheater",
+   "adr": "Thaliastraße 1",
+   "lon": 16.33769,
+   "lat": 48.20856,
+   "jahr": "1856",
+   "text": "Ferdinand Fellner senior baute 1856 einen hölzernen Sommertheaterbau mit Glasdach und drei Galerien an der Fünfhauser Gemeindegrenze, der Direktor des Josefstädter Theaters Johann Hoffmann leitete es. Angeblich bot es 4000 Plätze. Am 28. August 1857 führte Hoffmann hier Wagners „Tannhäuser“ erstmals in Wien auf. Die Lerchenfelder Straße wurde nach dem Theater Thaliastraße genannt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Altottakringer Kirche und der verschwundene Ortskern",
+   "kat": "geschichte",
+   "wiki": "Altottakringer Kirche",
+   "adr": "Ottakringer Straße 215",
+   "lon": 16.3082,
+   "lat": 48.21374,
+   "jahr": "1230 bis 1790",
+   "text": "Das Dorf lag auf dem Hügel des heutigen Friedhofs, wo die Lambertkirche „ad septem nuces“ (zu den sieben Nussbäumen) 1230 erwähnt wird. 1484 von Ungarn, 1529 von Osmanen niedergebrannt und 1683 erneut zerstört, wurde sie 1790 abgetragen. Die Bewohner siedelten im Tal um eine 1415 bestehende, 1416 dem hl. Wolfgang geweihte Kapelle, an deren Stelle die heutige Pfarrkirche liegt.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Ottakringer Friedhof",
+     "u": "https://www.geschichtewiki.wien.gv.at/Ottakringer_Friedhof"
+    }
+   ]
+  },
+  {
+   "n": "Neulerchenfelder Kirche",
+   "kat": "bauwerk",
+   "wiki": "Neulerchenfelder Kirche",
+   "adr": "Neulerchenfelder Straße 47",
+   "lon": 16.33316,
+   "lat": 48.21131,
+   "jahr": "1733 bis 1770",
+   "text": "1719 stand eine Kapelle, 1732 genehmigte die Gemeinde den Kirchenbau, den Andreas Perthold 1733 begann und erst 1753 fertigstellte. Bis die Türme 1765 und 1770 gebaut wurden, besaß sie nur Holztürme. Die Fassade entstand 1770 nach einem Entwurf von Matthias Gerl. Den Hochaltar stiftete 1756 Maria Theresia Kirchstätter, die die Kirche zur Universalerbin einsetzte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Neulerchenfelder Friedhöfe",
+   "kat": "verschwunden",
+   "wiki": "Neulerchenfelder Friedhof",
+   "adr": "Gaullachergasse / Friedmanngasse",
+   "lon": 16.33296,
+   "lat": 48.21227,
+   "jahr": "1713 bis 1888",
+   "text": "1713 wurde, weil der Ottakringer Friedhof die Pesttoten nicht fasste, im spitzen Winkel zwischen Gaullachergasse und Friedmanngasse ein Leichenhof angelegt, der bis 1842 bestand. Als Ersatz erwarb Neulerchenfeld 1832 ein Grundstück neben dem Schmelzer Friedhof, das bis 1888 in Betrieb blieb. Nach der Vereinigung mit Ottakring diente der Ottakringer Friedhof dem ganzen Bezirk.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Austriabrunnen",
+   "kat": "verschwunden",
+   "wiki": "Austriabrunnen (16)",
+   "adr": "Neulerchenfelder Straße 88",
+   "lon": 16.33265,
+   "lat": 48.21178,
+   "jahr": "1888 bis 1940er",
+   "text": "Zum 40-jährigen Regierungsjubiläum Franz Josephs I. ließ die Gemeinde Ottakring 1888 den Brunnen mit Bronze-Austria von Hans Scherpe errichten. Im Zweiten Weltkrieg wurde die Figur auf Befehl des Bildhauers Wilhelm Frass eingeschmolzen, später auch das Postament entfernt. Eine Neuaufstellung durch die Wiener Metallwerke für 105.000 Schilling wurde nicht umgesetzt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Ottakringer Bach",
+   "kat": "wasser",
+   "wiki": "Ottakringer Bach",
+   "adr": "Liebhartstal bis Thaliastraße",
+   "lon": 16.31383,
+   "lat": 48.21232,
+   "jahr": "bis 19. Jahrhundert",
+   "text": "Der Bach entsprang am Gallitzinberg, floss durch das Liebhartstal und die Thaliastraße parallel zur Lerchenfelder Straße, bildete in der Neustiftgasse eine Insel mit dem Neudeggerhof und mündete über Minoritenplatz und Tiefen Graben in den Donauarm. Er war 7,7 Kilometer lang, bei Hochwasser über 15.000 Liter pro Sekunde. Heute ist er vollständig kanalisiert, ab 1898 entlastet ein 4776 Meter langer Entlastungskanal das Gewölbe.",
+   "fakt": "Ab dem Stadtgebiet hieß er nach dem Dorf St. Ulrich St.-Ulrichs-Bach.",
+   "quellen": []
+  },
+  {
+   "n": "Krebsenhaus",
+   "kat": "verschwunden",
+   "wiki": "Krebsenhaus",
+   "adr": "Grundsteingasse 65",
+   "lon": 16.33118,
+   "lat": 48.21066,
+   "jahr": "1737 bis 1770",
+   "text": "Der Baumgartenhof am Ottakringer Bach gehörte ab 1737 zu Neulerchenfeld und wurde nach 1770 in drei Häuser aufgeteilt. Südlich schloss der Krebsengarten an. 1744 ersetzte eine Brücke den Steg über den Bach, über die der Fahrweg von Hernals über die Schmelz zum Schloss Schönbrunn führte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "10er Marie",
+   "kat": "alltag",
+   "wiki": "10er Marie",
+   "adr": "Ottakringer Straße 222-224",
+   "lon": 16.30865,
+   "lat": 48.21417,
+   "jahr": "1740",
+   "text": "Der älteste Heurigen-Restaurantbetrieb Wiens, 1740 gegründet und im 19. Jahrhundert nach Maria, Tochter der Weinhauerfamilie Haimböck, in Verbindung mit der alten Konskriptionsnummer benannt. Kronprinz Rudolf kam mit seinem Leibkutscher Bratfisch, Josef Weinheber schrieb hier 1935 „Alt-Ottakring“, Kaspar Schrammel spielte mit der Klarinette. Käthe Musil führte das Lokal von 1939 bis 1986 und machte es zum In-Treff.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kornhäusel-Villa",
+   "kat": "bauwerk",
+   "wiki": "Kornhäusel-Villa",
+   "adr": "Ottakringer Straße 235",
+   "lon": 16.30597,
+   "lat": 48.21407,
+   "jahr": "1804",
+   "text": "Das ehemalige Landhaus Jenamy ist das einzige erhaltene Landhaus des Biedermeier-Architekten Josef Kornhäusel in Wien. Der zweigeschossige, blockhafte Bau mit historistischen Fassaden aus dem dritten Viertel des 19. Jahrhunderts wird von einem quadratischen Turm überragt, im Turm befinden sich Grisaillemalereien. 2004 wurde ein denkmalpflegerischer Um- und Ausbau beschlossen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Ottakringer Freihof",
+   "kat": "verschwunden",
+   "wiki": "Ottakringer Freihof",
+   "adr": "Ottakringer Straße 242",
+   "lon": 16.3061,
+   "lat": 48.21458,
+   "jahr": "1340 bis 19. Jahrhundert",
+   "text": "Der Hof stand unter Grundherrschaft des Stifts Klosterneuburg. Besitzer waren ab 1340 Starchant (daher zeitweise Starchanthof), die Brüder Popfinger, die Würffel, Paul Wolzogen (kaiserlicher Postmeister) und ab 1574 Johann Ambros Brassican von Kölburg, nach dem er „Kölhof“ hieß. Die Siedlung Starchant trägt den frühen Namen weiter.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sandleitenhof",
+   "kat": "wohnen",
+   "wiki": "Sandleiten (Wohnhausanlage)",
+   "adr": "Sandleitengasse / Nietzschegasse",
+   "lon": 16.30585,
+   "lat": 48.22442,
+   "jahr": "1924 bis 1928",
+   "text": "Mit ursprünglich 1587 Wohnungen in fünf Baustufen war der Sandleitenhof ein städtebaulicher Versuch: Die Blöcke sind nach dem Sonneneinfall ausgerichtet und stehen in einer parkähnlichen Anlage mit wenigen Straßen. Nach einem Wettbewerb vergab die Jury den Auftrag an Hoppe, Schönthal und Matuschek, für die offene Verbauung nördlich der Rosenackerstraße an Theiß, Jaksch und Krauß. Die Projektleitung hatte Josef Bittner. Kindergarten und Bücherei entwarf das Stadtbauamt selbst.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Jubiläumshäuser",
+   "kat": "wohnen",
+   "wiki": "Jubiläumshäuser",
+   "adr": "Maderspergerstraße / Gutraterplatz",
+   "lon": 16.30679,
+   "lat": 48.20794,
+   "jahr": "1899 bis 1901",
+   "text": "Zum Regierungsjubiläum 1895 wurde die Kaiser-Franz-Joseph-Jubiläumsstiftung zur Errichtung von Volkswohnungen gegründet, erstmals übernahm die öffentliche Seite diese Pflicht. Den Wettbewerb 1897 gewannen Theodor Bach und Leopold Simony. 1899 bis 1901 entstanden 28 Häuser als Lobmeyr-Hof (152 Wohnungen) und Stiftungs-Hof (244), der geplante Wohlfahrtshof wurde nie gebaut. 70 Prozent der Wohnungen hatten nur Zimmer und Küche, alle ein eigenes WC.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Haus im alten Ort",
+   "kat": "wohnen",
+   "wiki": "Haus im alten Ort",
+   "adr": "Enenkelstraße 35",
+   "lon": 16.31001,
+   "lat": 48.21331,
+   "jahr": "1922",
+   "text": "Der erste Wohnhausbau der Gemeinde Wien in Ottakring (48 Wohnungen) von Hugo Mayer steht im Zentrum des alten Weinhauerdorfs und weist noch keine Merkmale des kommunalen Wohnbaus des Roten Wien auf. Der Name verweist auf das Dorfzentrum.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Siedlung Starchant",
+   "kat": "wohnen",
+   "wiki": "Siedlung Starchant",
+   "adr": "Gallitzinstraße 15-73",
+   "lon": 16.29011,
+   "lat": 48.21459,
+   "jahr": "1921 bis 1937",
+   "text": "Die Siedlung der christlichen Genossenschaft „Heim“ entstand ab 1921 nach Plänen von Silvio Mohr und Robert Hartinger. Wer ein Haus wollte, musste fünf Prozent der Baukosten bar zahlen und 1000 Arbeitsstunden leisten. Bis 1932 gab es 68 Siedlungshäuser. Wegen des betonten dörflichen Charakters und des Eigentums wurde sie beispielhaft für den Siedlungsbau des schwarzen Wien.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Lupusheilstätte von Otto Wagner",
+   "kat": "bauwerk",
+   "wiki": "Lupusheilstätte",
+   "adr": "Montleartstraße 37",
+   "lon": 16.30377,
+   "lat": 48.211,
+   "jahr": "1910 bis 1913",
+   "text": "Auf dem Areal des Wilhelminenspitals baute Otto Wagner (Plan 1908) die Heilstätte für Lupuskranke, auf Initiative der Mediziner Eduard Lang und Alfred Jungmann. Das Gebäude mit H-förmigem Grundriss hat eine Fassade mit eingelegten blauen Glasfliesen und ist heute Pavillon 24. Es galt als eine der modernsten Lupusstationen Europas.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wilhelminenspital und Klinik Ottakring",
+   "kat": "wohnen",
+   "wiki": "Klinik Ottakring",
+   "adr": "Montleartstraße 37",
+   "lon": 16.30427,
+   "lat": 48.21107,
+   "jahr": "1888 bis 2020",
+   "text": "Fürstin Wilhelmine Montléart widmete 1888 der Gemeinde Ottakring 300.000 Kronen für ein Spital, 1890 stand der Stammpavillon, 1891 wurde es eröffnet. Bürgermeister Antonin Zagorski verzichtete auf sein Honorar als Bauleiter. Bis 31. Mai 2020 hieß es Wilhelminenspital, seither Klinik Ottakring.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schloss Wilhelminenberg und das Kinderheim",
+   "kat": "erinnerung",
+   "wiki": "Schloss Wilhelminenberg",
+   "adr": "Savoyenstraße 2",
+   "lon": 16.28548,
+   "lat": 48.21969,
+   "jahr": "1781 bis 1927",
+   "text": "Feldmarschall Lacy begann 1781 am Predigtstuhl ein Lusthaus, Fürst Gallitzin erwarb es, später kam es an Fürst Romanzow und 1824 an die Montléarts. Nach Wilhelmine, der Frau Moritz Montléarts, hieß es Wilhelminenberg. 1927 kaufte die Gemeinde Wien das Schloss und eröffnete am 12. November Stadtrat Julius Tandlers modernes Kinderheim mit über 160 Betten. Später wurden Vorwürfe von Gewalt und Missbrauch erhoben.",
+   "fakt": "Seit 1946 sitzt im Park die Biologische Station von Otto und Lilli Koenig, heute das Konrad-Lorenz-Institut.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Kinderheim Wilhelminenberg",
+     "u": "https://www.geschichtewiki.wien.gv.at/Kinderheim_Wilhelminenberg"
+    }
+   ]
+  },
+  {
+   "n": "Schirachbunker",
+   "kat": "erinnerung",
+   "wiki": "Schirachbunker",
+   "adr": "Gallitzinberg",
+   "lon": 16.27599,
+   "lat": 48.21942,
+   "jahr": "1940 bis 1945",
+   "text": "Der Gaubefehlsstand, inoffiziell nach Gauleiter Baldur von Schirach benannt, war Nachrichtenzentrale und Zentrum des Luftwarnsystems der „Ostmark“. Nach Bombardierungen wurde er 1942 bis 1945 nach Plänen von Hans Edelmoser unterirdisch neu gebaut, mit Befehlsraum und Milchglastafel für die Anflugrouten der Bomber. Am 4. April 1945 wurde er geräumt, ein halbes Jahr später der Eingang gesprengt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Jubiläumswarte",
+   "kat": "bauwerk",
+   "wiki": "Jubiläumswarte",
+   "adr": "Johann-Staud-Straße 80",
+   "lon": 16.29162,
+   "lat": 48.21541,
+   "jahr": "1898 bis 1956",
+   "text": "Der Ottakringer Verschönerungsverein errichtete 1898 anlässlich des Regierungsjubiläums auf Anregung von Johann Loibl eine hölzerne Warte, die ein Sturm umwarf. Sie wurde durch eine 27,5 Meter hohe eiserne Warte aus der Jubiläumsausstellung ersetzt (1899 eröffnet), 1952 abgerissen. Die heutige Warte wurde am 7. September 1956 eröffnet, ist 31 Meter hoch und liegt auf 481 Metern Seehöhe.",
+   "fakt": "Der Fernblick reichte bis zu Ötscher und Schneeberg.",
+   "quellen": []
+  },
+  {
+   "n": "Kongressbad",
+   "kat": "wohnen",
+   "wiki": "Kongressbad",
+   "adr": "Julius-Meinl-Gasse 7a",
+   "lon": 16.30727,
+   "lat": 48.22232,
+   "jahr": "1928",
+   "text": "Der Gemeinderat beschloss 1927 ein Schwimmbad auf ehemaligem Deponiegrund am Kongressplatz, Erich Leischner plante es als Sommerschwimm-, Luft- und Sonnenbad (Eröffnung 20. Mai 1928). Es wurde Sammelpunkt der Körperkulturbewegungen, hier fand das Auswahlschwimmen für die Olympischen Spiele Amsterdam 1928 statt. Nach dem Krieg öffnete es bereits am 20. Mai 1945.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stegreifbühne Tschauner",
+   "kat": "kultur",
+   "wiki": "Stegreifbühne Tschauner",
+   "adr": "Maroltingergasse 43",
+   "lon": 16.30449,
+   "lat": 48.20802,
+   "jahr": "1909",
+   "text": "Die Original Wiener Stegreifbühne wurde 1909 als Freiluftbühne mit Pawlatschencharakter gegründet. Gustav und Karoline Tschauner machten sie ab 1938 zur Institution. Seit 1957/58 spielt sie in der Maroltingergasse nahe der Endstation der Linie 46. Sie ist die einzige von mehr als 30 Stegreifbühnen aus der Zeit nach dem Ersten Weltkrieg, die noch besteht. 1986 wurde sie vom Volksbildungswerk übernommen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Weltspiegel Kino",
+   "kat": "verschwunden",
+   "wiki": "Weltspiegel",
+   "adr": "Lerchenfelder Gürtel 55",
+   "lon": 16.33843,
+   "lat": 48.21145,
+   "jahr": "1919 bis 1944",
+   "text": "Alfred Grögl gründete das Kino 1919 im ehemaligen Neufellner'schen Orpheum, es zählte 1922 926 Plätze. Während der NS-Zeit war es eines der acht größten Kinos der Stadt, im September 1944 wurde es völlig zerstört. Beim Wiederaufbau 1949/50 entdeckte man einen unbekannten dreigeschoßigen Weinkeller.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Müllverbrennungsanlage Flötzersteig",
+   "kat": "industrie",
+   "wiki": "Müllverbrennungsanlage Flötzersteig",
+   "adr": "Flötzersteig 12",
+   "lon": 16.28986,
+   "lat": 48.20682,
+   "jahr": "1959 bis 1963",
+   "text": "Die Anlage nach Plänen von Josef Becvar (Stadtbauamt) wurde 1959 bis 1963 gebaut, 1963 begann der Betrieb. Die ersten Abnehmer der Fernwärme waren Wilhelminenspital, Baumgartner Höhe, städtische Zentralwäscherei und Ottakringer Bad. 1992 kam ein neuer 100 Meter hoher Schlot.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Radetzkykaserne",
+   "kat": "geschichte",
+   "wiki": "Radetzkykaserne",
+   "adr": "Gablenzgasse 62",
+   "lon": 16.32448,
+   "lat": 48.20555,
+   "jahr": "1894 bis 1996",
+   "text": "Die Infanteriekaserne auf der Schmelz wurde 1894 bis 1896 nach der Kasernentransaktion von 1891 gebaut und nach Feldmarschall Radetzky benannt. Nach dem Ersten Weltkrieg brachte die Gemeinde hier obdachlose Familien unter, 1930 zog das Bundesheer ein, 1938 die Wehrmacht, 1945 zuerst sowjetische, dann französische Besatzung (Räumung 1955). Seit 1980 sitzt hier das Militärkommando Wien.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Spetterbrücke",
+   "kat": "kurios",
+   "wiki": "Spetterbrücke",
+   "adr": "Gablenzgasse / Gutraterplatz",
+   "lon": 16.30997,
+   "lat": 48.20764,
+   "jahr": "1896 bis 1964",
+   "text": "Die Brücke bei Gutraterplatz überquert die in einem Einschnitt verlaufende Vorortelinie, seit 1998 auch die oberirdische U3. Sie ersetzte 1962 bis 1964 eine Vorgängerin von 1896/97 und sollte Teil einer Autobahneinfahrt zum Gürtel werden. Wegen starker Ablehnung der Bevölkerung wurde der Vollausbau nicht realisiert.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Aus welchen beiden Vororten entstand 1890/1892 der 16. Bezirk?",
+   "a": "Ottakring und Neulerchenfeld",
+   "f": [
+    "Ottakring und Hernals",
+    "Neulerchenfeld und Breitensee",
+    "Ottakring und Gaudenzdorf"
+   ],
+   "erkl": "Beide waren seit 1849 selbständige Gemeinden.",
+   "wiki": "Ottakring",
+   "quellen": []
+  },
+  {
+   "q": "Welche Kirche stand im alten Ottakring auf dem Hügel des heutigen Friedhofs?",
+   "a": "Die Lambertkirche „ad septem nuces“",
+   "f": [
+    "Die Wolfgangkirche",
+    "Die Markuskirche",
+    "Die Antonskirche"
+   ],
+   "erkl": "Sie bildete bis 1683 den Dorfmittelpunkt und wurde 1790 abgetragen.",
+   "wiki": "Altottakringer Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Welchem hl. Patron wurde die kleine Kapelle geweiht, um die sich Ottakring nach 1683 neu siedelte?",
+   "a": "Wolfgang",
+   "f": [
+    "Lambert",
+    "Florian",
+    "Rochus"
+   ],
+   "erkl": "Die Kapelle wurde 1416 geweiht.",
+   "wiki": "Altottakringer Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Wer kaufte 1850 die Ottakringer Brauerei von Heinrich Plank?",
+   "a": "Die Vettern Ignaz und Jakob Kuffner",
+   "f": [
+    "Familie Dreher",
+    "Anton Bosch",
+    "Das Stift Klosterneuburg"
+   ],
+   "erkl": "Die Kuffners bauten sie aus; 1938 musste die Familie verkaufen.",
+   "wiki": "Ottakringer Brauerei",
+   "quellen": []
+  },
+  {
+   "q": "Welcher später berühmte Astronom arbeitete in den 1890er-Jahren an der Kuffner-Sternwarte?",
+   "a": "Karl Schwarzschild",
+   "f": [
+    "Johannes Kepler",
+    "Edwin Hubble",
+    "Ejnar Hertzsprung"
+   ],
+   "erkl": "Die Sternwarte wurde 1884 bis 1886 für Moriz von Kuffner gebaut.",
+   "wiki": "Kuffner-Sternwarte",
+   "quellen": []
+  },
+  {
+   "q": "Seit wann stellt die SPÖ durchgehend den Ottakringer Bezirksvorsteher?",
+   "a": "Seit 1946",
+   "f": [
+    "Seit 1919",
+    "Seit 1934",
+    "Seit 1955"
+   ],
+   "erkl": "Seit 1946 stammen die Ottakringer Bezirksvorsteher durchgehend von der SPÖ.",
+   "wiki": "Ottakring",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde der Brunnenmarkt gegründet?",
+   "a": "1786",
+   "f": [
+    "1683",
+    "1856",
+    "1897"
+   ],
+   "erkl": "Joseph II. bewilligte ihn, er entstand um einen Brunnen.",
+   "wiki": "Brunnenmarkt",
+   "quellen": []
+  },
+  {
+   "q": "Wer hat die Wiener Erstaufführung von Wagners „Tannhäuser“ 1857 im Thaliatheater geleitet?",
+   "a": "Johann Hoffmann",
+   "f": [
+    "Ferdinand Fellner",
+    "Carl Schwender",
+    "Alois Pokorny"
+   ],
+   "erkl": "Fellner senior baute das Haus 1856.",
+   "wiki": "Thaliatheater",
+   "quellen": []
+  },
+  {
+   "q": "Wie viele Wohnungen hatte der Sandleitenhof ursprünglich?",
+   "a": "1587",
+   "f": [
+    "802",
+    "1204",
+    "2200"
+   ],
+   "erkl": "Er wurde 1924 bis 1928 in fünf Baustufen gebaut.",
+   "wiki": "Sandleiten (Wohnhausanlage)",
+   "quellen": []
+  },
+  {
+   "q": "Wann entstand mit dem Haus im alten Ort der erste Gemeindebau in Ottakring?",
+   "a": "1922",
+   "f": [
+    "1919",
+    "1927",
+    "1931"
+   ],
+   "erkl": "Er liegt im Zentrum des alten Weinhauerdorfs.",
+   "wiki": "Haus im alten Ort",
+   "quellen": []
+  },
+  {
+   "q": "Wer plante die Lupusheilstätte auf dem Areal des Wilhelminenspitals?",
+   "a": "Otto Wagner",
+   "f": [
+    "Josef Kornhäusel",
+    "Clemens Holzmeister",
+    "Leopold Bauer"
+   ],
+   "erkl": "Der Bau von 1910 bis 1913 hat eine Fassade mit blauen Glasfliesen.",
+   "wiki": "Lupusheilstätte",
+   "quellen": []
+  },
+  {
+   "q": "Was war der Schirachbunker auf dem Gallitzinberg?",
+   "a": "Ein Gaubefehlsstand mit Luftwarnzentrale",
+   "f": [
+    "Ein Weinkeller der Montléarts",
+    "Ein Luftschutzkeller der Brauerei",
+    "Ein Wasserbehälter"
+   ],
+   "erkl": "Er wurde 1940 angelegt und nach 1945 gesprengt.",
+   "wiki": "Schirachbunker",
+   "quellen": []
+  },
+  {
+   "q": "Welche Wiener Institution ist die letzte erhaltene von über 30 Stegreifbühnen?",
+   "a": "Die Stegreifbühne Tschauner",
+   "f": [
+    "Das Theater im Zentrum",
+    "Das Neulerchenfelder Volkstheater",
+    "Die Sommerbühne Schwender"
+   ],
+   "erkl": "Sie wurde 1909 gegründet.",
+   "wiki": "Stegreifbühne Tschauner",
+   "quellen": []
+  },
+  {
+   "q": "Wie hieß die Klinik Ottakring bis 31. Mai 2020?",
+   "a": "Wilhelminenspital",
+   "f": [
+    "Stefaniespital",
+    "Kaiserin-Elisabeth-Spital",
+    "Sophienspital"
+   ],
+   "erkl": "Das Spital wurde 1891 eröffnet.",
+   "wiki": "Klinik Ottakring",
+   "quellen": []
+  },
+  {
+   "q": "In welchem Zustand befindet sich der Ottakringer Bach heute?",
+   "a": "Er ist vollständig kanalisiert",
+   "f": [
+    "Er fließt noch bis zum Gürtel offen",
+    "Er wurde zum See gestaut",
+    "Er mündet noch offen in den Wienfluss"
+   ],
+   "erkl": "Ein Entlastungskanal von 1898 bis 1907 begleitet den Gewölbekanal.",
+   "wiki": "Ottakringer Bach",
+   "quellen": []
+  }
+ ]
+}

@@ -1,0 +1,666 @@
+{
+ "nr": 17,
+ "name": "Hernals",
+ "kurz": "Ein Bezirk am Alsbach, der vom evangelischen Zentrum und Vergnügungsvorort der Schrammelzeit bis zu den Wienerwaldhängen von Neuwaldegg reicht.",
+ "profil": [
+  "Hernals entstand 1890/1892 aus den Vorortgemeinden Hernals, Dornbach und Neuwaldegg, wobei Hernals mit Teilen der kleineren Nachbarn den Bezirk bildete und ihm den Namen gab. Die Katastralgemeinden sind Dornbach, Hernals und Neuwaldegg; die Fläche beträgt 11,39 Quadratkilometer. Begrenzt wird der Bezirk vom Gürtel, der Czartoryskigasse und der Rosensteingasse. Das Wappen zeigt die Zeichen der Vororte: eine Weintraube für Hernals, gekreuzte Schlüssel für Dornbach und ein kleines Haus mit zwei Bäumen vor einem Bachlauf für Neuwaldegg.",
+  "Der Name geht auf die Als zurück: Der Bach wird 1044 im Traditionsbuch des Salzburger Stifts St. Peter genannt, als Graf Sighard IV. dem Stift zwei Grundstücke „an der Als“ schenkte. Daraus gingen Hernals und Dornbach hervor. Die Brüder Diepold und Nendingus de Alse erscheinen 1135 als erste Herren an der Als, ihr Hof stand auf der Anhöhe beim heutigen St.-Bartholomäus-Platz. Der Dornbach, der Eckbach und der Gereutebach sind die drei Quellbäche der Als; der Dornbach wurde ab 1899 auf 1208 Metern kanalisiert.",
+  "Hernals war im 16. und frühen 17. Jahrhundert das Zentrum des Protestantismus um Wien. Nach der Zerstörung durch die Osmanen 1529 traten die Grundherren 1530 zum Luthertum über; seit 1587 gehörte die Herrschaft den Jörgern. Evangelische aus der Stadt besuchten die Gottesdienste vor dem Linienwall, man sprach vom „Auslaufen“. 1609 wurde an der Kirche eine lutherische Pfarre eingerichtet, 1627 wurden alle Protestanten ausgewiesen. Danach machte die Gegenreformation Hernals zum Ort eines Kreuzwegs von St. Stephan, dem Kalvarienberg.",
+  "Im 18. und 19. Jahrhundert wurde Hernals Ausflugs- und Vergnügungsvorort. 1786 zog das Offizierstöchtererziehungsinstitut ins aufgehobene Paulinerkloster. 1848 entstand die Arena in Hernals als Sommerbühne der Josefstadt; Gasthäuser wie Stalehners Etablissement und die Goldene Waldschnepfe in Dornbach waren Spielorte des Schrammel-Quartetts. Mit der ab 1895 gebauten Gürtelstadtbahn und der Eingemeindung kam der Bau von Mietshäusern, im Westen blieben Weinberge und Villen.",
+  "Der Westen ist eine ganz andere Welt. Neuwaldegg mit Schwarzenbergpark und Lacys Hameau gilt als bedeutendste Gartenanlage des 18. Jahrhunderts in englischem Stil, Dornbach hat mit dem Stift St. Peter bis 1848 eine eigene Grundherrschaft. Am Heuberg entstand 1923/24 Adolf Loos' Heubergsiedlung. Die Gemeindebauten in Dornbach und im Alseck sind kleinteiliger als im Gürtelbereich.",
+  "Die NS-Zeit und der Widerstand sind im Bezirk markiert. 2015 wurde im Park der Freiheit die Bezirksgedenkstätte für Verfolgte und Widerstandskämpfer*innen eingeweiht. In vielen Straßen gab es Zwangsarbeiterlager. Auch Industrie prägte den Bezirk, darunter Manner (1890), Löwit & Comp. (Kartonagen) und die Kunsteisbahn Engelmann, die 1909 die erste Freilufteisbahn der Welt eröffnete.",
+  "Heute ist Hernals ein Bezirk der Gegensätze: dicht bebaute Gründerzeit entlang der Hernalser Hauptstraße, Villen und Wiener-Wald-Nähe in Neuwaldegg und am Schafberg. Politisch ist er gemischter als manche Arbeiterbezirke, mit starken Grünen. Das Kulturzentrum Metropol und der Wiener Sport-Club sind lokale Institutionen."
+ ],
+ "politik": "Bezirksvorsteher ist Peter Jagsch (SPÖ), der 2022 die langjährige Bezirksvorsteherin Ilse Pfeffer ablöste, die 20 Jahre im Amt war. Bei der Bezirksvertretungswahl 2025 erreichte die SPÖ 32,2 %, die Grünen 24,4 %, die FPÖ 14,7 %, die ÖVP 11,0 %, NEOS 10,5 % und die KPÖ 5,4 % bei einer Beteiligung von 50,4 %. Hernals ist traditionell sozialdemokratisch geführt, die Grünen sind hier deutlich stärker als im Wiener Durchschnitt.",
+ "quellen": [
+  {
+   "t": "Wien Geschichte Wiki: Hernals",
+   "u": "https://www.geschichtewiki.wien.gv.at/Hernals"
+  },
+  {
+   "t": "Wikipedia: Hernals",
+   "u": "https://de.wikipedia.org/wiki/Hernals"
+  },
+  {
+   "t": "ORF Wien: Ilse Pfeffer",
+   "u": "https://wien.orf.at/stories/3146549/"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Hernals",
+   "art": "Katastralgemeinde",
+   "wiki": "Hernals (Herrschaft)",
+   "lon": 16.3302,
+   "lat": 48.2178,
+   "text": "Hernals wird 1044 an der Als erwähnt. Die Herren von Als (1135 Diepold und Nendingus) saßen auf einer von Wassergraben und Ringmauer umgebenen Anhöhe beim St.-Bartholomäus-Platz, ab 1358 fiel die Herrschaft an den Landesfürsten. 1587 kaufte Hans Jörger sie, 1625 kam sie an das Wiener Domkapitel. Der Ortskern liegt zwischen Elterleinplatz und Bartholomäusplatz, mit Hernalser Kirche, Kalvarienberg und Hauptstraße.",
+   "quellen": []
+  },
+  {
+   "n": "Dornbach",
+   "art": "Katastralgemeinde",
+   "wiki": "Dornbach (Herrschaft)",
+   "lon": 16.2991,
+   "lat": 48.2309,
+   "text": "Dornbach gehörte von 1042 bis 1848 dem Salzburger Stift St. Peter. Die Besiedlung geht vielleicht ins 7. Jahrhundert zurück. 1133/34 schenkte Markgraf Leopold III. dem Stift einen Berg, Sitz der Herrschaft war das 1829 neu errichtete Schloss, der Amtshof. Der Rupertusplatz mit der Dornbacher Kirche bildet den Kern, das Wappen zeigt gekreuzte Schlüssel (St. Peter).",
+   "quellen": []
+  },
+  {
+   "n": "Neuwaldegg",
+   "art": "Katastralgemeinde",
+   "wiki": "Neuwaldegg (Herrschaft)",
+   "lon": 16.2861,
+   "lat": 48.2331,
+   "text": "Nach einer Baubewilligung von 1530 entstand für den Raitkammerrat Stefan Agler ein burgartiges Haus, der Neuwaldegger Hof. 1537 wurde er Freihof, 1539 erhielt Agler den Adel als „Edler zu Paumgarten und Neuwaldegg“. Das Schloss wurde 1692 bis 1697 von Johann Bernhard Fischer von Erlach barock neu gebaut, 1765 erwarb Franz Moritz Graf Lacy die Herrschaft und schuf den englischen Garten.",
+   "quellen": []
+  },
+  {
+   "n": "Hernalser Spitz",
+   "art": "Grätzel",
+   "wiki": "Hernalser Spitz",
+   "lon": 16.3392,
+   "lat": 48.2146,
+   "text": "Das von Veronikagasse, Hernalser Gürtel und Ottakringer Straße begrenzte Gebiet wurde nach der Abtragung des Linienwalls vom Baumeister Friedrich Thelemann parzelliert und verbaut. 1893 entstand der Hernalser Hof. Fälschlich wird manchmal das Gebiet von Elterleinplatz bis Gürtel so genannt.",
+   "quellen": []
+  },
+  {
+   "n": "Heubergsiedlung",
+   "art": "Siedlung",
+   "wiki": "Heubergsiedlung",
+   "lon": 16.2825,
+   "lat": 48.2262,
+   "text": "Adolf Loos baute die Siedlung 1923/24 mit Hugo Mayer, als er Chefarchitekt des Siedlungsamts war. Sie liegt zwischen Kretschek-, Röntgen-, Schrammel-, Plachy- und Trenkwaldgasse am Heuberg.",
+   "quellen": []
+  },
+  {
+   "n": "Alseck",
+   "art": "Grätzel",
+   "wiki": "Alsegg-Hof",
+   "lon": 16.3128,
+   "lat": 48.2243,
+   "text": "Das Alseck ist die Biegung des lang gedehnten Höhenrückens, der Dornbach von Pötzleinsdorf trennt. Der Name lebt im Alsegg-Hof an der Hernalser Hauptstraße und in der Alszeile weiter.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Hernalser Kirche und das „Auslaufen“ der Lutheraner",
+   "kat": "geschichte",
+   "wiki": "Hernalser Kirche",
+   "adr": "St.-Bartholomäus-Platz 3",
+   "lon": 16.33155,
+   "lat": 48.21757,
+   "jahr": "1301 bis 1633",
+   "text": "Die Bartholomäuskirche von 1301 diente in der Reformation als evangelisches Gotteshaus. Nach 1587, als die Herrschaft an die Jörger kam, wurde Hernals Hauptort der Reformation in Wien. Da Stadtbewohner*innen außerhalb des Linienwalls Gottesdienste besuchen mussten, nannte man das „Auslaufen“. 1609 wurde eine lutherische Pfarre eingerichtet. Nach der Schlacht am Weißen Berg (1620) wurden die Protestanten vertrieben und die Jörger enteignet, 1625 übereignete Ferdinand II. die Herrschaft dem Domkapitel, 1633 wurde die Kirche neu geweiht.",
+   "fakt": "Die Jörgerstraße im Bezirk erinnert an die Herren, die das Luthertum hier stützten.",
+   "quellen": []
+  },
+  {
+   "n": "Kalvarienberg Hernals",
+   "kat": "mythos",
+   "wiki": "Hernalser Kirche",
+   "adr": "Kalvarienberggasse",
+   "lon": 16.3318,
+   "lat": 48.2176,
+   "jahr": "1639 bis 1766",
+   "text": "Ein Kreuzweg von St. Stephan nach Hernals wurde 1639 mit einem Heiligen Grab eingeweiht, nach der Zerstörung 1683 durch einen Kalvarienberg ersetzt. 1709 bis 1714 baute man neben der gotischen Kirche die Bergkirche. 1716 kam die im türkischen Lager zu Hernals schwer beschädigt aufgefundene „Türkenmuttergottes“ in die Kirche. 1720 übernahmen Pauliner die Betreuung; 1766 wurde der Grundstein zum Bau des Kalvarienbergs gelegt. Bis heute gibt es den Fastenmarkt von Aschermittwoch bis Ostermontag.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Kalvarienbergmarkt",
+     "u": "https://www.geschichtewiki.wien.gv.at/Kalvarienbergmarkt"
+    }
+   ]
+  },
+  {
+   "n": "Offizierstöchtererziehungsinstitut",
+   "kat": "geschichte",
+   "wiki": "Offizierstöchtererziehungsinstitut",
+   "adr": "Kalvarienberggasse 28",
+   "lon": 16.33242,
+   "lat": 48.21758,
+   "jahr": "1722 bis 1918",
+   "text": "Maria Theresia gründete das Institut 1775 in St. Pölten. Josef II. verlegte es 1786 nach Hernals in das 1722 gegründete Kloster der Pauliner, das 1784 aufgehoben worden war. Der Elisabethtrakt für die neue Lehrerinnenbildungsanstalt wurde 1877 bezogen, 1889 kam ein eigenes Krankenhaus dazu. Nach 1918 wurde es Bundeserziehungsanstalt. Der Festsaal besitzt Einrichtung aus dem Rothschildpalais im 4. Bezirk.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Arena Hernals",
+   "kat": "verschwunden",
+   "wiki": "Arena Hernals",
+   "adr": "Bergsteiggasse 14-16",
+   "lon": 16.33535,
+   "lat": 48.21746,
+   "jahr": "1848 bis 1854",
+   "text": "Die „Erste Wiener National Arena“ wurde 1848 von einem Komitee gebaut und später vom Josefstädter Direktor Franz Pokorny gekauft. Sie war eine Freiluft-Filialbühne des Theaters in der Josefstadt und eröffnete am 23. Juli 1848 mit „Das Fest der Arbeiter“. Ein Dornbacher Fuhrunternehmer fuhr Gäste vom Neuen Markt hin. 1850 folgte eine Wiedereröffnung, 1854 die Schließung.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stalehners Etablissement und die Schrammeln",
+   "kat": "kultur",
+   "wiki": "Stalehners Etablissement",
+   "adr": "Jörgerstraße 22",
+   "lon": 16.33835,
+   "lat": 48.21781,
+   "jahr": "19. Jahrhundert bis 1910er",
+   "text": "Aus einem Heurigenschank der Wirtsfamilie Steinlechner (mundartlich Stalehner), die mehr als 200 Jahre hier saß, wurde ein vielbesuchtes Lokal mit offener Veranda. Hier war die Hauptstätte des Schrammel-Quartetts, das Johann und Josef Schrammel 1878 gründeten. Im zweiten Jahrzehnt des 20. Jahrhunderts wurde es demoliert. In Dornbach erinnert das Neue Schrammeldenkmal (1967) an die Brüder.",
+   "fakt": "Die Schrammelmusik wurde mit Georg Dänzer (G-Klarinette, „picksüßes Hölzel“) und Anton Strohmayer (Kontragitarre) zum weltweiten Begriff.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Neues Schrammeldenkmal",
+     "u": "https://www.geschichtewiki.wien.gv.at/Neues_Schrammeldenkmal"
+    }
+   ]
+  },
+  {
+   "n": "Elterleins Casino",
+   "kat": "verschwunden",
+   "wiki": "Elterleins Casino",
+   "adr": "Hernalser Gürtel / Hernalser Hauptstraße 1",
+   "lon": 16.34116,
+   "lat": 48.2167,
+   "jahr": "1861 bis 1895",
+   "text": "Johann Georg Elterlein erwarb 1861 Ungers Casino und führte es zu neuer Blüte; die Volkssängergesellschaft Carl Kampf trat hier auf. Am Aschermittwoch 1895 begann der Abbruch, weil der Bau der Gürtellinie der Stadtbahn im Weg war. An der Stelle steht die Station Alser Straße.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zur goldenen Waldschnepfe",
+   "kat": "kultur",
+   "wiki": "Zur goldenen Waldschnepfe",
+   "adr": "Dornbacher Straße 88",
+   "lon": 16.2933,
+   "lat": 48.2322,
+   "jahr": "1660 bis 1956",
+   "text": "Hier bestand seit 1660 ein Einkehrgasthaus. Das heutige Haus im altdeutschen Stil entstand Ende des 19. Jahrhunderts nach Plänen von Avanzo und Lange. Kronprinz Rudolf war oft hier, es gab Schrammelmusik, die Volkssängerin Luise Montag trat auf. 1936 bis 1938 führte die jüdische Schauspielerin Trude Berliner ein Lokal „Der Fiaker“. Im Zweiten Weltkrieg war es Offizierskasino, nach dem Ungarnaufstand 1956 lebten hier Flüchtlinge.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Dornbacher Kirche",
+   "kat": "bauwerk",
+   "wiki": "Dornbacher Kirche",
+   "adr": "Rupertusplatz 5-7",
+   "lon": 16.29888,
+   "lat": 48.22912,
+   "jahr": "1139 bis 1932",
+   "text": "Die Benediktiner des Stifts St. Peter besaßen hier seit dem 11. Jahrhundert Land. Eine Kapelle wurde 1139 durch den Passauer Bischof geweiht, 1529 und 1683 von den Osmanen zerstört und jeweils wiederhergestellt (1536, 1687). Die Pfarre besteht seit 1251. Ein Kirchenbauverein unter Therese Fürstin Schwarzenberg wurde 1898 gegründet, die heutige Kirche entstand erst 1931/32 nach Plänen von Clemens Holzmeister.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schloss Neuwaldegg",
+   "kat": "bauwerk",
+   "wiki": "Neuwaldegger Schloss",
+   "adr": "Neuwaldegg",
+   "lon": 16.28817,
+   "lat": 48.23402,
+   "jahr": "1537 bis 1697",
+   "text": "Das Renaissanceschloss von 1537 wurde 1683 von den Osmanen zerstört. Margarethe Gräfin Strattmann ließ es 1692 bis 1697 nach Plänen von Johann Bernhard Fischer von Erlach neu bauen, mit zurückspringendem, oval geschwungenem Mittelteil zwischen zwei Eckrisaliten. Johann Karl Bartolotti Freiherr von Partenfeld ließ 1708 aus dem Heubründl eine Wasserleitung legen und 1732 eine Hauskapelle einrichten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schwarzenbergpark und Lacys Hameau",
+   "kat": "natur",
+   "wiki": "Neuwaldegger Park",
+   "adr": "Neuwaldegg",
+   "lon": 16.27835,
+   "lat": 48.24018,
+   "jahr": "1766 bis 1791",
+   "text": "Franz Moritz Graf Lacy erwarb 1765 die Herrschaft und ließ 1766 bis 1769 durch den Gärtner Maringer für eine halbe Million Gulden einen „englischen Garten“ als Naturpark anlegen, später auf 120 Joch erweitert. 1808 galt er als „größter und schönster Naturgarten in Österreich“. Lacy ließ das Hameau bauen. Der Park enthält Teiche wie den Parapluiteich, gespeist vom Eckbach.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Lacy-Grabmal",
+   "kat": "erinnerung",
+   "wiki": "Lacy-Grabmal",
+   "adr": "Schwarzenbergpark",
+   "lon": 16.27976,
+   "lat": 48.24337,
+   "jahr": "nach 1780 bis 1794",
+   "text": "Als Alternative zum josephinischen Verbot pompöser Bestattungen in Kirchen ließ Lacy nach 1780 auf eigenem Besitz ein von Bäumen umgebenes „Rousseaugrab“ anlegen. 1794 entstand der klassizistische Grabtempel „Moritzruhe“ mit vier toskanischen Säulen für ihn und seinen Neffen Georg Graf Browne. Im Inneren erinnern Tafeln an militärische Erfolge.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Heubergsiedlung von Adolf Loos",
+   "kat": "wohnen",
+   "wiki": "Heubergsiedlung",
+   "adr": "Kretschekgasse / Röntgengasse",
+   "lon": 16.28248,
+   "lat": 48.22621,
+   "jahr": "1921 bis 1924",
+   "text": "Loos entwickelte als Chefarchitekt des Siedlungsamtes billige zweistöckige Reihenhäuser nach dem Prinzip „Haus mit einer Mauer“: Die Feuermauer eines Hauses sollte zur tragenden Außenmauer des Nachbarn werden, was die Kosten der massiven Mauer halbierte. Er reichte das Verfahren zum Patent ein. Die Anlage entstand 1923/24 mit Hugo Mayer.",
+   "fakt": "Loos nannte sein Prinzip „Haus mit einer Mauer“.",
+   "quellen": []
+  },
+  {
+   "n": "Türkenritthof und Türkenkreuz",
+   "kat": "mythos",
+   "wiki": "Türkenritthof",
+   "adr": "Hernalser Hauptstraße 190-192",
+   "lon": 16.31419,
+   "lat": 48.2247,
+   "jahr": "1683 und 1927",
+   "text": "Der Gemeindebau von Paul Hoppe (1927/28) wurde nach dem „Türkenritt“ benannt, einem Umzug, der die besiegten Osmanen verspottete, mit einem verkehrt auf dem Esel reitenden Pascha. Über dem Tor ist eine Plastik von Karl Scholz. In den NS-Jahren gab es im Haus ein Revier der Staatspolizei mit Arrest. Das nahe Türkenkreuz wurde in der Volkstradition mit dem Entsatz 1683 verbunden, aufgestellt wurde es aber erst am Palmsonntag 1924; eine Bestätigung für die Überlieferung gibt es nicht.",
+   "fakt": "Das Türkenkreuz ist wohl jünger als die Legende: Korpus und INRI-Tafel stammen vermutlich aus dem 19./20. Jahrhundert.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Türkenkreuz",
+     "u": "https://www.geschichtewiki.wien.gv.at/Türkenkreuz"
+    }
+   ]
+  },
+  {
+   "n": "Herz-Jesu-Sühnekirche",
+   "kat": "bauwerk",
+   "wiki": "Herz-Jesu-Sühnekirche",
+   "adr": "Dr.-Josef-Resch-Platz",
+   "lon": 16.31469,
+   "lat": 48.2249,
+   "jahr": "1931 bis 1933",
+   "text": "Die Kirche wurde ab 1931 aus Mitteln des Canisiuswerks nach Plänen von Bruno Buchwieser in romanisch-frühchristlichen Formen gebaut. Der Baugrund stammte vom Salzburger Erzstift St. Peter. An der Außenwand erinnert ein Sgraffito von Ernst Bauernfeind an den „Sieg an der Als“, einen der entscheidenden Kämpfe der Befreiung Wiens 1683.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Park der Freiheit",
+   "kat": "erinnerung",
+   "wiki": "Park der Freiheit",
+   "adr": "Julius-Meinl-Gasse / Hernalser Hauptstraße",
+   "lon": 16.31447,
+   "lat": 48.22355,
+   "jahr": "2015",
+   "text": "Der Park erinnert an die vom Faschismus Verfolgten und im Widerstand Kämpfenden aus Hernals. Am 15. September 2015 wurde das Denkmal von Maria Anwander und Ruben Aubrecht enthüllt, eine in einen Betonkubus eingelassene Flip-Dot-Anzeige, auf der die Namen im Endlosloop erscheinen. Der Beschluss dazu geht auf die Bezirksvertretung von 2010 zurück.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Bezirksgedenkstätte Hernals Verfolgung, Widerstand und Freiheitskampf",
+     "u": "https://www.geschichtewiki.wien.gv.at/Bezirksgedenkstätte_Hernals_Verfolgung,_Widerstand_und_Freiheitskampf"
+    }
+   ]
+  },
+  {
+   "n": "Kunsteisbahn Engelmann",
+   "kat": "kurios",
+   "wiki": "Kunsteisbahn Engelmann",
+   "adr": "Syringgasse 6-14",
+   "lon": 16.33802,
+   "lat": 48.21894,
+   "jahr": "1868 bis 1974",
+   "text": "Eduard Engelmann senior legte 1868 einen Eislaufplatz an, ab 1873 gegen Eintritt zugänglich. Am 10. November 1909 wurde hier die erste Freilufteisbahn der Welt eröffnet, auf der Karl Schäfer und Emmy Putzinger heranwuchsen. Im Ersten Weltkrieg wurde die Anlage für Blockeis zur Lebensmittelkühlung umgebaut. 1944/45 wurde sie durch Bomben zerstört, 1972 an einen Warenhauskonzern verkauft, 1974 öffnete eine kleinere Bahn auf dem Dach des Plus-Kaufhauses.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Manner-Zentrale",
+   "kat": "industrie",
+   "wiki": "Manner",
+   "adr": "Wilhelminenstraße 6",
+   "lon": 16.32191,
+   "lat": 48.21621,
+   "jahr": "1890",
+   "text": "Josef Manner, der nach dem Militärdienst am Stephansplatz Schokolade und Feigenkaffee verkaufte, gründete 1890 die Firma, aus der die Josef Manner & Comp. AG wurde. Die Zentrale mit der Marke Neapolitaner sitzt in Hernals. Die Produktion findet ausschließlich in Österreich statt, ein weiteres Werk liegt in Wolkersdorf.",
+   "fakt": "Josef Manner liegt auf dem Dornbacher Friedhof begraben.",
+   "quellen": []
+  },
+  {
+   "n": "Wiener Sport-Club",
+   "kat": "kultur",
+   "wiki": "Wiener Sport-Club",
+   "adr": "Sport-Club-Platz, Alszeile",
+   "lon": 16.31117,
+   "lat": 48.22669,
+   "jahr": "1883 bis 1907",
+   "text": "Der erfolgreichste Verein des Bezirks entstand 1907 aus der Fusion mehrerer Vereine. Zurück geht er auf 1883, als 18 Angehörige des Rudervereins „Pirat“ den Wiener Cyclistenclub gründeten. Mit Turnen und Fechten wurde er früh zum Allroundverein; Klubsitz war das Gasthaus Russ in der Hernalser Hauptstraße 13. Das Stadion liegt in Dornbach.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bärenvilla",
+   "kat": "kultur",
+   "wiki": "Bärenvilla",
+   "adr": "Andergasse 8",
+   "lon": 16.29693,
+   "lat": 48.22811,
+   "jahr": "19. Jahrhundert",
+   "text": "Der Rathausarchitekt Friedrich von Schmidt kaufte das Haus eines Weinhauers in der damaligen Haltergasse und baute es im Stil des Rathauses um. Den Namen verdankt sie dem Gipsmodell eines Eisbären von Schmidts Schwiegersohn Otto Jarl, sichtbar im Eingang. Im Turmstübchen waren Theophil Hansen, Heinrich Ferstel, Hans Makart und Josefine Gallmeyer zu Gast.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Maria-Theresien-Schlössel",
+   "kat": "verschwunden",
+   "wiki": "Maria-Theresien-Schlössel (17)",
+   "adr": "Hernalser Hauptstraße 73-75",
+   "lon": 16.3298,
+   "lat": 48.21818,
+   "jahr": "18. Jahrhundert bis 1954",
+   "text": "Das Hernalser Schlössel aus der Mitte des 18. Jahrhunderts war ein Wahrzeichen und wurde 1953/54 für einen Neubau abgerissen. Sein Besitzer Max Schmidt hatte es 1923 testamentarisch der Stadt vermacht, der Erbfall trat 1935 ein. Die Figuren aus Gartenhof und Stiegenhaus kamen ins Bezirksmuseum.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schafbergkapelle",
+   "kat": "kurios",
+   "wiki": "Schafbergkapelle",
+   "adr": "Josef-Redl-Gasse",
+   "lon": 16.29253,
+   "lat": 48.23794,
+   "jahr": "1950 bis 1970",
+   "text": "Die Kapelle „Zum heiligen Thomas Morus“ wurde als Provisorium am 23. April 1950 geweiht und nach Plänen von Franz Graf ausgebaut (Weihe 21. Juni 1970). Die Tür des Tabernakels ist eine Steinplatte aus der Gruft des Heiligen in der Kirche St. Dunstan bei Canterbury. Das erste Chorfenster heißt „Juristenfenster“, jährlich wird eine „Juristenmesse“ gelesen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Waldandacht",
+   "kat": "mythos",
+   "wiki": "Waldandacht (17, Maria Einsiedeln)",
+   "adr": "Waldrand bei Neuwaldegg",
+   "lon": 16.28073,
+   "lat": 48.25221,
+   "jahr": "1869 bis 1936",
+   "text": "Der Hernalser Fabrikant Fernau stiftete nach einem unverletzt überstandenen Unfall 1869 ein Marienbild, das an einer Föhre befestigt wurde. Es entstanden Marienandachten, 1881 stiftete Thaner Bänke. Die Gegend wurde jahrmarktmäßig verunstaltet, bis Fürst Schwarzenberg Ordnung schaffen ließ. 1936 begann der Bau einer Kapelle nach Plänen von Hans Sluka.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Ernest-Bevin-Hof",
+   "kat": "politik",
+   "wiki": "Ernest-Bevin-Hof",
+   "adr": "Andergasse 18-22",
+   "lon": 16.29394,
+   "lat": 48.22697,
+   "jahr": "1958 und 1964",
+   "text": "Der Gemeindebau (1958) und das Denkmal von Mario Petrucci (1964) ehren Ernest Bevin, britischer Außenminister 1945 bis 1951, der sich für Österreichs staatliche Selbständigkeit einsetzte. Die Inschrift nennt ihn „ein wahrer Freund Österreichs“.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Bevindenkmal",
+     "u": "https://www.geschichtewiki.wien.gv.at/Bevindenkmal"
+    }
+   ]
+  },
+  {
+   "n": "Freiheitssiedlung",
+   "kat": "politik",
+   "wiki": "Freiheitssiedlung",
+   "adr": "Steinmüllergasse 23-27",
+   "lon": 16.30233,
+   "lat": 48.22443,
+   "jahr": "1955",
+   "text": "Die städtische Wohnhausanlage mit 125 Wohnungen wurde zur Erinnerung an die Unterzeichnung des österreichischen Staatsvertrags am 15. Mai 1955 benannt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hernalser Friedhof und das Clerfayt-Grabmal",
+   "kat": "erinnerung",
+   "wiki": "Hernalser Friedhof",
+   "adr": "Leopold-Kunschak-Platz 7",
+   "lon": 16.31752,
+   "lat": 48.22669,
+   "jahr": "1870 bis 1872",
+   "text": "Johann Pflaum plante den Friedhof 1870 bis 1872 nach dem Vorbild des Münchner „Aktienfriedhofs“. Er wurde am 25. Oktober 1872 geweiht. Die Gemeinde sah darin auch eine Einnahmequelle, von 100 Grüften waren bald viele vergriffen. 1883 wurde dem Grabmal von Feldmarschall Karl von Clerfayt († 1798), ursprünglich am Kalvarienberg, ein Platz zugewiesen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Dornbacher Friedhof",
+   "kat": "erinnerung",
+   "wiki": "Dornbacher Friedhof",
+   "adr": "Alszeile 28",
+   "lon": 16.31155,
+   "lat": 48.2279,
+   "jahr": "1883",
+   "text": "Der 1814 angelegte Friedhof wurde zu klein und 1883 aus sanitären Gründen geschlossen. Der neue wurde am 26. Juli 1883 für alle Konfessionen und Konfessionslose geweiht; als Erster wurde der Tischlermeister Adolf Hörmann beerdigt. Der Friedhof liegt wie der Hernalser Friedhof an einem Abhang zum Alsbach; es gibt einen Bergfriedhof.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Metropol",
+   "kat": "kultur",
+   "wiki": "Metropol",
+   "adr": "Hernalser Hauptstraße 55",
+   "lon": 16.33427,
+   "lat": 48.21749,
+   "jahr": "1981",
+   "text": "Das rund 150 Jahre alte Haus hieß in den 1960ern und 70ern „Hernalser Vergnügungszentrum“, am 14. Jänner 1981 wurde es als Kulturzentrum mit Theater, Kabarett und Musik eröffnet (600 Plätze). Vorher stand hier das Etablissement Georg Klein. 1994/95 wurde es generalsaniert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Fiakermuseum",
+   "kat": "kultur",
+   "wiki": "Fiakermuseum",
+   "adr": "Veronikagasse 12",
+   "lon": 16.33865,
+   "lat": 48.21338,
+   "jahr": "1968",
+   "text": "Die Wiener Fiakergenossenschaft erwarb 1863 das 1852 errichtete „Fiakerhaus“, in dem 1968 das Museum eröffnete. Es dokumentiert die 300-jährige Geschichte der Fiaker.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kommunal-Epidemiespital",
+   "kat": "verschwunden",
+   "wiki": "Kommunal-Epidemiespital",
+   "adr": "Halirschgasse 12",
+   "lon": 16.31929,
+   "lat": 48.22396,
+   "jahr": "1881 bis 1904",
+   "text": "Die Gemeinde Hernals errichtete 1881 ein Epidemiespital. Nach der Eingemeindung wurde es 1903/04 in eine Sanitäts- und Krankentransportstation umgebaut, die Rettungsstation Hernals, später mit Rettungsmuseum.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Löwit & Comp.",
+   "kat": "industrie",
+   "wiki": "Löwit & Comp.",
+   "adr": "Lascygasse 23",
+   "lon": 16.30788,
+   "lat": 48.22418,
+   "jahr": "1886 bis 1906",
+   "text": "Isidor Löwit gründete 1886 eine Verpackungsfirma, die Patente für gezogene runde Dosen und Kartons mit Blechecken erwarb. Ein Jahr später verlegte er sie von Prag nach Hernals (Geblergasse 19). Das Unternehmen, Kartonagen-, Wellpappen- und Papierbecherfabrik mit Druckerei, hatte rund 200 Mitarbeiter und baute 1901 um; 1906 kam ein weiterer Standort dazu.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hernalser Hauptstraße 98-100",
+   "kat": "wohnen",
+   "wiki": "Hernalser Hauptstraße 98-100",
+   "adr": "Hernalser Hauptstraße 98-100",
+   "lon": 16.3281,
+   "lat": 48.21983,
+   "jahr": "1823 bis 1967",
+   "text": "Der Gemeindebau von 1966/67 steht auf Gründen des Leopold Stephan Haeckl Reichsritter von Rosenstein, der 1823 gegen die Erhaltung seiner Grabstätte seinen Besitz auf 50 Jahre für 800 Gulden zu Gunsten der Armen an die Gemeinde verpachtete. Im Hof liegt seine Grabplatte.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Wann wird der Alsbach erstmals urkundlich erwähnt?",
+   "a": "1044",
+   "f": [
+    "1133",
+    "1301",
+    "1529"
+   ],
+   "erkl": "Graf Sighard IV. schenkte dem Stift St. Peter zwei Grundstücke an der Als.",
+   "wiki": "Hernals",
+   "quellen": []
+  },
+  {
+   "q": "Welches Salzburger Stift war bis 1848 Grundherr von Dornbach?",
+   "a": "St. Peter",
+   "f": [
+    "Nonnberg",
+    "Admont",
+    "Michaelbeuern"
+   ],
+   "erkl": "Das Wappen von Dornbach zeigt gekreuzte Schlüssel.",
+   "wiki": "Dornbach (Herrschaft)",
+   "quellen": []
+  },
+  {
+   "q": "Welche Adelsfamilie machte Hernals nach 1587 zum Zentrum des Protestantismus?",
+   "a": "Die Jörger",
+   "f": [
+    "Die Lacy",
+    "Die Roggendorf",
+    "Die Meraviglia"
+   ],
+   "erkl": "1627 wurden die Protestanten ausgewiesen.",
+   "wiki": "Hernals (Herrschaft)",
+   "quellen": []
+  },
+  {
+   "q": "Wie nannte man den Kirchenbesuch der Wiener Protestanten außerhalb des Linienwalls?",
+   "a": "„Auslaufen“",
+   "f": [
+    "„Wallfahrten“",
+    "„Abwandern“",
+    "„Hinausziehen“"
+   ],
+   "erkl": "Man besuchte Gottesdienste in Hernals und Inzersdorf.",
+   "wiki": "Hernalser Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Welche Figur wurde 1716 in der Hernalser Kirche verehrt, weil sie im türkischen Lager aufgefunden worden war?",
+   "a": "Die Türkenmuttergottes",
+   "f": [
+    "Das Schwarze Kreuz",
+    "Die Hernalser Madonna",
+    "Der Bartholomäus-Altar"
+   ],
+   "erkl": "Sie war schwer beschädigt aufgefunden worden.",
+   "wiki": "Hernalser Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Wer plante 1923/24 die Heubergsiedlung?",
+   "a": "Adolf Loos",
+   "f": [
+    "Otto Wagner",
+    "Josef Frank",
+    "Clemens Holzmeister"
+   ],
+   "erkl": "Er entwickelte das Prinzip „Haus mit einer Mauer“.",
+   "wiki": "Heubergsiedlung",
+   "quellen": []
+  },
+  {
+   "q": "Wer erwarb 1765 die Herrschaft Neuwaldegg und gestaltete den englischen Garten?",
+   "a": "Franz Moritz Graf Lacy",
+   "f": [
+    "Fürst Schwarzenberg",
+    "Fürst Gallitzin",
+    "Josef von Kornhäusel"
+   ],
+   "erkl": "Das Schloss selbst hatte Fischer von Erlach barock neu gebaut.",
+   "wiki": "Neuwaldegger Park",
+   "quellen": []
+  },
+  {
+   "q": "Was war die Besonderheit der Kunsteisbahn Engelmann 1909?",
+   "a": "Sie eröffnete die erste Freilufteisbahn der Welt",
+   "f": [
+    "Sie war die erste überdachte Eishalle Europas",
+    "Sie hatte das erste Eishockeytor",
+    "Sie war die größte Bahn Wiens"
+   ],
+   "erkl": "Hier wuchsen Karl Schäfer und Emmy Putzinger auf.",
+   "wiki": "Kunsteisbahn Engelmann",
+   "quellen": []
+  },
+  {
+   "q": "Welche Musikgruppe hatte in Stalehners Etablissement in der Jörgerstraße ihre Hauptstätte?",
+   "a": "Das Schrammel-Quartett",
+   "f": [
+    "Die Strauß-Kapelle",
+    "Das Hellmesberger-Quartett",
+    "Die Philharmonia Hungarica"
+   ],
+   "erkl": "Johann und Josef Schrammel gründeten es 1878.",
+   "wiki": "Stalehners Etablissement",
+   "quellen": []
+  },
+  {
+   "q": "Woran erinnert der Name Türkenritthof?",
+   "a": "An einen Spottumzug mit verkehrt auf dem Esel reitendem Pascha",
+   "f": [
+    "An eine Schlacht 1529",
+    "An die Zerstörung der Kirche",
+    "An einen Reitverein"
+   ],
+   "erkl": "Der Gemeindebau von 1927/28 trägt eine Plastik von Karl Scholz.",
+   "wiki": "Türkenritthof",
+   "quellen": []
+  },
+  {
+   "q": "Was war das Offizierstöchtererziehungsinstitut in Hernals vorher gewesen?",
+   "a": "Das 1784 aufgehobene Paulinerkloster",
+   "f": [
+    "Das Jörgerschloss",
+    "Ein Epidemiespital",
+    "Ein Schwarzenberg-Palais"
+   ],
+   "erkl": "Josef II. verlegte es 1786 nach Hernals.",
+   "wiki": "Offizierstöchtererziehungsinstitut",
+   "quellen": []
+  },
+  {
+   "q": "Wann eröffnete die Arena in Hernals?",
+   "a": "1848",
+   "f": [
+    "1809",
+    "1865",
+    "1895"
+   ],
+   "erkl": "Sie war eine Freiluft-Filialbühne des Josefstädter Theaters.",
+   "wiki": "Arena Hernals",
+   "quellen": []
+  },
+  {
+   "q": "Wer ist seit 2022 Bezirksvorsteher von Hernals?",
+   "a": "Peter Jagsch",
+   "f": [
+    "Peter Hacker",
+    "Gerhard Zatlokal",
+    "Ilse Pfeffer"
+   ],
+   "erkl": "Er folgte auf Ilse Pfeffer.",
+   "wiki": "Hernals",
+   "quellen": []
+  },
+  {
+   "q": "Welche Station der U6 steht heute an der Stelle von Elterleins Casino?",
+   "a": "Alser Straße",
+   "f": [
+    "Josefstädter Straße",
+    "Thaliastraße",
+    "Michelbeuern"
+   ],
+   "erkl": "Das Casino musste ab 1895 dem Bau der Gürtellinie der Stadtbahn weichen.",
+   "wiki": "Elterleins Casino",
+   "quellen": []
+  },
+  {
+   "q": "Aus welchem britischen Ort stammt die Steinplatte in der Tür des Tabernakels der Schafbergkapelle?",
+   "a": "Aus der Kirche St. Dunstan bei Canterbury",
+   "f": [
+    "Aus Westminster Abbey",
+    "Aus der Kathedrale von York",
+    "Aus der Tower-Kapelle"
+   ],
+   "erkl": "Es ist die Kopfgruft des heiligen Thomas Morus.",
+   "wiki": "Schafbergkapelle",
+   "quellen": []
+  }
+ ]
+}

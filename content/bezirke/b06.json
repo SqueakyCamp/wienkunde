@@ -1,0 +1,667 @@
+{
+ "nr": 6,
+ "name": "Mariahilf",
+ "kurz": "Ein Hangbezirk zwischen Wienfluss und Mariahilfer Straße, in dem sich Vorstadtgeschichte, Naschmarkt-Trubel und Rotes Wien auf nur 1,46 Quadratkilometern drängen.",
+ "profil": [
+  "Mariahilf ist ein junger Bezirk aus alten Vorstädten: Er wurde 1850 aus den Vorstädten Gumpendorf, Magdalenagrund und Windmühle zur Gänze sowie den südlichen Teilen von Laimgrube und Mariahilf gebildet und hieß zunächst der fünfte Bezirk. Erst nach der Abtrennung Margaretens von der Wieden 1861 verschob sich die Nummerierung und Mariahilf wurde zum sechsten. Er liegt auf dem Hang zwischen Wienfluss und Mariahilfer Straße bis zum Linienwall beziehungsweise Gürtel und misst 1,46 Quadratkilometer.",
+  "Der Name stammt vom Marienbild in der Mariahilfer Kirche. Der Barnabit Cölestin Joanelli stiftete 1660 auf dem Grund „Im Schöff“ eine Kopie des in Passau verehrten Mariahilfbilds; es zog bald viele Hilfesuchende an. Die erste Kapelle wurde 1683 von den Osmanen niedergebrannt, das Bild von einem Mesner gerettet; 1686 legte man den Grundstein der heutigen Kirche, die ab 1711 ihre Gestalt erhielt. Die Vorstadt Mariahilf wuchs rund um diese Wallfahrtskirche.",
+  "Die ältere Siedlung Gumpendorf ist weit älter: 1130/1140 wird ein Herbort von Gumpendorf genannt, der Ort liegt an einer Furt durch den Wienfluss und war bereits römisch besiedelt. Römische Quader und Inschriftsteine aus der Zeit Trajans stecken im Fundament der Gumpendorfer Kirche. Das Gumpendorfer Schloss war ein befestigter Meierhof der Herren von Gumpendorf am Steilrand zum Wienfluss und ist das älteste Gebäude, das der Bezirk je hatte; die Reste fielen 1895 dem Stadtbahnbau und 1961/62 dem Abbruch zum Opfer.",
+  "Auf dem Hang darüber, an der Windmühlgasse, entstand nach 1529 aus den Ruinen des Klosters St. Theobald die Vorstadt Windmühle: Ferdinand I. überließ 1562 seinem Reichsherold Johann Francolin das Gelände unter der Auflage, Windmühlen zu bauen; es entstand aber nur eine, im Übrigen Miethäuser. Daneben wuchsen Laimgrube, das „Ratzenstadl“ des Magdalenagrunds und weitere Vororte, deren Namen heute nur noch in Gassen, Kirchen und Gaststätten weiterleben.",
+  "Mit der Wienflussregulierung und dem Stadtbahnbau änderte sich der Bezirk grundlegend. Der Naschmarkt wurde 1902 an seinen jetzigen Ort über den überwölbten Fluss verlegt, die Otto-Wagner-Bauten an der Linken Wienzeile (Majolikahaus 1898/99) setzten städtebauliche Zeichen. Im 19. Jahrhundert war Mariahilf Standort für Theater, Kabaretts, Kaffeehäuser, Bäder und Fabriken, in der Kriegsschule wurden k. u. k. Generalstabsoffiziere ausgebildet.",
+  "Das Rote Wien baute am Rand des Bezirks, der kaum freie Flächen hatte: Leuthnerhof (1931/32), später Einsteinhof (1949–1952). Dazwischen liegt die NS-Zeit: In der Hirschengasse 25 hatte die Wiener NSDAP 1931–1933 ihr Hauptquartier, die Synagogen in der Schmalzhofgasse und in der Stumpergasse wurden im November 1938 zerstört. Im Esterházypark steht der Flakturm, der als einziger Wiener Flakturm genutzt wird.",
+  "Heute ist Mariahilf ein stark städtischer, durchgehend dicht verbauter Bezirk mit Einkaufsstraße, Naschmarkt und Wohngrätzeln um Gumpendorfer Straße und Windmühlgasse. Die Mariahilfer Straße wurde 2013 zur Fußgänger- und Begegnungszone umgestaltet, was eine der Stadtdebatten der 2010er Jahre auslöste."
+ ],
+ "politik": "Bezirksvorsteherin ist Julia Lessacher (SPÖ); sie folgte Markus Rumelhart (SPÖ, Bezirksvorsteher seit 2014). Bei der Bezirksvertretungswahl 2025 lag die SPÖ mit 36,0 Prozent vor den Grünen (30,3), der ÖVP (9,8), der FPÖ (9,4), den NEOS (9,3) und der KPÖ (5,3); die Beteiligung betrug 50,5 Prozent. Mariahilf ist sozialdemokratisch geprägt, mit einer starken grünen Konkurrenz.",
+ "quellen": [
+  {
+   "t": "Mariahilf – Wikipedia",
+   "u": "https://de.wikipedia.org/wiki/Mariahilf"
+  },
+  {
+   "t": "Wien Geschichte Wiki: Mariahilf",
+   "u": "https://www.geschichtewiki.wien.gv.at/Mariahilf"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Gumpendorf",
+   "art": "Vorstadt",
+   "wiki": "Gumpendorf (Vorstadt)",
+   "lon": 16.34768,
+   "lat": 48.19132,
+   "text": "Der älteste Ort des Bezirks wird 1130/1140 mit einem Herbort von Gumpendorf erstmals genannt. Er lag an einer Wienflussfurt und zeigt römische Besiedlungsspuren; die Brückengasse bildete den Kern der mittelalterlichen Siedlung. Pfarrkirche war die Gumpendorfer Kirche, das Schloss ein befestigter Meierhof. 1850 wurde Gumpendorf in den Bezirk Mariahilf eingemeindet.",
+   "quellen": []
+  },
+  {
+   "n": "Windmühle",
+   "art": "Vorstadt",
+   "wiki": "Windmühle (Vorstadt)",
+   "lon": 16.35937,
+   "lat": 48.19929,
+   "text": "Nach der Zerstörung des Klosters St. Theobald durch die Osmanen 1529 überließ Ferdinand I. 1562 das Areal Johann von Francolin mit der Auflage, Windmühlen zu bauen. Er errichtete nur eine einzige Mühle, in der heutigen Capistrangasse 10, den Rest verbaute er mit Mietshäusern. Im 16. Jahrhundert war hier Weinbaugebiet; 1573 wurde in 13 von 37 Häusern Wein ausgeschenkt. 1620 kaufte die Stadt Wien den Windmühlgrund um 6.000 Gulden. Das Siegel mit dem heiligen Theobald floss in das Bezirkswappen ein.",
+   "quellen": []
+  },
+  {
+   "n": "Laimgrube",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.3583,
+   "lat": 48.20015,
+   "text": "Die Vorstadt entstand rund um das Kloster St. Theobald und zog sich an der heutigen Mariahilfer Straße entlang. Der Name bezieht sich auf Lehmgruben. Die Theobaldkirche und die Laimgrubenkirche bilden den historischen Kern; die Laimgrubenkirche wurde 1906/07 am heutigen Platz an der Windmühlgasse neu erbaut. 1850 wurde die Vorstadt zwischen den Bezirken Neubau und Mariahilf geteilt.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Laimgrubenkirche",
+     "u": "https://www.geschichtewiki.wien.gv.at/Laimgrubenkirche"
+    }
+   ]
+  },
+  {
+   "n": "Magdalenagrund (Ratzenstadl)",
+   "art": "Vorstadt",
+   "wiki": "Bettelbühel (6)",
+   "lon": 16.36029,
+   "lat": 48.2005,
+   "text": "Der Name Bettelbühel ist schon um 1400 für das „Ratzenstadl“ nachweisbar, das bis 1850 Magdalenagrund hieß. Es war ein enger, armer Teil an der Wienflussseite der Mariahilfer Straße. Mit der Bettlerstiege verband es Spittelberg und Laimgrube. Im Bezirkswappen steht die heilige Magdalena zu Füßen des Gekreuzigten für diese Vorstadt. Das Bezirksmuseum zeigt ein Modell des Ratzenstadls von 1920.",
+   "quellen": []
+  },
+  {
+   "n": "Mariahilf",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.35323,
+   "lat": 48.19885,
+   "text": "Die Vorstadt entstand nach 1660 um das Wallfahrtsbild der Barnabiten auf dem Grund „Im Schöff“. Ihr Siegel mit dem segelnden Schiff ist im Bezirkswappen enthalten. Drei Rieden gab es auf dem Boden der späteren Vorstadt; das Kernstück zwischen Mariahilfer Straße und Windmühlgasse, im Westen von der Schadekgasse begrenzt, hieß „Im Schöff“.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Mariahilfer Kirche",
+     "u": "https://www.geschichtewiki.wien.gv.at/Mariahilfer_Kirche"
+    }
+   ]
+  },
+  {
+   "n": "Katerlucke",
+   "art": "Grätzel",
+   "wiki": "Katerlucke",
+   "lon": 16.36293,
+   "lat": 48.20185,
+   "text": "Die kleine Ansiedlung vor den Stadtmauern zwischen Kärntner- und Burgtor ist 1342 urkundlich erwähnt. Sie begann entlang der heutigen Rahlgasse und reichte etwa bis zur Elisabethstraße. Auch der Name Kothlucke ist überliefert, er lebte bis 1862 in der Kothgasse (der heutigen Gumpendorfer Straße) fort.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Gumpendorfer Kirche",
+   "kat": "bauwerk",
+   "wiki": "Gumpendorfer Kirche",
+   "adr": "Gumpendorfer Straße 109, Brückengasse 5",
+   "lon": 16.34715,
+   "lat": 48.19102,
+   "jahr": "1244",
+   "text": "Am 24. Oktober 1244 wird erstmals ein dem heiligen Ägyd geweihter Altar urkundlich erwähnt. Die romanische Kapelle war an einen älteren Westturm aus Quadersteinen mit römischen Inschriftsteinen aus der Zeit Trajans angebunden. Die Lage am Steilrand gegen den Mühlbach spricht dafür, dass der Turm einst ein römischer Wachturm an der Furt war. Zwischen 1293 und 1305 erweiterte Ulrich von Kapellen, ein Kampfgefährte Rudolfs von Habsburg, die Kirche; 1351 folgte ein gotischer Chor, 1360 übergab man sie dem Stift Baumgartenberg.",
+   "fakt": "Die Ägidiuskirche stand auf einer hausbergartigen Erdsubstruktion, anstelle eines vermuteten römischen Wachturms.",
+   "quellen": []
+  },
+  {
+   "n": "Gumpendorfer Schloss und das Amerlingschlössl",
+   "kat": "verschwunden",
+   "wiki": "Gumpendorfer Schloss",
+   "adr": "Mollardgasse 92, Wallgasse 3",
+   "lon": 16.33982,
+   "lat": 48.18903,
+   "jahr": "12. Jh.–1962",
+   "text": "Das Schloss war ursprünglich ein befestigter Meierhof am Steilrand des Wienflusses und das älteste Gebäude im heutigen Bezirk. Beim Bau des Linienwalls 1704 wurde die Anlage zerschnitten. 1819 richtete Dr. Bruno Görgen im Schloss seine Privatirrenanstalt ein, die er 1831 nach Oberdöbling verlegte. Den letzten Rest, das Mollardschloss, erwarb 1858 der Maler Friedrich von Amerling, der es umgestaltete und mit Kunstwerken füllte; im Volksmund hieß es „Amerlingschlössel“, er starb hier am 14. Jänner 1887. Dem Stadtbahnbau musste es 1895 weitgehend weichen, die letzten Reste trug man 1961/62 ab; das Renaissanceportal steht im Hof von Gumpendorfer Straße 104.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Die Gumpendorfer Mühlen",
+   "kat": "wasser",
+   "wiki": "Mollardmühle",
+   "adr": "Wallgasse 3, Hofmühlgasse 7",
+   "lon": 16.3386,
+   "lat": 48.18964,
+   "jahr": "1331",
+   "text": "Am Mühlbach in Gumpendorf lagen vier Mühlen: Dominikanermühle, Kirchenmühle, Hofmühle und Mollardmühle. Die Mollardmühle wird am 20. Juni 1331 am frühesten urkundlich erwähnt, als Ortolf von St. Veit seine Mühle verkaufte, und war im 14. Jahrhundert eine herzogliche Mühle. Später lag sie am Linienwall, durch den der Mühlbach geleitet wurde, und trug den Namen der Grafen von Mollard. Die Hofmühle, früher Dorotheermühle, ist 1414 als Stampfmühle bezeugt.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Hofmühle",
+     "u": "https://www.geschichtewiki.wien.gv.at/Hofm%C3%BChle"
+    }
+   ]
+  },
+  {
+   "n": "Jahrhunderthochwasser 1851",
+   "kat": "ereignis",
+   "wiki": "Jahrhunderthochwasser 1851",
+   "adr": "Mollardgasse (damals Annagasse)",
+   "lon": 16.34603,
+   "lat": 48.19188,
+   "jahr": "1851",
+   "text": "Das Hochwasser der Wien am 18. Mai 1851 war das größte des 19. Jahrhunderts. Nahezu alle Holzstege und Brücken wurden weggerissen oder stark beschädigt. Besonders betroffen waren Gumpendorf und der Magdalenengrund; in der Annagasse, der heutigen Mollardgasse, mussten sämtliche ebenerdigen Wohnungen geräumt werden. Menschen kamen nicht zu Schaden. Die Flutkatastrophen führten letztlich zur Wienflussregulierung ab den 1890ern.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gumpendorfer Schlachthaus",
+   "kat": "verschwunden",
+   "wiki": "Gumpendorfer Schlachthaus",
+   "adr": "Linke Wienzeile 180–186",
+   "lon": 16.34216,
+   "lat": 48.18888,
+   "jahr": "1847–1907",
+   "text": "Bürgermeister Ignaz Czapka versuchte durch gemeindeeigene Schlachthäuser und Markthallen die Preise zu dämpfen und die soziale Lage der Arbeiterschaft zu verbessern. Das Gumpendorfer Schlachthaus wurde ab 1847 gebaut und erst 1851 eröffnet; es war bei der Eröffnung an die Kaiser-Ferdinands-Wasserleitung angeschlossen, was einen hygienischen Fortschritt bedeutete. 1907 wurde es demoliert. An seiner Stelle entstanden die Feuerhauptwache Mariahilf, die Gewerbliche Fortbildungsschule, der Werkstättenhof und der Leuthnerhof (1931).",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Naschmarkt",
+   "kat": "alltag",
+   "wiki": "Naschmarkt",
+   "adr": "Linke und Rechte Wienzeile",
+   "lon": 16.36237,
+   "lat": 48.19795,
+   "jahr": "1780/1902",
+   "text": "Der Naschmarkt ist mit 2,3 Hektar der größte innerstädtische Markt. Sein Vorläufer war ein Obst- und Gemüsemarkt auf der Freyung, der wegen Streits zwischen Magistrat und Schottenkloster 1780 vor das Starhembergsche Freihaus verlegt wurde. Die Frühform „Aschenmarkt“ leitet sich vielleicht von einem Aschen- und Müllplatz oder von „Asch“ für Milcheimer ab; ab 1820 ist „Naschmarkt“ belegt, wohl von den Süßigkeiten inspiriert, offiziell wurde er 1905. Seit 1902 steht er über dem überwölbten Wienfluss, bis zur Station Kettenbrückengasse; hinter ihr liegt der samstägliche Flohmarkt.",
+   "fakt": "Der Großmarkt, der früher hier stand, ist längst nach Inzersdorf übersiedelt.",
+   "quellen": []
+  },
+  {
+   "n": "Majolikahaus",
+   "kat": "bauwerk",
+   "wiki": "Majolikahaus",
+   "adr": "Linke Wienzeile 40",
+   "lon": 16.35918,
+   "lat": 48.19743,
+   "jahr": "1898–1899",
+   "text": "Otto Wagner errichtete das Miethaus im Jugendstil auf eigene Kosten; die Fassade ist mit witterungsunempfindlichen Majolika-Platten mit markanten Pflanzenornamenten verkleidet. Es ist die einzige Realisierung der von Wagner propagierten polychromen Fassaden. Der Entwurf stammt von Gustav Roßmann, ausgeführt wurde es neben dem Haus Linke Wienzeile 38.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Die Hölle: Kabarett im Keller",
+   "kat": "kultur",
+   "wiki": "Die Hölle",
+   "adr": "Linke Wienzeile 6, unter dem Theater an der Wien",
+   "lon": 16.35465,
+   "lat": 48.19632,
+   "jahr": "1906",
+   "text": "1906 erhielten Leopold und Siegmund Natzler die Bewilligung und die Singspielhallenkonzession für ein neues Unterhaltungsetablissement, das im Souterrain des Hauses mit dem Theater an der Wien entstand. Die „Hölle“ war eines der bekanntesten Wiener Kabaretts der Vorkriegszeit. Der Keller blieb mit wechselnder Nutzung bestehen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Café Sperl",
+   "kat": "alltag",
+   "wiki": "Café Sperl",
+   "adr": "Gumpendorfer Straße 11–13",
+   "lon": 16.36124,
+   "lat": 48.19979,
+   "jahr": "1880",
+   "text": "Die Hansen-Schüler Joseph Groß und Wilhelm Jelinek richteten das Lokal 1880 ein, zuerst als Café Ronacher unter Jakob Ronacher. Ab 1881–1883 führte es Herr Sperl, der bis heute namengebend ist, danach über acht Jahrzehnte die Familie Kratochwilla. Hier trafen sich Schauspieler, Künstler und Militärs der nahen Kriegsschule, darunter Girardi, Lewinsky, Eysler, Lehár und Millöcker. Die Haagengesellschaft und der Siebener-Club, aus denen teils die Secession (1897) und der Hagenbund hervorgingen, hatten hier ihren Sitz. Seit 1980 ist das Café denkmalgeschützt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Haydnhaus",
+   "kat": "geschichte",
+   "wiki": "Haydnhaus",
+   "adr": "Haydngasse 19",
+   "lon": 16.34514,
+   "lat": 48.19434,
+   "jahr": "1793–1809",
+   "text": "Joseph Haydn kaufte das Haus in der Vorstadt Obere Windmühle am 14. August 1793 wegen der einsam stillen Lage, ließ es aber erst 1794/95 adaptieren und aufstocken und wohnte ab Sommer 1797 hier. Seine Frau brachte er nach einem Streit bis zu ihrem Tod 1800 unversöhnt in Baden unter. In diesem Haus schrieb Haydn „Die Schöpfung“ und „Die Jahreszeiten“ und empfing Admiral Nelson (1800), Weber und Cherubini. Er starb hier am 31. Mai 1809 während der französischen Besatzung; Napoleon ließ Ehrenwachen aufstellen. Die Haydngasse heißt seit 1862 so; im Haus befinden sich Haydnmuseum und Gedenkraum für Brahms (1980).",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Raimunds Geburtshaus",
+   "kat": "kultur",
+   "wiki": "Raimund-Geburtshaus",
+   "adr": "Mariahilfer Straße 45, Windmühlgasse 20",
+   "lon": 16.35524,
+   "lat": 48.19997,
+   "jahr": "1790",
+   "text": "Das Haus „Zum goldenen Hirschen“ ist Geburtshaus des Dichters Ferdinand Raimund (1. Juni 1790) und des Bildhauers Edmund Hellmer (12. November 1850). Es wurde 1863 von Anton Pschierer umgestaltet und aufgestockt. 1874 ereignete sich hier ein aufsehenerregender Mord an der Dienstmagd Viktoria Moldaschel. Das Haus ist ein Durchhaus mit mehreren Stiegenhäusern und vier Höfen, das die Mariahilfer Straße mit der Windmühlgasse verbindet.",
+   "fakt": "Ein Hirschrelief über dem Tor erinnert an den Schildnamen des Hauses.",
+   "quellen": []
+  },
+  {
+   "n": "Mariahilfer Kirche und das Gnadenbild",
+   "kat": "geschichte",
+   "wiki": "Mariahilfer Kirche",
+   "adr": "Mariahilfer Straße 55",
+   "lon": 16.35323,
+   "lat": 48.19885,
+   "jahr": "1660–1714",
+   "text": "Auf dem Grund „Im Schöff“ kauften die Barnabiten ein Grundstück, das 1660 vom Bischof Philipp Friedrich von Breuner zum Friedhof erklärt wurde. Der Barnabit Cölestin Joanelli stiftete 1660 eine Kopie des auf dem Mariahilfer Berg bei Passau verehrten Gnadenbilds. 1683 verbrannten die Osmanen die Kapelle, der Mesner Erhard Lampel rettete das Bild. 1686 legte Fürstbischof Ernst Graf Trautson den Grundstein der neuen Kirche, die auf Grund und mit Mitteln von Paul Fürst Esterházy erbaut wurde; ab 1711 baute Franziskus Jänckl sie zu ihrer heutigen Gestalt aus. Bis 1923 war sie Klosterkirche der Barnabiten, seit 1783 Pfarr- und Wallfahrtskirche.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Theobaldkloster und Laimgrubenkirche",
+   "kat": "verschwunden",
+   "wiki": "Theobaldkirche",
+   "adr": "Laimgrube, Theobaldgasse 15–19; Windmühlgasse 3",
+   "lon": 16.35895,
+   "lat": 48.20019,
+   "jahr": "1343–1907",
+   "text": "Herzog Albrecht II. gründete 1343 vor dem Widmertor eine Kapelle zu Ehren der Heiligen Katharina und Diepold, 1349 ein Versorgungshaus für bedürftige adelige Witwen, das er 1354 in ein Kloster der Franziskanerinnen umwandelte. 1451 räumte Friedrich III. das Haus Johannes Capistran und den Franziskanern ein, die es dem heiligen Theobald und Bernhard weihten. Am 25. September 1529 zerstörten die Osmanen Kloster und Kirche. Später übernahmen Karmeliten das Areal; die barocke Laimgrubenkirche an der Mariahilfer Straße 27 (1687–1907) wurde 1906/07 an der Windmühlgasse als Replik neu gebaut.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Laimgrubenkirche",
+     "u": "https://www.geschichtewiki.wien.gv.at/Laimgrubenkirche"
+    }
+   ]
+  },
+  {
+   "n": "Arbeitshaus und Polizeigefangenenhaus",
+   "kat": "verschwunden",
+   "wiki": "Arbeitshaus (6)",
+   "adr": "Laimgrube (ehemals Theobaldkloster)",
+   "lon": 16.35895,
+   "lat": 48.20019,
+   "jahr": "1804–1905",
+   "text": "Am 1. Oktober 1804 wurde im einstöckigen Gebäude des 1797 aufgelassenen Karmeliterklosters eine öffentliche Besserungsanstalt eingerichtet, verbunden mit einer Korrektionsanstalt für junge Leute aus besseren Kreisen. Von 1885 bis 1905 diente das nun dreistöckige Gebäude als Polizeigefangenenhaus, dann zog dieses in die Roßauer Lände 1–9.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bettlerstiege",
+   "kat": "geschichte",
+   "wiki": "Bettlerstiege (6)",
+   "adr": "Königsklostergasse (Untere Windmühle)",
+   "lon": 16.36023,
+   "lat": 48.2006,
+   "jahr": "um 1330–1358",
+   "text": "Die mehrstöckige Stiegengasse führte in drei Absätzen mit etwa 50 Stufen von der Laimgrubenstraße, der heutigen Mariahilfer Straße, hinab zur Kothgasse, der heutigen Gumpendorfer Straße. Sie verband Spittelberg mit Laimgrube. Schon in Urkunden aus der Zeit Herzog Albrechts des Lahmen (1330–1358) wird sie als Versammlungsort der Bettelnden erwähnt, daher auch der Name Bettelbühel für die Gegend.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Esterházypalais und Esterházypark",
+   "kat": "bauwerk",
+   "wiki": "Esterházypalais (6)",
+   "adr": "Amerlingstraße 6",
+   "lon": 16.35129,
+   "lat": 48.19725,
+   "jahr": "1695–1869",
+   "text": "Johann Ignatius Albrecht von Albrechtsburg ließ 1695–1698 ein Sommergebäude errichten, möglicherweise nach Plänen von Fischer von Erlach. Staatskanzler Anton Graf Kaunitz-Rietberg erwarb es 1754 und gestaltete es 1755–1758 grundlegend um; 1777 erweiterte Jean Baptist Kleber es durch zwei Seitenflügel. 1814–1865 beherbergte es die Gemäldegalerie der Fürsten Esterházy, ab 1869 das Amerling-Gymnasium. Der Garten ist seit 1868 ein öffentlicher Park.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Haus des Meeres im Flakturm",
+   "kat": "industrie",
+   "wiki": "Haus des Meeres",
+   "adr": "Esterházypark",
+   "lon": 16.35293,
+   "lat": 48.19765,
+   "jahr": "1943–1958",
+   "text": "Der Turm wurde zwischen Oktober 1943 und Juli 1944 als Feuerleitturm für den Geschützturm in der Stiftkaserne gebaut. Von den sechs Wiener Flaktürmen wurde nur dieser einer neuen Verwendung zugeführt. Nach dem Krieg diente er vorübergehend als Nothotel, ab 1957 zog die Gesellschaft für Meeresbiologie ein und eröffnete 1958 die erste Meerwasserausstellung Österreichs. Heute leben hier rund 10.000 Tiere, im Turm gibt es auch das Flakturmmuseum „Erinnern im Innern“.",
+   "fakt": "Die Aquarien fassen über 1,5 Millionen Liter Wasser.",
+   "quellen": []
+  },
+  {
+   "n": "Karolinenbad und Esterházybad",
+   "kat": "verschwunden",
+   "wiki": "Esterházybad",
+   "adr": "Gumpendorfer Straße 59, Luftbadgasse 14",
+   "lon": 16.35439,
+   "lat": 48.19761,
+   "jahr": "1843–1961",
+   "text": "Josef Eggerth gründete 1843 das Karolinenbad, eines der ältesten Bäder der Vorstädte. Der Erfolg ermutigte ihn zum Esterházybad, einem Kaltwasserbad, für das er das „Binderhäusel“ an einer weinbewachsenen Berglehne kaufte. Der Nachbar „Zum Wollenbaum“ wandte sich gegen den Bau. Das Karolinenbad wurde am 1. Dezember 1924 mit 30 Kabinen und 40 Wannen wiedereröffnet und 1961 abgerissen; das Eingangstor kam ins Bezirksmuseum.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Karolinenbad",
+     "u": "https://www.geschichtewiki.wien.gv.at/Karolinenbad"
+    }
+   ]
+  },
+  {
+   "n": "Das Adolf-Hitler-Haus",
+   "kat": "erinnerung",
+   "wiki": "Adolf-Hitler-Haus",
+   "adr": "Hirschengasse 25",
+   "lon": 16.34685,
+   "lat": 48.19508,
+   "jahr": "1931–1933",
+   "text": "Der Verein „Braunes Haus“, den Gauleiter Alfred Frauenfeld 1931 gründete, kaufte im Oktober 1931 das 1890 erbaute Haus, das zuvor die kunstgewerbliche Abteilung der Fezfabriken beherbergt hatte. Weil der Titel „Braunes Haus“ der Münchner Parteizentrale vorbehalten war, durfte es mit Einverständnis Hitlers dessen Namen tragen. Bereits drei Monate nach dem Kauf, im Dezember 1931 bzw. Anfang 1932, bezog die Wiener NSDAP das Gebäude. Es blieb bis 1933 Parteihauptquartier.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Synagogen Schmalzhofgasse und Stumpergasse",
+   "kat": "erinnerung",
+   "wiki": "Schmalzhof",
+   "adr": "Schmalzhofgasse 3; Stumpergasse 42",
+   "lon": 16.34758,
+   "lat": 48.19523,
+   "jahr": "1883–1938",
+   "text": "Im großen Hof des Schmalzhofs, der einem reichen Schmalzhändler gehört hatte, wurde 1883/84 nach Plänen von Max Fleischer die Vereinssynagoge des Israelitischen Tempelvereins für Mariahilf und Neubau errichtet, ein zweitürmiger neugotischer Backsteinbau. Sie wurde im Novemberpogrom am 9./10. November 1938 in Brand gesteckt und im Krieg zerstört; an ihrer Stelle steht ein Pensionistenheim der 1980er Jahre. Auch die Synagoge des Israelitischen Tempel- und Schulvereins im Hinterhof Stumpergasse 42 wurde im Pogrom zerstört.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Vereinssynagoge des Israelitischen Tempel- und Schulvereins 6, Stumpergasse 42",
+     "u": "https://www.geschichtewiki.wien.gv.at/Vereinssynagoge_des_Israelitischen_Tempel-_und_Schulvereins_6,_Stumpergasse_42"
+    }
+   ]
+  },
+  {
+   "n": "Leuchtobelisk am Gürtel",
+   "kat": "kurios",
+   "wiki": "Leuchtobelisk",
+   "adr": "Mariahilfer Gürtel",
+   "lon": 16.33958,
+   "lat": 48.19538,
+   "jahr": "1898–1906",
+   "text": "Hans Scherpe (Bildhauer) und Johann Scheiringer (Architekt) führten den Obelisken aus Granit aus; er wurde am 2. Dezember 1906 zur Erinnerung an die Vollendung der Gürtelanlagen enthüllt, einer 65.000 Quadratmeter großen Parkanlage zwischen Nußdorfer Straße und Wienfluss. An der Spitze des neun Meter hohen Obelisks befand sich ursprünglich ein aus 92 Glühlampen zusammengestellter Stern.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bundestheater-Dekorationsdepot",
+   "kat": "bauwerk",
+   "wiki": "Bundestheaterdekorationsdepot",
+   "adr": "Lehárgasse 6–8",
+   "lon": 16.36205,
+   "lat": 48.19974,
+   "jahr": "1874–1877",
+   "text": "Das k. k. Hoftheaterdekorationsdepot für Hofoper und Hofburgtheater wurde im Auftrag des Stadterweiterungsfonds nach Plänen von Carl von Hasenauer und Gottfried Semper als Rohziegelbau errichtet (Baubewilligung 28. August 1873, Benützungsbewilligung 26. März 1878, Baukosten 689.750 Gulden). 1918 erfolgte die Umbenennung in Bundestheaterdekorationsdepot. Es lagert Bühnenbilder unmittelbar neben dem Naschmarkt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kriegsschule",
+   "kat": "geschichte",
+   "wiki": "Kriegsschule",
+   "adr": "Lehárgasse 4",
+   "lon": 16.36347,
+   "lat": 48.20044,
+   "jahr": "1865",
+   "text": "Das Gebäude wurde 1865 von Hauptmann L. Weeger vom Geniestab errichtet. In der Kriegsschule bildete die k. u. k. Armee ihre Generalstabsoffiziere und andere höhere Fachoffiziere aus. Wegen der steigenden Zahl der Auszubildenden gab es Erweiterungsbauten 1875, 1895 und 1900; die Anstalt bestand aus Hauptgebäude, Mannschafts- und Stallgebäuden sowie gedeckter und offener Reitschule. Die Offiziere gehörten zum Stammpublikum des Café Sperl.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Casa piccola und Napoleons Kriegsrat 1809",
+   "kat": "ereignis",
+   "wiki": "Casa piccola",
+   "adr": "Mariahilfer Straße 1a",
+   "lon": 16.36118,
+   "lat": 48.20204,
+   "jahr": "1809",
+   "text": "Casa piccola hieß ein kleines Häuschen am äußeren Rand des Glacis, das dem ersten linksseitigen Haus der späteren Mariahilfer Straße vorgebaut war. Während der Beschießung der Stadt am 10. und 11. Mai 1809 tagte hier Napoleons Kriegsrat. 1895/96 wurde das Haus von den Architekten Karl Theodor Bach und Carl Schumann zu einem Wohnhaus umgebaut.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gänsemädchenbrunnen",
+   "kat": "kurios",
+   "wiki": "Gänsemädchenbrunnen",
+   "adr": "Mariahilfer Straße 1a–1b, vor der Rahlstiege",
+   "lon": 16.36108,
+   "lat": 48.20193,
+   "jahr": "1865–1866",
+   "text": "Der Brunnen mit der Bronzefigur einer Gänsehirtin von Anton Paul Wagner wurde 1865/66 von der Gemeinde errichtet. Er stand ursprünglich auf der Brandstätte gegenüber dem Riesentor des Stephansdoms, dem ehemaligen Gänsemarkt Alt-Wiens, und kam wegen des Umbaus des Gundelhofs 1874 ins städtische Materialdepot, bevor er seinen jetzigen Platz fand.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Dreihufeisenhaus und der tripolitanische Gesandte",
+   "kat": "geschichte",
+   "wiki": "Dreihufeisenhaus",
+   "adr": "Lehárgasse 13",
+   "lon": 16.36259,
+   "lat": 48.20027,
+   "jahr": "1726",
+   "text": "In dem am Wienfluss liegenden Wohnhaus befand sich einer der vornehmsten Gasthöfe der Vorstadt Laimgrube, dessen Schild „Zu den drei Hufeisen“ auf das Haus überging und später die Dreihufeisengasse benannte (seit 1948 Lehárgasse). Am 28. Dezember 1726 wurde hier der tripolitanische Gesandte Muhammed Effendi mit zwei Söhnen und Gefolge auf Kosten Karls VI. einquartiert; die Stadtguardia bewachte das Haus, um Schaulustige abzuhalten. 1890 entstand der Neubau Wasen-Hof.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Geylinghaus",
+   "kat": "wohnen",
+   "wiki": "Geylinghaus",
+   "adr": "Windmühlgasse 28",
+   "lon": 16.35552,
+   "lat": 48.19842,
+   "jahr": "18. Jh.",
+   "text": "Das ehemalige Barockschlösschen aus der ersten Hälfte des 18. Jahrhunderts war ein typischer Wiener Herrensitz. Von 1767 bis 1788 gehörte es Gottfried Freiherr von Sommerau. Maria Theresia besuchte seine Frau, eine ihrer Hofdamen, öfter zum Frühstück, nachdem sie in der Mariahilfer Kirche gebeichtet und kommuniziert hatte. Der Barockgarten erstreckte sich weit bis zur Mariahilfer Straße.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Apollokino",
+   "kat": "kultur",
+   "wiki": "Apollokino",
+   "adr": "Gumpendorfer Straße 63, Kaunitzgasse 2–4",
+   "lon": 16.35393,
+   "lat": 48.1973,
+   "jahr": "1904",
+   "text": "Eduard Prandl baute das Apollo-Theater, das am 1. September 1904 eröffnet wurde und ein Vergnügungsetablissement, ein Hotel und drei Miethäuser vereinte. Ursprünglich war es ein Varietétheater, das dem Ronacher in der Stadt Konkurrenz machen sollte. Der Produktionssaal wird von Wohntrakten umgeben und ist teilweise überbaut.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Leuthnerhof",
+   "kat": "wohnen",
+   "wiki": "Leuthnerhof",
+   "adr": "Linke Wienzeile 182, Mollardgasse 89",
+   "lon": 16.34075,
+   "lat": 48.18885,
+   "jahr": "1931–1932",
+   "text": "Georg Rupprecht plante die fünfgeschossige Blockrandbebauung mit einspringenden Ecken und einem längsrechteckigen, begrünten Innenhof. Die Anlage hatte ursprünglich 172, heute 159 Wohnungen und wurde 1949 nach dem Sozialdemokraten Karl Leuthner benannt. Sie steht auf dem Areal des ehemaligen Gumpendorfer Schlachthauses.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Einsteinhof",
+   "kat": "wohnen",
+   "wiki": "Einsteinhof",
+   "adr": "Grabnergasse 1–9, Mollardgasse 30–32",
+   "lon": 16.35004,
+   "lat": 48.19081,
+   "jahr": "1949–1952",
+   "text": "Adolf Hoch, ein Schüler von Peter Behrens, plante die Blockrandverbauung der frühen Nachkriegszeit als Fortsetzung der städtischen Wohnhöfe der 1920er Jahre. Sie hat 188 Wohnungen und wurde 1955 nach Albert Einstein benannt. Die künstlerische Ausschmückung übernahm unter anderem Mario Petrucci mit den „Sieben Ponys“, einer Spielplastik aus Bronze von 1957.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rahl-Hof und die Papierbranche",
+   "kat": "industrie",
+   "wiki": "Rahl-Hof",
+   "adr": "Gumpendorfer Straße 6, Theobaldgasse 1",
+   "lon": 16.36162,
+   "lat": 48.20084,
+   "jahr": "1900–1939",
+   "text": "Josef Beer und Robert Prohoda errichteten das Wohn- und Geschäftshaus 1900; es ist nach der Lage gegenüber der Rahlgasse benannt. 1906 zog die AEG-Union ein. Ab den 1930er Jahren wurde das Haus zu einem Zentrum der Papierindustrie; 1939 wurden Betriebe im Haus arisiert. Die AEG-Union galt als „nicht arisiert“, musste sich aber vor der NSDAP rechtfertigen, weil Gründer Emil Rathenau schon 1915 gestorben war. Seit 1968 steht vor dem Haus ein Tiertränkebrunnen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bezirksmuseum Mariahilf",
+   "kat": "kultur",
+   "wiki": "Bezirksmuseum Mariahilf",
+   "adr": "Mariahilf",
+   "lon": 16.3474,
+   "lat": 48.1951,
+   "jahr": "1954",
+   "text": "Das Museum wurde am 10. April 1954 von Fritz Illing im Haus Gumpendorfer Straße 4 eröffnet, am heutigen Standort seit dem 23. Juni 1983. Etwa 45.000 Exponate dokumentieren Bezirksgeschichte, Handwerk und Haushalt, dazu die Geschichte der Mariahilfer Theater und Künstler. Es besitzt ein Modell des Magdalenagrunds („Ratzenstadl“) von 1920 und Fotos sämtlicher Hausfassaden des Bezirks von Richard Petrczek.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Welchen Namen trug das Ratzenstadl bis 1850?",
+   "a": "Magdalenagrund",
+   "f": [
+    "Laimgrube",
+    "Windmühle",
+    "Spittelberg"
+   ],
+   "erkl": "Auch der Name Bettelbühel ist um 1400 für diesen Teil belegt.",
+   "wiki": "Bettelbühel (6)",
+   "quellen": []
+  },
+  {
+   "q": "Aus welchen Vorstädten wurde Mariahilf 1850 gebildet?",
+   "a": "Gumpendorf, Magdalenagrund und Windmühle zur Gänze sowie Teilen von Laimgrube und Mariahilf",
+   "f": [
+    "Gaudenzdorf, Hundsturm und Windmühle",
+    "Spittelberg, Gumpendorf und Neubau",
+    "Laimgrube, Josefstadt und Schottenfeld"
+   ],
+   "erkl": "Zunächst war Mariahilf der fünfte Bezirk; erst 1861 wurde es der sechste.",
+   "wiki": "Mariahilf",
+   "quellen": []
+  },
+  {
+   "q": "Woher stammt das Mariahilfbild der Mariahilfer Kirche?",
+   "a": "Es ist eine Kopie des in Passau verehrten Gnadenbilds",
+   "f": [
+    "Es kam aus Mariazell",
+    "Es wurde in Altötting geschaffen",
+    "Es wurde aus St. Stephan übertragen"
+   ],
+   "erkl": "Der Barnabit Cölestin Joanelli stiftete es 1660.",
+   "wiki": "Mariahilfer Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Wer baute die Windmühle, nach der die Vorstadt benannt ist?",
+   "a": "Johann von Francolin, Reichsherold Ferdinands I.",
+   "f": [
+    "Die Karmeliten von Laimgrube",
+    "Graf Kaunitz",
+    "Das Domkapitel von St. Stephan"
+   ],
+   "erkl": "Er sollte mehrere Mühlen bauen, errichtete aber nur eine in der Capistrangasse.",
+   "wiki": "Windmühle (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "In welchem Haus starb Joseph Haydn am 31. Mai 1809?",
+   "a": "In seinem Haus in der Vorstadt Obere Windmühle (Haydngasse 19)",
+   "f": [
+    "Im Gumpendorfer Schloss",
+    "Im Freihaus auf der Wieden",
+    "Im Palais Esterházy"
+   ],
+   "erkl": "Napoleon ließ am Sterbehaus Ehrenwachen aufstellen.",
+   "wiki": "Haydnhaus",
+   "quellen": []
+  },
+  {
+   "q": "Wo wurde Ferdinand Raimund 1790 geboren?",
+   "a": "Im Haus Zum goldenen Hirschen an der Mariahilfer Straße 45",
+   "f": [
+    "Im Haus Zu den drei Hufeisen",
+    "Im Café Sperl",
+    "Im Schmalzhof"
+   ],
+   "erkl": "Das Haus ist heute als Raimund-Hof ein Durchhaus zur Windmühlgasse.",
+   "wiki": "Raimund-Geburtshaus",
+   "quellen": []
+  },
+  {
+   "q": "Von wann bis wann besteht die Laimgrubenkirche am Original-Standort Mariahilfer Straße 27?",
+   "a": "1687 bis 1907",
+   "f": [
+    "1529 bis 1683",
+    "1792 bis 1923",
+    "1343 bis 1451"
+   ],
+   "erkl": "Die Replik in der Windmühlgasse wurde 1906/07 erbaut.",
+   "wiki": "Laimgrubenkirche",
+   "quellen": []
+  },
+  {
+   "q": "Wem gehörte das Gumpendorfer Schloss ursprünglich?",
+   "a": "Den Herren von Gumpendorf, als befestigter Meierhof",
+   "f": [
+    "Dem Stift Klosterneuburg",
+    "Den Esterházy",
+    "Der Stadt Wien"
+   ],
+   "erkl": "Es war das älteste Gebäude im heutigen sechsten Bezirk.",
+   "wiki": "Gumpendorfer Schloss",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Maler erwarb 1858 den Rest des Gumpendorfer Schlosses?",
+   "a": "Friedrich von Amerling",
+   "f": [
+    "Ferdinand Georg Waldmüller",
+    "Hans Makart",
+    "Rudolf von Alt"
+   ],
+   "erkl": "Der Volksmund nannte das Haus Amerlingschlössel.",
+   "wiki": "Gumpendorfer Schloss",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde der Naschmarkt an seinen jetzigen Standort über dem Wienfluss verlegt?",
+   "a": "1902",
+   "f": [
+    "1780",
+    "1820",
+    "1949"
+   ],
+   "erkl": "Zuvor lag er seit 1780 vor dem Freihaus auf der Wieden.",
+   "wiki": "Naschmarkt",
+   "quellen": []
+  },
+  {
+   "q": "Was ist das Besondere des Majolikahauses?",
+   "a": "Es ist die einzige Realisierung von Wagners polychromer Fassadenidee",
+   "f": [
+    "Es war das erste Hochhaus Wiens",
+    "Es hatte die erste Stahlbetonfassade",
+    "Es war ein Gemeindebau von Otto Wagner"
+   ],
+   "erkl": "Otto Wagner ließ es 1898/99 auf eigene Kosten errichten.",
+   "wiki": "Majolikahaus",
+   "quellen": []
+  },
+  {
+   "q": "Wofür diente der Flakturm im Esterházypark ursprünglich?",
+   "a": "Als Feuerleitturm für den Geschützturm in der Stiftkaserne",
+   "f": [
+    "Als Gefechtsturm mit Flugabwehrkanonen allein",
+    "Als Luftschutzbunker für das Parlament",
+    "Als Munitionsdepot der Wehrmacht"
+   ],
+   "erkl": "Er wurde Oktober 1943 bis Juli 1944 erbaut.",
+   "wiki": "Haus des Meeres",
+   "quellen": []
+  },
+  {
+   "q": "Wer gründete den Verein „Braunes Haus“, der das Adolf-Hitler-Haus erwarb?",
+   "a": "Gauleiter Alfred Frauenfeld",
+   "f": [
+    "Hermann Neubacher",
+    "Josef Bürckel",
+    "Odilo Globocnik"
+   ],
+   "erkl": "Das Haus in der Hirschengasse 25 war 1931–1933 Parteihauptquartier.",
+   "wiki": "Adolf-Hitler-Haus",
+   "quellen": []
+  },
+  {
+   "q": "Aus welchem Café gingen Haagengesellschaft und Siebener-Club hervor, aus denen sich Secession und Hagenbund entwickelten?",
+   "a": "Café Sperl",
+   "f": [
+    "Café Central",
+    "Café Landtmann",
+    "Café Museum"
+   ],
+   "erkl": "Die Malerzirkel hatten ab den 1880er bzw. 1895 hier ihren Sitz.",
+   "wiki": "Café Sperl",
+   "quellen": []
+  }
+ ]
+}

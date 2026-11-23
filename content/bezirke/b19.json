@@ -1,0 +1,910 @@
+{
+ "nr": 19,
+ "name": "Döbling",
+ "kurz": "Elf Orte zwischen Donaukanal und Wienerwald: Weinbaudörfer mit Heurigen, Villenviertel, ein Roter Hof und die höchsten Berge der Stadt.",
+ "profil": [
+  "Döbling ist mit 24,94 Quadratkilometern einer der größten Wiener Bezirke und entstand 1890/1892 im Zuge der Stadterweiterung aus den Vororten Ober- und Unterdöbling, Grinzing, Heiligenstadt, Kahlenbergerdorf, Nußdorf, Sievering und der Katastralgemeinde Josefsdorf. 1938 kamen Neustift am Walde und Salmannsdorf vom 18. Bezirk dazu. Begrenzt wird er von Gürtel, Peter-Jordan-Straße, Krottenbach und Donaukanal; die elf Katastralgemeinden sind Grinzing, Heiligenstadt, Josefsdorf, Kahlenbergerdorf, Neustift am Walde, Nußdorf, Oberdöbling, Obersievering, Salmannsdorf, Unterdöbling und Untersievering.",
+  "Die Dörfer sind alt: Heiligenstadt und Kahlenbergerdorf tauchen in Klosterneuburger Urkunden um 1115 bis 1120 auf, Grinzing wird 1114 mit der Schenkung von Weingärten an Klosterneuburg erstmals greifbar (die Ortsnennung selbst 1156), Sievering 1114, Neustift am Walde 1330, Salmannsdorf 1279. Fast alle Orte lagen an einem der 13 Bäche, die vom Kahlengebirge zur Donau fließen: Krottenbach, Erbsenbach, Nesselbach, Schreiberbach. Sie schnitten tiefe Gräben, richteten bei Gewittern große Schäden an und sind heute meist eingewölbt. Das Dorfbild der Grinzinger Himmelstraße und des Kahlenbergerdorfs hält noch den alten Straßenverlauf.",
+  "Die Landschaft war Weinland. Klöster wie Klosterneuburg, St. Dorothea, das Schottenstift und das Bürgerspital besaßen Weingärten und Höfe, daneben sitzen Freihöfe wie der Trummelhof in Grinzing, der Kremsmünsterfreihof in Nußdorf und der Königsstettner Freihof (Schikanederschlössel). Die Reblaus von 1885 vernichtete in Teilen den Weinbau, so in Mitterhofen bei Sievering, wo die Weingärten gerodet wurden. Was blieb, ist ein Netz aus Heurigen, vor allem in Grinzing, Nußdorf, Sievering und Neustift.",
+  "Auf den Anhöhen formte sich im 19. Jahrhundert ein bürgerliches Villengebiet: Hohe Warte mit den Rothschildgärten, die Cottageviertel, Döblinger Hauptstraße mit Landhäusern wie der Villa Wertheimstein. Die Gemeinden dienten Schriftsteller*innen, Komponisten und Mäzenen als Sommerfrische; Beethoven schrieb 1802 in Heiligenstadt sein Testament, Schikaneder lebte in Nußdorf, Alma Mahler und Franz Werfel wohnten bis 1938 auf der Hohen Warte. Als Sanatorien kamen Rudolfinerhaus, Görgen-Anstalt und Privatkliniken dazu.",
+  "Der Karl-Marx-Hof macht Döbling zum Zentrum des Roten Wien. Die Anlage wurde 1927 bis 1930 auf der Hagenwiese gebaut und ist mit 1.272 Wohnungen einer der größten Gemeindebauten der Welt. Weitere Höfe im Bezirk sind Julius-Deutsch-Hof, Pestalozzihof, Kopenhagenhof (1958) und der Franz-Weber-Hof, der auf dem Gelände der Gräf-&-Stift-Werke entstand. Der Gegensatz zwischen den Arbeitersiedlungen an der Heiligenstädter Straße und den Villen am Hang prägt Döbling bis heute.",
+  "Die jüdische Geschichte des Bezirks wurde 1938 gewaltsam beendet: Die Synagoge in der Dollinergasse 3 wurde am 10. November 1938 verwüstet und 1995 abgerissen, das Israelitische Blindeninstitut (1872 bis 1938) auf der Hohen Warte aufgelöst, Villen wurden „arisiert“, und in der Muthgasse bestand ein Reichsbahnlager für Zwangsarbeiter*innen. Auf der Hohen Warte hatten britische Gärtner der Rothschildgärten 1894 den ersten österreichischen Fußballklub, den First Vienna FC, gegründet.",
+  "Heute ist Döbling einer der wohlhabendsten Bezirke, mit Wienerwald, Kahlenberg und Leopoldsberg als Naherholungsgebiet, aber auch mit Konflikten um Verbauung, Verkehr und Tourismus am Kahlenberg, dessen Restaurant und Hotel seit dem Ende des 20. Jahrhunderts Gegenstand von Nutzungsdebatten sind. Dazu kommt der Charakter als Standort von Medien (Pressehaus, Muthgasse)."
+ ],
+ "politik": "Bezirksvorsteher ist Daniel Resch (ÖVP), seit Oktober 2018 im Amt; er blieb auch nach der Wahl 2025 im Amt. Döbling ist neben der Inneren Stadt und Hietzing einer der drei ÖVP-geführten Bezirke. Bei der Bezirksvertretungswahl 2025 (Beteiligung 54,6 %) blieb die ÖVP mit 34,2 % klar stärkste Kraft vor SPÖ (25,0 %), Grünen (13,7 %), FPÖ (12,8 %) und NEOS (11,1 %). Döbling ist seit Jahrzehnten ein bürgerlich-konservativer Bezirk, bei der Gemeinderatswahl lag hier dagegen die SPÖ mit 34,7 % vorn.",
+ "quellen": [
+  {
+   "t": "Wikipedia: Döbling",
+   "u": "https://de.wikipedia.org/wiki/Döbling"
+  },
+  {
+   "t": "Wikipedia: Daniel Resch",
+   "u": "https://de.wikipedia.org/wiki/Daniel_Resch"
+  },
+  {
+   "t": "Wien.gv.at: Wahlergebnis Bezirksvertretung 2025",
+   "u": "https://www.wien.gv.at/wahlergebnis/en/BV251/919.html"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Grinzing",
+   "art": "Katastralgemeinde",
+   "wiki": "Grinzing (Herrschaft)",
+   "lon": 16.3395,
+   "lat": 48.25683,
+   "text": "Grinzing ist der berühmteste Heurigenort Wiens. 1114 begann mit der Schenkung von Weingärten an das Stift Klosterneuburg dessen Besitz im Dorf, 1156 wird der Ort erwähnt. Im Ortskern an der Himmelstraße stehen die Grinzinger Kirche und der Trummelhof (Cobenzlgasse 30), der Sitz der Herren von Grünsing gewesen sein soll. Auf dem Latisberg legte Graf Cobenzl 1773 prachtvolle Gärten an. Der Friedhof birgt das Mausoleum von Heinrich Ferstel und die Gräber Gustav Mahlers und Heimito von Doderers.",
+   "quellen": []
+  },
+  {
+   "n": "Heiligenstadt",
+   "art": "Katastralgemeinde",
+   "wiki": null,
+   "lon": 16.3586,
+   "lat": 48.2548,
+   "text": "Heiligenstadt hat seinen Namen von einem um 1190 genannten „Chunradus de Sancto Loco“, der Heiligen Stätte; um 1120 erscheint ein „Isi de Sancto Michahele“. Die ursprüngliche Burg lag vermutlich beim heutigen Pfarrhof am Pfarrplatz, davor steht die romanische Jakobskirche, ursprünglich wohl eine adelige Eigenkirche. Pfarrkirche St. Michael (seit 1307) liegt in der Grinzinger Straße. 1781 wurde eine Mineralquelle entdeckt, aus der das Heiligenstädter Bad entstand. Beethoven wohnte hier mehrfach, 1802 verfasste er das Heiligenstädter Testament.",
+   "quellen": [
+    {
+     "t": "Wikipedia: Heiligenstadt (Wien)",
+     "u": "https://de.wikipedia.org/wiki/Heiligenstadt_(Wien)"
+    }
+   ]
+  },
+  {
+   "n": "Nußdorf",
+   "art": "Katastralgemeinde",
+   "wiki": null,
+   "lon": 16.3647,
+   "lat": 48.2579,
+   "text": "Nußdorf am Donaukanal ist ein Straßendorf rund um die Greinergasse. Schon im 15. Jahrhundert gab es eine Thomaskapelle (1450), die heutige Pfarrkirche entstand 1787 bis 1789. Prägend waren die Nußdorfer Brauerei (1819 bis 1950), das Schikanederschlössel, der Kremsmünsterfreihof und der Bahnhof, der an der Stelle des Lambergschlösschens (1750 bis 1888) steht. Nußdorf war Sommerfrische der Wiener; bis heute gibt es hier Heurige.",
+   "quellen": [
+    {
+     "t": "Wikipedia: Nußdorf (Wien)",
+     "u": "https://de.wikipedia.org/wiki/Nußdorf_(Wien)"
+    }
+   ]
+  },
+  {
+   "n": "Kahlenbergerdorf",
+   "art": "Katastralgemeinde",
+   "wiki": "Kahlenbergerdorf (Herrschaft)",
+   "lon": 16.35433,
+   "lat": 48.27381,
+   "text": "Das Kahlenbergerdorf ist um 1115 nachweisbar und war Sitz der Herren von Kahlenberg, die das Burggrafenamt auf dem damaligen Kahlenberg (heute Leopoldsberg) ausübten. Mauerreste westlich der Pfarrkirche Hl. Georg gehören zur einstigen Burg; die Kirche integriert einen romanischen Apsidensaal des 12. Jahrhunderts. Von der Mitte des 13. Jahrhunderts bis 1848 hatte das Stift Klosterneuburg die Grundherrschaft inne.",
+   "quellen": []
+  },
+  {
+   "n": "Josefsdorf",
+   "art": "Katastralgemeinde",
+   "wiki": "Josefsdorf (Herrschaft)",
+   "lon": 16.33724,
+   "lat": 48.27533,
+   "text": "Das kleinste Dorf Döblings entstand nach der Aufhebung der Kamaldulenser-Eremitage auf dem Kahlenberg 1782. Hofrat Leopold Edler von Kriegl erwarb den Berg samt Kirche und baute den Südtrakt des Klosters zum Gasthaus um; 1784 bekam die Siedlung den Namen Josefsdorf. Später gehörte sie dem Stift Klosterneuburg und ab 1820 den Fürsten Liechtenstein. Die Josefskirche mit der Sobieskikapelle ist der Mittelpunkt.",
+   "quellen": []
+  },
+  {
+   "n": "Sievering",
+   "art": "Katastralgemeinde",
+   "wiki": "Sievering (Herrschaft)",
+   "lon": 16.31153,
+   "lat": 48.25654,
+   "text": "Sievering wird 1114 erstmals genannt; 1134 übergab Leopold III. es dem Stift Klosterneuburg. 1634 erhielten die Kamaldulenser den oberen Teil (Obersievering), die Kartause Gaming den unteren (Untersievering). Beide Teile lagen dicht gedrängt im engen Tal des Erbsenbachs, während bei der Kirche in Mitterhofen nur wenige Häuser standen. 1832 vereinigte der Holzhändler Josef Müller beide Orte. Die spätgotische Hallenkirche St. Severin wurde um 1896 neugotisch ausgestaltet.",
+   "quellen": []
+  },
+  {
+   "n": "Neustift am Walde",
+   "art": "Katastralgemeinde",
+   "wiki": "Neustift am Walde (Herrschaft)",
+   "lon": 16.30259,
+   "lat": 48.24936,
+   "text": "Neustift am Walde wird 1330 erstmals genannt und gehörte ursprünglich zu Heiligenstadt, 1348 wurde es nach Obersievering eingepfarrt. 1414 kam der Besitz an das Augustiner-Chorherrenstift St. Dorothea, das älteste erhaltene Gebäude stammt von 1435. Die Neustifter Kirche ging aus einer Pestkapelle von 1713 hervor (Pfarre 1784). Der Ort kam 1938 vom 18. zum 19. Bezirk.",
+   "quellen": []
+  },
+  {
+   "n": "Salmannsdorf",
+   "art": "Katastralgemeinde",
+   "wiki": "Salmannsdorf (Herrschaft)",
+   "lon": 16.30255,
+   "lat": 48.25615,
+   "text": "Salmannsdorf wird 1279 erstmals genannt; die Anfänge der Herrschaft liegen im Dunkel. Der kleine Weinort liegt am Südhang des Dreimarksteins, wo der Krottenbach entspringt. Ein Teil gehörte zu Währing, der Rest kam 1938 zu Döbling.",
+   "quellen": []
+  },
+  {
+   "n": "Oberdöbling",
+   "art": "Katastralgemeinde",
+   "wiki": null,
+   "lon": 16.3503,
+   "lat": 48.2427,
+   "text": "Der Ortskern von Oberdöbling lag um die Döblinger Kirche (Kardinal-Innitzer-Platz 1), die 1413 erstmals belegt ist; die Pfarre wurde 1783 selbständig. Hier am Krottenbach, der Oberdöbling von Unterdöbling trennte, entstanden entlang der Döblinger Hauptstraße ab dem 18./19. Jahrhundert Landhäuser wie die Villa Wertheimstein und das Casino Zögernitz. 1890/1892 wurde es nach Wien eingemeindet.",
+   "quellen": [
+    {
+     "t": "Wikipedia: Oberdöbling",
+     "u": "https://de.wikipedia.org/wiki/Oberdöbling"
+    }
+   ]
+  },
+  {
+   "n": "Unterdöbling",
+   "art": "Katastralgemeinde",
+   "wiki": null,
+   "lon": 16.358,
+   "lat": 48.2455,
+   "text": "Unterdöbling liegt zwischen Heiligenstadt und Oberdöbling nahe dem Donaukanal. Der Krottenbach hieß ursprünglich „Krottendorf“ und bildete die Grenze zu Oberdöbling. Die Verstorbenen wurden bis 1783 am Heiligenstädter Friedhof bestattet. Später entstanden hier Betriebe und das Pressehaus.",
+   "quellen": [
+    {
+     "t": "Wikipedia: Unterdöbling",
+     "u": "https://de.wikipedia.org/wiki/Unterdöbling"
+    }
+   ]
+  },
+  {
+   "n": "Hohe Warte",
+   "art": "Grätzel",
+   "wiki": "Hohe Warte",
+   "lon": 16.35503,
+   "lat": 48.25008,
+   "text": "Die Aussichtshöhe wird 1135 erstmals genannt und 1349 als Weingartenried. 1840 errichtete Matthias Grandjean hier eine Meierei und ein Kaffeehaus. Später entstanden vornehme Villen; Franziska Gräfin Andrássy testierte der Gemeinde 1871 ihre Villa für ein Waisenhaus. Hier liegen die Zentralanstalt für Meteorologie, das Stadion der Vienna und die Reste der Rothschildgärten.",
+   "quellen": []
+  },
+  {
+   "n": "Kaasgraben",
+   "art": "Grätzel",
+   "wiki": "Kaasgrabenkolonie",
+   "lon": 16.33657,
+   "lat": 48.25093,
+   "text": "Der Kaasgraben ist eine ruhige Villenkolonie in Grinzing, am Hang in Grinzing. Ihre Wallfahrtskirche „Maria Schmerzen“ geht auf eine Legende von 1683 zurück: Eine junge Frau aus Grinzing habe sich mit ihrem Kind vor den Türken in einem Holunderbusch versteckt und sei durch einen Schwalbenschwarm gerettet worden.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Karl-Marx-Hof",
+   "kat": "wohnen",
+   "wiki": "Karl-Marx-Hof",
+   "adr": "Heiligenstädter Straße 82–92",
+   "lon": 16.36253,
+   "lat": 48.24723,
+   "jahr": "1927–1930",
+   "text": "Karl Ehn baute den Hof auf der Hagenwiese, dem Bauland, das die Gemeinde seit 1877 besaß. Am 10. Juni 1927 beschloss der Gemeinderat den Superblock, die Absiedlung der Gärtner, die den Grund gepachtet hatten, dauerte 18 Monate und sorgte für Konflikte mit der Opposition. Eröffnet wurde die Anlage am 12. Oktober 1930; sie hat heute 1.272 Wohnungen, ursprünglich 1.382. Benannt ist sie 1930 nach Karl Marx.",
+   "fakt": "Im Bezirk gibt es einen Karl-Marx-Hof und einen Karl-Mark-Hof.",
+   "quellen": []
+  },
+  {
+   "n": "Zacherlfabrik",
+   "kat": "industrie",
+   "wiki": "Zacherlfabrik",
+   "adr": "Nußwaldgasse 14",
+   "lon": 16.35167,
+   "lat": 48.244,
+   "jahr": "1849–1892",
+   "text": "Johann Zacherl stieß 1849 auf einer Reise auf geriebene Pyrethrumblüten, die im Kaukasus gegen Ungeziefer verwendet wurden. Er ließ sie in Tiflis zu Pulver mahlen und verkaufte sie als „Zacherlin“. 1863 erhielt er ein Privileg zur Herstellung des Insektenpulvers. Die Mottenfraß-Versicherungs-Unternehmung gab der Fabrik in Döbling ihren Namen; ihr orientalisierender Bau mit Schlot in Minarettform ist bis heute ein Wahrzeichen.",
+   "fakt": "Das Pulver aus Kaukasus-Blüten wurde unter dem Namen „Zacherlin“ verkauft.",
+   "quellen": []
+  },
+  {
+   "n": "Rudolfinerhaus",
+   "kat": "geschichte",
+   "wiki": "Rudolfinerhaus",
+   "adr": "Billrothstraße 78",
+   "lon": 16.3474,
+   "lat": 48.24331,
+   "jahr": "1875–1882",
+   "text": "Der Arzt Gustav Jurie gründete 1875 einen Verein zum Bau eines Pavillon-Krankenhauses, in dem Pflegerinnen ausgebildet werden sollten, nachdem im Feldzug 1866 die Pflege der Verwundeten als mangelhaft erkannt worden war. Theodor Billroth ließ sich dafür gewinnen, Graf Wilczek brachte Kronprinz Rudolf als Protektor. Die Anlage wurde zur „Lehrwerkstätte“ für eine zivile Schwesternschule. Im Garten steht Zumbuschs Büste des Kronprinzen (1885).",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Villa Wertheimstein",
+   "kat": "kultur",
+   "wiki": "Villa Wertheimstein",
+   "adr": "Döblinger Hauptstraße 96",
+   "lon": 16.35566,
+   "lat": 48.24293,
+   "jahr": "1834–1835",
+   "text": "Der alte Tullner Hof, früher im Besitz der Dominikanerinnen von Tulln, wurde 1833 vom Industriellen Rudolf von Arthaber erworben. 1834/35 baute Alois Pichl ein Landhaus, das Stiegenhaus entwarf Carl Roesner mit Fresken von Moritz von Schwind. Im Garten stand ein hölzernes Palmenhaus. Die Villa beherbergte Arthabers Gemäldegalerie; später kam sie an die Familie Wertheimstein und wurde Mittelpunkt eines kulturellen Salons.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Mahler-Werfel-Villa",
+   "kat": "kultur",
+   "wiki": "Mahler-Werfel-Villa",
+   "adr": "Steinfeldgasse 2",
+   "lon": 16.35611,
+   "lat": 48.25257,
+   "jahr": "1909–1938",
+   "text": "Josef Hoffmann baute das Haus 1909 bis 1911 für den Bauunternehmer Eduard Ast; es gilt als Glanzstück seines Wiener Schaffens. Der Maler Carl Moll erwarb die exklusiv von Hoffmann eingerichtete Villa für seine Stieftochter Alma, Witwe Gustav Mahlers, die hier bis 1938 mit ihrem dritten Mann Franz Werfel wohnte. Ihr zweiter Gatte war Walter Gropius.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Jakobskirche Heiligenstadt",
+   "kat": "bauwerk",
+   "wiki": "Heiligenstädter Kirche (Jakobskirche)",
+   "adr": "Pfarrplatz 3",
+   "lon": 16.35897,
+   "lat": 48.25486,
+   "jahr": "12. Jahrhundert",
+   "text": "Die einschiffige romanische Kirche liegt sechs Stufen tiefer als der Platz, ihr Chor hat ein Kreuzrippengewölbe, das romanische Fenster ist modern verglast. Sie zählt zu den ältesten Wiens und wurde wohl als adelige Eigenkirche über römerzeitlichen Resten gebaut; urspünglich war sie wahrscheinlich St. Michael geweiht. Daneben liegt der Pfarrhof mit mittelalterlichen Baudetails, der auf die ursprüngliche Burg zurückgeht.",
+   "fakt": "Sie ist nicht die Pfarrkirche von Heiligenstadt: Das ist St. Michael in der Grinzinger Straße.",
+   "quellen": []
+  },
+  {
+   "n": "Beethoven in Heiligenstadt",
+   "kat": "erinnerung",
+   "wiki": null,
+   "adr": "Probusgasse 6",
+   "lon": 16.3584,
+   "lat": 48.2546,
+   "jahr": "1802",
+   "text": "Im Oktober 1802 verfasste Ludwig van Beethoven in Heiligenstadt sein „Testament“, einen Brief an seine Brüder, in dem er von seinem Gehörleiden und Selbstmordgedanken schrieb, ihn aber nie abschickte. Das Haus in der Probusgasse ist als Beethoven-Gedenkstätte eingerichtet. Ein Beethovendenkmal steht im Heiligenstädter Park.",
+   "fakt": "Das Testament wurde erst nach seinem Tod 1827 gefunden.",
+   "quellen": [
+    {
+     "t": "Wikipedia: Heiligenstädter Testament",
+     "u": "https://de.wikipedia.org/wiki/Heiligenstädter_Testament"
+    }
+   ]
+  },
+  {
+   "n": "Heiligenstädter Bad",
+   "kat": "wasser",
+   "wiki": "Heiligenstädter Bad",
+   "adr": "Grinzinger Straße 84–86",
+   "lon": 16.35808,
+   "lat": 48.25386,
+   "jahr": "1781",
+   "text": "1781 wurde nahe der Pfarrkirche St. Michael eine Mineralquelle entdeckt, aus deren Tümpeln Dämpfe aufstiegen und die im Winter nicht zufroren. Sie brachte dem Ort wirtschaftlichen Aufschwung und das Bad. Bis 1811 war die Quelle im heutigen Kuglerpark nachweislich aktiv.",
+   "fakt": "Die Quelle soll im Winter nicht zugefroren sein.",
+   "quellen": []
+  },
+  {
+   "n": "Heiligenstädter Teich",
+   "kat": "wasser",
+   "wiki": "Heiligenstädter Teich",
+   "adr": "Heiligenstädter Straße",
+   "lon": 16.36439,
+   "lat": 48.25346,
+   "jahr": "20. Jahrhundert",
+   "text": "Der Teich entstand durch den Erdabbau einer Ziegelei, wurde zunächst als Badeteich genutzt und verschmutzte durch Verbauung. Nach dem Ersten Weltkrieg häuften sich Klagen über Gestank; ein Gerücht machte eine Schwefelquelle verantwortlich. Die Gemeinde pumpte das Wasser (64.000 Kubikmeter, etwa 15 Meter tief) ab und stellte fest, dass der Gestank vom verschmutzten Teichwasser selbst kam.",
+   "fakt": "Der Teich war 6.000 Quadratmeter groß.",
+   "quellen": []
+  },
+  {
+   "n": "Rothschildgärten und First Vienna FC",
+   "kat": "kultur",
+   "wiki": "Rothschildgärten",
+   "adr": "Geweygasse / Aussichtsweg",
+   "lon": 16.35875,
+   "lat": 48.25182,
+   "jahr": "1894",
+   "text": "Nathaniel Meyer von Rothschild erwarb in den 1860er-Jahren Grundstücke auf der Hohen Warte und ließ Gärten mit 81.600 Quadratmetern anlegen; die Glashäuser maßen 12.000 Quadratmeter. Englische Gärtner gründeten hier am 22. August 1894 den First Vienna Football-Club. Das erste offizielle Fußballspiel in Österreich fand am 15. November 1894 auf der Kuglerwiese statt, Cricketer besiegten die Vienna 4:0.",
+   "fakt": "Der älteste Fußballklub Österreichs wurde von englischen Gärtnern gegründet.",
+   "quellen": []
+  },
+  {
+   "n": "Stadion Hohe Warte",
+   "kat": "ereignis",
+   "wiki": "Stadion Hohe Warte",
+   "adr": "Klabundgasse",
+   "lon": 16.35954,
+   "lat": 48.24782,
+   "jahr": "1923–1935",
+   "text": "Auf dem Fußballplatz der Vienna in der Klabundgasse fanden zwischen 1923 und 1935 im Sommer Opernaufführungen statt, vor allem italienische Stagioni. Das Stadion ist die Heimat des ältesten österreichischen Fußballklubs.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zentralanstalt für Meteorologie und Geodynamik",
+   "kat": "bauwerk",
+   "wiki": "Zentralanstalt für Meteorologie und Geodynamik (Gebäude)",
+   "adr": "Hohe Warte 38–40",
+   "lon": 16.35568,
+   "lat": 48.24896,
+   "jahr": "1851–1872",
+   "text": "Die Zentralanstalt wurde 1851 gegründet und übersiedelte 1872 in das von Heinrich Ferstel erbaute Quartier. Das Julius-Hann-Haus (Nr. 38) ist eine Neorenaissancevilla mit Turmaufsatz, das Max-Margules-Haus (Nr. 40) erinnert an den Begründer der numerischen Wettervorhersage, das Karl-Kreil-Haus an den ersten Direktor.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Israelitisches Blindeninstitut",
+   "kat": "erinnerung",
+   "wiki": "Israelitisches Blindeninstitut (19)",
+   "adr": "Hohe Warte 32",
+   "lon": 16.35587,
+   "lat": 48.24749,
+   "jahr": "1872–1938",
+   "text": "Ludwig August Frankl gründete mit Unterstützung des Bankiers Jonas von Königswarter das erste Blindeninstitut Europas. Wilhelm Stiassny baute das Heim 1871/72; Simon Heller war 50 Jahre lang Direktor. 1938 wurde die Einrichtung aufgelöst.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Dollinergasse 3: Tempelverein-Synagoge",
+   "kat": "erinnerung",
+   "wiki": "Vereinssynagoge des Israelitischen Tempelvereins für den 19. Bezirk",
+   "adr": "Dollinergasse 3",
+   "lon": 16.35311,
+   "lat": 48.23964,
+   "jahr": "1907–1995",
+   "text": "Das 1897 erbaute Wohnhaus wurde 1907 nach Plänen von Julius Wolmuth zur Jugendstil-Synagoge umgebaut, mit Plätzen für 162 Männer und 106 Frauen. Sie war das Zentrum der jüdischen Bevölkerung des Bezirks. Im Novemberpogrom am 10. November 1938 wurde sie verwüstet, enteignet und zweckentfremdet, 1995 wich sie einer Wohnhausanlage.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zwangsarbeiterlager Muthgasse 25A",
+   "kat": "erinnerung",
+   "wiki": "Zwangsarbeiterlager Muthgasse 25A",
+   "adr": "Muthgasse 25A",
+   "lon": 16.36904,
+   "lat": 48.2507,
+   "jahr": "1943–1945",
+   "text": "Hier bestand ein Barackenlager der Deutschen Reichsbahn für Zwangsarbeiter*innen. Ein französischer Zwangsarbeiter war von Juni 1943 bis Juli 1944 hier gemeldet und musste in dieser Zeit mindestens einen Monat im Arbeitserziehungslager Oberlanzendorf verbringen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kahlenberg und Kamaldulenser",
+   "kat": "geschichte",
+   "wiki": "Kahlenberg",
+   "adr": "Kahlenberg",
+   "lon": 16.33307,
+   "lat": 48.27621,
+   "jahr": "1628",
+   "text": "Der Kahlenberg hieß bis 1629 Schweins- oder Sauberg, wahrscheinlich nach den Wildschweinen in den Eichenwäldern. Ferdinand II. erwarb ihn 1628 für die Kamaldulenser, die hier ihre Eremitage mit Kirche bauten, und befahl die Umbenennung in Josephsberg. Am Ende des 17. Jahrhunderts tauschten Kahlenberg und Leopoldsberg die Namen. Am 12. Jänner 1782 hob Joseph II. die Eremitage auf.",
+   "fakt": "Der heutige Leopoldsberg hieß ursprünglich Kahlenberg.",
+   "quellen": []
+  },
+  {
+   "n": "Leopoldsberg und Leopoldskirche",
+   "kat": "geschichte",
+   "wiki": "Leopoldsberg",
+   "adr": "Leopoldsberg",
+   "lon": 16.34661,
+   "lat": 48.27901,
+   "jahr": "1683",
+   "text": "Der Leopoldsberg trug ursprünglich den Namen Kahlenberg. Auf ihm stand eine Burg der Herren von Kahlenberg; eine Georgskapelle ist 1338 erwähnt. Leopold I. ließ 1679 in den Ruinen den Grundstein für die Leopoldskapelle legen. Am 12. September 1683 las hier der päpstliche Legat Marco d'Aviano die Messe, bei der König Jan III. Sobieski ministrierte, bevor das Entsatzheer die Osmanen schlug.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Josefskirche und Sobieskikapelle",
+   "kat": "bauwerk",
+   "wiki": "Josefskirche (19)",
+   "adr": "Kahlenberg",
+   "lon": 16.33688,
+   "lat": 48.27494,
+   "jahr": "1629–1734",
+   "text": "Die Kamaldulenser legten am 10. August 1629 den Grundstein; am 8. Juli 1683 steckten die Osmanen die Kirche in Brand, im November kehrten die Patres zurück. Der Neubau wurde 1734 vollendet. Nach 1782 erwarb Leopold von Kriegl die Kirche und ließ sie neu weihen. Sie enthält die Sobieskikapelle zur Erinnerung an den polnischen König.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stephaniewarte",
+   "kat": "bauwerk",
+   "wiki": "Stephaniewarte",
+   "adr": "Kahlenberg",
+   "lon": 16.33704,
+   "lat": 48.27483,
+   "jahr": "1887",
+   "text": "Der 22 Meter hohe Aussichtsturm auf dem Gipfel (484 Meter) wurde 1887 von Fellner und Helmer für die Kahlenberg-Eisenbahn-Gesellschaft gebaut und nach Kronprinzessin Stephanie benannt. Seit 1974 steht daneben ein 165 Meter hoher Fernsehturm.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kahlenbergrestaurant",
+   "kat": "bauwerk",
+   "wiki": "Kahlenbergrestaurant",
+   "adr": "Kahlenberg",
+   "lon": 16.33749,
+   "lat": 48.27428,
+   "jahr": "1934",
+   "text": "Erich Boltenstern baute das flache Restaurant im Rahmen des ersten Bauteils der Höhenstraße mit Unterstützung des Wiener Assanierungsfonds im „schwarzen Wien“ der Dollfuß-/Schuschnigg-Zeit. Es sollte als Massenbetrieb den „kleinen Mann“ ansprechen. 1962 kam ein Hotel dazu, das 1991 stillgelegt wurde. Seit Ende des 20. Jahrhunderts wird über die Nutzung debattiert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kaiserin-Elisabeth-Ruhe",
+   "kat": "erinnerung",
+   "wiki": "Kaiserin-Elisabeth-Ruhe",
+   "adr": "Kahlenberg",
+   "lon": 16.33555,
+   "lat": 48.27527,
+   "jahr": "1904",
+   "text": "Die halbkreisförmige Steinbank mit Büste wurde nach einem Entwurf im Jugendstil von Oskar Felgel von Farnholz am 13. Oktober 1904 enthüllt und 1906 von der Stadt übernommen. Das Porträtrelief schuf Rudolf Bachmann.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Cobenzl",
+   "kat": "geschichte",
+   "wiki": "Cobenzl",
+   "adr": "Cobenzlgasse / Höhenstraße",
+   "lon": 16.32115,
+   "lat": 48.26327,
+   "jahr": "1773–1810",
+   "text": "Der Berg gehörte den Jesuiten; nach deren Aufhebung 1773 kaufte ihn Johann Philipp Graf Cobenzl um etwa 1200 Gulden und legte zwei Jahrzehnte lang einen großen Garten mit Grotte und Baumtempel an. Mozart war 1781 zu Gast, auch Blumauer und Hammer-Purgstall besangen ihn. Nach Cobenzls Tod 1810 verfiel der Besitz.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Krapfenwaldl",
+   "kat": "natur",
+   "wiki": "Krapfenwaldl",
+   "adr": "Krapfenwaldgasse",
+   "lon": 16.32735,
+   "lat": 48.26715,
+   "jahr": "1751",
+   "text": "Der Name geht auf Franz Joseph Krapf zurück, der 1751 ein Waldhaus („Krapfenhütte“) baute; sein Großvater hatte sich 1683 mit Pferdesätteln Verdienste erworben. Karl VI. überließ das Gebiet seiner Hofmusikkapelle zur Jagd, daher hieß es „Musikantengehege“. Nach Krapfs Tod wurde es Waldgasthaus, später gehörte es Fürst Liechtenstein.",
+   "fakt": "Der Name erinnert an einen Wiener, dessen Großvater 1683 Pferdesättel verschenkte.",
+   "quellen": []
+  },
+  {
+   "n": "Hermannskogel",
+   "kat": "natur",
+   "wiki": "Hermannskogel",
+   "adr": "Obersievering",
+   "lon": 16.29461,
+   "lat": 48.27072,
+   "jahr": "1355",
+   "text": "Mit 544 Metern ist der Hermannskogel der höchste Berg im Wiener Stadtgebiet. Er wird schon 1355/1356 erwähnt; an seinem Abhang gegen das Weidlinger Tal liegt das Agnesbrünnlein, der frühere „Jungbrunnen“. Ein im 13. Jahrhundert „Chogelprunne“ genanntes Dorf soll hier gelegen haben, seine genaue Lage ist unbekannt.",
+   "fakt": "Ein abgekommenes Dorf Chogelprunne lag angeblich in der Nähe.",
+   "quellen": []
+  },
+  {
+   "n": "Trummelhof",
+   "kat": "verschwunden",
+   "wiki": "Trummelhof",
+   "adr": "Cobenzlgasse 30",
+   "lon": 16.3394,
+   "lat": 48.25725,
+   "jahr": "14. Jahrhundert",
+   "text": "Der Hof lag ursprünglich am später eingewölbten Nesselbach, durch Vorwerke geschützt, und war unter den Babenbergern landesfürstlich. Mitte des 14. Jahrhunderts wurde er Seyfried Reicholf verliehen; 1463 kam er nach der Enthauptung von Bürgermeister Oswald Reicholf an das Kloster St. Clara. Die Osmanen vertrieben die Nonnen 1529. Eine Legende leitet den Namen von einer römischen Ruine ab, was weder Quellen noch Baubefund belegen.",
+   "fakt": "Der Name soll von römischen Trümmern kommen, was nicht belegbar ist.",
+   "quellen": []
+  },
+  {
+   "n": "Schikanederschlössel",
+   "kat": "kultur",
+   "wiki": "Schikanederschlössel",
+   "adr": "Hackhofergasse 18",
+   "lon": 16.36561,
+   "lat": 48.26211,
+   "jahr": "1802–1812",
+   "text": "Das Haus gehörte Emanuel Schikaneder von 1802 bis 1812, der dort vergeblich einen friedlichen Lebensabend suchte. Der Hofkammerrat Gschwandtner hatte ihm 1737 seine heutige Gestalt gegeben; der ältere Teil liegt zum steilen Garten hin. Das Haus hieß auch Königsstettner Freihof.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Nußdorfer Brauerei",
+   "kat": "industrie",
+   "wiki": "Nussdorfer Brauerei",
+   "adr": "Hackhofergasse 9",
+   "lon": 16.36537,
+   "lat": 48.2609,
+   "jahr": "1819–1950",
+   "text": "1819 erwarb der Jedleseer Brauherr Anton Bosch um 30.000 Gulden ein Grundstück im Zentrum von Nußdorf, das zum Würffelhof gehörte, einem früheren Jesuitenkolleg. Sein Bruder Franz Xaver führte die Brauerei weiter. Sie bestand bis 1950.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Nußdorfer Schlössel",
+   "kat": "politik",
+   "wiki": "Nußdorfer Schlößchen",
+   "adr": "Sickenberggasse 1",
+   "lon": 16.36525,
+   "lat": 48.25855,
+   "jahr": "1926–1930",
+   "text": "1428 als Mühle errichtet, 1712 bis 1716 angeblich von Hildebrandt umgebaut. 1926 richtete die SDAP hier eine Parteihochschule zur Ausbildung von Funktionären ein, die 1930 aus wirtschaftlichen Gründen schließen musste. Nach 1945 nutzte die KPÖ das Haus.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kremsmünsterfreihof",
+   "kat": "wohnen",
+   "wiki": "Kremsmünsterfreihof",
+   "adr": "Greinergasse 39",
+   "lon": 16.36445,
+   "lat": 48.25911,
+   "jahr": "1745",
+   "text": "Eines der ältesten Wohnobjekte Nußdorfs; 1569 gehörte es dem Bürgerspital, im 18. Jahrhundert dem Stift Kremsmünster, das ihm 1745 nach Zahlung von 2.000 Gulden den Status eines Freihofs erhielt. 1790 brach ein Feuer aus.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Lambergschlösschen",
+   "kat": "verschwunden",
+   "wiki": "Lambergschlößchen",
+   "adr": "Nußdorf",
+   "lon": 16.36751,
+   "lat": 48.25995,
+   "jahr": "1750–1888",
+   "text": "Franz Anton Graf Lamberg ließ sich das Schlösschen 1750 bauen, berühmt war ein Chinesisches Kabinett mit echten chinesischen Malereien. In den 1830er-Jahren wurde es Kaffeehaus, 1888 abgerissen; an seiner Stelle liegt der Bahnhof Nußdorf.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Pressehaus",
+   "kat": "bauwerk",
+   "wiki": "Pressehaus",
+   "adr": "Muthgasse 2",
+   "lon": 16.36676,
+   "lat": 48.24569,
+   "jahr": "1961–1963",
+   "text": "Fritz P. Molden, damals Verleger der „Presse“, ließ das 18-geschoßige Bürohaus nach Plänen von Johannes Wickenburg und Hermann Kompolschek bauen. Im Herbst 1963 zogen Verlag und Druckerei vom Fleischmarkt in die Muthgasse; später siedelten sich weitere Medien an.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sieveringer Kirche",
+   "kat": "bauwerk",
+   "wiki": "Sieveringer Kirche",
+   "adr": "Sieveringer Straße / Fröschelgasse",
+   "lon": 16.32083,
+   "lat": 48.25262,
+   "jahr": "1330",
+   "text": "Eine Kapelle zu Sievering wird 1330 erstmals genannt. Die heutige spätgotische Hallenkirche St. Severin mit Rechteckchor wurde um 1896 neugotisch ausgestaltet; bis 1786 umgab sie ein Friedhof.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Mitterhofen",
+   "kat": "verschwunden",
+   "wiki": "Mitterhofen",
+   "adr": "Sieveringer Straße 179–183",
+   "lon": 16.32047,
+   "lat": 48.25193,
+   "jahr": "1377",
+   "text": "Mitterhofen (1377 erstmals) ist das dünn besiedelte Gelände um die Sieveringer Kirche, wo die Häuser von Ober- und Untersievering im engen Erbsenbachtal dicht gedrängt standen. Das Schottenstift nutzte es als Berghof. In den 1920ern errichtete die Sascha-Film hier eine riesige Sphinx für den Film „Die Sklavenkönigin“.",
+   "fakt": "Die Sphinx stand für einen Stummfilm mitten in Sievering.",
+   "quellen": []
+  },
+  {
+   "n": "Sascha-Filmstadt Sievering",
+   "kat": "kultur",
+   "wiki": "Sascha-Filmindustrie AG",
+   "adr": "Sieveringer Straße (Filmatelier)",
+   "lon": 16.32531,
+   "lat": 48.24932,
+   "jahr": "1910–1938",
+   "text": "Die größte österreichische Filmgesellschaft der Stummfilmzeit wurde 1910 von Alexander Sascha Kolowrat gegründet und 1912 nach Wien verlegt; 1918 fusionierte sie mit Philipp & Pressburger. Nach dem „Anschluss“ 1938 ging das Unternehmen in den Besitz der Nationalsozialisten über und wurde als Wien-Film GmbH neu gegründet.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Dreimarkstein und Krottenbach",
+   "kat": "wasser",
+   "wiki": "Krottenbach",
+   "adr": "Krottenbachstraße",
+   "lon": 16.3129,
+   "lat": 48.24736,
+   "jahr": "1889–1911",
+   "text": "Der ursprünglich 7,3 Kilometer lange Krottenbach sammelt die Quellen des Dreimarksteins in Salmannsdorf und nimmt oberhalb des Rudolfinerhauses den Erbsenbach auf. Er mündete bis um 1566 an der heutigen Korntheuergasse in die Donau und bildete die Grenze zwischen Ober- und Unterdöbling. Im Unterlauf ist er seit 1889 eingewölbt, im Großteil des Oberlaufs seit 1910/11.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Heniksteinvilla und Görgen-Anstalt",
+   "kat": "geschichte",
+   "wiki": "Heniksteinvilla",
+   "adr": "Obersteinergasse 18–24",
+   "lon": 16.34558,
+   "lat": 48.24164,
+   "jahr": "1784–1917",
+   "text": "Adam Albert von Henikstein ließ 1784 anstelle einer Windmühle ein palastartiges Landhaus bauen; sein Park mit Teich und Meierei hieß „das kleine Dornbach“. 1830 verlegte Bruno Görgen seine Privatirrenanstalt hierher, später führten sie Leidesdorf und Obersteiner. Im Ersten Weltkrieg diente sie als Lazarett für Kopfverletzte, 1917 wurde das Anwesen verkauft.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Haus Mandl",
+   "kat": "bauwerk",
+   "wiki": "Haus Mandl",
+   "adr": "Blaasstraße 8",
+   "lon": 16.34121,
+   "lat": 48.23466,
+   "jahr": "1916–1917",
+   "text": "Adolf Loos baute einen Altbau für Anna und Erich Mandl um; deren Modesalon in der Rotenturmstraße hatte er ebenfalls gestaltet. Die Eingangssituation ist labyrinthartig, mit dreimaligem Richtungswechsel durch dunkle Vorräume bis zur Halle.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Haus Duschnitz",
+   "kat": "bauwerk",
+   "wiki": "Haus Duschnitz",
+   "adr": "Weimarer Straße 87",
+   "lon": 16.34494,
+   "lat": 48.23643,
+   "jahr": "1915–1916",
+   "text": "Loos erweiterte 1915/16 eine Cottagevilla von 1904 für den Industriellen Willibald Duschnitz mit kubischen Zubauten. Der größte Raum ist der 12 mal 5 Meter große Orgelsaal im Hochparterre; im Souterrain gab es einen Lagerraum für die Gemäldesammlung.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kopenhagenhof",
+   "kat": "wohnen",
+   "wiki": "Kopenhagenhof",
+   "adr": "Billrothstraße 8–10",
+   "lon": 16.35187,
+   "lat": 48.23564,
+   "jahr": "1956–1959",
+   "text": "Die Wohnhausanlage mit 440 Wohnungen wurde in zwei Bauetappen von verschiedenen Architektenteams errichtet. 1962 wurde sie als Zeichen des Danks für die humanitäre Hilfe der Stadt Kopenhagen nach den beiden Weltkriegen benannt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Franz-Weber-Hof und Gräf & Stift",
+   "kat": "industrie",
+   "wiki": "Gräf & Stift-Gründe",
+   "adr": "Weinberggasse 70–74",
+   "lon": 16.33127,
+   "lat": 48.2437,
+   "jahr": "1904–1987",
+   "text": "Ab 1904 stand in der Weinberggasse die Automobilfabrik Gräf & Stift, die ab 1905 große Limousinen, auch für das Kaiserhaus, und kleine Busse baute. Nach einem Wettbewerb 1981 entstand hier der Franz-Weber-Hof; die Stiegen 1 bis 8 stammen von Heidulf Gerngross und Helmut Richter.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Casino Zögernitz",
+   "kat": "kultur",
+   "wiki": "Casino Zögernitz",
+   "adr": "Döblinger Hauptstraße 76–78",
+   "lon": 16.35536,
+   "lat": 48.24022,
+   "jahr": "1837",
+   "text": "Der Bürger Zögernitz ersteigerte 1837 den ehemals kaiserlichen „Gräflichen Wall“ und baute ein Casino im Biedermeierstil mit schattigem Garten. Hier spielten Joseph Lanner und Johann Strauss (Vater); es wurde zum Rendezvousplatz der besseren Kreise.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Neuer Döblinger Friedhof",
+   "kat": "erinnerung",
+   "wiki": "Neuer Döblinger Friedhof",
+   "adr": "Hartäckerstraße 65",
+   "lon": 16.32861,
+   "lat": 48.23857,
+   "jahr": "1885",
+   "text": "Der Friedhof wurde 1885 vom Oberdöblinger Pfarrer geweiht und löste den Ortsfriedhof ab. Besonderheiten sind das sechs Meter hohe Friedhofskreuz mit vergoldetem Christus und die muslimische Abteilung für die Soldaten der bosnischen Regimenter der Monarchie.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Daringerkreuz",
+   "kat": "kultur",
+   "wiki": "Daringerkreuz",
+   "adr": "Daringergasse / Sieveringer Straße",
+   "lon": 16.33438,
+   "lat": 48.24676,
+   "jahr": "1606",
+   "text": "Der Untersieveringer Bürger Hans Georg Daringer stiftete den Bildstock 1606. Das verwitterte Original kam ins Wien Museum, eine Kopie von Heribert Rath wurde am 26. August 1955 aufgestellt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kaasgrabenkirche",
+   "kat": "mythos",
+   "wiki": "Kaasgrabenkirche",
+   "adr": "Stefan-Esders-Platz 1",
+   "lon": 16.33163,
+   "lat": 48.2527,
+   "jahr": "1683/1883",
+   "text": "Die Legende berichtet von einer Frau aus Grinzing, die sich 1683 mit ihrem Kind vor den Türken in einem Holunderbusch versteckte und durch einen Schwalbenschwarm gerettet wurde. 1883 ließ der Fuhrwerksunternehmer Kothbauer, der im Kaasgraben Sandgruben besaß, eine Kapelle bauen. 1903 kam die Kongregation der Oblaten, seit 1939 ist sie Pfarrkirche.",
+   "fakt": "Die „Schwalbenmuttergottes“ erinnert an Schwalben, die die Frau gerettet haben sollen.",
+   "quellen": []
+  },
+  {
+   "n": "Grinzinger Himmelstraße",
+   "kat": "alltag",
+   "wiki": null,
+   "adr": "Himmelstraße, Grinzing",
+   "lon": 16.3395,
+   "lat": 48.2568,
+   "jahr": null,
+   "text": "Die Himmelstraße bildet den Kern des alten Grinzing. Sie ist heute eine Heurigenstraße mit Gasthäusern und dem Dorfplatz an der Grinzinger Kirche. Der Friedhof der Gemeinde, der Alte Friedhof in der Himmelstraße 23, besteht seit 1783; hier steht das Mausoleum der Familie Ferstel (Heinrich Ferstel, gestorben 1883).",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wikipedia: Grinzing",
+     "u": "https://de.wikipedia.org/wiki/Grinzing"
+    }
+   ]
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Wann wurde der Karl-Marx-Hof eröffnet?",
+   "a": "12. Oktober 1930",
+   "f": [
+    "12. Februar 1934",
+    "1. Mai 1927",
+    "15. Juli 1925"
+   ],
+   "erkl": "Gebaut wurde er 1927 bis 1930 auf der Hagenwiese nach Plänen von Karl Ehn.",
+   "wiki": "Karl-Marx-Hof",
+   "quellen": []
+  },
+  {
+   "q": "Wie viele Wohnungen hat der Karl-Marx-Hof heute?",
+   "a": "1.272",
+   "f": [
+    "1.382",
+    "980",
+    "2.100"
+   ],
+   "erkl": "Ursprünglich waren es 1.382.",
+   "wiki": "Karl-Marx-Hof",
+   "quellen": []
+  },
+  {
+   "q": "Wie hieß der Leopoldsberg ursprünglich?",
+   "a": "Kahlenberg",
+   "f": [
+    "Josephsberg",
+    "Sauberg",
+    "Hermannskogel"
+   ],
+   "erkl": "Der Name ging am Ende des 17. Jahrhunderts auf den benachbarten Berg über.",
+   "wiki": "Leopoldsberg",
+   "quellen": []
+  },
+  {
+   "q": "Wie hieß der heutige Kahlenberg bis 1629?",
+   "a": "Schweins- oder Sauberg",
+   "f": [
+    "Leopoldsberg",
+    "Josefsberg",
+    "Krapfenberg"
+   ],
+   "erkl": "Ferdinand II. benannte ihn für die Kamaldulenser in Josephsberg um.",
+   "wiki": "Kahlenberg",
+   "quellen": []
+  },
+  {
+   "q": "Welcher ist der höchste Berg im Wiener Stadtgebiet?",
+   "a": "Hermannskogel",
+   "f": [
+    "Kahlenberg",
+    "Schafberg",
+    "Hameau"
+   ],
+   "erkl": "Er hat 544 Meter.",
+   "wiki": "Hermannskogel",
+   "quellen": []
+  },
+  {
+   "q": "Wer gründete 1894 den First Vienna FC?",
+   "a": "Britische Gärtner der Rothschildgärten",
+   "f": [
+    "Wiener Studenten der Universität",
+    "Arbeiter der Nußdorfer Brauerei",
+    "Offiziere der Roßauer Kaserne"
+   ],
+   "erkl": "Das erste offizielle Fußballspiel Österreichs fand am 15. November 1894 auf der Kuglerwiese statt.",
+   "wiki": "Rothschildgärten",
+   "quellen": []
+  },
+  {
+   "q": "Welche Berühmtheit besaß von 1802 bis 1812 das Schikanederschlössel in Nußdorf?",
+   "a": "Emanuel Schikaneder",
+   "f": [
+    "Ludwig van Beethoven",
+    "Franz Schubert",
+    "Joseph Haydn"
+   ],
+   "erkl": "Er suchte dort vergeblich einen friedlichen Lebensabend.",
+   "wiki": "Schikanederschlössel",
+   "quellen": []
+  },
+  {
+   "q": "Wer verfasste 1802 in Heiligenstadt ein berühmtes Testament?",
+   "a": "Ludwig van Beethoven",
+   "f": [
+    "Franz Schubert",
+    "Joseph Haydn",
+    "Gustav Mahler"
+   ],
+   "erkl": "Es ist ein Brief an seine Brüder über sein Gehörleiden.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wikipedia: Heiligenstädter Testament",
+     "u": "https://de.wikipedia.org/wiki/Heiligenstädter_Testament"
+    }
+   ]
+  },
+  {
+   "q": "Welcher Architekt baute die Villa Ast, später Mahler-Werfel-Villa?",
+   "a": "Josef Hoffmann",
+   "f": [
+    "Adolf Loos",
+    "Otto Wagner",
+    "Joseph Maria Olbrich"
+   ],
+   "erkl": "Sie entstand 1909 bis 1911; Alma Mahler lebte hier bis 1938.",
+   "wiki": "Mahler-Werfel-Villa",
+   "quellen": []
+  },
+  {
+   "q": "Wofür wurde die Zacherlfabrik berühmt?",
+   "a": "Für das Insektenpulver Zacherlin aus Pyrethrumblüten",
+   "f": [
+    "Für Schokolade",
+    "Für Gaslaternen",
+    "Für Pianos"
+   ],
+   "erkl": "Johann Zacherl entdeckte die Blüten 1849 im Kaukasus.",
+   "wiki": "Zacherlfabrik",
+   "quellen": []
+  },
+  {
+   "q": "Wofür wurde das Rudolfinerhaus gegründet?",
+   "a": "Als Pavillon-Krankenhaus zur Ausbildung ziviler Krankenschwestern",
+   "f": [
+    "Als Kaserne für Invaliden",
+    "Als Findelhaus",
+    "Als Hospiz der Kamaldulenser"
+   ],
+   "erkl": "Billroth unterstützte die 1875 begonnene Gründung; Protektor war Kronprinz Rudolf.",
+   "wiki": "Rudolfinerhaus",
+   "quellen": []
+  },
+  {
+   "q": "Wie wurde der Döblinger Bach auch genannt?",
+   "a": "Krottenbach",
+   "f": [
+    "Erbsenbach",
+    "Nesselbach",
+    "Schreiberbach"
+   ],
+   "erkl": "Der Krottenbach trennte Ober- von Unterdöbling.",
+   "wiki": "Krottenbach",
+   "quellen": []
+  },
+  {
+   "q": "Welche Legende erzählt die Kaasgrabenkirche?",
+   "a": "Eine Frau wurde 1683 durch Schwalben vor den Türken gerettet",
+   "f": [
+    "Ein Hirte fand ein Marienbild im Wald",
+    "Ein Ritter überlebte einen Sturz vom Leopoldsberg",
+    "Ein Blitz verschonte die Kirche 1529"
+   ],
+   "erkl": "Das Bild heißt Schwalbenmuttergottes.",
+   "wiki": "Kaasgrabenkirche",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde die Synagoge Dollinergasse 3 verwüstet?",
+   "a": "Am 10. November 1938",
+   "f": [
+    "Am 12. März 1938",
+    "Am 1. September 1939",
+    "Im Februar 1934"
+   ],
+   "erkl": "1995 wurde sie abgerissen.",
+   "wiki": "Vereinssynagoge des Israelitischen Tempelvereins für den 19. Bezirk",
+   "quellen": []
+  },
+  {
+   "q": "Welche Besonderheit hat der Neue Döblinger Friedhof?",
+   "a": "Eine muslimische Abteilung für bosnische Soldaten",
+   "f": [
+    "Ein Kolumbarium aus der Römerzeit",
+    "Ein Massengrab der Pest von 1713",
+    "Eine Gruft der Rothschilds"
+   ],
+   "erkl": "Sie wurde für die Soldaten der bosnischen Regimenter der Monarchie errichtet.",
+   "wiki": "Neuer Döblinger Friedhof",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Orden gründete 1628 eine Eremitage auf dem Kahlenberg?",
+   "a": "Die Kamaldulenser",
+   "f": [
+    "Die Serviten",
+    "Die Schwarzspanier",
+    "Die Jesuiten"
+   ],
+   "erkl": "Joseph II. hob die Eremitage 1782 auf; daraus entstand Josefsdorf.",
+   "wiki": "Josefskirche (19)",
+   "quellen": []
+  }
+ ]
+}

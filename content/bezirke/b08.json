@@ -1,0 +1,678 @@
+{
+ "nr": 8,
+ "name": "Josefstadt",
+ "kurz": "Wiens kleinster Bezirk ist eine Barockvorstadt aus Piaristenschule, Gartenpalais und Theater, deren Biedermeierhäuser und Gerichtsgebäude einen auffallend dichten Stadtteil ergeben.",
+ "profil": [
+  "Die Josefstadt ist mit 1,09 Quadratkilometern der kleinste Bezirk Wiens. Sie entstand 1850 aus den Vorstädten Breitenfeld, Strozzigrund und Josefstadt sowie Teilen von St. Ulrich, Altlerchenfeld und der Alservorstadt; zunächst war sie der siebente Bezirk, nach der Abtrennung Margaretens 1861 wurde sie der achte. 1862 verschob sich die Grenze zum Alsergrund von der Florianigasse zur Alser Straße. Der Bezirk liegt auf einem breiten Höhenrücken zwischen Ottakringer Bach (Südhang) und Als (Nordhang); die Lerchenfelder Straße bildet die Grenze zu Neubau.",
+  "Der Kern ist das Gut Rottenhof, dessen Besitzer ab 1491 namentlich bekannt sind. Das Areal der späteren Vorstadt war bis Ende des 17. Jahrhunderts größtenteils unverbaut: Flurnamen waren Burgfeld, Bei den Ziegelöfen und Auf den Schottischen Feldern. Ab 1690 entstanden Häuser, 1697 setzte eine rege Bautätigkeit ein, und der Besitz galt als Freigut, das nicht der Stadt Wien, sondern den niederösterreichischen Landständen steuerpflichtig war. Am 22. April 1700 verkaufte Marchese Yppolito Malaspina die Vorstadt an die Stadt Wien, die sie zu Ehren des Kronprinzen Joseph (ab 1705 Kaiser Joseph I.) Josephstadt nannte.",
+  "Der Orden der Piaristen siedelte sich 1698 an; Maria Treu (ab 1698/1716) und das Kollegium mit Schule (1701) machten die Josefstadt zu einem Schulviertel, in dem Löwenburgkonvikt und Piaristengymnasium bis heute stehen. Rund um sie entstanden Gartenpalais von Strozzi, Auersperg, Schönborn und Damian. Die Josefstadt hatte drei Tore: Rotes Tor (1771 abgebrochen), Josefstor und das erhaltene Schwibbogentor an der Trautsongasse.",
+  "Breitenfeld ist jünger: 1801 gab Schottenabt Benno Pointner den oberen Teil des Getreidefelds zwischen Hernals und Lerchenfeld zur Verbauung frei, 1802 wurde die gleichnamige Vorstadt gegründet. Grundrichter Karl Georg Gaber trieb die Gestaltung voran (Gaberschlössel 1812, Isisbrunnen 1833/34) und propagierte nach dem Tod Franz' I. 1835 eine Gedächtniskirche, die erst 1898 geweiht wurde.",
+  "Im Theater in der Josefstadt (1788, Umbau 1822 mit Beethovens „Weihe des Hauses“ zur Eröffnung, 1924 unter Max Reinhardt) und den Sträußelsälen spielten Strauß Vater und Lanner. Das Viertel um die Alser Straße wurde durch den Bau des Landesgerichts und des Allgemeinen Krankenhauses geprägt, das Graue Haus ist Sitz des Landesgerichts für Strafsachen mit angeschlossener Justizanstalt. Mehrere Sanatorien (Fürth, Luithlen, Auersperg) machten das Viertel zu einem Zentrum privater Medizin.",
+  "In der NS-Zeit wurden im Landesgericht mehr als 1.200 Todesurteile vollstreckt, woran das Denkmal „369 Wochen“ erinnert. Das Sanatorium Fürth, bedeutendste private Geburtsklinik des jüdischen Bürgertums, wurde enteignet; die Vereinssynagoge des Tempelvereins in der Neudeggergasse wurde im Novemberpogrom zerstört. Der Bezirk besitzt nur kleine Gemeindebauten wie Dr.-Kronawetter-Hof und Therese-Schlesinger-Hof.",
+  "Heute ist die Josefstadt ein bürgerlicher, gut verdienender Bezirk mit hohem Anteil an Akademiker*innen, Rechtsanwält*innen und Medizin, an der Grenze zum Rathausviertel und zum AKH-Viertel. Kleine Geschäfte, Bezirksmuseum, Cafés und Biedermeiergassen prägen das Bild, während der Autoverkehr an den Rändern von Gürtel und Alser Straße läuft."
+ ],
+ "politik": "Bezirksvorsteher ist Martin Fabisch (Grüne); die Grünen übernahmen die Josefstadt 2020 von der ÖVP, die den Bezirk davor lange geführt hatte. Bei der Gemeinderatswahl im Bezirk lag dagegen die SPÖ vorn – viele Josefstädter*innen wählen im Bezirk anders als im Rathaus.",
+ "quellen": [
+  {
+   "t": "Josefstadt – Wikipedia",
+   "u": "https://de.wikipedia.org/wiki/Josefstadt"
+  },
+  {
+   "t": "Wien Geschichte Wiki: Josefstadt",
+   "u": "https://www.geschichtewiki.wien.gv.at/Josefstadt"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Josefstadt",
+   "art": "Vorstadt",
+   "wiki": "Josefstadt (Vorstadt)",
+   "lon": 16.35056,
+   "lat": 48.20946,
+   "text": "Das Gut Rottenhof, dessen Besitzer ab 1491 bekannt sind, war bis Ende des 17. Jahrhunderts großteils unverbaut. 1698 erkannte das Burgfriedensprivileg den Status als Freigut an; am 22. April 1700 kaufte die Stadt Wien die Vorstadt von Marchese Malaspina und nannte sie nach dem Kronprinzen Joseph. Seelsorglich gehörte sie zunächst zu St. Michael, ab etwa 1630/1646 zum Schottenstift, 1719 wurde sie der Piaristenpfarre einverleibt. 1850 wurde sie eingemeindet.",
+   "quellen": []
+  },
+  {
+   "n": "Breitenfeld",
+   "art": "Vorstadt",
+   "wiki": "Breitenfeld (Vorstadt)",
+   "lon": 16.3432,
+   "lat": 48.21349,
+   "text": "Die Flur ist nach dem Getreidefeld des Schottenstifts zwischen Hernals und Lerchenfeld benannt, früher Alsbreite genannt. Abt Benno Pointner gab 1801 den oberen Teil zur Verbauung frei, 1802 wurde die Vorstadt gegründet; Florianigasse, Bennogasse, Breitenfelder Gasse und Albertgasse markieren sie. 1850 kam sie zum siebenten, 1861 zum achten Bezirk. Die Breitenfelder Kirche und das Gaberschlössel erinnern an den Grundrichter Gaber.",
+   "quellen": []
+  },
+  {
+   "n": "Strozzigrund",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.34761,
+   "lat": 48.2097,
+   "text": "Maria Katharina Gräfin Strozzi, geborene Khevenhüller († 1714), ließ ab 1698/99 an der Josefstädter Straße ein Gartenpalais als Sommersitz errichten, möglicherweise nach Plänen Hildebrandts, mit einem Garten bis zur heutigen Piaristengasse. Nach ihr hieß die kleine Vorstadt Strozzigrund. 1850 ging sie im Bezirk Josefstadt auf; das Palais wurde später abgebrochen.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Strozzipalais",
+     "u": "https://www.geschichtewiki.wien.gv.at/Strozzipalais"
+    }
+   ]
+  },
+  {
+   "n": "Neulucke",
+   "art": "Grätzel",
+   "wiki": "Neulucke",
+   "lon": 16.35573,
+   "lat": 48.21209,
+   "text": "Die Neulucke war eine der Siedlungen, in die sich die mittelalterlichen Vorstädte Wiens gliederten, nachweisbar ab 1314. Sie gehörte zur Vorstadt vor dem Widmertor, die von der heutigen Linie Operngasse–Linke Wienzeile einerseits und der Linie Felderstraße–Florianigasse andererseits begrenzt wurde und bis zum Stadtgraben reichte. Ältere Literatur ordnete sie der Vorstadt vor dem Kärntnertor zu, was als falsch gilt.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Maria Treu und die Piaristen",
+   "kat": "bauwerk",
+   "wiki": "Maria Treu",
+   "adr": "Jodok-Fink-Platz",
+   "lon": 16.35024,
+   "lat": 48.21023,
+   "jahr": "1698–1716",
+   "text": "Die Piaristen, 1617 von Joseph Calasanz gegründet, wollten in Wien eine Schule gründen, stießen aber auf den Widerstand der Jesuiten. Nach vergeblicher Suche erwarben sie am 19. Dezember 1697 ein Grundstück in der Josefstadt. Am 2. September 1698 legte Leopold I. den Grundstein zur Schmerzenskapelle, die 300 Personen fasste und am 22. April 1699 vollendet war. Maurermeister Simon Andreas Karafee und Polier Donatus d’Allio führten den Bau aus; 1716 wurde der Grundstein der Kirche gelegt. Ab 1773 unterrichteten die Piaristen auch im Theresianum.",
+   "fakt": "Die Piaristen sind der einzige Priesterorden, der seinen Auftrag aus der Schule ableitet.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Piaristen",
+     "u": "https://www.geschichtewiki.wien.gv.at/Piaristen"
+    }
+   ]
+  },
+  {
+   "n": "Löwenburgkonvikt",
+   "kat": "geschichte",
+   "wiki": "Löwenburgkonvikt",
+   "adr": "Piaristengasse 45",
+   "lon": 16.35004,
+   "lat": 48.21111,
+   "jahr": "1731",
+   "text": "Johann Jakob Graf von Löwenburg, kaiserlicher Geheimer und Hofkammerrat, verfügte am 14. April 1731 testamentarisch: Sollte seine Tochter Aloisia minderjährig oder kinderlos sterben, fiele sein gesamtes Vermögen an die Piaristen zur Errichtung eines Konvikts für adelige österreichische und ungarische Jünglinge. Der Graf starb am 16. Juli 1732, einige Jahre später folgte ihm seine Tochter kinderlos.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Theater in der Josefstadt",
+   "kat": "kultur",
+   "wiki": "Theater in der Josefstadt",
+   "adr": "Josefstädter Straße 26",
+   "lon": 16.35095,
+   "lat": 48.2095,
+   "jahr": "1788–1924",
+   "text": "Der älteste Bau von 1788 stammte von Josef Hieronymus d’Allio; die Pläne für den Neubau von 1822 unter Adam Hildwein werden Josef Kornhäusel zugeschrieben. Die Eröffnung 1822 fand mit Beethovens „Weihe des Hauses“ statt. Kornhäusel baute 1834 auch die Sträußelsäle, 1841 den Straßentrakt. 1923/24 gestaltete Carl Witzmann das Haus für Max Reinhardt um. Ein ursprünglich freistehendes klassizistisches Gebäude wurde durch spätere Zubauten zu einem unübersichtlichen Komplex.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sträußelsäle",
+   "kat": "kultur",
+   "wiki": "Sträußelsäle",
+   "adr": "Josefstädter Straße 26",
+   "lon": 16.35095,
+   "lat": 48.2095,
+   "jahr": "1834",
+   "text": "Gastwirt Wolfgang Reischel, seit 1816 Besitzer des Gasthauses „Zum Straußen“, eröffnete die Säle am 1. Juni 1834 mit einem großen Ball, bei dem Johann Strauss Vater dirigierte. Später konzertierten hier Joseph Lanner und nach dessen Tod 1843 Philipp Fahrbach. Die Säle waren direkt vom Parterre des Theaters in der Josefstadt erreichbar, wurden 1885 gesperrt und 1924 wiedereröffnet.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Büste Fritz Muliar",
+   "kat": "erinnerung",
+   "wiki": "Büste Fritz Muliar",
+   "adr": "Theater in der Josefstadt",
+   "lon": 16.35103,
+   "lat": 48.20953,
+   "jahr": "2007",
+   "text": "Am 8. November 2007 wurde im Theater eine Büste des Kammerschauspielers Fritz Muliar aufgestellt. Sein jüdischer Stiefvater floh nach der Machtübernahme der Nationalsozialisten in die USA; Muliar wurde 1940 zur Wehrmacht eingezogen und 1942 wegen Wehrkraftzersetzung verhaftet und zunächst zum Tod verurteilt. Das Urteil wurde in „Frontbewährung“ an der Ostfront umgewandelt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Strozzipalais",
+   "kat": "verschwunden",
+   "wiki": "Strozzipalais",
+   "adr": "Josefstädter Straße 39",
+   "lon": 16.34761,
+   "lat": 48.2097,
+   "jahr": "ab 1698/1699",
+   "text": "Als Sommersitz für Maria Katharina Gräfin Strozzi, geborene Khevenhüller, ab 1698/99 möglicherweise nach Plänen von Johann Lucas von Hildebrandt gebaut, bestand das Palais zunächst nur aus einem einstöckigen Mitteltrakt mit Freitreppe zum Garten (Abbruch 1818). Der Garten reichte bis zur heutigen Piaristengasse. 1714 kam das Palais an den Neffen der Gräfin; das Gebäude ist verschwunden, der Name Strozzigrund und die Strozzigasse blieben.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Palais Auersperg",
+   "kat": "bauwerk",
+   "wiki": "Palais Auersperg",
+   "adr": "Auerspergstraße 1",
+   "lon": 16.35513,
+   "lat": 48.20727,
+   "jahr": "um 1710",
+   "text": "Das Palais, ursprünglich Weltz beziehungsweise Rofrano, wurde um 1710 vermutlich nach einem Entwurf von Johann Lukas von Hildebrandt erbaut; der Mittelteil wurde nach 1721/22 von Johann Christian Neupauer wesentlich verändert. An der Stelle stand früher der Rottenhof, dessen Besitzer 1491 Wolfgang Kheppler waren.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Czerninpalais",
+   "kat": "bauwerk",
+   "wiki": "Czerninpalais (8)",
+   "adr": "Friedrich-Schmidt-Platz 4",
+   "lon": 16.35511,
+   "lat": 48.21092,
+   "jahr": "1839–1846",
+   "text": "1839 wurde für die Mechitaristen ein Miethaus gebaut, das Graf Eugen Czernin von und zu Chudenitz 1846 zum Fideikommisspalais umgestalten ließ. Hier befand sich die bekannte Czerninsche Gemäldegalerie. 1936 erfolgte ein Umbau mit Aufstockung um zwei Geschoße. Das Palais steht direkt am Rathausviertel an der Grenze zur Inneren Stadt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schönbornpalais und Volkskundemuseum",
+   "kat": "kultur",
+   "wiki": "Österreichisches Museum für Volkskunde",
+   "adr": "Laudongasse 15–19",
+   "lon": 16.35047,
+   "lat": 48.21319,
+   "jahr": "1687/1894",
+   "text": "Auf den Parzellen Laudongasse 15 bis 19 stand ein Lusthaus samt Garten, das Otto Ehrenreich Graf Abensperg-Traun 1687 erwarb; daraus wurde das Schönbornpalais. Darin gründete Michael Haberlandt 1894 das Museum des Vereins für Volkskunde; es sammelt die Volkskultur der Ethnien der cisleithanischen Monarchie. Heute gehört es zum Verband der Bundesmuseen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Damianpalais",
+   "kat": "bauwerk",
+   "wiki": "Damianpalais",
+   "adr": "Lange Gasse 53",
+   "lon": 16.35128,
+   "lat": 48.21151,
+   "jahr": "1700",
+   "text": "Das Adelspalais wurde 1700 für Karl August von Damian gebaut und bestand ursprünglich nur aus dem Mitteltrakt mit offenen Arkaden und flachem Dach. 1774 veränderte es Matthias Gerl durch Anbau von Seitenflügeln, die einen kleinen Straßenhof bilden. Im selben Jahr kaufte der gebürtige Grieche Daniel von Zepharovich das Haus, in dem er bis 1785 mit seiner Familie wohnte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Paarsche Reitschule",
+   "kat": "verschwunden",
+   "wiki": "Paarsche Reitschule",
+   "adr": "Laudongasse 30–36, Skodagasse 20–30",
+   "lon": 16.34671,
+   "lat": 48.21281,
+   "jahr": "um 1700",
+   "text": "Joseph Ignaz Graf Paar erwarb 1700 einen Gartengrund samt Haus und ließ eine prachtvolle Reitschule errichten, die der Stadtplan von Anguissola-Marinoni (1706) schon als vollendet zeigt. Sie ist auf Stichen von Fischer-Delsenbach (1715) und Pfeffel-Kleiner (1725) als „Paarsches Lustgebäude und seine Reithschul“ überliefert. Straßennamen wie Skodagasse und Lederergasse bezeichnen heute das Areal.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Josefstädter Kaserne",
+   "kat": "verschwunden",
+   "wiki": "Josefstädter Kaserne",
+   "adr": "Josefstädter Straße 46–64, Albertgasse, Florianigasse",
+   "lon": 16.34742,
+   "lat": 48.20997,
+   "jahr": "18. Jh.–20. Jh.",
+   "text": "Die k. k. Kavalleriekaserne, im Volksmund Reiterkaserne, umfasste rund 50.000 Quadratmeter zwischen Josefstädter Straße, Albertgasse und Florianigasse. Auf zwei Liegenschaften stand zuvor unter anderem ein um 1720 erbautes Landhaus. Das Areal der ehemaligen Kaserne ist heute überbaut, der Haupteingang lag bei Josefstädter Straße 58.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schikaneders Sterbehaus",
+   "kat": "geschichte",
+   "wiki": "Schikaneder-Sterbehaus",
+   "adr": "Schlösselgasse 7, Florianigasse 10",
+   "lon": 16.35299,
+   "lat": 48.21218,
+   "jahr": "1807–1812",
+   "text": "Auf dem Gartengrund des Hauses Schlösselgasse 11, parzelliert 1781, entstanden 1783 zwei Häuser. In einem davon lebte von 1807 bis zu seinem Tod 1812 Emanuel Schikaneder. 1816 erwarb Feldmarschall-Leutnant Urban Christian Freiherr von Blum beide Häuser, ließ sie abbrechen und das heutige Haus „Zum Nagelstock“ errichten. Am 16. September 1962, zum 150. Todestag, wurde eine Gedenktafel enthüllt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sanatorium Fürth",
+   "kat": "erinnerung",
+   "wiki": "Sanatorium Fürth",
+   "adr": "Schmidgasse 12–14, Buchfeldgasse 11",
+   "lon": 16.35309,
+   "lat": 48.21067,
+   "jahr": "1887–1938",
+   "text": "Albin Eder baute 1887 nach Plänen des Schweizer Architekten Hans Wilhelm Auer ein viergeschoßiges Sanatorium im Neorenaissancestil, 1892 erweitert. 1895 kaufte es Dr. Julius Fürth († 1923); es wurde die bedeutendste private Geburtsklinik des jüdischen Bürgertums in Wien, in der unter anderem Marcel Prawy geboren wurde. Nach Fürths Tod ging es an seinen Sohn Lothar; in der NS-Zeit wurde es enteignet. Das Gebäude steht unter Denkmalschutz.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sanatorium Luithlen",
+   "kat": "bauwerk",
+   "wiki": "Sanatorium Luithlen",
+   "adr": "Auerspergstraße 9",
+   "lon": 16.35483,
+   "lat": 48.20835,
+   "jahr": "1907–1908",
+   "text": "Die Privatkrankenanstalt wurde nach Plänen von Robert Oerley durch die Allgemeine Österreichische Baugesellschaft für die 1907 von Dr. Friedrich Luithlen (1869–1927) gegründete Aktiengesellschaft gebaut und 1908 eröffnet. Sie ist eines von mehreren Sanatorien in der Josefstadt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Antisemitenhof",
+   "kat": "politik",
+   "wiki": "Antisemitenhof",
+   "adr": "Josefsgasse 4–6",
+   "lon": 16.354,
+   "lat": 48.20857,
+   "jahr": "1888–1933",
+   "text": "Ernst Vergani gründete hier am 15. Dezember 1888 gegen den Willen Georg Schönerers das „Deutsche Volksblatt“, die erste antisemitische Tageszeitung Österreichs, und bereitete damit der Christlichsozialen Partei und Karl Lueger den Weg. Ab 1. April 1921 erschien hier die „Deutsch-österreichische Tageszeitung“, seit 1926 mit dem Untertitel „Hauptblatt der NSDAP – Hitlerbewegung“; sie wurde am 22. Juli 1933 behördlich eingestellt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Das Graue Haus und das Denkmal „369 Wochen“",
+   "kat": "erinnerung",
+   "wiki": "Denkmal 369 Wochen",
+   "adr": "Landesgerichtsstraße 11",
+   "lon": 16.35585,
+   "lat": 48.21442,
+   "jahr": "2015",
+   "text": "Das Landesgericht für Strafsachen ist das größte ordentliche Gericht Österreichs; das Bezirksgericht Josefstadt wurde am 1. Juli 1850 aktiviert und im Grauen Haus untergebracht. Vor dem Landesgericht wurde am 21. April 2015 das von Eva Schlegel entworfene Denkmal „369 Wochen“ enthüllt; es erinnert an die von der NS-Justiz Hingerichteten. Die Zahl 369 wird auf den Teil der Fassade projiziert, hinter dem mehr als 1.200 Todesurteile vollstreckt wurden.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Landesgericht",
+     "u": "https://www.geschichtewiki.wien.gv.at/Landesgericht"
+    }
+   ]
+  },
+  {
+   "n": "Neuer Stephansfreithof",
+   "kat": "verschwunden",
+   "wiki": "Neuer Stephansfreithof",
+   "adr": "Alser Straße, Landesgerichtsstraße",
+   "lon": 16.35558,
+   "lat": 48.21345,
+   "jahr": "1732–1784",
+   "text": "Auf einem Teil des Geländes der bürgerlichen Schießstätte wurde 1732 ein Friedhof der Pfarre St. Stephan eingerichtet, die Kapelle „Abendmahl des Herrn“ 1733 gebaut. Mit der Auflassung der Friedhöfe innerhalb der Linien wurde er 1784 entweiht. Auf dem Terrain steht heute das Landesgerichtsgebäude.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Alserkirche der Trinitarier und Pater-Kolbe-Kapelle",
+   "kat": "geschichte",
+   "wiki": "Trinitarierkirche",
+   "adr": "Alser Straße 17",
+   "lon": 16.35244,
+   "lat": 48.21469,
+   "jahr": "1688–1784",
+   "text": "Aus Katalonien berufene Trinitarier („Weißspanier“) begannen 1688 mit dem Kloster. Ihr Ordensname bedeutet „Trinitarier von der Erlösung Gefangener“; der Redemptor führte die Verhandlungen zum Freikauf von Gefangenen, im Kloster gab es einen eigenen Raum für türkische Gefangene. Die Kirche wurde 1698 geweiht, die Anlage 1727 vollendet; 1783 hob Joseph II. den Orden auf, 1784 bezogen die Minoriten das Haus. Die Pater-Kolbe-Kapelle (1972, Ernst Degasperi) erinnert an Maximilian Kolbe, der am 14. August 1941 in Auschwitz für einen Mithäftling in den Tod ging.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Trinitarierkloster",
+     "u": "https://www.geschichtewiki.wien.gv.at/Trinitarierkloster"
+    }
+   ]
+  },
+  {
+   "n": "Vereinssynagoge Neudeggergasse",
+   "kat": "erinnerung",
+   "wiki": "Gedenkstele zur Erinnerung an die Vereinssynagoge des Tempelvereines des 8. Bezirkes",
+   "adr": "Neudeggergasse 12",
+   "lon": 16.35176,
+   "lat": 48.20713,
+   "jahr": "1938/2019",
+   "text": "Nach der Zerstörung der Inneneinrichtung im November 1938 wurden die Reste der Synagoge von einem Bauunternehmer demoliert. Nachdem die Stadt das Grundstück erworben hatte, entstand 1955/56 ein Gemeindebau. 2019 errichteten die Kulturförderung Josefstadt und der Verein „Verlorene Nachbarschaft“ gegenüber Haus Nr. 12 eine Gedenkstele, angeregt von Bob Martens und gestaltet von Herbert Peter und Mischa Guttmann.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Vereinssynagoge des Tempelvereines des 8. Bezirkes der Stadt Wien",
+     "u": "https://www.geschichtewiki.wien.gv.at/Vereinssynagoge_des_Tempelvereines_des_8._Bezirkes_der_Stadt_Wien"
+    }
+   ]
+  },
+  {
+   "n": "Bösendorfer-Stammhaus",
+   "kat": "industrie",
+   "wiki": "Bösendorfer-Stammhaus",
+   "adr": "Lenaugasse 10",
+   "lon": 16.35433,
+   "lat": 48.21035,
+   "jahr": "1840",
+   "text": "Das 1840 von Josef Strohmayr erbaute Haus kam 1841 an Ignaz Bösendorfer (1796–1859), dessen 1828 gegründete Klavierfabrik bald Weltruf erlangte. 1859 übernahm Ludwig Bösendorfer Haus und Fabrik, verkaufte es aber 1865 an Christian Graf Kinsky und eröffnete 1872 im damaligen Liechtensteinpalais in der Herrengasse den berühmten Bösendorfer-Saal.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Breitenfelder Kirche",
+   "kat": "bauwerk",
+   "wiki": "Breitenfelder Kirche",
+   "adr": "Uhlplatz",
+   "lon": 16.34031,
+   "lat": 48.21214,
+   "jahr": "1835–1898",
+   "text": "Der Breitenfelder Grundrichter Karl Georg Gaber propagierte nach dem Tod Franz' I. am 2. März 1835 eine Gedächtniskirche; Kaiserinwitwe Karolina Augusta gab noch im selben Jahr eine große Spende. Erst 1886 kam es zur Ausschreibung, Sieger waren Alexander Wielemans und Viktor Luntz; die Grundsteinlegung erfolgte am 9. Mai 1894, die Weihe am 18. Juni 1898 in Anwesenheit Franz Josephs. Der Backsteinbau in Formen der lombardischen Frührenaissance hat seinen Eingang zum Gürtel statt zur alten Vorstadt, was von der Bevölkerung kritisiert wurde.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gaberschlössel und Isisbrunnen",
+   "kat": "kurios",
+   "wiki": "Isisbrunnen",
+   "adr": "Albertplatz 8",
+   "lon": 16.34399,
+   "lat": 48.2144,
+   "jahr": "1812–1834",
+   "text": "Das Gaberschlössel, 1812 für den Grundrichter Karl Georg Gaber gebaut, zeigt eine Mischung klassizistischer und gotisierender Fassadenelemente. Gaber errichtete am 4. November 1833 mit Unterstützung des Schottenabts Sigismund Schultes am Albertplatz einen monumentalen Auslaufbrunnen, gespeist von der Albertinischen Wasserleitung und am 22. März 1834 im Beisein von Franz I. geweiht. Aus dem achteckigen gusseisernen Becken erhebt sich die gusseiserne Statue der ägyptischen Göttin Isis.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Gaberschlössel",
+     "u": "https://www.geschichtewiki.wien.gv.at/Gaberschl%C3%B6ssel"
+    }
+   ]
+  },
+  {
+   "n": "Wachsamkeitsbrunnen",
+   "kat": "wasser",
+   "wiki": "Wachsamkeitsbrunnen",
+   "adr": "Schlesingerplatz",
+   "lon": 16.34668,
+   "lat": 48.21243,
+   "jahr": "1799",
+   "text": "Die Stadt Wien stellte den Brunnen 1799 an der Einmündung der Skodagasse in die Alser Straße am Auslauf der Woeberschen Wasserleitung auf, die der Wasserversorgung der Alservorstadt diente. An dieser Stelle befand sich der Marktplatz. Das Bassin wurde in den 1880er Jahren abgebrochen; später wurde der Brunnen vom Steinmetzmeister Eduard Hauer erneuert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rotes Tor und Schwibbogentor",
+   "kat": "verschwunden",
+   "wiki": "Rotes Tor",
+   "adr": "Beginn der Josefstädter Straße; Trautsongasse",
+   "lon": 16.3545,
+   "lat": 48.2091,
+   "jahr": "um 1700–1771",
+   "text": "Die um 1700 auf den Rottenhof-Gründen entstandene Vorstadt Josefstadt hatte drei Tore. Das Schwibbogentor am Beginn der Trautsongasse ist noch erhalten, das Josefstor am Beginn der Josefsgasse wurde Ende des 18. Jahrhunderts abgebrochen (die Josefsstatue kam ans Haus Auerspergstraße 11), das Rote Tor 1771. Die Johannesstatue vom Roten Tor steht im Park der Hofstallungen, dem späteren MuseumsQuartier.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Oppolzerhaus",
+   "kat": "kultur",
+   "wiki": "Oppolzerhaus",
+   "adr": "Alser Straße 25, Laudongasse 18",
+   "lon": 16.35017,
+   "lat": 48.21486,
+   "jahr": "1843–1871",
+   "text": "Das Haus ist nach dem Mediziner Johann Ritter von Oppolzer benannt, der hier 1856–1871 wohnte; sein Sohn Theodor Ritter von Oppolzer, der Astronom, richtete eine Privatsternwarte ein, die beim Umbau verschwand. Zuvor lebte hier die Schriftstellerin Karoline Pichler, die am 9. Juli 1843 starb.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Maria-Theresia-Frauen-Hospital",
+   "kat": "geschichte",
+   "wiki": "Maria-Theresia-Frauen-Hospital",
+   "adr": "Feldgasse 9",
+   "lon": 16.34536,
+   "lat": 48.2136,
+   "jahr": "1872–1893",
+   "text": "Das Spital wurde 1872 im Haus Laudongasse 26 begründet und übersiedelte zwei Jahrzehnte später in den 1890 von Fellner und Helmer errichteten Neubau in der Feldgasse 9 (Eröffnung am 30. Mai 1893). Es ist nach Erzherzogin Maria Theresia, Herzogin von Württemberg, benannt, Träger war der 1872 gegründete Verein „Maria Theresia-Frauenhospital in Wien“.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Café Eiles",
+   "kat": "alltag",
+   "wiki": "Café Eiles",
+   "adr": "Josefstädter Straße 2",
+   "lon": 16.35484,
+   "lat": 48.20931,
+   "jahr": "1840",
+   "text": "Das Lokal wurde 1840 als Café Motéle (nach dem Besitzer Motéle) gegründet und hieß seit 1901 Café Eiles. Es entwickelte sich in den 1830er Jahren aus dem Café Höberth, das auf dem Glacis neben dem Palais Auersperg lag, und zog dann in ein neu erbautes Haus in der Josefstädter Straße.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zur Stadt Belgrad und die Musikantenbörse",
+   "kat": "kultur",
+   "wiki": "Zur Stadt Belgrad",
+   "adr": "Auerspergstraße 11, Josefsgasse 1",
+   "lon": 16.35477,
+   "lat": 48.20848,
+   "jahr": "1820er",
+   "text": "Das Bierhaus am Rande des Glacis hat seinen Schildnamen offenbar von der Einnahme Belgrads durch Prinz Eugen 1717. In den 1820er Jahren spielten hier die Geschwister Gobbi mit ihrem Orchester, Philipp Fahrbach war der Flötist. Hier tagte die „Musikantenbörse“: Musiker ohne Anstellung trafen sich montags früh, um Engagements zu vermitteln.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Vienna's English Theatre und Neue Wiener Bühne",
+   "kat": "kultur",
+   "wiki": "Vienna's English Theatre",
+   "adr": "Josefsgasse 12",
+   "lon": 16.35292,
+   "lat": 48.20842,
+   "jahr": "1906/1963",
+   "text": "Am 14. Mai 1906 eröffnete der 1885 gegründete Lehrerhaus-Verein hier sein Vereinshaus mit einem Festsaal im neobarocken Stil der Spätgründerzeit. Nach 1945 etablierte sich im 300 Plätze fassenden Theatersaal die Neue Wiener Bühne. Seit 1963 spielt hier Vienna’s English Theatre, gegründet von Franz Schafranek und Ruth Brinkmann – nach Erinnerung der Tochter „aus Liebe meines Vaters zu meiner Mutter“.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Vermessungsamt",
+   "kat": "geschichte",
+   "wiki": "Vermessungsamt",
+   "adr": "Krotenthallergasse 3",
+   "lon": 16.34576,
+   "lat": 48.21177,
+   "jahr": "1764–1896",
+   "text": "Das Bundesamt für Eich- und Vermessungswesen geht auf die Landesaufnahmen der Monarchie zurück: Die Josephinische Landesaufnahme wurde 1764 von Maria Theresia angeordnet und 1787 unter Joseph II. abgeschlossen, 1806 folgte die zweite, 1869 die dritte (mit Übergang zum metrischen System) und 1896 die vierte, die Präzisionsaufnahme. Das Militärgeographische Institut am Friedrich-Schmidt-Platz 3 entstand 1839 aus dem Mailänder Geographischen Institut.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gemeindebauten: Dr.-Kronawetter-Hof und Oskar-Werner-Hof",
+   "kat": "wohnen",
+   "wiki": "Dr.-Kronawetter-Hof",
+   "adr": "Pfeilgasse 47–49; Lenaugasse 19",
+   "lon": 16.34062,
+   "lat": 48.20932,
+   "jahr": "1925–1994",
+   "text": "Der Dr.-Kronawetter-Hof von Moritz Otto Kuntschik (1925/26, 63 Wohnungen) ist nach dem Politiker Ferdinand Kronawetter benannt; hier wohnte 1925–1938 die Schriftstellerin Alma Johanna Koenig (1887–1942). Der Oskar-Werner-Hof an der Lenaugasse 19 ist das sanierte Biedermeierhaus von 1847, benannt 1994 nach Oskar Werner, der die letzte Zeit seines Lebens in der Josefstadt (Trautsongasse 3) verbrachte.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Oskar-Werner-Hof",
+     "u": "https://www.geschichtewiki.wien.gv.at/Oskar-Werner-Hof"
+    }
+   ]
+  },
+  {
+   "n": "Lager Uhlplatz 5 und weitere Zwangsarbeiterlager",
+   "kat": "erinnerung",
+   "wiki": "Lager Uhlplatz 5",
+   "adr": "Uhlplatz 5; Kochgasse 11; Lederergasse 23",
+   "lon": 16.34061,
+   "lat": 48.21248,
+   "jahr": "1942–1945",
+   "text": "Zwischen 1942 und 1945 gab es auf Wiener Boden zahlreiche Lager für Zwangsarbeiter*innen und Sammellager für zur Deportation vorgesehene Jüdinnen und Juden. In der Josefstadt sind Adressen wie Uhlplatz 5, Kochgasse 11 und Lederergasse 23 belegt. Nach Kriegsende wurden hier teils auch Flüchtlingslager eingerichtet. Die Angaben beruhen auf einer Liste des Wilhelminenspitals über behandelte Ausländer*innen.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Welcher Bezirk ist mit 1,09 Quadratkilometern der kleinste Wiens?",
+   "a": "Josefstadt",
+   "f": [
+    "Mariahilf",
+    "Wieden",
+    "Neubau"
+   ],
+   "erkl": "Die Josefstadt liegt auf einem Höhenrücken zwischen Ottakringer Bach und Als.",
+   "wiki": "Josefstadt",
+   "quellen": []
+  },
+  {
+   "q": "Nach wem wurde die Vorstadt Josefstadt 1700 benannt?",
+   "a": "Nach dem Kronprinzen Joseph, dem späteren Kaiser Joseph I.",
+   "f": [
+    "Nach Joseph II.",
+    "Nach dem Heiligen Josef von Nazareth",
+    "Nach Joseph Calasanz"
+   ],
+   "erkl": "Die Stadt Wien kaufte die Vorstadt am 22. April 1700 von Marchese Malaspina.",
+   "wiki": "Josefstadt (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Welches Gut war der Ausgangspunkt der Vorstadt Josefstadt?",
+   "a": "Der Rottenhof",
+   "f": [
+    "Der Neudeggerhof",
+    "Der Schottenhof",
+    "Der Oberhof"
+   ],
+   "erkl": "Als Freigut war es den Landständen steuerpflichtig, nicht der Stadt Wien.",
+   "wiki": "Josefstadt (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde die Vorstadt Breitenfeld gegründet?",
+   "a": "1802",
+   "f": [
+    "1700",
+    "1770",
+    "1850"
+   ],
+   "erkl": "Schottenabt Benno Pointner hatte 1801 den oberen Teil des Getreidefelds freigegeben.",
+   "wiki": "Breitenfeld (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Orden gründete in der Josefstadt 1698 sein Kollegium mit Schule?",
+   "a": "Die Piaristen",
+   "f": [
+    "Die Jesuiten",
+    "Die Barnabiten",
+    "Die Trinitarier"
+   ],
+   "erkl": "Leopold I. legte am 2. September 1698 den Grundstein der Schmerzenskapelle.",
+   "wiki": "Maria Treu",
+   "quellen": []
+  },
+  {
+   "q": "Wer baute 1822 das Theater in der Josefstadt um (Zuschreibung)?",
+   "a": "Josef Kornhäusel",
+   "f": [
+    "Carl von Hasenauer",
+    "Theophil Hansen",
+    "Friedrich Schmidt"
+   ],
+   "erkl": "Der Neubau von 1822 unter Adam Hildwein wird Kornhäusel zugeschrieben.",
+   "wiki": "Theater in der Josefstadt",
+   "quellen": []
+  },
+  {
+   "q": "Wer dirigierte am 1. Juni 1834 den Eröffnungsball der Sträußelsäle?",
+   "a": "Johann Strauss Vater",
+   "f": [
+    "Joseph Lanner",
+    "Philipp Fahrbach",
+    "Johann Strauss Sohn"
+   ],
+   "erkl": "Später konzertierten dort Lanner und nach 1843 Fahrbach.",
+   "wiki": "Sträußelsäle",
+   "quellen": []
+  },
+  {
+   "q": "Welche Zeitung gründete Ernst Vergani 1888 im Antisemitenhof?",
+   "a": "Das Deutsche Volksblatt",
+   "f": [
+    "Die Reichspost",
+    "Die Neue Freie Presse",
+    "Das Vaterland"
+   ],
+   "erkl": "Es war die erste antisemitische Tageszeitung Österreichs.",
+   "wiki": "Antisemitenhof",
+   "quellen": []
+  },
+  {
+   "q": "Was bedeutet die Zahl im Denkmal „369 Wochen“ vor dem Landesgericht?",
+   "a": "Sie erinnert an die Opfer der NS-Justiz, die dort hingerichtet wurden",
+   "f": [
+    "Sie nennt die Bauzeit des Landesgerichts",
+    "Sie erinnert an die Dauer der Februarkämpfe",
+    "Sie zählt die Zellen der Justizanstalt"
+   ],
+   "erkl": "Eva Schlegel entwarf es; es wurde am 21. April 2015 enthüllt.",
+   "wiki": "Denkmal 369 Wochen",
+   "quellen": []
+  },
+  {
+   "q": "Welche Besonderheit hatte der Orden der Trinitarier in der Alser Straße?",
+   "a": "Er kaufte Gefangene frei, auch Christensklaven",
+   "f": [
+    "Er betrieb das erste Blindeninstitut",
+    "Er bewirtschaftete Weinberge für den Hof",
+    "Er lehrte am Theresianum"
+   ],
+   "erkl": "Die Trinitarier kamen aus Katalonien und hießen „Weißspanier“; 1783 wurde der Orden aufgehoben.",
+   "wiki": "Trinitarierkirche",
+   "quellen": []
+  },
+  {
+   "q": "Wer wurde im Sanatorium Fürth geboren?",
+   "a": "Marcel Prawy",
+   "f": [
+    "Fritz Muliar",
+    "Oskar Werner",
+    "Theodor Herzl"
+   ],
+   "erkl": "Das Sanatorium war die bedeutendste private Geburtsklinik des jüdischen Bürgertums.",
+   "wiki": "Sanatorium Fürth",
+   "quellen": []
+  },
+  {
+   "q": "Wer lebte von 1807 bis 1812 in der Schlösselgasse?",
+   "a": "Emanuel Schikaneder",
+   "f": [
+    "Joseph Haydn",
+    "Ferdinand Raimund",
+    "Ludwig van Beethoven"
+   ],
+   "erkl": "Das Nachfolgehaus „Zum Nagelstock“ trägt seit 1962 eine Gedenktafel.",
+   "wiki": "Schikaneder-Sterbehaus",
+   "quellen": []
+  },
+  {
+   "q": "Wer war der Grundrichter von Breitenfeld, der Gaberschlössel und Isisbrunnen baute?",
+   "a": "Karl Georg Gaber",
+   "f": [
+    "Benno Pointner",
+    "Sigismund Schultes",
+    "Ernst Vergani"
+   ],
+   "erkl": "Der Abt des Schottenstifts war Grundherr.",
+   "wiki": "Gaberschlössel",
+   "quellen": []
+  },
+  {
+   "q": "Aus welcher Quelle wurde der Isisbrunnen am Albertplatz gespeist?",
+   "a": "Aus der Albertinischen Wasserleitung",
+   "f": [
+    "Aus der Siebenbrunner Hofwasserleitung",
+    "Aus der Kaiser-Ferdinands-Wasserleitung",
+    "Aus der Woeberschen Wasserleitung"
+   ],
+   "erkl": "Die Woebersche Leitung versorgte den Wachsamkeitsbrunnen an der Alser Straße.",
+   "wiki": "Isisbrunnen",
+   "quellen": []
+  },
+  {
+   "q": "Wozu diente die Josefstädter Kaserne im Volksmund?",
+   "a": "Als Reiterkaserne",
+   "f": [
+    "Als Artilleriekaserne",
+    "Als Pionierkaserne",
+    "Als Invalidenhaus"
+   ],
+   "erkl": "Sie war eine k. k. Kavalleriekaserne mit rund 50.000 Quadratmetern.",
+   "wiki": "Josefstädter Kaserne",
+   "quellen": []
+  }
+ ]
+}

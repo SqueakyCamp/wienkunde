@@ -1,0 +1,725 @@
+{
+ "nr": 15,
+ "name": "Rudolfsheim-Fünfhaus",
+ "kurz": "Ein Bezirk, der aus vier Vorortgemeinden zusammenwuchs, Wiens Westtor mit dem Bahnhof geworden ist und dessen Straßen noch immer dörfliche Biegungen unter der Gründerzeit verraten.",
+ "profil": [
+  "Rudolfsheim-Fünfhaus entstand in zwei Schritten aus ehemaligen Vorortgemeinden. 1863 vereinigten sich Braunhirschengrund, Reindorf und Rustendorf auf Betreiben des Braunhirschener Bürgermeisters Benedikt Schellinger zur Großgemeinde Rudolfsheim, benannt nach Kronprinz Rudolf. Bei der Eingemeindung 1890/1892 bildete Rudolfsheim gemeinsam mit Sechshaus den 14. Bezirk, Fünfhaus wurde als eigener 15. Bezirk geführt. Erst die nationalsozialistische Gebietsreform vom 15. Oktober 1938 fasste Rudolfsheim und Fünfhaus zusammen; Nummer 14 ging an den neu geschaffenen Bezirk Penzing.",
+  "Die Namen erzählen von sehr kleinen Anfängen. Fünfhaus verdankt seinen Namen fünf Winzerhäusern, die zwischen 1708 und 1710 auf Gründen der Barnabiten von St. Michael entstanden, Dreihaus im Braunhirschengrund drei fast gleichzeitig errichteten Häusern, Braunhirschen einem Wirtshaus „Zum braunen Hirschen“. Reindorf (1344 als Flurname) und das 1178 genannte Meinhartsdorf sind die ältesten Namen, doch von mittelalterlichen Siedlungen ist im Stadtbild nichts erhalten. Das Bezirkswappen kombiniert die Zeichen der Vororte: Halbmond für Rustendorf, Weintraube für Reindorf, Hirsch für Braunhirschen, den Erzengel Michael für Fünfhaus.",
+  "Das Bezirksgelände fällt von der Schmelz zum Wienfluss ab. Die Schmelz war jahrhundertelang unverbaute Lössfläche und Wasserscheide zwischen Wienfluss und Ottakringer Bach, ab 1847 ein Exerzierplatz des Militärs, auf dem vor dem Kaiser die Frühjahrsparade stattfand. Erst ab 1911 wurde sie freigegeben und verbaut; daraus entstand Neufünfhaus mit dem Nibelungenviertel. Die Westbahn von 1856/59 schnitt das ältere Fünfhaus vom nördlichen Teil ab, und der Bahnhof bestimmt bis heute die Gestalt des Bezirks.",
+  "Industrialisierung und Zuzug machten aus den Dörfern binnen Jahrzehnten Arbeitervororte. Rustendorf wuchs zwischen 1843 und 1880 von rund 50 auf knapp 250 Häuser und von etwa tausend auf über 16.000 Einwohner*innen. Es gab Gaswerke, Brauereien, eine Waffenfabrik, Zirkusse und Vergnügungsetablissements wie Schwenders Colosseum. Hier entstand mit der Kalasantinerkirche (1889) die erste Arbeiterkirche Wiens, und die Spitalsversorgung der Vororte wurde im Bezirkskrankenhaus Sechshaus und später im Kaiserin-Elisabeth-Spital organisiert.",
+  "In der Zwischenkriegszeit prägte das Rote Wien den Bezirk. Eberthof, Vogelweidhof und der Heimhof, ein genossenschaftliches Einküchenhaus, stehen für sehr unterschiedliche Ansätze, Arbeiter*innen Wohnraum und gemeinschaftliche Einrichtungen zu bieten. Auf dem aufgelassenen Schmelzer Friedhof entstand der Märzpark, später die Stadthalle als Schlüsselbau der Nachkriegsarchitektur von Roland Rainer.",
+  "Die NS-Zeit hat im Bezirk viele Spuren hinterlassen. Die Synagoge in der Turnergasse wurde am 10. November 1938 zerstört, die orthodoxe Synagoge in der Storchengasse verwüstet. Am Westbahnhof begannen 1938/39 viele Kindertransporte, im Bezirk gab es zahlreiche Zwangsarbeiterlager, darunter 1944/45 ein Lager für ungarisch-jüdische Deportierte in einer Schule in der Hackengasse. Der Bezirk führte bis 1957 den Namen Fünfhaus, ab dem 15. Februar 1957 heißt er Rudolfsheim-Fünfhaus.",
+  "Heute ist Rudolfsheim-Fünfhaus ein dicht bebauter, junger und sehr internationaler Bezirk mit nur 3,92 Quadratkilometern Fläche. Der Meiselmarkt sitzt in einem alten Hochquellenwasserbehälter, der Schwendermarkt kämpft seit 2014 mit einer Initiative um seine Zukunft, an der Stadthalle und am Westbahnhof treffen sich Großveranstaltungen und Pendler*innenströme. Wohnbau, Verkehr und der Mangel an Grünflächen sind die Dauerthemen. Wohl deshalb wurde 1992 der Auer-Welsbach-Park vom 14. in den 15. Bezirk umgegliedert, um den Grünanteil zu erhöhen."
+ ],
+ "politik": "Bezirksvorsteher ist Dietmar Baurecht (SPÖ), der das Amt 2022 von Gerhard Zatlokal übernommen hat. Bei der Bezirksvertretungswahl 2025 erreichte die SPÖ 37,1 %, vor den Grünen mit 23,8 % und der FPÖ mit 15,6 %; KPÖ 7,6 %, ÖVP 7,1 %, NEOS 6,4 %, bei einer Beteiligung von 40,7 %. Der Bezirk ist eine traditionelle SPÖ-Hochburg; auffällig sind die starken Grünen und die niedrige Beteiligung.",
+ "quellen": [
+  {
+   "t": "Wien Geschichte Wiki: Rudolfsheim-Fünfhaus",
+   "u": "https://www.geschichtewiki.wien.gv.at/Rudolfsheim-Fünfhaus"
+  },
+  {
+   "t": "Wikipedia: Rudolfsheim-Fünfhaus",
+   "u": "https://de.wikipedia.org/wiki/Rudolfsheim-F%C3%BCnfhaus"
+  },
+  {
+   "t": "Stadt Wien: Bezirksvertretung 15",
+   "u": "https://www.wien.gv.at/pdf/bv15/sitzungen/20250612-protokoll-konstituierend.pdf"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Fünfhaus",
+   "art": "Vorort",
+   "wiki": "Fünfhaus (Herrschaft)",
+   "lon": 16.3348,
+   "lat": 48.1903,
+   "text": "Fünfhaus verdankt den Namen fünf Winzerhäusern, die zwischen 1708 und 1710 auf Gründen des Barnabitenkollegiums St. Michael in der Ried „In den hangenden Lüssen“ gebaut wurden. Bis 1848 blieb die Grundherrschaft bei den Barnabiten. Der Ort lag südlich der späteren Westbahn und wurde 1890/1892 als eigener 15. Bezirk eingemeindet. Der heutige Ortskern liegt rund um die Mariahilfer Straße zwischen Sperrgasse und Fünfhausgasse, wo mit dem Nentwichhof (um 1700) das älteste größere Gebäude stand.",
+   "quellen": []
+  },
+  {
+   "n": "Rudolfsheim",
+   "art": "Vorort",
+   "wiki": null,
+   "lon": 16.325,
+   "lat": 48.196,
+   "text": "Rudolfsheim entstand 1863 durch den Zusammenschluss von Braunhirschengrund, Reindorf und Rustendorf und wurde nach Kronprinz Rudolf benannt. Treibende Kraft war der Braunhirschener Bürgermeister Benedikt Schellinger, weil keine der drei Gemeinden die nötige Infrastruktur allein finanzieren konnte. Als Zentrum fungiert die Rudolfsheimer Kirche (1893 bis 1898) mit ihrem 76 Meter hohen Turm. 1890/1892 wurde Rudolfsheim mit Sechshaus der 14. Bezirk.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Rudolfsheim-Fünfhaus",
+     "u": "https://www.geschichtewiki.wien.gv.at/Rudolfsheim-Fünfhaus"
+    }
+   ]
+  },
+  {
+   "n": "Sechshaus",
+   "art": "Vorort",
+   "wiki": null,
+   "lon": 16.33,
+   "lat": 48.187,
+   "text": "Sechshaus lag an der Sechshauser Hauptstraße (heute Sechshauser Straße) zwischen dem Wienfluss und Reindorf und wurde 1890/1892 gemeinsam mit Rudolfsheim zum 14. Bezirk. Hier entstand 1857 das Bezirkskrankenhaus Sechshaus auf dem Grund von Häusern des Bürgermeisters Johann Plunker (Plunkergasse). Der Ort war Sitz einer großen jüdischen Gemeinde mit der Synagoge in der Turnergasse. Auch Teile des abgekommenen Meinhartsdorf lagen auf Sechshauser Gebiet.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Rudolfsheim-Fünfhaus",
+     "u": "https://www.geschichtewiki.wien.gv.at/Rudolfsheim-Fünfhaus"
+    }
+   ]
+  },
+  {
+   "n": "Braunhirschengrund",
+   "art": "Vorort",
+   "wiki": "Braunhirschengrund (Herrschaft)",
+   "lon": 16.3266,
+   "lat": 48.1888,
+   "text": "Ende des 17. Jahrhunderts ließ Josef Christoph von Plankenau hier ein schlossartiges Landhaus mit Park errichten, der sich in der Schwendergasse zwischen Dadlergasse und Braunhirschengasse erstreckte. Der Name geht auf das Wirtshaus „Zum braunen Hirschen“ zurück. Der Tuchfabrikant Franz Wenzel Dadler kaufte 1799 den Besitz und parzellierte den Park in 24 Baustellen; er gilt als Begründer der Gemeinde. Sein Name steckt in der Dadlergasse.",
+   "quellen": []
+  },
+  {
+   "n": "Reindorf",
+   "art": "Vorort",
+   "wiki": "Reindorf",
+   "lon": 16.3304,
+   "lat": 48.1895,
+   "text": "Reindorf wird 1344 als Flurname („In der Rein“) genannt, 1360 als Reintal, 1411 als Reindorf. Als Ortskern lässt sich die S-förmige Biegung der Sechshauser Straße zwischen Braunhirschen- und Kellinggasse bestimmen, mittelalterliche Bausubstanz ist nicht erhalten. Im 18. Jahrhundert gehörte das Dorf zu Klosterneuburg und ab 1768 zu den Grafen Meraviglia. 1801 teilte der Kauf durch Franz Xaver von Mayr die Siedlung auf mehrere Grundherrschaften. Die Weintraube im Bezirkswappen erinnert an den Weinbau.",
+   "quellen": []
+  },
+  {
+   "n": "Rustendorf",
+   "art": "Vorort",
+   "wiki": "Rustendorf",
+   "lon": 16.3243,
+   "lat": 48.1906,
+   "text": "Rustendorf ist als Flurname ab 1394 belegt und bestand 1771 erst aus fünf Häusern, am Ende der Linzer Poststraße (Mariahilfer Straße). Fast jedes zweite Haus war ein Einkehrgasthof, darunter „Zum Reichsapfel“, „Zum schwarzen Adler“ und „Zur goldenen Sonne“. Die Herrschaft ging vom Bürgerspital an Penzing und 1843 an das Schottenstift. Der Rustensteg (1900 bis 1902) über die Westbahn erinnert an den Namen.",
+   "quellen": []
+  },
+  {
+   "n": "Schmelz",
+   "art": "Grätzel",
+   "wiki": "Schmelz",
+   "lon": 16.3197,
+   "lat": 48.2039,
+   "text": "Die Schmelz war jahrhundertelang eine unverbaute Löss- und Wiesenfläche, 1309 und 1343 als „Smeltz“ erwähnt. Bis 1683 stand hier ein Schmelzhaus. 1847 kaufte das Militärärar den Rustendorfer Teil für 50.000 Gulden als Exerzierplatz, 1896 wurde die Radetzky-Kaserne gebaut. Ab 1911 wurde die Fläche zur Verbauung freigegeben. Die Straßen des Viertels tragen Namen der Nibelungensage und der österreichischen Geschichte.",
+   "quellen": []
+  },
+  {
+   "n": "Nibelungenviertel",
+   "art": "Grätzel",
+   "wiki": "Nibelungenviertel",
+   "lon": 16.3287,
+   "lat": 48.204,
+   "text": "Das Viertel westlich des Vogelweidplatzes entstand zu Beginn des zweiten Jahrzehnts des 20. Jahrhunderts auf Schmelzer Gebiet. Die Straßen wurden 1912 nach Gestalten der Nibelungensage benannt (Kriemhildplatz, Guntherstraße, Hagengasse, Dankwartgasse, Giselhergasse, Markgraf-Rüdiger-Straße). Begrenzt wird es von Gablenzgasse, Vogelweidplatz, Hütteldorfer Straße und Stutterheimstraße.",
+   "quellen": []
+  },
+  {
+   "n": "Meinhartsdorf",
+   "art": "Dorf",
+   "wiki": "Meinhartsdorf",
+   "lon": 16.3312,
+   "lat": 48.1901,
+   "text": "Meinhartsdorf lag am linken Wienflussufer auf Gebiet des späteren Gumpendorf und Sechshaus und wird um 1140 und 1178 genannt. 1310 verlieh Herzog Friedrich der Schöne den Hof an einen Diener des Klosterneuburger Propstes Berthold. Das Dorf ging vermutlich um 1485 bei der Belagerung durch Matthias Corvinus unter, der Hof bestand noch bis ins 16. Jahrhundert. Es ist der älteste urkundlich belegte Ort auf Bezirksgebiet.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Westbahnhof und Kindertransporte",
+   "kat": "erinnerung",
+   "wiki": "Westbahnhof",
+   "adr": "Europaplatz 1-3",
+   "lon": 16.33794,
+   "lat": 48.19691,
+   "jahr": "1857 bis 1945",
+   "text": "Der Kopfbahnhof der Kaiserin-Elisabeth-Westbahn wurde 1857 genehmigt und bis Ende 1859 nach Plänen von Moritz Löhr, Rudolf Bayer und Otto Thienemann errichtet. Die Halle war 104 Meter lang, an der Abfahrtsseite stand ein Portal mit Freitreppe. Von 1942 bis 1945 gab es hier ein Zwangsarbeiterlager; der alte Bahnhof endete 1945. In der Kassenhalle erinnert seit 2008 die Skulptur „Für das Kind“ von Flor Kent an die rund 10.000 Kinder, die 1938/39 mit den Kindertransporten nach Großbritannien gerettet wurden, die meisten von ihnen reisten von diesem Bahnhof ab.",
+   "fakt": "Das Denkmal initiierte Milli Segal; Modell für die Bronzefigur stand Sam Morris.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Denkmal Für das Kind - Rettung jüdischer und nichtjüdischer Kinder 1938",
+     "u": "https://www.geschichtewiki.wien.gv.at/Denkmal_Für_das_Kind_-_Rettung_jüdischer_und_nichtjüdischer_Kinder_1938"
+    }
+   ]
+  },
+  {
+   "n": "Stadthalle",
+   "kat": "bauwerk",
+   "wiki": "Stadthalle",
+   "adr": "Roland-Rainer-Platz 1",
+   "lon": 16.33292,
+   "lat": 48.20223,
+   "jahr": "1953 bis 1958",
+   "text": "Die Stadthalle wurde 1953 bis 1958 teilweise auf dem Areal des Schmelzer Friedhofs errichtet und am 21. Juni 1958 von Bundespräsident Adolf Schärf eröffnet. Den Wettbewerb von 1952 mit 16 Teilnehmern gewannen ex aequo Alvar Aalto und Roland Rainer. Aaltos Zeltkonstruktion galt als bautechnisch zu riskant, daher bekam Rainer den Zuschlag. Die Haupthalle fasst bis zu 16.000 Personen, bei Radrennen 10.000, bei Eisrevuen 12.000. Die Anlage gilt als Schlüsselbau der Wiener Nachkriegsarchitektur.",
+   "fakt": "Der Platz vor der Halle trägt heute den Namen des Architekten, Roland-Rainer-Platz.",
+   "quellen": []
+  },
+  {
+   "n": "Der Schmelzer Friedhof und der Märzpark",
+   "kat": "geschichte",
+   "wiki": "Schmelzer Friedhof",
+   "adr": "Märzpark, Hütteldorfer Straße",
+   "lon": 16.33498,
+   "lat": 48.202,
+   "jahr": "1784 bis 1928",
+   "text": "Der Schmelzer Friedhof war einer von fünf Kommunalfriedhöfen, die Joseph II. 1784 vor dem Linienwall anlegen ließ, und mit fast 74.000 Quadratmetern der größte. Hier wurden Bewohner*innen von Mariahilf, St. Ulrich, Schottenfeld, Josefstadt, Fünfhaus, Sechshaus und Rudolfsheim bestattet. Die Märzgefallenen von 1848 wurden am 17. März 1848 hier beigesetzt, später auf den Zentralfriedhof überführt (1888). Im Oktober 1848 gab es auf dem Gelände Kämpfe zwischen Mobilgardisten und kaiserlichen Truppen. Seit 1928 besteht der Märzpark, ein Gedenkstein erinnert an die Toten.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Märzpark",
+     "u": "https://www.geschichtewiki.wien.gv.at/Märzpark"
+    }
+   ]
+  },
+  {
+   "n": "Adolf Loos und das Kulturquartier Schmelz",
+   "kat": "verschwunden",
+   "wiki": "Märzpark",
+   "adr": "Schmelz / Hütteldorfer Straße",
+   "lon": 16.33479,
+   "lat": 48.20185,
+   "jahr": "1912",
+   "text": "Schon vor dem Ersten Weltkrieg dachte man über eine neue Nutzung des Friedhofsareals nach. Das Historische Museum der Stadt Wien sollte als Kaiser-Franz-Joseph-Stadtmuseum auf die Schmelz übersiedeln. 1912 schrieb man dazu einen Wettbewerb für einen großen Theaterbau aus, an dem Adolf Loos mit einem monumentalen Projekt für 4000 Personen teilnahm. Loos schlug vor, die Verlängerung der Hütteldorfer Straße zu einem Platz aufzuweiten. Gebaut wurde nichts, das Kulturquartier blieb Idee.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Schmelzer Friedhof",
+     "u": "https://www.geschichtewiki.wien.gv.at/Schmelzer_Friedhof"
+    }
+   ]
+  },
+  {
+   "n": "Meiselmarkt im Wasserbehälter",
+   "kat": "wasser",
+   "wiki": "Meiselmarkt",
+   "adr": "Meiselstraße 20",
+   "lon": 16.31976,
+   "lat": 48.19797,
+   "jahr": "1905 bis 1995",
+   "text": "Der Meiselmarkt ist der einzige Markt Wiens, der sich komplett in einem Gebäude befindet. Er begann 1905 als Provisorium, wurde 1913 amtlich sanktioniert und 1995 in den ehemaligen Wasserbehälter Schmelz der Ersten Hochquellenleitung eingebaut, der beim Bau der U3-Station Johnstraße freigelegt worden war. Mit der Station, einem Einkaufszentrum und Wohnungen entstand ein Verbund, dessen Schiebekammern denkmalgeschützt sind. Am 10. November 1995 wurde der neue Markt eröffnet.",
+   "fakt": "Das Becken war schon zuvor funktionslos, weil der Wasserbehälter Gablenzgasse seine Aufgabe übernommen hatte.",
+   "quellen": []
+  },
+  {
+   "n": "Heimhof, das Einküchenhaus",
+   "kat": "wohnen",
+   "wiki": "Heimhof (15)",
+   "adr": "Pilgerimgasse 22-24",
+   "lon": 16.32013,
+   "lat": 48.20015,
+   "jahr": "1922 bis 1927",
+   "text": "Die Idee des Einküchenhauses geht auf Auguste Fickert zurück, die 1909 die erste gemeinnützige Bau- und Wohnungsgenossenschaft für Frauen gründete. Die Planung durch Otto Polak-Hellwig begann 1914, gebaut wurde ab 1922 in der Pilgerimgasse, zunächst mit 24 Wohnungen. 1925/1926 übernahm die Gemeinde Wien die Anlage und stellte sie mit Carl Witzmann bis 1927 fertig. Zentralküche, Zentralwäscherei und Kindergarten sollten Hausarbeit kollektivieren. Das Konzept war zeitgenössisch heftig umstritten. Es ist nach dem Heimhof im 19. Bezirk das zweite Einküchenhaus Wiens.",
+   "fakt": "Das Bezirksmuseum widmet dem Heimhof einen eigenen Schwerpunkt.",
+   "quellen": []
+  },
+  {
+   "n": "Eberthof",
+   "kat": "wohnen",
+   "wiki": "Eberthof",
+   "adr": "Hütteldorfer Straße 16-22",
+   "lon": 16.32816,
+   "lat": 48.20005,
+   "jahr": "1925 bis 1926",
+   "text": "Der Eberthof (ursprünglich 202 Wohnungen) wurde nach Plänen von Viktor Mittag und Karl Hauschka errichtet und nach dem deutschen Reichspräsidenten Friedrich Ebert benannt. Besonders ist der große Innenhof, der Ebertpark heißt. Die Spitzbogenreihen im Erdgeschoß mit weit ausgestellten Pfeilern nehmen die späteren Superblocks vorweg. Im Hof steht Anton Endstorfers lebensgroßer „Frühlingsbrunnen“ mit Knabenfigur (1925).",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Vogelweidhof",
+   "kat": "wohnen",
+   "wiki": "Vogelweidhof",
+   "adr": "Hütteldorfer Straße 2a",
+   "lon": 16.33628,
+   "lat": 48.20175,
+   "jahr": "1926 bis 1927",
+   "text": "Leopold Bauer plante diesen Gemeindebau mit romantisierenden Zügen: zwei offene, mit Pergolen abgeschlossene Höfe, Rundbögen, Reliefs, Zierbrunnen und Fresken. Rudolf Jettmar malte in der Eingangshalle Wandfresken, die soziale Leistungen des Roten Wien zeigen, etwa Sport, Gesundheitsuntersuchung von Kindern und Schulwesen. 1930 wurde der Bau nach Walther von der Vogelweide benannt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zirkus Schumann und die Zentralberufsschule",
+   "kat": "verschwunden",
+   "wiki": "Zirkus Schumann",
+   "adr": "Märzstraße 8-10",
+   "lon": 16.33515,
+   "lat": 48.20105,
+   "jahr": "1892 bis 1926",
+   "text": "Albert Schumann eröffnete 1892 an der Märzstraße einen Zirkusbau für 3.500 Personen, mit elektrischer Beleuchtung und direkter Verbindung der Stallungen zur Manege. 1903/1904 folgte ein Rundbau mit 50 Metern Durchmesser, der nach der Vermietung bis 1920 als Varieté lief und 1922 abgetragen wurde. An derselben Stelle entstand 1925/1926 die Zweite Zentralberufsschule, eines der größten Schulbauprojekte Wiens und zur Bauzeit das modernste Schulgebäude seiner Art in Europa.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Zweite Zentralberufsschule",
+     "u": "https://www.geschichtewiki.wien.gv.at/Zweite_Zentralberufsschule"
+    }
+   ]
+  },
+  {
+   "n": "Schwenders Colosseum",
+   "kat": "verschwunden",
+   "wiki": "Schwenders Vergnügungsetablissement",
+   "adr": "Mariahilfer Straße, Ecke Reindorfgasse",
+   "lon": 16.33082,
+   "lat": 48.19143,
+   "jahr": "1867 bis 1897",
+   "text": "Auf dem Grund des Arnsteinpalais im Braunhirschengrund, dessen Besitzer Heinrich Pereira-Arnstein und Henriette Arnstein hier einen Salon des geistigen Wien unterhielten, baute der aus Württemberg zugewanderte Bäcker Carl Schwender ein riesiges Vergnügungsetablissement. Es hieß „Schwenders Casino“ oder „Colosseum“, ab 1870 „Volkstheater in Rudolfsheim“ und bestand von 1867 bis 1897. Zuvor stand im Garten seit 1849 das Sommertheater von Alois Pokorny, das 1862 in Konkurs ging. Heute erinnern noch Schwendergasse und Schwendermarkt an den Namen.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Arnsteinpalais (15)",
+     "u": "https://www.geschichtewiki.wien.gv.at/Arnsteinpalais_(15)"
+    }
+   ]
+  },
+  {
+   "n": "Fünfhauser Brauhaus und Waffenfabrik",
+   "kat": "industrie",
+   "wiki": "Fünfhauser Brauhaus",
+   "adr": "Gasgasse 8-10",
+   "lon": 16.33489,
+   "lat": 48.19565,
+   "jahr": "1795 bis 1873",
+   "text": "Um 1696 entstand hier der Meierhof mit Ziegelei des Johann Adam von Nentwich, 1734 kauften ihn die Karmeliter. Nach der Aufhebung des Ordens (1783) errichtete der Schlossermeister Nikolaus Christoph Oesterlein ab 1795 eine private Waffenfabrik mit Brauerei und Bierschank. Daraus wurde das Fünfhauser Brauhaus (1795 bis 1873) mit Zobels Bierhalle und Biergarten (1839 bis 1882). Der Nentwichhof war eines der ältesten Gebäude in Fünfhaus. Seit 1853 gehörte der verbliebene Teil dem Gastwirt Holzwarth, später dem Hotel Holzwarth mit dem Straßentrakt von 1894/95.",
+   "fakt": "Heute braut das Haus wieder: im Hotel Holzwarth sitzt die Brauerei Kaltenhauser Botschaft Fünfhaus.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Hotel Holzwarth",
+     "u": "https://www.geschichtewiki.wien.gv.at/Hotel_Holzwarth"
+    }
+   ]
+  },
+  {
+   "n": "Das Fünfhauser Gaswerk",
+   "kat": "industrie",
+   "wiki": "Fünfhauser Gaswerk",
+   "adr": "Gasgasse 2",
+   "lon": 16.33504,
+   "lat": 48.19567,
+   "jahr": "1840 bis 1843",
+   "text": "Theodor Friedrich Hene gründete 1840 eine Gesellschaft für Gasbeleuchtung und beleuchtete im Oktober 1840 die Schönbrunner Hofstraße bis Fünfhaus. 1842 kaufte die englische Imperial-Continental-Gas-Association das Werk über einen Mittelsmann, 1843 wurde es neu errichtet, mit 23 Retortenöfen, 101 Retorten und drei Gasbehältern. Heute steht an der Stelle das Postgebäude des Westbahnhofs; die Gasgasse erinnert an die Nutzung.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kaiserin-Elisabeth-Spital",
+   "kat": "verschwunden",
+   "wiki": "Kaiserin-Elisabeth-Spital",
+   "adr": "Huglgasse 1-3",
+   "lon": 16.32655,
+   "lat": 48.19528,
+   "jahr": "1857 bis 2012",
+   "text": "Das Bezirkskrankenhaus Sechshaus eröffnete 1857 mit 80 Betten und wuchs bis 1872 auf 320. Wegen zu dichter Belegung und schlechter Wasserversorgung baute Eugen Sehnal 1889/1890 im Pavillonsystem südlich der Schmelz ein neues Spital, das am 25. November 1890 als Kaiser-Franz-Josef-Bezirkskrankenhaus eröffnet wurde. 1892 wurde es in Kaiserin-Elisabeth-Spital umbenannt, weil es in Favoriten schon ein Kaiser-Franz-Josef-Spital gab. Der Betrieb endete am 30. November 2012.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Synagoge Turnergasse",
+   "kat": "erinnerung",
+   "wiki": "Synagoge der Israelitischen Kultusgemeinde 15, Turnergasse 22",
+   "adr": "Turnergasse 22",
+   "lon": 16.33519,
+   "lat": 48.19227,
+   "jahr": "1871 bis 1938",
+   "text": "Die Synagoge der Kultusgemeinde Sechshaus wurde 1871/72 nach Plänen von Karl König im Renaissancestil errichtet und bot 496 Männern und 333 Frauen Platz. Sie war Zentrum der jüdischen Bevölkerung von Sechshaus und später von Meidling, Hietzing, Penzing und Rudolfsheim-Fünfhaus. Im Novemberpogrom 10. November 1938 wurde sie weitgehend zerstört. Nachdem die Gemeinde Wien das Grundstück 1973 erhielt, entstand 1976 bis 1979 eine Wohnhausanlage.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Synagoge Storchengasse",
+   "kat": "erinnerung",
+   "wiki": "Vereinssynagoge des Israelitischen Bethausvereins \"Emunas Aves\" in Wien für die westlichen Bezirke",
+   "adr": "Storchengasse 21",
+   "lon": 16.33175,
+   "lat": 48.18611,
+   "jahr": "1930 bis 1938",
+   "text": "Der orthodoxe Bethausverein Emunas Aves ließ sich 1930 bis 1934 nach Plänen von Ignaz Reiser in einem gründerzeitlichen Haus eine Synagoge für 194 Männer und 118 Frauen bauen. Sie war Zentrum der thoratreuen Juden der Bezirke 12 bis 15. Am 10. November 1938 wurde sie verwüstet, die bauliche Hülle blieb erhalten und ist nach jahrzehntelanger Zweckentfremdung sanierungsbedürftig.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zwangsarbeiterlager Hackengasse",
+   "kat": "erinnerung",
+   "wiki": "Zwangsarbeiterlager Hackengasse 11",
+   "adr": "Hackengasse 11",
+   "lon": 16.33401,
+   "lat": 48.19826,
+   "jahr": "1944 bis 1945",
+   "text": "In den Volksschulen für Knaben und Mädchen in der Hackengasse 11 bestand von Juli 1944 bis April 1945 ein Lager für ungarisch-jüdische Deportierte. Laut einer Liste aus dem Sommer 1944 waren dort 450 Menschen interniert, 248 Frauen, 126 Männer und 76 Kinder, die über Strasshof nach Wien gebracht worden waren. Auf den Verpflegungsformularen wurde „Ostarbeiter“ durchgestrichen und „Jude“ eingestempelt. Das Wiki führt im Bezirk zahlreiche weitere Lager, etwa in der Zinckgasse, Felberstraße und Grimmgasse.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Elektropathologische Sammlung",
+   "kat": "kurios",
+   "wiki": "Elektropathologische Sammlung",
+   "adr": "Selzergasse 19",
+   "lon": 16.32325,
+   "lat": 48.19619,
+   "jahr": "1899 bis 2002",
+   "text": "Stefan Jellinek, Pionier zwischen Medizin und Technik, begann 1899 die Sammlung über Einwirkungen von Elektrizität auf den Körper. 1936 wurde ein Museum im AKH eingerichtet, 1939 von den Nationalsozialisten geschlossen, weil Jellinek Jude war. Nach seiner Rückkehr aus Großbritannien eröffnete er 1947 neu; nach Jellineks Tod 1968 führte Franz Maresch das Museum und eröffnete es 1971 in der Selzergasse 19. 1994 übersiedelte es in die Gomperzgasse im 16. Bezirk.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kalasantinerkirche, die erste Arbeiterkirche",
+   "kat": "kultur",
+   "wiki": "Kalasantinerkirche (15)",
+   "adr": "Gebrüder-Lang-Gasse 7",
+   "lon": 16.33629,
+   "lat": 48.19219,
+   "jahr": "1889",
+   "text": "Die Kalasantinerkirche wurde 1889 (Weihe 17. November) in Formen der Neorenaissance erbaut und gilt als erste Arbeiterkirche Wiens. Die beiden Fassadentürme kamen erst 1908 hinzu. Am Hochaltar hing zuerst ein Bild des heiligen Joseph von Kalasanz, 1894 wurde es durch eine Kopie des Passauer Gnadenbildes „Maria, Hilfe der Christen“ nach Cranach ersetzt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Reindorfer Kirche",
+   "kat": "bauwerk",
+   "wiki": "Reindorfer Kirche",
+   "adr": "Reindorfgasse",
+   "lon": 16.33027,
+   "lat": 48.18965,
+   "jahr": "1786 bis 1789",
+   "text": "Die josephinische Pfarrkirche „Allerheiligste Dreifaltigkeit“ baute Johann Michael Adelpodinger 1786 bis 1789. Sie wurde 1861/62 um ein Seitenschiff erweitert und im Oktober 1944 durch eine Bombe im Pfarrgarten an der Vorderfront beschädigt. In ihr wurde Ignaz Seipel getauft. Am Hochaltar hängt ein Dreifaltigkeitsbild, das Franz Anton Maulbertsch zugeschrieben wird, die Seitenaltäre schuf Martino Altomonte 1713.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Seipel-Dollfuß-Gedächtniskirche",
+   "kat": "politik",
+   "wiki": "Seipel-Dollfuß-Gedächtniskirche",
+   "adr": "Vogelweidplatz 7",
+   "lon": 16.33127,
+   "lat": 48.20258,
+   "jahr": "1933 bis 1934",
+   "text": "Die Kirche wurde als Ignaz-Seipel-Gedächtniskirche auf eine Idee der Abgeordneten Hildegard Burjan sowie von Engelbert und Alwine Dollfuß gebaut und am 29. September 1934 geweiht. Clemens Holzmeister wählte eine schlichte, turmlose Form, um den Bau in den Arbeiterbezirk einzubinden.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Herz-Maria-Kirche, die Schuttkirche",
+   "kat": "wohnen",
+   "wiki": "Herz-Maria-Kirche",
+   "adr": "Winckelmannstraße 34",
+   "lon": 16.32058,
+   "lat": 48.18948,
+   "jahr": "1946 bis 1955",
+   "text": "Kardinal Innitzer beauftragte am 1. Dezember 1946 den Kaplan Georg Springer mit dem Bau einer neuen Kirche auf einem Grundstück mit durch Bomben zerstörtem Wohnhaus. Da Baumaterial aus den Trümmern verwendet wurde, hieß sie im Volksmund „Schuttkirche“. 1949 wurde eine kleine Gottesdienststätte von Leo Gruber geweiht, seit 1. Jänner 1955 ist sie Pfarrkirche.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Antonskirche in der Pouthongasse",
+   "kat": "geschichte",
+   "wiki": "Antonkirche (15)",
+   "adr": "Pouthongasse 16-18",
+   "lon": 16.32989,
+   "lat": 48.19955,
+   "jahr": "1887 bis 2014",
+   "text": "Der Lazaristenpater Bartholomäus Touvre wollte in den 1870ern eine Kirche und ein Heim für entlassene weibliche Sträflinge bauen, erreichbar wurde der Plan erst nach seinem Tod: 1887 entstand nach Gründung des St.-Antonius-Asylvereins ein Asylheim (betreut von Vinzentinerinnen), 1893 nach Plänen von Ludwig Zatzka die neoromanische Kirche. 2014 wurde die ehemals katholische Kirche an die rumänisch-orthodoxe Kirche übergeben.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Kirche zum Heiligen Antonius (Rumänisch-Orthodox)",
+     "u": "https://www.geschichtewiki.wien.gv.at/Kirche_zum_Heiligen_Antonius_(Rumänisch-Orthodox)"
+    }
+   ]
+  },
+  {
+   "n": "Wientalbrücke der Stadtbahn",
+   "kat": "bauwerk",
+   "wiki": "Wientalbrücke der Stadtbahn",
+   "adr": "Gaudenzdorfer Gürtel",
+   "lon": 16.3382,
+   "lat": 48.18805,
+   "jahr": "1898",
+   "text": "Die Wientalbrücke ist die bedeutendste Stadtbahnbrücke Otto Wagners: 112 Meter lang, auf drei Pfeilern, mit 13,7 Meter hohen Granitpylonen auf den Eckpfeilern. Als die Stadtbahn auf U-Bahn-Betrieb (U6) umgestellt wurde, ergaben sich technische Probleme, da das Gefälle nicht mehr bis zur Station Meidling-Hauptstraße verteilt werden konnte. Die Brücke liegt auf der Grenze der Bezirke 12 und 15.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stadtwildnis am Gürtel",
+   "kat": "natur",
+   "wiki": "Stadtwildnis",
+   "adr": "Gaudenzdorfer Gürtel",
+   "lon": 16.33198,
+   "lat": 48.20109,
+   "jahr": "1855 bis heute",
+   "text": "Auf dem überwölbten Schwemmland des Wienflusses stand 1855 bis 1912 das Gaudenzdorfer Gaswerk, später ein Sportplatz, der in den 1980ern aufgelassen und zugeschüttet wurde. Die rund 12.000 Quadratmeter große Ruderalfläche wird nur einmal jährlich gemäht. So siedelten sich seltene Pionierarten wie der Steppensalbei an; die Fläche ist ein Trittsteinbiotop mitten im Verkehr zwischen Wientalbrücke, Rechter Wienzeile und U4.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Lugner-City auf der „Roten Fabrik“",
+   "kat": "industrie",
+   "wiki": "Lugner-City",
+   "adr": "Gablenzgasse 5-13",
+   "lon": 16.33548,
+   "lat": 48.204,
+   "jahr": "1987 bis 1990",
+   "text": "An der Stelle stand das Galvanowerk Hermann Skolnik, die „Rote Fabrik“. Richard Lugner erwarb das Gelände am 30. Juli 1987 und ließ am 13. Jänner 1988 den Fabrikschlot sprengen. Beim Abbruch musste kontaminierter Bauschutt entsorgt werden. Das Einkaufszentrum mit 72 Geschäften, Hotel, Wohnungen und 500 Garagenplätzen wurde am 27. September 1990 eröffnet.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schwendermarkt",
+   "kat": "alltag",
+   "wiki": "Schwendermarkt",
+   "adr": "Schwendergasse",
+   "lon": 16.32645,
+   "lat": 48.19099,
+   "jahr": "1833",
+   "text": "Am 4. Oktober 1833 erhielt die Gemeinde Braunhirschen per Regierungsdekret die Erlaubnis zu einem täglichen Viktualienmarkt. Er entwickelte sich zu einem zentralen Markt, den vor allem Bauern aus den heutigen Bezirken 12 bis 14 belieferten. 1854 wurde er im Zuge der Regulierung der Mariahilfer Straße mit Stützmauer und Rampen umgestaltet. Seit 2014 bemüht sich die Initiative Schwendermarkt um Erhalt und Entwicklung.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kino Handl",
+   "kat": "verschwunden",
+   "wiki": "Kino Handl",
+   "adr": "Mariahilfer Straße 160",
+   "lon": 16.33348,
+   "lat": 48.19307,
+   "jahr": "1911 bis 2025",
+   "text": "Das Kino wurde 1911 als „1. Wiener Kinematographen Theater“ eröffnet und fasste anfangs rund 400 Personen. 1927 wurde es in Kino Handl umbenannt und auf 620 Plätze vergrößert, 1934 auf 700. 1976 lief der letzte Film. Das Haus wurde im Mai 2025 abgerissen. Das Wiki führt im Bezirk Dutzende ehemalige Kinos, ein Zeichen für die Vergnügungskultur des Arbeiterbezirks.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stefaniesäle",
+   "kat": "verschwunden",
+   "wiki": "Stefaniesäle",
+   "adr": "Hütteldorfer Straße 73-75",
+   "lon": 16.32462,
+   "lat": 48.19838,
+   "jahr": "1889 bis 1955",
+   "text": "1889 entstand hier inmitten landwirtschaftlich genutzten Gebiets eine Markthalle mit Gasthaus, die wegen Unrentabilität zum Tanzsaal wurde. Wegen der nahen Breitenseer Kaserne mit Dragonern und Bosniaken war er beliebt; es gab „Fünf-Kreuzer-Tänze“. Nach dem Ersten Weltkrieg wurde er als „Kochmanns Stefaniesäle“ ausgebaut. Vereinsfeste, Theater, Sport und politische Versammlungen fanden statt. 1955 wurde der Saal geschlossen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Auer-Welsbach-Park",
+   "kat": "natur",
+   "wiki": "Auer-Welsbach-Park",
+   "adr": "Schlossallee / Winckelmannstraße",
+   "lon": 16.31695,
+   "lat": 48.18866,
+   "jahr": "1890 bis 1992",
+   "text": "Bis ins 19. Jahrhundert stand hier der Penzinger Ziegelofen. 1890 wurde der Schönbrunner Vorpark mit englischer Gartengestaltung als bewusster Gegensatz zur französischen Anlage des Schlosses angelegt. 1932 erhielt er den Namen des Chemikers Carl Auer von Welsbach. 1992 wurde der Park vom 14. in den 15. Bezirk umgegliedert, um dessen Grünflächenanteil zu erhöhen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Haus der Begegnung",
+   "kat": "kultur",
+   "wiki": "Haus der Begegnung (15)",
+   "adr": "Schwendergasse 41",
+   "lon": 16.3241,
+   "lat": 48.19007,
+   "jahr": "1973 bis 1976",
+   "text": "Das Kommunikations- und Freizeitzentrum nach Plänen von Anton und Hugo Potyka und Franz Gomsi ist baulich in den Karl-Holoubek-Hof integriert. Es beherbergt Volkshochschule, Musikschule, eine Städtische Bücherei, Jugendzentrum, Mehrzwecksaal und Pensionistenclub. Der 1976 gegründete Kulturverein Rudolfsheim hat hier seinen Sitz.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bezirksmuseum",
+   "kat": "kultur",
+   "wiki": "Bezirksmuseum Rudolfsheim-Fünfhaus",
+   "adr": "Rosinagasse 4",
+   "lon": 16.33367,
+   "lat": 48.19408,
+   "jahr": "1962 bis heute",
+   "text": "Das Museum geht auf Bezirksvorsteher Leopold Mistinger zurück, der 1962 den „Verein Heimatstube“ anregte; 1964 wurde der Museumsverein gegründet, 1972 eröffnete das Haus. Schwerpunkte sind die Schmelz, das Einküchenhaus Heimhof, die Zeit 1938 bis 1945 und Zuwanderung. Es besitzt rund tausend Exponate und ist kostenlos.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kauerhof",
+   "kat": "wohnen",
+   "wiki": "Kauerhof",
+   "adr": "Diefenbachgasse 10 und 12",
+   "lon": 16.33384,
+   "lat": 48.18772,
+   "jahr": "1891",
+   "text": "Der Kauerhof wurde um 1891 nach dem Realitätenbesitzer Johann Kauer als geschlossene viergeschossige späthistoristische Zinshausanlage errichtet, die als Privatstraße angelegt war. 1896 lehnte der Gemeinderat die Übernahme der Straße ab, 1906 wurden die Abschlussgitter entfernt. Nach mehreren Eigentümerwechseln verfiel der Hof, bis die Wohnbedingungen kaum mehr tragbar waren.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Welche drei Gemeinden schlossen sich 1863 zur Großgemeinde Rudolfsheim zusammen?",
+   "a": "Braunhirschengrund, Reindorf und Rustendorf",
+   "f": [
+    "Fünfhaus, Sechshaus und Gaudenzdorf",
+    "Reindorf, Breitensee und Penzing",
+    "Rustendorf, Sechshaus und Meidling"
+   ],
+   "erkl": "Fünfhaus und Sechshaus blieben zunächst selbständig.",
+   "wiki": "Rudolfsheim-Fünfhaus",
+   "quellen": []
+  },
+  {
+   "q": "Wonach wurde Rudolfsheim 1863 benannt?",
+   "a": "Nach Kronprinz Rudolf",
+   "f": [
+    "Nach Kaiser Rudolf II.",
+    "Nach Herzog Rudolf IV.",
+    "Nach dem Bürgermeister Rudolf Selzer"
+   ],
+   "erkl": "Die Großgemeinde erhielt ihren Namen nach Kronprinz Rudolf.",
+   "wiki": "Rustendorf",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde aus dem 14. und 15. Bezirk der heutige Bezirk Rudolfsheim-Fünfhaus?",
+   "a": "1938",
+   "f": [
+    "1892",
+    "1957",
+    "1945"
+   ],
+   "erkl": "Die Gebietsreform vom 15. Oktober 1938 vereinte Rudolfsheim und Fünfhaus; 1957 erhielt der Bezirk den heutigen Namen.",
+   "wiki": "Rudolfsheim-Fünfhaus",
+   "quellen": []
+  },
+  {
+   "q": "Wovon leitet sich der Name Fünfhaus ab?",
+   "a": "Von fünf zwischen 1708 und 1710 gebauten Winzerhäusern",
+   "f": [
+    "Von fünf Gasthäusern an der Linzer Straße",
+    "Von fünf Kreuzen eines Wegs",
+    "Von den fünf Brüdern des Nentwich"
+   ],
+   "erkl": "Die Häuser entstanden auf Gründen der Barnabiten von St. Michael.",
+   "wiki": "Fünfhaus (Herrschaft)",
+   "quellen": []
+  },
+  {
+   "q": "Was ist am Meiselmarkt einzigartig?",
+   "a": "Er ist der einzige Markt Wiens, der ganz in einem Gebäude liegt",
+   "f": [
+    "Er ist der älteste Markt Wiens",
+    "Er liegt über dem Wienfluss",
+    "Er ist der einzige Markt mit Fischhandel"
+   ],
+   "erkl": "Er wurde 1995 in den ehemaligen Wasserbehälter Schmelz eingebaut.",
+   "wiki": "Meiselmarkt",
+   "quellen": []
+  },
+  {
+   "q": "Wer gewann gemeinsam mit Roland Rainer den ersten Preis im Wettbewerb für die Wiener Stadthalle?",
+   "a": "Alvar Aalto",
+   "f": [
+    "Clemens Holzmeister",
+    "Adolf Loos",
+    "Otto Wagner"
+   ],
+   "erkl": "Aaltos Zeltkonstruktion galt als zu riskant, so baute Rainer.",
+   "wiki": "Stadthalle",
+   "quellen": []
+  },
+  {
+   "q": "Auf dem Gelände welcher ehemaligen Anlage wurde die Stadthalle teilweise errichtet?",
+   "a": "Des Schmelzer Friedhofs",
+   "f": [
+    "Des Zirkus Schumann",
+    "Des Fünfhauser Gaswerks",
+    "Der Radetzky-Kaserne"
+   ],
+   "erkl": "Der Friedhof wurde 1928 zum Märzpark.",
+   "wiki": "Schmelzer Friedhof",
+   "quellen": []
+  },
+  {
+   "q": "Wofür diente die Schmelz ab 1847 hauptsächlich?",
+   "a": "Als Exerzier- und Paradeplatz des Militärs",
+   "f": [
+    "Als Viehmarkt",
+    "Als Friedhof",
+    "Als Weingarten des Schottenstifts"
+   ],
+   "erkl": "Das Ärar kaufte den Teil um 50.000 Gulden; vor dem Kaiser fand die Frühjahrsparade statt.",
+   "wiki": "Schmelz",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde das Wiener Einküchenhaus Heimhof im 15. Bezirk von der Gemeinde Wien übernommen?",
+   "a": "1925/1926",
+   "f": [
+    "1914",
+    "1932",
+    "1938"
+   ],
+   "erkl": "Genossenschaftlich begonnen 1922, von der Gemeinde 1925/26 übernommen und bis 1927 fertiggestellt.",
+   "wiki": "Heimhof (15)",
+   "quellen": []
+  },
+  {
+   "q": "Welche Kirche gilt als erste Arbeiterkirche Wiens?",
+   "a": "Die Kalasantinerkirche",
+   "f": [
+    "Maria vom Siege",
+    "Die Rudolfsheimer Kirche",
+    "Die Reindorfer Kirche"
+   ],
+   "erkl": "Sie wurde 1889 geweiht.",
+   "wiki": "Kalasantinerkirche (15)",
+   "quellen": []
+  },
+  {
+   "q": "Warum nannte man die Herz-Maria-Kirche in der Winckelmannstraße „Schuttkirche“?",
+   "a": "Weil Material aus den Trümmern verwendet wurde",
+   "f": [
+    "Weil sie auf einer Deponie steht",
+    "Weil sie nach einem Brand neu gebaut wurde",
+    "Weil sie aus Ziegelbruch einer Fabrik besteht"
+   ],
+   "erkl": "Das Grundstück hatte ein bombenzerstörtes Wohnhaus.",
+   "wiki": "Herz-Maria-Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Was wurde an der Stelle des Zirkus Schumann in der Märzstraße gebaut?",
+   "a": "Die Zweite Zentralberufsschule",
+   "f": [
+    "Das Kino Handl",
+    "Die Stadthalle",
+    "Das Kaiserin-Elisabeth-Spital"
+   ],
+   "erkl": "Der Zirkus wurde 1922 abgetragen, die Schule 1925/26 errichtet.",
+   "wiki": "Zirkus Schumann",
+   "quellen": []
+  },
+  {
+   "q": "Welches Denkmal im Westbahnhof erinnert seit 2008 an die Kindertransporte?",
+   "a": "„Für das Kind“ von Flor Kent",
+   "f": [
+    "„Bewegung“ von Wander Bertoni",
+    "Die Kaiserin-Elisabeth-Büste",
+    "„Frühlingsbrunnen“ von Anton Endstorfer"
+   ],
+   "erkl": "Es erinnert an rund 10.000 gerettete Kinder.",
+   "wiki": "Denkmal Für das Kind - Rettung jüdischer und nichtjüdischer Kinder 1938",
+   "quellen": []
+  },
+  {
+   "q": "Wann endete der Betrieb des Kaiserin-Elisabeth-Spitals?",
+   "a": "30. November 2012",
+   "f": [
+    "1945",
+    "1976",
+    "2025"
+   ],
+   "erkl": "Das Spital bestand seit 1890.",
+   "wiki": "Kaiserin-Elisabeth-Spital",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Park wechselte 1992 vom 14. in den 15. Bezirk?",
+   "a": "Auer-Welsbach-Park",
+   "f": [
+    "Märzpark",
+    "Rohrauerpark",
+    "Ebertpark"
+   ],
+   "erkl": "Damit sollte der Grünflächenanteil des 15. Bezirks steigen.",
+   "wiki": "Auer-Welsbach-Park",
+   "quellen": []
+  }
+ ]
+}

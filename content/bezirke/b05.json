@@ -1,0 +1,675 @@
+{
+ "nr": 5,
+ "name": "Margareten",
+ "kurz": "Ein Bezirk der kleinen Leute und der großen Gemeindebauten: Hier wurde in den 1920ern am Gürtel der Rote Wien in Stein gesetzt, und die alten Vorstadtschlösser stehen noch als Fragmente zwischen Zinshäusern.",
+ "profil": [
+  "Margareten entstand aus mehreren Vorstädten und Gutsweilern zwischen Wienfluss und Wienerberg: Margareten, Matzleinsdorf, Nikolsdorf, Reinprechtsdorf, Hundsturm, Laurenzergrund und Teilen von Hungelbrunn. Matzleinsdorf ist der älteste Name; der Herrschaftssitz, nach dem später Margareten benannt wurde, ist 1373 erstmals urkundlich erwähnt. Zwischen 1388 und 1395 stifteten Rudolf und Ludwig von Tirna in diesem „Niederen Hof“ eine Kapelle der heiligen Margareta von Antiochia, nach ihr hieß der Sitz und später die Vorstadt.",
+  "1540 trennte man Margareten und das spätere Nikolsdorf vom Dorf Matzleinsdorf ab. Die Vorstadt wurde 1529 und 1683 von den Osmanen verwüstet. 1727 kam sie von Graf Sonnau an die Stadt Wien, wodurch die Verbauung der ausgedehnten Gärten wesentlich schneller verlief; 1769 weihte man die Josefskirche. Die kleine Siedlung Klein-Margareten entstand 1730 auf einem Weingartengrund mit zunächst zwölf, bald 22 Häusern in einer geschlossenen Reihe.",
+  "Die Bezirksgeschichte hat zwei Anfangsdaten: 1850 wurden die Vorstädte in den vierten Bezirk Wieden eingemeindet, am 8. Oktober 1861 beschloss der Gemeinderat die Abtrennung als eigener Bezirk Margareten. Er liegt zusammen mit der Wieden auf dem flachen Nordhang des Wienerbergs und in der Wientalfurche. 1874 kamen die Gebiete südlich des Linienwalls zu Favoriten. Der Gürtel ist seither die Südgrenze, an der sich auch der Margaretner Gemeindebau konzentriert.",
+  "Prägend für das Wasser im Bezirk ist die Siebenbrunner Hofwasserleitung: Ferdinand I. ließ die Quellen in Oberreinprechtsdorf in sieben Brunnen fassen und das Wasser in die kaiserliche Burg leiten, nach den Brunnen heißt das Siebenbrunnenfeld. Der Bach, der davor von diesem Feld zum Wienfluss floss, hatte die Hundsmühle getrieben, an die der Name Hundsturm erinnert.",
+  "Im 19. Jahrhundert wuchs Margareten zu einem dicht bebauten Arbeiter- und Handwerkerbezirk. Es gab Fabriken, Brauereien und Bäder, und mit dem Carolinum entstand 1871 eine frühe Arbeiterwohnanlage. Die Sozialdemokratie baute hier ihre Zentrale: Das Vorwärts-Haus an der Rechten Wienzeile war bis 1934 Sitz der Parteizentrale und Druckerei der Arbeiter-Zeitung.",
+  "Das Rote Wien schrieb sich in den „Draschegürtel“ ein, die Bebauung am Margaretengürtel: Reumannhof, Matteottihof, Herweghhof, Julius-Popp-Hof und Metzleinstaler Hof sind Höfe, die in einer Reihe mit Straßenräumen und Plätzen Stadt bilden. Am 12. Februar 1934 griffen Polizei und Bundesheer den Reumannhof an, nachdem die Februarkämpfe begonnen hatten. Nach 1945 entstand mit dem Theodor-Körner-Hof samt dem Südturm das erste städtische Wohnhochhaus Wiens.",
+  "Heute ist Margareten ein dicht bewohnter Bezirk mit Gründerzeit, Gemeindebau, Studierenden und starker Migration, mit Märkten, Cafés und einem Wandel an der Wienzeile. Der Margaretenplatz ist das historische Zentrum, an dem die Reste des Margaretner Schlosses stehen."
+ ],
+ "politik": "Bezirksvorsteher ist seit 2025 Michael Luxenberger (Grüne). Damit endete eine lange Tradition: Seit 1945 hatte die SPÖ ununterbrochen die Bezirksvorstehung in Margareten gestellt, zuletzt Silvia Jankovic. Bei der Bezirksvertretungswahl 2025 lagen die Grünen knapp vor der SPÖ. Die Wahl war wegen einer Panne mit falsch ausgegebenen Stimmzetteln umstritten, die ÖVP prüfte eine Anfechtung.",
+ "quellen": [
+  {
+   "t": "Margareten – Wikipedia",
+   "u": "https://de.wikipedia.org/wiki/Margareten"
+  },
+  {
+   "t": "Wien Geschichte Wiki: Margareten",
+   "u": "https://www.geschichtewiki.wien.gv.at/Margareten"
+  },
+  {
+   "t": "vienna.at: Grüne eroberten Platz 1 in Wien-Margareten",
+   "u": "https://www.vienna.at/bezirksvertretungswahl-gruene-eroberten-platz-1-in-wien-margareten/9367247"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Margareten",
+   "art": "Vorstadt",
+   "wiki": "Margareten (Vorstadt)",
+   "lon": 16.35855,
+   "lat": 48.19174,
+   "text": "Der Kern ist der Gutsweiler um das Schloss, den „Niederen Hof“ am Margaretenplatz. Er ist ab 1373 belegt und wurde nach der 1388–1395 gestifteten Margaretenkapelle benannt (Meldeman-Plan 1530). Nach 1683 verwüstet, kam die Vorstadt 1727 an die Stadt Wien. 1850 wurde sie in den vierten Bezirk eingemeindet, seit 1861 bildet sie den Hauptteil des fünften.",
+   "quellen": []
+  },
+  {
+   "n": "Hundsturm",
+   "art": "Vorstadt",
+   "wiki": "Hundsturm (Vorstadt)",
+   "lon": 16.34772,
+   "lat": 48.1879,
+   "text": "Hundsturm lag nordwestlich von Matzleinsdorf und östlich von Gaudenzdorf. Die Hundsmühle (Hunczmühle) im Scheibenried wird 1408 und 1484 erwähnt; daneben stand ein landesfürstliches Rüdenhaus, von dem sie den Namen hat. Um 1610 entstanden die ersten Häuser, 1564 gab es ein Brauhaus, 1672 wurde das Schloss gebaut. 1842 kaufte die Gemeinde Wien die Grundherrschaft, 1850 wurde die Vorstadt eingemeindet.",
+   "quellen": []
+  },
+  {
+   "n": "Klein-Margareten",
+   "art": "Grätzel",
+   "wiki": "Klein-Margareten",
+   "lon": 16.3572,
+   "lat": 48.19262,
+   "text": "Auf einem Weingartengrund, der Peunt, entstand 1730 zwischen der späteren Strobach- und Pilgramgasse eine Kolonie von zwölf neuen Häusern in geschlossener Reihe. 1733 war die ganze Fläche mit 22 Häusern verbaut. Die Ansiedlung erhielt den Namen Klein-Margareten.",
+   "quellen": []
+  },
+  {
+   "n": "Siebenbrunnenfeld",
+   "art": "Grätzel",
+   "wiki": "Siebenbrunnenfeld",
+   "lon": 16.35251,
+   "lat": 48.18267,
+   "text": "Ferdinand I. ließ die Quellen in Oberreinprechtsdorf, deren mächtigste der Reinprechtsbrunn war, in sieben Brunnen fassen und das Wasser zur Hofburg leiten. Mitte der 1850er Jahre entstanden am Siebenbrunnenfeld die ersten Häuser, darunter der berüchtigte „Hühnerhof“. Später wurde das Gebiet vom Margaretengürtel, der Gemeinde Wien und von Wohnbauten des Roten Wien erschlossen.",
+   "quellen": []
+  },
+  {
+   "n": "Matzleinsdorf",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.36259,
+   "lat": 48.18542,
+   "text": "Matzleinsdorf (nach dem Flurnamen Metzleinstal, 1305 genannt) ist der älteste Name der Gegend; sein Herrschaftssitz wurde zu Margareten. Das Dorf lag an der Wiedner Hauptstraße, wo heute die Florianikirche steht, die „Alte Matzleinsdorfer Kirche“ von 1725. 1540 wurde Margareten abgetrennt. Heute liegen Teile von Matzleinsdorf im fünften und zehnten Bezirk.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Florianikirche",
+     "u": "https://www.geschichtewiki.wien.gv.at/Florianikirche"
+    }
+   ]
+  },
+  {
+   "n": "Nikolsdorf",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.364,
+   "lat": 48.1868,
+   "text": "Nikolsdorf wurde 1540 gemeinsam mit Margareten vom Dorf Matzleinsdorf abgetrennt. Ein 1679 angelegter Pestfriedhof unweit der Vorstadt wurde nach dem Ende der Epidemie zur Begräbnisstätte von Nikolsdorf und Matzleinsdorf. 1850 wurde Nikolsdorf eingemeindet. Die Gegend am Südrand des Bezirks liegt heute zum Teil im zehnten Bezirk.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Nikolsdorfer Friedhof",
+     "u": "https://www.geschichtewiki.wien.gv.at/Nikolsdorfer_Friedhof"
+    }
+   ]
+  }
+ ],
+ "orte": [
+  {
+   "n": "Margaretner Schloss",
+   "kat": "geschichte",
+   "wiki": "Margaretner Schloss",
+   "adr": "Margaretenplatz 2–3, Schloßgasse 21–23",
+   "lon": 16.35933,
+   "lat": 48.1911,
+   "jahr": "1373",
+   "text": "Der Hof ist urkundlich am 1. Februar 1373 erstmals erwähnt und teilte sich in einen oberen Hof auf der Höhe des Wienerbergs und den unteren „Niederen Hof“ am Margaretenplatz. Der Hof wurde nach den Tirna und der von ihnen gestifteten Kapelle der heiligen Margareta benannt, nicht, wie ältere Literatur meinte, nach der Margarete Maultasch. 1529 brannte der Bau mit zwei Türmen weitgehend nieder, 1540 erwarb ihn der spätere Wiener Bürgermeister Paul Pernfuß, 1555 der Erzbischof von Gran, Nikolaus Oláh, der Schloss und Kapelle wieder aufbaute. Der Hauptteil am Rand des Margaretenplatzes (Schloßgasse 23) steht noch.",
+   "fakt": "Der Name Margareten geht auf eine 1388–1395 gestiftete Kapelle zurück, nicht auf eine Herzogin.",
+   "quellen": []
+  },
+  {
+   "n": "Hundsmühle und Hundsturmer Schloss",
+   "kat": "geschichte",
+   "wiki": "Hundsturmer Schloss",
+   "adr": "Am Hundsturm",
+   "lon": 16.34749,
+   "lat": 48.18768,
+   "jahr": "1672",
+   "text": "Nach der Zerstörung des Hundsturms 1529 baute man in der Nähe des Rüdenhauses ein Jagdhaus. 1672 entstand an seiner Stelle ein zweistöckiges Schloss mit Wehrmauern und einer Johannes-dem-Täufer-Kapelle. Karl VI. nutzte es als Jagdschloss, später ging es in Privatbesitz über (1734 Matthias von Stegner, 1788 der Maurermeister Johann Michael Walter, 1802 dessen Tochter Franziska Bouvard de Chattelet). 1816 kaufte es Johann Steinbauer.",
+   "fakt": "Der Name Hundsturm kommt von einem Rüdenhaus, in dem die landesfürstlichen Jagdhunde gehalten wurden.",
+   "quellen": []
+  },
+  {
+   "n": "Hundsturmer Brauhaus",
+   "kat": "industrie",
+   "wiki": "Hundsturmer Brauhaus",
+   "adr": "Bräuhausgasse 67–71, Am Hundsturm",
+   "lon": 16.34749,
+   "lat": 48.18768,
+   "jahr": "1564–1864",
+   "text": "Das Brauhaus wurde 1564 als Teil des Hundsturmer Schlosses begründet und bestand bis 1864. Wie das Margaretner Brauhaus war es ein grundherrschaftliches Brauhaus und damit vom Biermonopol des Bürgerspitals ausgenommen. Zuvor stand hier die Hunczmühle, die ein in den Wienfluss fließender Bach antrieb. Die Bräuhausgasse erinnert noch an die Brauerei.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Siebenbrunnen und die Hofwasserleitung",
+   "kat": "wasser",
+   "wiki": "Siebenbrunnen",
+   "adr": "Siebenbrunnenplatz",
+   "lon": 16.35342,
+   "lat": 48.1854,
+   "jahr": "1904",
+   "text": "Die Gemeinde Wien errichtete die kleine Brunnenanlage am 22. Oktober 1904 zur Erinnerung an die Siebenbrunner Hofwasserleitung und zur Ehrung Karl Luegers, der in diesem Bezirk erstmals zum Reichsratsabgeordneten gewählt worden war, zu seinem 60. Geburtstag. Am Hügel aus Quadern sitzen die Wappen der Vorstädte, aus denen sich das Margaretner Bezirkswappen zusammensetzt: Hundsturm, Hungelbrunn, Laurenzergrund, Nikolsdorf und weitere.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hühnerhof",
+   "kat": "verschwunden",
+   "wiki": "Hühnerhof",
+   "adr": "Siebenbrunnengasse 41–43, Reinprechtsdorfer Straße",
+   "lon": 16.35429,
+   "lat": 48.18536,
+   "jahr": "1850er–1887",
+   "text": "Der lang gestreckte, einstöckige Hühnerhof gehörte zu den ersten Häusern am Siebenbrunnenfeld und diente zunächst landwirtschaftlichen Zwecken. Später fand das Florianibad Platz, das von der Siebenbrunner Hofwasserleitung gespeist wurde. Im Hof entstanden Baracken, in denen nach Wien zuständige obdachlose Familien untergebracht wurden. Als man zweckdienlichere Objekte bauen konnte, wurden die Baracken überflüssig; 1887 wurde der Hühnerhof demoliert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Reumannhof und der 12. Februar 1934",
+   "kat": "ereignis",
+   "wiki": "Reumannhof",
+   "adr": "Margaretengürtel 100–110",
+   "lon": 16.34789,
+   "lat": 48.18349,
+   "jahr": "1924–1926",
+   "text": "Hubert Gessner baute den Reumannhof 1924–1926 im Zuge der Verbauung des „Draschegürtels“; er wurde 1925 nach Bürgermeister Jakob Reumann benannt und am 27. Juni 1926 eröffnet. Ursprünglich hatte er 483 Wohnungen, heute 450. Am 12. Februar 1934 griffen Polizei und Bundesheer ihn kurz nach Beginn der Februarkämpfe an und brachen den Widerstand des Republikanischen Schutzbunds. 1984 wurde ein Pultstein vor dem Reumanndenkmal aufgestellt, das an die Verteidigung der Demokratie durch Sozialdemokraten erinnert.",
+   "fakt": "Das Denkmal im Hof, eine Bronzebüste von Franz Seifert, trägt die Inschrift „Bürgermeister Jakob Reumann 1919–1923“.",
+   "quellen": []
+  },
+  {
+   "n": "Matteottihof",
+   "kat": "wohnen",
+   "wiki": "Matteottihof",
+   "adr": "Siebenbrunnenfeldgasse 26–30, Fendigasse",
+   "lon": 16.35085,
+   "lat": 48.18205,
+   "jahr": "1926",
+   "text": "Heinrich Schmid und Hermann Aichinger planten die Anlage mit ursprünglich 452 Wohnungen. Sie wurde 1928 nach dem italienischen Sozialisten Giacomo Matteotti benannt, der nach einer Parlamentsrede gegen die faschistische Herrschaft am 30. Mai 1924 am 10. Juni 1924 in Rom ermordet wurde. Der Name zeigt, wie das Rote Wien Antifaschismus und Internationalismus auch in der Namensgebung ausdrückte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Metzleinstaler Hof",
+   "kat": "wohnen",
+   "wiki": "Metzleinstaler Hof",
+   "adr": "Margaretengürtel 90–98",
+   "lon": 16.34956,
+   "lat": 48.18135,
+   "jahr": "1923–1925",
+   "text": "Hubert Gessner ergänzte 1923–1925 eine früher von Robert Kalesa errichtete Anlage zum geschlossenen Hof; die 252 Wohnungen gelten als Prototyp des Baustils des kommunalen Wohnbaus im Roten Wien. Der Name erinnert an den schon 1305 erwähnten Flurnamen Metzleinstal, aus dem Matzleinsdorf wurde.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Herweghhof und Bärenbrunnen",
+   "kat": "wohnen",
+   "wiki": "Herweghhof",
+   "adr": "Margaretengürtel 82–88",
+   "lon": 16.35053,
+   "lat": 48.18125,
+   "jahr": "1926–1927",
+   "text": "Hermann Aichinger und Heinrich Schmid bauten die ursprünglich 220 Wohnungen und benannten sie nach dem Lyriker Georg Herwegh. Die fast trapezförmige Anlage überwindet den Niveauunterschied mit Terrassen und hat durch die strenge Mittelachse einen schlossartigen Charakter. Im Hof steht der Bärenbrunnen (Sternbilderbrunnen) von Hanna Gärtner von 1928 mit einer spielenden Bärenmutter und Tierkreiszeichen in Reliefs.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Franz-Domes-Hof von Peter Behrens",
+   "kat": "bauwerk",
+   "wiki": "Franz-Domes-Hof",
+   "adr": "Margaretengürtel 126–134",
+   "lon": 16.34521,
+   "lat": 48.18543,
+   "jahr": "1928–1930",
+   "text": "Der Hof mit 176 Wohnungen wurde nach Plänen von Peter Behrens gebaut, die dieser während seiner Tätigkeit an der Akademie der bildenden Künste entwarf; eröffnet wurde er am 28. Juni 1930. Benannt wurde er erst 1952 nach dem Sozialpolitiker Franz Domes. Behrens war einer der bekanntesten deutschen Architekten seiner Zeit.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Theodor-Körner-Hof und Südturm",
+   "kat": "wohnen",
+   "wiki": "Theodor-Körner-Hof",
+   "adr": "Margaretengürtel 62–74, Reinprechtsdorfer Straße 1",
+   "lon": 16.35632,
+   "lat": 48.18072,
+   "jahr": "1951–1957",
+   "text": "Die Anlage mit heute 1.228 Wohnungen, ursprünglich 1.365, entstand 1951–1955 auf dem Gelände des früheren Heu- und Strohmarkts und des Margaretner Orpheums. Sie besteht aus neun Baugruppen, darunter dem 20-stöckigen Südturm, der 1954–1957 als erstes Wohnhochhaus der Stadt Wien gebaut wurde und 108 Wohnungen hat. Der Name stammt von 1958, nach dem Bundespräsidenten Theodor Körner (gestorben 4. Jänner 1957).",
+   "fakt": "Der Südturm bekam Badezimmer und Zentralheizung als Symbol für den Aufbruch nach dem Krieg.",
+   "quellen": []
+  },
+  {
+   "n": "Margaretner Orpheum",
+   "kat": "verschwunden",
+   "wiki": "Margaretner Orpheum",
+   "adr": "Reinprechtsdorfer Straße 1",
+   "lon": 16.35769,
+   "lat": 48.18152,
+   "jahr": "1923–1945",
+   "text": "Das Vergnügungsetablissement wurde 1923 nach Plänen von Robert Spatschek und Anton Wolf errichtet. Es zeigte Volksstücke, Operetten, Varieté, Revue und Artistik und hieß ab 1929 „Neues Wiener Operettentheater“, 1938 „Wiener Volksbühne“. Im Zweiten Weltkrieg wurde es zerstört und danach abgetragen; heute steht dort der Theodor-Körner-Hof.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wohnhaus Diehlgasse",
+   "kat": "wohnen",
+   "wiki": "Wohnhaus Diehlgasse",
+   "adr": "Diehlgasse 20–26, Brandmayergasse 24",
+   "lon": 16.34955,
+   "lat": 48.18433,
+   "jahr": "1928–1929",
+   "text": "Fritz Judtmann und Egon Riss planten die ursprünglich 76 Wohnungen. Der Eckbau steht unter Denkmalschutz; bemerkenswert sind die beiden halbrunden Stiegenhäuser an der Diehlgasse und die über Eck geführten Balkonbrüstungen. Der Innenhof wird durch ein Gitterportal betreten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Eiselsberghof",
+   "kat": "wohnen",
+   "wiki": "Eiselsberghof",
+   "adr": "Bacherplatz 4, Wimmergasse",
+   "lon": 16.35591,
+   "lat": 48.1874,
+   "jahr": "1948–1950",
+   "text": "Otto Schönthal, ein Schüler von Otto Wagner, baute die 167 Wohnungen nach dem Krieg; die Anlage wurde am 15. Februar 1949 nach dem Chirurgen Anton von Eiselsberg benannt. Durch zweifache Überbauung der Wimmergasse entstand ein verschränktes Hofensemble, das an die Tradition der 1920er Jahre anknüpft.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Vorwärts-Haus",
+   "kat": "politik",
+   "wiki": "Vorwärts-Gebäude",
+   "adr": "Rechte Wienzeile 97",
+   "lon": 16.35467,
+   "lat": 48.19198,
+   "jahr": "1907–1909",
+   "text": "Hubert und Franz Gessner planten das Büro- und Druckereigebäude im Auftrag der SDAP. Bis 1934 war es Sitz der Parteizentrale, bis 1986 auch der Vorwärts Druck- und Verlagsanstalt, die die Arbeiter-Zeitung herstellte. Mit der Absiedlung der Druckerei wurde der Bau hinter dem Haus Nummer 97 für das Hotel Ananas frei (Robert Rogner, 537 Zimmer, eröffnet am 14. Mai 1987, auf Busreisende ausgerichtet). Im Haus sitzt das Karl-Renner-Institut, die politische Akademie der SPÖ.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sozialdemokratische Kunststelle",
+   "kat": "kultur",
+   "wiki": "Sozialdemokratische Kunststelle",
+   "adr": "Sonnenhofgasse 6",
+   "lon": 16.35484,
+   "lat": 48.19129,
+   "jahr": "1919–1934",
+   "text": "Im November 1919 beschloss der Parteivorstand der SDAP die Einrichtung einer Kunststelle unter David Josef Bach, dem Kulturredakteur der Arbeiter-Zeitung. Sie wurzelte in den Arbeiter-Symphoniekonzerten, die Bach seit dem 29. Dezember 1905 im Großen Musikvereinssaal veranstaltete; das letzte fand am 11. Februar 1934 statt. Die Kunststelle bot Konzerte, auch in Arbeiterheimen, und machte Hochkultur für Arbeiter*innen zugänglich.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rüdigerhof",
+   "kat": "bauwerk",
+   "wiki": "Rüdigerhof",
+   "adr": "Hamburgerstraße 20",
+   "lon": 16.35523,
+   "lat": 48.19537,
+   "jahr": "1902",
+   "text": "Oskar Marmorek, ein Schüler Otto Wagners, baute das nach drei Seiten freistehende secessionistische Haus für Franz Polslanik. Im Gebäude befindet sich das Café Rüdigerhof, ein Vorstadtkaffeehaus mit großem Billardsaal. Der sozialdemokratische Publizist Harald Sterk (1938–1991) setzte sich für die Restaurierung ein, die ab 1991 nach denkmalpflegerischen Grundsätzen erfolgte. Eine Gedenktafel erinnert an Ernst Arnold.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Margaretenhof",
+   "kat": "bauwerk",
+   "wiki": "Margaretenhof",
+   "adr": "Margaretenplatz 4, Margaretenstraße 86",
+   "lon": 16.35719,
+   "lat": 48.19071,
+   "jahr": "1884–1885",
+   "text": "Fellner und Helmer erbauten den Margaretenhof an der Stelle des demolierten Brauhauses, gegenüber den Resten des Margaretner Schlosses. Die Verbindung von Zinshausbau und Cottageidee in Form eines durchgängigen Straßenhofs mit Zierhöfen machte ihn zu einem der größten Wohnhausbauten des späten Historismus. Mit Mitteln des Altstadterhaltungsfonds wurde er 1981–1984 stilgerecht wiederhergestellt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Florahof",
+   "kat": "bauwerk",
+   "wiki": "Florahof",
+   "adr": "Wiedner Hauptstraße 88, Hartmanngasse 1",
+   "lon": 16.36393,
+   "lat": 48.18748,
+   "jahr": "1901–1902",
+   "text": "Das secessionistische Miethaus wurde von Oskar Laske, Viktor Fiala und Baumeister J. Barak nach einem Entwurf von Wunibald Deininger gebaut. Laske war Schüler Otto Wagners und Karl Königs und widmete sich ab 1907 ausschließlich der Malerei und Grafik. Der Bau zeigt als eines der wenigen Miethäuser Wiens die spröden Tendenzen des Wiener Secessionismus in der Nachfolge Wagners, mit teils farbigem Dekor.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rauchfangkehrerkirche: die Florianikirche",
+   "kat": "bauwerk",
+   "wiki": "Florianikirche",
+   "adr": "Wiedner Hauptstraße bei 105",
+   "lon": 16.36259,
+   "lat": 48.18542,
+   "jahr": "1725",
+   "text": "Die schlichte Barockkirche, 1725 unter Karl VI. vollendet, ersetzte eine 1709 erneuerte Marienkapelle inmitten von Weingärten, nahe einem Friedhof. Im Volksmund heißt sie „Rauchfangkehrerkirche“, weil hier Umzüge der Rauchfangkehrer stattfanden; seit 1783 ist sie Pfarrkirche zum heiligen Florian. Nahe der Kirche wurde 1722 der Matzleinsdorfer Friedhof angelegt, der 1784 im Auftrag Josephs II. zu einem katholischen Friedhof erweitert wurde.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Josefskirche und Sonnenhofkapelle",
+   "kat": "bauwerk",
+   "wiki": "Josefskirche (5)",
+   "adr": "Schönbrunner Straße 71",
+   "lon": 16.35503,
+   "lat": 48.1908,
+   "jahr": "1765–1769",
+   "text": "Die Josefskirche entstand durch Umbau der 1711 errichteten und 1761 umgebauten Kapelle im Armenhaus „Zur schmerzhaften Muttergottes“ (Sonnenhofkapelle) und wurde 1769 geweiht; seit 1783 ist sie Pfarrkirche. Die alte Margaretenkapelle wurde 1786 abgetragen. Vor der Fassade stehen Sandsteinskulpturen des 18. Jahrhunderts (Stephan, Sebastian, Rochus, Nepomuk, Margaretha), in einer Nische an der Sonnenhofgasse die Heilige Margaretha mit dem an den Gürtel gefesselten Drachen. Die historische Orgel, an der auch Franz Schubert gespielt haben soll, wurde 1987 restauriert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Vereinssynagoge Siebenbrunnengasse",
+   "kat": "erinnerung",
+   "wiki": "Vereinssynagoge des Israelitischen Tempelvereins für die Bezirke Wieden und Margareten",
+   "adr": "Siebenbrunnengasse 1a",
+   "lon": 16.36111,
+   "lat": 48.18893,
+   "jahr": "1910–1938",
+   "text": "Der Israelitische Tempelverein für die Bezirke Wieden und Margareten ließ die Synagoge bauen; sie wurde 1910 eingeweiht und war bis 1938 Zentrum des Betens und Lernens der Jüdinnen und Juden des vierten und fünften Bezirks. Im Novemberpogrom am 10. November 1938 wurde sie zerstört, die Reste wurden abgerissen. An der Stelle steht heute eine Wohnhausanlage.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sulkowskitheater",
+   "kat": "kultur",
+   "wiki": "Sulkowskitheater",
+   "adr": "Wiedner Hauptstraße 123–125, Gassergasse 44",
+   "lon": 16.36085,
+   "lat": 48.18346,
+   "jahr": "1837–1848",
+   "text": "Der Armeelieferant Josef Dietrich (ab 1824 Freiherr) besaß in der Matzleinsdorfer Straße ein Palais und ließ 1837 eines der Häuser zum Haustheater umbauen. Bei der Eröffnung am 30. Dezember 1837 wirkte seine Tochter Anna mit, die 1845 Ludwig Fürst Sulkowski heiratete und die Bühne weiterführte. Ende Oktober 1848 zerstörten die kroatischen Truppen Windisch-Graetz’ das Theater fast gänzlich, weil sie das Thalia-Fresko an der Fassade für eine Freiheitsgöttin und den Besitzer für einen Revolutionär hielten.",
+   "fakt": "Eine Theatermuse wurde 1848 für eine Revolutionsgöttin gehalten.",
+   "quellen": []
+  },
+  {
+   "n": "Carolinum: frühe Arbeiterwohnanlage",
+   "kat": "wohnen",
+   "wiki": "Carolinum",
+   "adr": "Arbeitergasse 24–28, Einsiedlerplatz 7",
+   "lon": 16.35179,
+   "lat": 48.18615,
+   "jahr": "1871",
+   "text": "Der 1855 gegründete karitative Maria-Elisabeth-Verein ließ durch Baumeister Johann Friedl fünf Häuser mit 110 Wohnungen errichten. Die Wohnungen hatten durchwegs Wasseranschluss und WC und wurden zu niedrigen Mietzinsen ausschließlich an Arbeiterfamilien vermietet. Die neu entstandene Straße erhielt den Namen Arbeitergasse. Die historistisch gegliederte Anlage dominiert das Straßenbild.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Margaretenbad und Einsiedlerbad",
+   "kat": "alltag",
+   "wiki": "Margaretenbad",
+   "adr": "Strobachgasse 9; Einsiedlerplatz 18",
+   "lon": 16.35839,
+   "lat": 48.19263,
+   "jahr": "1871–2004",
+   "text": "Das Margaretenbad wurde 1871 nach Plänen von August Weber, dem Erbauer des Künstlerhauses, errichtet, 1929 umgebaut, 1986 abgebrochen und bis 1989 durch einen Neubau ersetzt; 2004 wurde es geschlossen. Das städtische Einsiedlerbad am Einsiedlerplatz 18 wurde im Zuge des Baus der Volksbäder ab 1887 von der Gemeinde Wien 1890 als Brause- und Wannenbad errichtet; die Sauna gibt es seit 1979.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Orthopädisches Spital Gassergasse",
+   "kat": "geschichte",
+   "wiki": "Orthopädisches Spital",
+   "adr": "Gassergasse 44–46",
+   "lon": 16.36147,
+   "lat": 48.18276,
+   "jahr": "1915",
+   "text": "Auf Initiative des Orthopäden Hans Spitzy wurde 1915 in einer 1910 errichteten Schule ein Militärspital für die Rehabilitation von Kriegsinvaliden mit 1.000 Betten eröffnet; zwei Jahre später waren es 3.600. Die Invaliden wurden umgeschult und auf den Wiedereinstieg in den Beruf vorbereitet. Spitzy wurde 1923 Direktor.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bruno-Kreisky-Park",
+   "kat": "politik",
+   "wiki": "Bruno-Kreisky-Park",
+   "adr": "Margaretengürtel, Schönbrunner Straße, St.-Johann-Gasse",
+   "lon": 16.34368,
+   "lat": 48.18788,
+   "jahr": "2005",
+   "text": "Die Grünfläche hieß früher St.-Johann-Park nach dem Spital St. Johannes in der Siechenals im Thurygrund (heute Alsergrund), das hier Grundbesitz hatte. Am 1. März 2005 wurde sie nach Bundeskanzler Bruno Kreisky benannt, der in der Nähe aufwuchs; im Mai 2006 kam ein Denkmal hinzu. Ein Gedenkstein erinnert an die alte Bezeichnung.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schönbrunner Hof: Zur alten Schönbrunner Linie",
+   "kat": "geschichte",
+   "wiki": "Schönbrunner Hof",
+   "adr": "Schönbrunner Straße 141, St.-Johann-Gasse 12",
+   "lon": 16.34508,
+   "lat": 48.18764,
+   "jahr": "1904",
+   "text": "Heinrich Kestel baute das späthistoristische Miethaus mit monumentaler Turmecke, die zusammen mit dem gegenüberliegenden Eckhaus Nummer 124 den stadtseitigen Beginn der Schönbrunner Straße rahmt. An der Fassade steht die Inschrift „Zur alten Schönbrunner Linie“ zur Erinnerung an den Linienwall, der hier stand. Der Wall war bis 1873 Wiens Zoll- und Verteidigungsgrenze; auf ihm liegt heute der Gürtel.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sr. Maria Restituta im Hartmannspital",
+   "kat": "erinnerung",
+   "wiki": "Büste Sr. Maria Restituta",
+   "adr": "Hartmannspital, Siebenbrunnengasse 21b",
+   "lon": 16.36167,
+   "lat": 48.18806,
+   "jahr": "1943",
+   "text": "Im Eingang des Hartmannspitals steht seit 1998 eine Büste der Franziskanerin und Krankenschwester Sr. Maria Restituta (Helene Kafka). Sie war im katholischen Widerstand aktiv und wurde im März 1943 wegen Feindbegünstigung und Vorbereitung zum Hochverrat im Wiener Landesgericht ermordet. Das Haus hat eine Restituta-Kapelle, eine Dauerausstellung „Glaube gegen NS-Gewalt“ und im Konvent einen Altar mit ihrer Statue.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stärkmachersteg und Pilgrambrücke",
+   "kat": "wasser",
+   "wiki": "Stärkmachersteg",
+   "adr": "Wienfluss zwischen Margareten und Gumpendorf",
+   "lon": 16.35445,
+   "lat": 48.19291,
+   "jahr": "1823",
+   "text": "Der bogenförmig gespannte Steg über den Wienfluss, unter dem der Fluss über ein Wehr stürzte, wurde 1823 auf Kosten der Gemeinden Margareten und Gumpendorf anstelle eines hölzernen Notstegs gebaut. Die zum Steg führende Stärkmachergasse bewohnten meist Wäscher und Stärkeerzeuger. Seit 1866/67 heißt der Übergang Pilgrambrücke.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Filmcasino: das Margaretner Bürger Kino",
+   "kat": "kultur",
+   "wiki": "Margaretner Bürger Kino",
+   "adr": "Margaretenstraße 78",
+   "lon": 16.35983,
+   "lat": 48.19233,
+   "jahr": "1911",
+   "text": "Das vom Architekten Wilhelm Koch geplante Kino wurde 1911 gegründet und besteht bis heute unter dem Namen Filmcasino. Es zählte trotz seiner Größe von Anfang an zu den erfolgreichsten der Stadt; schon beim Antrag wurde auf die musikalische Begleitung der Stummfilme Wert gelegt. Margareten hatte zahlreiche Kinos, darunter das Schlösslkino (1917, bis 2004) und das Margaretenkino (1909).",
+   "fakt": "Das Schlösslkino wurde 2004 behördlich geschlossen, in den Räumen sitzt jetzt das Wiener FotoQuartier.",
+   "quellen": []
+  },
+  {
+   "n": "Kongresshaus der Eisenbahner",
+   "kat": "politik",
+   "wiki": "Kongresshaus",
+   "adr": "Margaretengürtel 138–140",
+   "lon": 16.34443,
+   "lat": 48.18633,
+   "jahr": "1911",
+   "text": "Das 1911 nach Plänen von Ferdinand Riedl errichtete Haus hat einen großen Mehrzwecksaal, Restaurant und Büffet. Es wird von der Eisenbahnergewerkschaft verwaltet, die hier ihre Gewerkschaftskongresse abhält und die Räume auch anderen Organisationen zur Verfügung stellt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zur goldenen Glocke",
+   "kat": "bauwerk",
+   "wiki": "Zur goldenen Glocke",
+   "adr": "Kettenbrückengasse 9, Schönbrunner Straße 8",
+   "lon": 16.36061,
+   "lat": 48.19501,
+   "jahr": "1830",
+   "text": "Das Biedermeierensemble aus Wohnhaus, Restaurant und Gastgarten entstand 1830 anstelle der Gartenhütte der erzbischöflichen Küchengärten. Franz Lausch baute das originale Holzportal in der Kettenbrückengasse mit korinthischen Riesenpilastern. Im Gastgarten finden sich volkstümliche Wandmalereien von 1926.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zwangsarbeiterlager Margaretengürtel 70",
+   "kat": "erinnerung",
+   "wiki": "Zwangsarbeiterlager Margaretengürtel 70",
+   "adr": "Margaretengürtel 70",
+   "lon": 16.35582,
+   "lat": 48.18029,
+   "jahr": "1944",
+   "text": "Zwischen 1942 und 1945 gab es auf Wiener Boden zahlreiche Lager für Zwangsarbeiter*innen sowie Sammellager für zur Deportation vorgesehene Jüdinnen und Juden. In Margareten sind über 20 Adressen belegt, etwa Castelligasse 24 und 25, Blechturmgasse 27, Margaretenplatz 4 und Einsiedlergasse 27. Am Margaretengürtel 70 war von April bis Juli 1944 ein griechischer Zwangsarbeiter gemeldet, der bei einer Fabrik für Präzisions- und Schulreißzeuge arbeitete.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Nach wem wurde die Vorstadt Margareten benannt?",
+   "a": "Nach der heiligen Margareta von Antiochia, der eine 1388–1395 gestiftete Schlosskapelle geweiht war",
+   "f": [
+    "Nach Margarete Maultasch",
+    "Nach Margarete von Österreich, Kaiser Karls Schwester",
+    "Nach der Äbtissin des Klosters St. Laurenz"
+   ],
+   "erkl": "Die ältere Literatur nannte Margarete Maultasch, die jüngere Forschung die Stifter Rudolf und Ludwig von Tirna.",
+   "wiki": "Margareten (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Wann beschloss der Gemeinderat die Abtrennung Margaretens von Wieden zum eigenen Bezirk?",
+   "a": "8. Oktober 1861",
+   "f": [
+    "1. Jänner 1850",
+    "12. Februar 1874",
+    "9. Oktober 1890"
+   ],
+   "erkl": "1850 war Margareten Teil des vierten Bezirks gewesen.",
+   "wiki": "Margareten",
+   "quellen": []
+  },
+  {
+   "q": "Wer ließ die Quellen für die Siebenbrunner Hofwasserleitung fassen?",
+   "a": "Ferdinand I.",
+   "f": [
+    "Maria Theresia",
+    "Leopold I.",
+    "Franz Joseph I."
+   ],
+   "erkl": "Sieben Brunnen leiteten Wasser aus Oberreinprechtsdorf in die kaiserliche Burg.",
+   "wiki": "Siebenbrunnenfeld",
+   "quellen": []
+  },
+  {
+   "q": "Wer wurde 1904 mit dem Siebenbrunnen-Brunnen geehrt?",
+   "a": "Karl Lueger, der im Bezirk erstmals zum Reichsratsabgeordneten gewählt worden war",
+   "f": [
+    "Jakob Reumann",
+    "Kaiser Franz Joseph",
+    "Viktor Adler"
+   ],
+   "erkl": "Der Brunnen erinnert auch an die Hofwasserleitung.",
+   "wiki": "Siebenbrunnen",
+   "quellen": []
+  },
+  {
+   "q": "Was geschah am 12. Februar 1934 im Reumannhof?",
+   "a": "Polizei und Bundesheer griffen ihn an und brachen den Widerstand des Schutzbunds",
+   "f": [
+    "Die Eröffnung durch Bürgermeister Seitz",
+    "Ein Brand zerstörte den Südflügel",
+    "Hier wurde die Arbeiter-Zeitung erstmals gedruckt"
+   ],
+   "erkl": "Der Reumannhof wurde 1926 eröffnet; ein Pultstein erinnert seit 1984.",
+   "wiki": "Reumannhof",
+   "quellen": []
+  },
+  {
+   "q": "Worum handelte es sich beim Südturm im Theodor-Körner-Hof?",
+   "a": "Um das erste städtische Wohnhochhaus Wiens",
+   "f": [
+    "Um den ersten Gemeindebau mit Aufzug",
+    "Um einen Wasserturm der Hofwasserleitung",
+    "Um ein Hochhaus der Sozialversicherung"
+   ],
+   "erkl": "Er wurde 1954–1957 mit 20 Geschoßen und 108 Wohnungen gebaut.",
+   "wiki": "Südturm",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Architekt, der sonst in Deutschland wirkte, plante den Franz-Domes-Hof am Margaretengürtel?",
+   "a": "Peter Behrens",
+   "f": [
+    "Walter Gropius",
+    "Ludwig Mies van der Rohe",
+    "Hans Poelzig"
+   ],
+   "erkl": "Behrens entwarf die Pläne während seiner Tätigkeit an der Wiener Akademie der bildenden Künste.",
+   "wiki": "Franz-Domes-Hof",
+   "quellen": []
+  },
+  {
+   "q": "Nach wem ist der Matteottihof benannt?",
+   "a": "Nach Giacomo Matteotti, der 1924 von Faschisten ermordet wurde",
+   "f": [
+    "Nach einem Wiener Stadtrat Matteo",
+    "Nach dem Maler Luigi Matteotti",
+    "Nach einem Schutzbündler von 1934"
+   ],
+   "erkl": "Matteotti hatte am 30. Mai 1924 im Parlament gegen die faschistische Herrschaft gesprochen.",
+   "wiki": "Matteottihof",
+   "quellen": []
+  },
+  {
+   "q": "Woher hat der Hundsturm seinen Namen?",
+   "a": "Von einem landesfürstlichen Rüdenhaus nahe der Hundsmühle",
+   "f": [
+    "Von einem Wachturm an der Stadtmauer",
+    "Von einem Hundefriedhof",
+    "Von einem Jagdhund Karls VI."
+   ],
+   "erkl": "Die Mühle wird 1408 als Hunczmühle erwähnt.",
+   "wiki": "Hundsturm (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Was wurde 1848 am Sulkowskitheater für eine Freiheitsgöttin gehalten?",
+   "a": "Ein Fresko der Thalia an der Fassade",
+   "f": [
+    "Eine Büste der Germania",
+    "Ein Denkmal der Austria",
+    "Ein Banner der Studenten"
+   ],
+   "erkl": "Kroatische Truppen unter Windisch-Graetz zerstörten das Theater fast vollständig.",
+   "wiki": "Sulkowskitheater",
+   "quellen": []
+  },
+  {
+   "q": "Woran erinnert die Inschrift „Zur alten Schönbrunner Linie“ am Schönbrunner Hof?",
+   "a": "An den Linienwall",
+   "f": [
+    "An die Stadtbahnlinie nach Hietzing",
+    "An die Pferdetramway",
+    "An die Hofwasserleitung"
+   ],
+   "erkl": "Der Linienwall bestand bis 1873, die Gürtelstraße liegt auf seiner Trasse.",
+   "wiki": "Schönbrunner Hof",
+   "quellen": []
+  },
+  {
+   "q": "Welche Funktion hatte das Vorwärts-Haus an der Rechten Wienzeile bis 1934?",
+   "a": "Sitz der Parteizentrale der SDAP und der Arbeiter-Zeitung-Druckerei",
+   "f": [
+    "Sitz der Christlichsozialen Partei",
+    "Zentrale der Eisenbahnergewerkschaft",
+    "Redaktion der Neuen Freien Presse"
+   ],
+   "erkl": "Hubert und Franz Gessner bauten es 1907–1909.",
+   "wiki": "Vorwärts-Gebäude",
+   "quellen": []
+  },
+  {
+   "q": "Wer baute den Rüdigerhof in der Hamburgerstraße?",
+   "a": "Oskar Marmorek",
+   "f": [
+    "Josef Hoffmann",
+    "Adolf Loos",
+    "Max Fabiani"
+   ],
+   "erkl": "Marmorek war ein Schüler Otto Wagners, der Bau stammt von 1902.",
+   "wiki": "Rüdigerhof",
+   "quellen": []
+  },
+  {
+   "q": "Wie heißt die Florianikirche im Volksmund?",
+   "a": "Rauchfangkehrerkirche",
+   "f": [
+    "Bäckerkirche",
+    "Feuerwehrkirche",
+    "Fleischhauerkirche"
+   ],
+   "erkl": "Hier fanden Umzüge der Rauchfangkehrer statt; die Kirche wurde 1725 vollendet.",
+   "wiki": "Florianikirche",
+   "quellen": []
+  }
+ ]
+}

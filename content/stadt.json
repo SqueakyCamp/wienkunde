@@ -1,0 +1,2581 @@
+{
+ "stadt": [
+  {
+   "id": "eingemeindungen",
+   "n": "Eingemeindungen: Wie Wien zu seinen 23 Bezirken kam",
+   "kurz": "Fünf Erweiterungsschritte zwischen 1850 und 1954 haben aus einer ummauerten Stadt mit Vorstädten das heutige Wien gemacht – und erklären, warum die Nummern so scheinbar chaotisch sind.",
+   "text": [
+    "Bis 1850 bestand „Wien“ rechtlich nur aus der Inneren Stadt innerhalb der Basteien. Die Vorstädte zwischen Stadtmauer und Linienwall waren eigene Gemeinden oder Grundherrschaften, die erst mit dem Gemeindestatut von 1850 eingemeindet wurden. Aus ihnen entstanden die Bezirke II bis VIII: Leopoldstadt, Landstraße, Wieden, Mariahilf, Neubau, Josefstadt und Alsergrund. Margareten wurde 1861 von der Wieden abgetrennt, wodurch sich die Nummern der folgenden Bezirke um eins verschoben – deshalb ist Mariahilf der Sechste und die Josefstadt der Achte, obwohl die Reihe 1850 anders lautete.",
+    "Die zweite große Welle kam 1890 per Landesgesetz und wirkte mit 1. Jänner 1892: Die Vororte außerhalb des Linienwalls wurden eingemeindet. Es entstanden die Bezirke X bis XIX, zunächst Favoriten, Simmering, Meidling, Hietzing, Rudolfsheim, Fünfhaus, Ottakring, Hernals, Währing und Döbling. Der Linienwall wurde in der Folge abgetragen und an seiner Stelle der Gürtel angelegt, der damit von einer Zollgrenze zur Prachtstraße der Vororte wurde.",
+    "Zwei Bezirke entstanden durch Teilung und Anschluss: 1900 wurde die Brigittenau von der Leopoldstadt abgetrennt und als XX. Bezirk selbstständig; der Name geht auf die Brigittakapelle in der Au zurück. 1904 kam Floridsdorf als XXI. Bezirk dazu, das erste Mal, dass Wien die Donau nach Norden überschritt. Die Nummerierung folgt dabei grob einem Uhrzeigersinn um den ersten Bezirk, bricht aber ab dem Zehnten bewusst aus der Spirale aus, weil die Reihenfolge der Eingemeindung (nicht der Geografie) den Takt vorgab.",
+    "1938 verleibten die Nationalsozialisten im Rahmen von „Groß-Wien“ rund 97 niederösterreichische Gemeinden ein; die Stadt wuchs auf mehr als das Doppelte ihrer Fläche und zählte zeitweise 26 Bezirke. Gleichzeitig wurden Bezirke neu zugeschnitten: Penzing wurde als XIV. Bezirk aus dem früheren XIII. (Hietzing) herausgelöst, während Rudolfsheim und Fünfhaus zum XV. Bezirk Rudolfsheim-Fünfhaus verschmolzen. Dieser Zuschnitt blieb nach 1945 bestehen.",
+    "1954 wurde ein Großteil dieser Eingemeindungen wieder rückgängig gemacht: Rund 80 Gemeinden, darunter Schwechat, Klosterneuburg und Mödling, kamen zu Niederösterreich zurück, was Wien auf etwa 415 Quadratkilometer schrumpfen ließ. Behalten wurden Liesing im Süden als XXIII. Bezirk und der große Bereich östlich der Donau als XXII. Bezirk Donaustadt. Seither gibt es unverändert 23 Bezirke; es kursieren immer wieder Spekulationen über Teilungen oder neue Nummern, durchgesetzt wurde seither keine.",
+    "Die Bezirksnamen erzählen die Herkunft: Landstraße hieß nach der Straße nach Ungarn, Wieden nach einer Widmung (kirchlichem Besitz), Mariahilf nach der Wallfahrtskirche, Josefstadt nach Kaiser Joseph I., Favoriten nach der Favorita, dem Lustschloss der Habsburger, das heute das Theresianum ist. Leopoldstadt erinnert an Kaiser Leopold I., der 1670 die Juden aus dem „Unteren Werd“ vertrieb und das Viertel neu benannte. Fünfhaus und Sechshaus (heute Teil von Rudolfsheim-Fünfhaus) erinnern an kleine Siedlungen von fünf und sechs Häusern, Rudolfsheim benannte man 1863 nach Kronprinz Rudolf.",
+    "Die Bezirksgrenzen folgen vielfach alten Gemeindegrenzen, Bachläufen, Hohlwegen und Linien. Dass Wien so viele „Hauptstraßen“ hat (Simmeringer, Favoritener, Floridsdorfer, Hietzinger …), verweist auf die einstigen Ortskerne: Jede war die Durchgangsstraße eines eigenen Dorfs oder einer Vorstadt, bevor die Orte zusammenwuchsen."
+   ],
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    },
+    {
+     "t": "Geschichte Wiens (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Geschichte_Wiens"
+    },
+    {
+     "t": "Stadt Wien: Geschichte der Bezirke",
+     "u": "https://www.wien.gv.at/bezirke/"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Brigittakapelle",
+     "kat": "geschichte",
+     "wiki": null,
+     "adr": "Brigittaplatz, 1200 Wien",
+     "lon": 16.3722,
+     "lat": 48.2393,
+     "jahr": "1900",
+     "text": "Die Brigittakapelle gab der Brigittenau ihren Namen, jenem Bezirk, der erst 1900 von der Leopoldstadt abgetrennt wurde. Die Au zwischen Donau und Donaukanal wurde vor der Regulierung regelmäßig überschwemmt und war lange kaum bewohnt. Erst mit der Donauregulierung und der Industrialisierung wuchs hier ein dicht besiedeltes Arbeiterviertel.",
+     "fakt": "Die Brigittenau und die Leopoldstadt liegen beide zwischen Donau und Donaukanal, ihre Grenze verläuft entlang der Nordbahn- und Taborstraße.",
+     "quellen": [
+      {
+       "t": "Brigittenau (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Brigittenau"
+      }
+     ]
+    },
+    {
+     "n": "Floridsdorfer Spitz",
+     "kat": "geschichte",
+     "wiki": null,
+     "adr": "Am Spitz, 1210 Wien",
+     "lon": 16.4002,
+     "lat": 48.257,
+     "jahr": "1904",
+     "text": "Floridsdorf, benannt nach Abt Floridus Leeb von Klosterneuburg, kam 1904 als erster Bezirk jenseits der Donau zu Wien. Der Spitz, dort wo mehrere Straßen zusammenlaufen, war schon im 19. Jahrhundert das Geschäftszentrum der Industrievorstadt mit Lokomotivfabrik und Gaswerk. Das Amtshaus nahe dem Spitz erinnert an die frühere Selbstständigkeit der Stadtgemeinde.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Floridsdorf (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Floridsdorf"
+      }
+     ]
+    },
+    {
+     "n": "Rathaus Rudolfsheim-Fünfhaus",
+     "kat": "politik",
+     "wiki": null,
+     "adr": "Gierstergasse 6, 1150 Wien",
+     "lon": 16.3314,
+     "lat": 48.1953,
+     "jahr": "1938",
+     "text": "Rudolfsheim und Fünfhaus waren bis 1938 getrennte Bezirke (XIV und XV) und wurden dann zu einem Bezirk vereint. Das erklärt den Doppelnamen, der als einziger Bezirksname eine Verbindung aus zwei Vorstädten trägt. Fünfhaus verdankt seinen Namen einer kleinen Siedlung von fünf Häusern.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Rudolfsheim-Fünfhaus (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Rudolfsheim-Fünfhaus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "linienwall-guertel",
+   "n": "Linienwall und Gürtel",
+   "kurz": "Wo heute sechsspurig der Gürtel liegt, stand einst ein Erdwall mit Graben, der die Vorstädte umschloss und an dem Verzehrungssteuer eingehoben wurde.",
+   "text": [
+    "Der Linienwall entstand 1704, als Kaiser Leopold I. im Spanischen Erbfolgekrieg einen Angriff der ungarischen Kuruzzen auf Wien fürchtete. Er war ein rund 13 Kilometer langer Erdwall mit vorgelagertem Graben, der als Verteidigungslinie die Vorstädte außerhalb der Stadtmauer umschloss. Im Ernstfall hätte er Wien gegen berittene Truppen schützen sollen; militärisch bewährte er sich nie, denn die Kuruzzen erschienen zwar vor Wien, aber griffen den Wall nicht ernsthaft an.",
+    "Bald verlor der Wall seine militärische Bedeutung und wurde zur Steuergrenze. An den Toren, den „Linien“, wurde die Verzehrungssteuer (Akzise) auf Lebensmittel, Wein, Bier und Brennholz eingehoben, die in die Stadt eingeführt wurden. Die Torhäuser hießen Linienämter; das Wort „Linie“ für diese Stadtgrenze hat sich bis in die Gegenwart gehalten.",
+    "Zwischen Linienwall und Stadtmauer lagen die Vorstädte, die 1850 eingemeindet wurden, jenseits die Vororte, die 1892 nachfolgten. Mit dem Stadterweiterungsgesetz von 1890 stand fest, dass der Linienwall fallen würde. Er wurde in den 1890er Jahren planiert; die Trasse diente als Fläche für die neue Gürtelstraße und für die Stadtbahn. Von den Bastionen blieb praktisch nichts erhalten, wohl aber der Verlauf: Der Gürtel zeichnet die Linie des Walls nach.",
+    "Der Gürtel ist heute rund 13 Kilometer lang und trägt je nach Abschnitt Namen wie Währinger Gürtel, Hernalser Gürtel, Neubaugürtel, Margaretengürtel, Wiedner Gürtel, Landstraßer Gürtel, Mariahilfer Gürtel. Auf der Mittelachse verlief ab 1898 die Stadtbahn von Otto Wagner, deren Viadukte und Stationsgebäude in den Stadtbahnbögen zwischen Alser Straße und Westbahnhof bis heute sichtbar sind. Aus der alten Gürtelstadtbahn ging 1989 die U6 hervor.",
+    "Der Gürtel hat seit dem späten 20. Jahrhundert einen eigenen Ruf: Straßenstrich, Lokale in den Stadtbahnbögen (der „Gürtelszene“), Verkehrsschneise. Seit den 1990er Jahren wurde er zurückgebaut und begrünt: Bäume, Radwege und Fußgängerzonen am Westgürtel, die Aufwertung der Bögen und die Umgestaltung zu einem „Boulevard“ stehen auf dem Plan. Der Gürtel teilt in der Wahrnehmung der Wiener*innen noch immer zwischen den „inneren“ Bezirken und den „äußeren“.",
+    "Heute lebt der Linienwall vor allem als Verlauf weiter: Der Gürtel zeichnet seine Linie nach, und die Grenze zwischen den „inneren“ und „äußeren“ Bezirken ist im Alltagsverständnis bis heute die frühere Steuergrenze."
+   ],
+   "quellen": [
+    {
+     "t": "Linienwall (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Linienwall"
+    },
+    {
+     "t": "Gürtel (Wien) (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Gürtel_(Wien)"
+    },
+    {
+     "t": "Wiener Stadtbahn (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Stadtbahn"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Stadtbahnbögen Währinger Gürtel",
+     "kat": "bauwerk",
+     "wiki": null,
+     "adr": "Währinger Gürtel 1090 Wien",
+     "lon": 16.348,
+     "lat": 48.226,
+     "jahr": "1898",
+     "text": "Die Bögen der Stadtbahn am Währinger und Hernalser Gürtel sind das sichtbarste Erbe der Linienwall-Trasse. Otto Wagner und sein Team entwarfen Viadukte, Stationen und Brücken in einem einheitlichen Stil mit Steinverkleidung und Eisenkonstruktion. Heute beherbergen die Bögen Lokale, Veranstaltungsorte und Werkstätten.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Wiener Stadtbahn (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Wiener_Stadtbahn"
+      }
+     ]
+    },
+    {
+     "n": "Spittelau, Stadtbahnstation",
+     "kat": "bauwerk",
+     "wiki": null,
+     "adr": "Spittelauer Lände, 1090 Wien",
+     "lon": 16.3589,
+     "lat": 48.2354,
+     "jahr": "1898",
+     "text": "In Spittelau treffen die Gürtellinie und die Donaukanallinie der Stadtbahn zusammen, heute U4 und U6. Das erhaltene Stationsgebäude von Otto Wagner verbindet sich mit der benachbarten Müllverbrennungsanlage, die in den 1990er Jahren von Friedensreich Hundertwasser verkleidet wurde. Aus einer Funktionsarchitektur wurde so ein Doppelwahrzeichen.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Müllverbrennungsanlage Spittelau (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Müllverbrennungsanlage_Spittelau"
+      }
+     ]
+    },
+    {
+     "n": "Reste der Linienwall-Trasse am Gürtel",
+     "kat": "verschwunden",
+     "wiki": null,
+     "adr": "Gürtel, 1150–1180 Wien",
+     "lon": 16.336,
+     "lat": 48.195,
+     "jahr": "1704–1894",
+     "text": "Wo der Gürtel heute breit verläuft, lag einst der Graben des Linienwalls. Er wurde in den 1890er Jahren zugeschüttet, der Wall eingeebnet. Die neu gewonnene Bebauungsfläche entlang der Prachtstraße wurde rasch mit Zinshäusern besetzt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Linienwall (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Linienwall"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stadtmauer-ring",
+   "n": "Stadtmauer, Glacis und Ringstraße",
+   "kurz": "Der Ring ist das größte städtebauliche Projekt des 19. Jahrhunderts in Wien: Er entstand auf dem Boden der geschleiften Stadtmauer und des freien Schussfelds davor.",
+   "text": [
+    "Die Wiener Stadtbefestigung wurde nach der ersten Türkenbelagerung 1529 zu einem Bastionssystem ausgebaut. Die Bastionen mit Namen wie Mölkerbastei, Burgbastei oder Dominikanerbastei umgaben die Altstadt, davor lag der Graben und dann das Glacis, ein rund 450 Meter breites, unverbautes Schussfeld. Diese Fläche war über Jahrhunderte Spazierraum, Exerzierplatz und Weidegrund; gebaut werden durfte hier nicht.",
+    "1683, bei der zweiten Türkenbelagerung, hielten die Mauern, wenn auch knapp, und noch im 19. Jahrhundert galt die Befestigung als unverzichtbar. Erst die Revolution von 1848 und die zunehmende Wohnungsnot machten die Idee unhaltbar. Mit dem Handschreiben „Es ist mein Wille …“ vom 20. Dezember 1857 ordnete Kaiser Franz Joseph die Schleifung der Wälle und die Anlage einer Prachtstraße an. Ein internationaler Wettbewerb 1858 lieferte die Grundlage der Planung.",
+    "Die Ringstraße wurde als rund 57 Meter breite und fünf Kilometer lange Boulevard-Folge angelegt. Statt einem einzigen Plan wurde ein System aus einzelnen Straßenabschnitten (Schottenring, Universitätsring, Opernring und so weiter) geschaffen, an denen ab 1860 Monumentalbauten errichtet wurden: Votivkirche, Universität, Rathaus, Parlament, Burgtheater, Oper, Museen. Die Eröffnung der Ringstraße erfolgte 1865 durch Kaiser Franz Joseph.",
+    "Die Grundstücke verkaufte der Stadterweiterungsfonds; der Erlös finanzierte die öffentlichen Bauten. Private Bauherr*innen errichteten Palais und Zinshäuser mit monumentaler Fassade. Die Bauherr*innen waren oft das neue Großbürgertum, darunter viele jüdische Familien, wie die Ephrussi, Todesco und Epstein. Das Ringstraßenpalais Ephrussi, das Palais Epstein oder das Palais Todesco zeugen davon.",
+    "Von der Stadtmauer blieb wenig, doch einzelne Reste sind bis heute erhalten: Das Äußere Burgtor (1824) als Torbau am Heldenplatz, Teile der Burgbastei, die Mölkerbastei mit dem Pasqualatihaus, in dem Beethoven wohnte, und die Reste der Stadtmauer im Bereich der Dominikanerbastei. Die Basteien lebten als Straßennamen weiter: Mölkerbastei, Dominikanerbastei, Biberbastei, Schottenbastei. Aus dem Glacis wurden der Stadtpark, der Volksgarten und der Rathauspark.",
+    "Die Ringstraße ist bis heute eine kulturelle und politische Bühne: Demonstrationen, Marathon und Silvesterpfad nutzen sie ebenso wie die Straßenbahnlinien 1 und 2, die den Ring in beiden Richtungen befahren, und der Ringradweg."
+   ],
+   "quellen": [
+    {
+     "t": "Wiener Ringstraße (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Ringstraße"
+    },
+    {
+     "t": "Wiener Stadtbefestigung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Stadtbefestigung"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Mölkerbastei und Pasqualatihaus",
+     "kat": "verschwunden",
+     "wiki": null,
+     "adr": "Mölker Bastei 8, 1010 Wien",
+     "lon": 16.3629,
+     "lat": 48.2128,
+     "jahr": "1830",
+     "text": "Die Mölkerbastei ist einer der wenigen Reste der barocken Befestigung, die man noch als Bastion erkennt. Auf ihr steht das Pasqualatihaus, in dem Beethoven mit Unterbrechungen zwischen 1804 und 1815 lebte und in dem unter anderem seine vierte, fünfte und siebente Sinfonie entstanden sein sollen. Die Wohnung auf der Bastei ist heute Teil des Wien Museums.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Mölker Bastei (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Mölker_Bastei"
+      }
+     ]
+    },
+    {
+     "n": "Äußeres Burgtor",
+     "kat": "bauwerk",
+     "wiki": null,
+     "adr": "Heldenplatz, 1010 Wien",
+     "lon": 16.364,
+     "lat": 48.2063,
+     "jahr": "1824",
+     "text": "Das Äußere Burgtor wurde unter Franz I. 1818–1824 nach Plänen von Luigi Cagnola und Peter Nobile als Siegestor nach der Schlacht von Leipzig 1813 erbaut. Es ist das eine Stück der alten Befestigung, das als Torbau stehen blieb. Seit 1934 ist es als Heldendenkmal, später auch Gedenkort für Opfer des Faschismus, in Verwendung.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Äußeres Burgtor (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Äußeres_Burgtor"
+      }
+     ]
+    },
+    {
+     "n": "Stadtpark",
+     "kat": "natur",
+     "wiki": null,
+     "adr": "Parkring, 1010 Wien",
+     "lon": 16.3795,
+     "lat": 48.2042,
+     "jahr": "1862",
+     "text": "Der Stadtpark war der erste öffentliche Park der Ringstraße und entstand 1862 auf dem Glacis nach dem Plan von Josef Selleny. Der Wienfluss durchfließt den Park, ist aber teilweise eingewölbt. Hier steht das Donauweibchen und das Johann-Strauß-Denkmal, das 1921 enthüllt wurde.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Wiener Stadtpark (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Wiener_Stadtpark"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "donau",
+   "n": "Donauregulierung, Donauinsel, Alte und Neue Donau, Donaukanal",
+   "kurz": "Wien liegt an der Donau und hat sie doch jahrhundertelang auf Abstand gehalten: Erst 1870–1875 wurde der Strom in ein festes Bett gezwungen.",
+   "text": [
+    "Vor der Regulierung war die Donau bei Wien ein verzweigtes Netz aus Armen, Inseln und Auen. Der wichtigste Arm führte nahe an der Altstadt entlang und ist heute der Donaukanal, der damals als „Wiener Arm“ zur Hauptachse des Schiffsverkehrs gehörte. Der Hauptstrom lag weiter nordöstlich im Bereich der heutigen Alten Donau. Überschwemmungen waren häufig und trafen Leopoldstadt und Brigittenau besonders hart.",
+    "Nach schweren Hochwassern, vor allem 1830 und 1862, beschloss man die Regulierung. Von 1870 bis 1875 wurde ein neues, rund 280 Meter breites Hauptbett für die Donau gegraben und der alte Strom von diesem abgetrennt. Das Land zwischen neuem Strom und Altstadt wurde damit trocken und bebaubar, was die Stadterweiterung ins Donaufeld, die Kaisermühlen und später die Donauinsel-Siedlungen ermöglichte. Die Regulierung war das größte Wasserbauprojekt der Monarchie.",
+    "Aus dem abgetrennten Altarm wurde die Alte Donau, ein Stillgewässer, das zunächst ein verlandendes Überbleibsel war. Im 20. Jahrhundert wurde sie Erholungsraum mit Strandbädern, Kleingärten und dem Gänsehäufel, das seit dem frühen 20. Jahrhundert als Strandbad auf einer Insel zu den bekanntesten Bädern der Stadt zählt. Heute ist die Alte Donau ein Naherholungsgebiet mit Segelbooten, Tretbooten und Tauchgebieten.",
+    "Der Donaukanal blieb als Nebenarm erhalten, wurde aber umfangreich reguliert und mit Kaimauern ausgestattet. Seine Wasserführung wird durch das Nussdorfer Wehr und die Schleuse geregelt, die Otto Wagner 1894–1898 entwarf. Seit den 2000er Jahren ist der Kanal ein urbaner Sommerort mit Strandbars, Graffiti und Radweg, früher war er Hafen, Grenze und Kloake zugleich.",
+    "Nach dem Hochwasserbefund der 1950er Jahre entstand die Idee eines Entlastungsgerinnes, der Neuen Donau. Sie wurde zwischen 1972 und 1988 gebaut; das ausgehobene Material wurde zur Donauinsel aufgeschüttet. Die Donauinsel ist etwa 21 Kilometer lang und schmal, bietet Radwege, Badebuchten und Veranstaltungsflächen. Sie dient als Hochwasserschutz: Bei Hochwasser kann das Gerinne zusätzlich Wasser aufnehmen.",
+    "Politisch war die Donauinsel lange umstritten. Kritiker befürchteten eine Verbauung der Auen und der Naturräume; Befürworter sahen einen Gewinn für Hochwasserschutz und Erholung. Das jährliche Donauinselfest, das seit den 1980er Jahren stattfindet, machte die Insel zusätzlich zu einem Symbol der Stadt. Bei den Donauhochwassern 2002 und 2013 bewährte sich das System: Wien blieb weitgehend verschont, während andere Orte überflutet wurden."
+   ],
+   "quellen": [
+    {
+     "t": "Donauregulierung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Donauregulierung"
+    },
+    {
+     "t": "Donauinsel (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Donauinsel"
+    },
+    {
+     "t": "Alte Donau (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Alte_Donau"
+    },
+    {
+     "t": "Donaukanal (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Donaukanal"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Nußdorfer Wehr und Schleuse",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Nussdorfer Wehr, 1190 Wien",
+     "lon": 16.3641,
+     "lat": 48.2594,
+     "jahr": "1894–1898",
+     "text": "Das Nussdorfer Wehr wurde 1894–1898 von Otto Wagner als Teil der Donaukanalregulierung entworfen. Die Schleuse und die Dämme steuern die Wassermenge, die in den Donaukanal gelangt. Die Löwenfiguren an der Anlage gelten als prägnante Beispiele von Wagners Industriearchitektur.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Donaukanal (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Donaukanal"
+      }
+     ]
+    },
+    {
+     "n": "Gänsehäufel",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Moissigasse 21, 1220 Wien",
+     "lon": 16.4349,
+     "lat": 48.2354,
+     "jahr": "ab 1900",
+     "text": "Das Gänsehäufel liegt auf einer Insel in der Alten Donau und ist seit dem frühen 20. Jahrhundert ein Strandbad der Stadt. Es wurde im Lauf des Jahrhunderts mehrfach erweitert und zählt zu den größten Strandbädern Europas. Es steht für die Verwandlung des abgetrennten Donauarms vom Überschwemmungsgebiet zum Erholungsraum.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Gänsehäufel (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Gänsehäufel"
+      }
+     ]
+    },
+    {
+     "n": "Donauinsel, Donauinselfest-Gelände",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Donauinsel, 1220 Wien",
+     "lon": 16.415,
+     "lat": 48.233,
+     "jahr": "1972–1988",
+     "text": "Die Donauinsel bildet seit den 1980er Jahren die Hauptachse für Freizeit und Hochwasserschutz. Sie trennt die Neue Donau vom Hauptstrom und bietet über 20 Kilometer Fläche. Das Fest findet im Bereich um die Reichsbrücke statt.",
+     "fakt": "Die Donauinsel ist künstlich: Sie entstand aus dem Aushub für die Neue Donau.",
+     "quellen": [
+      {
+       "t": "Donauinsel (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Donauinsel"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wienfluss-baeche",
+   "n": "Wienfluss und die eingewölbten Bäche",
+   "kurz": "Unter den Straßen Wiens fließen Bäche, die einst Grenzen, Mühlen und Gerüche prägten – heute erinnern nur Straßennamen an sie.",
+   "text": [
+    "Der Wienfluss entspringt im Wienerwald bei Pressbaum und fließt durch die Stadt zum Donaukanal. In der Stadt wurde er im 19. Jahrhundert zum Problem: Bei Starkregen schwoll er zum Hochwasser an und überschwemmte die angrenzenden Vorstädte, im Normalbetrieb war er ein verschmutztes Abwasserrinnsal.",
+    "Mit der Wienflussregulierung 1895–1899 wurde der Fluss in ein betoniertes Bett gelegt und im Stadtbereich teilweise eingewölbt. Gleichzeitig entstand die Wientallinie der Stadtbahn, die in dem Bett verläuft. Zwei Sammelkanäle begleiten den Fluss, damit das Abwasser nicht mehr ins Flussbett gelangt. Zum Hochwasserschutz wurden zusätzlich Rückhaltebecken am Oberlauf angelegt.",
+    "Zwischen Kettenbrückengasse und Stadtpark ist der Wienfluss heute eingewölbt; darüber liegt der Naschmarkt. Das Marktgelände ist also eine Überbauung des Flusses, die um 1900 möglich wurde. Zwischen Stadtpark und Donaukanal fließt der Fluss in einem schmalen, gepflasterten Bett.",
+    "Unter Wien gibt es zahlreiche weitere eingewölbte Bäche. Der Alserbach, der Währinger Bach, der Ottakringer Bach und der Krottenbach kamen aus dem Wienerwald und flossen Richtung Donaukanal oder Wienfluss. Sie trieben Mühlen an, speisten Färbereien und Bleichen und waren zugleich Abwasserrinnen. Ab dem 19. Jahrhundert wurden sie überwölbt und in das Kanalnetz integriert.",
+    "Die Namen der Bäche leben in Straßennamen weiter. Die Alser Straße trägt den Namen des Alserbachs, dem Fluss, der dem Alsergrund seinen Namen gab. In Döbling ist die Krottenbachstraße nach dem Krottenbach benannt, der noch heute teilweise offen verläuft. Auch der Währinger Bach und der Ottakringer Bach sind auf historischen Karten noch als offene Läufe eingetragen.",
+    "Am Oberlauf des Wienflusses wurden Abschnitte renaturiert. Offene Bachläufe wie Liesingbach, Mauerbach und Krottenbach prägen noch einzelne Bezirke. Der Wienfluss gilt als Beispiel für Kanalisierung, die später als ökologisches Problem erkannt wurde."
+   ],
+   "quellen": [
+    {
+     "t": "Wienfluss (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wienfluss"
+    },
+    {
+     "t": "Alserbach (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Alserbach"
+    },
+    {
+     "t": "Krottenbach (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Krottenbach"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Wienfluss-Portal im Stadtpark",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Stadtpark, 1030 Wien",
+     "lon": 16.3813,
+     "lat": 48.2029,
+     "jahr": "1898–1906",
+     "text": "Im Stadtpark verschwindet der Wienfluss unter einem Portal und wird zum unterirdischen Kanal. Das Wienflussportal von Friedrich Ohmann und Josef Hackhofer ist ein Beispiel für aufwendige Ingenieurarchitektur. Der Park wurde im Zuge der Regulierung neu gestaltet.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Wienfluss (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Wienfluss"
+      }
+     ]
+    },
+    {
+     "n": "Naschmarkt über dem Wienfluss",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Linke Wienzeile, 1060 Wien",
+     "lon": 16.3623,
+     "lat": 48.1986,
+     "jahr": "1916",
+     "text": "Der Naschmarkt liegt auf dem überwölbten Wienfluss; die Stände nutzen den ehemaligen Flussraum. Links und rechts verlaufen die Wienzeilen mit den Jugendstilhäusern Otto Wagners, in deren Nachbarschaft der Fluss sichtbar im Wiental liegt. Die Eindeckung machte aus einem Abwassergraben eine der markantesten Marktflächen der Stadt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Naschmarkt (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Naschmarkt"
+      }
+     ]
+    },
+    {
+     "n": "Alser Straße (Alserbach)",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Alser Straße, 1090 Wien",
+     "lon": 16.3489,
+     "lat": 48.2175,
+     "jahr": null,
+     "text": "Die Alser Straße trägt den Namen des Alserbachs, der dem Alsergrund seinen Namen gab. Der Bach floss vom Wienerwald durch Hernals und den heutigen Alsergrund Richtung Donaukanal.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Alserbach (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Alserbach"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rotes-wien",
+   "n": "Rotes Wien und Gemeindebau bis heute",
+   "kurz": "Zwischen 1919 und 1934 baute die Stadt rund 60.000 Wohnungen; das Modell Gemeindebau prägt Wien bis heute.",
+   "text": [
+    "Bei der Gemeinderatswahl 1919 erreichten die Sozialdemokraten die absolute Mehrheit, 1922 wurde Wien als eigenes Bundesland von Niederösterreich getrennt. Damit konnte die Stadt eigene Steuern einheben, was die Finanzierung des Wohnbaus ermöglichte. Der Finanzstadtrat Hugo Breitner baute ein System aus Luxus- und Wohnbausteuern auf, die vor allem Wohlhabende trafen, und finanzierte damit das Programm.",
+    "Die Wohnsituation der Arbeiterschaft war katastrophal: Zimmer-Küche-Wohnungen ohne Wasser und WC, überbelegt, mit „Bettgehern“. Ab 1923 lief das Wohnbauprogramm, das bis 1934 rund 60.000 Wohnungen schuf. Die Wohnungen waren klein, aber mit fließendem Wasser, WC und Gemeinschaftseinrichtungen. Die Mieten waren niedrig und deckten nur die Betriebskosten.",
+    "Die Bauten boten Wäschereien, Kindergärten, Bibliotheken, Bäder und Ordinationen. Man wollte nicht nur wohnen, sondern ein neues Leben ermöglichen. Zu den bekanntesten zählen der Karl-Marx-Hof (1930 vollendet, Architekt Karl Ehn, über einen Kilometer lang), der Reumannhof, der Sandleitenhof und der Goethehof. Diese Bauten werden „Superblocks“ oder „Volkswohnpaläste“ genannt.",
+    "Im Februar 1934 beschoss das Bundesheer im Bürgerkrieg einzelne Gemeindebauten, darunter den Karl-Marx-Hof und den Goethehof. Die austrofaschistische Regierung löste die Wiener Stadtregierung ab, 1938 folgte der „Anschluss“. Während der NS-Zeit wurden viele Gemeindebauten für Parteizwecke genutzt, und jüdische Bewohner*innen wurden vertrieben.",
+    "Nach 1945 wurde der Gemeindebau fortgesetzt, jetzt mit pragmatischer Zeilenbauweise. Bis in die 1980er Jahre entstanden große Anlagen, später wurde der Bau kleiner und der geförderte Wohnbau verlagerte sich auf gemeinnützige Bauträger. Wohnanlagen wie der Wohnpark Alt-Erlaa (Harry Glück, 1973–1985) mit Dachschwimmbädern zeigen die Spätphase.",
+    "Heute besitzt die Stadt rund 220.000 Gemeindewohnungen, in denen etwa jede*r Vierte lebt; das ist europaweit einzigartig. Seit 2015 wird wieder gebaut: Die ersten Gemeindebauten „NEU“ wurden 2019 in der Gudrunstraße in Favoriten bezogen. Das Modell gilt international als Vorbild für leistbaren Wohnraum, wird aber auch wegen Wartezeiten und Kosten diskutiert."
+   ],
+   "quellen": [
+    {
+     "t": "Rotes Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Rotes_Wien"
+    },
+    {
+     "t": "Gemeindebau (Wien) (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Gemeindebau_(Wien)"
+    },
+    {
+     "t": "Karl-Marx-Hof (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Karl-Marx-Hof"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Karl-Marx-Hof",
+     "kat": "wohnen",
+     "wiki": "Karl-Marx-Hof",
+     "adr": "Heiligenstädter Straße 82–92, 1190 Wien",
+     "lon": 16.3653,
+     "lat": 48.2517,
+     "jahr": "1927–1930",
+     "text": "Der Karl-Marx-Hof ist der bekannteste Gemeindebau des Roten Wien und wurde von Karl Ehn geplant. Er ist über einen Kilometer lang und hatte bei der Eröffnung 1.382 Wohnungen. Im Februar 1934 war er Schauplatz von Kämpfen zwischen Schutzbund und Bundesheer.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Karl-Marx-Hof (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Karl-Marx-Hof"
+      }
+     ]
+    },
+    {
+     "n": "Reumannhof",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Margaretengürtel 100–110, 1050 Wien",
+     "lon": 16.3544,
+     "lat": 48.1846,
+     "jahr": "1924–1926",
+     "text": "Der Reumannhof ist nach Jakob Reumann benannt, dem ersten sozialdemokratischen Bürgermeister Wiens (1919–1923). Er wurde von Hubert Gessner geplant.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Reumannhof (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Reumannhof"
+      }
+     ]
+    },
+    {
+     "n": "Sandleitenhof",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Sandleitengasse, 1160 Wien",
+     "lon": 16.3,
+     "lat": 48.2147,
+     "jahr": "1924–1928",
+     "text": "Der Sandleitenhof zählt zu den größten Gemeindebau-Komplexen der Zwischenkriegszeit in Ottakring. Er ist auf mehrere Höfe verteilt und bildet ein eigenes Quartier. Seine Gestaltung zeigt, wie der Wohnbau mit Gemeinschaftseinrichtungen verbunden wurde.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Sandleitenhof (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Sandleitenhof"
+      }
+     ]
+    },
+    {
+     "n": "Wohnpark Alt-Erlaa",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Anton-Baumgartner-Straße, 1230 Wien",
+     "lon": 16.3165,
+     "lat": 48.1472,
+     "jahr": "1973–1985",
+     "text": "Der Wohnpark Alt-Erlaa von Harry Glück ist ein terrassenartiger Wohnbau mit rund 3.200 Wohnungen und Schwimmbädern auf den Dächern. Er gilt als Spätphase des sozialen Wohnbaus und wird für seine Beliebtheit und Lebensqualität gerühmt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Wohnpark Alt-Erlaa (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Wohnpark_Alt-Erlaa"
+      }
+     ]
+    },
+    {
+     "n": "Gemeindebau NEU Gudrunstraße",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Gudrunstraße, 1100 Wien",
+     "lon": 16.381,
+     "lat": 48.176,
+     "jahr": "2019",
+     "text": "Hier wurde 2019 der erste neue Gemeindebau seit 2004 bezogen. Die Anlage wurde im Rahmen des Programms „Gemeindebau NEU“ errichtet und zeigt die Rückkehr der Stadt als Bauherrin.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Gemeindebau (Wien) (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Gemeindebau_(Wien)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wasser",
+   "n": "Wiener Wasserversorgung: die Hochquellenleitungen",
+   "kurz": "Wien trinkt Gebirgswasser aus Rax, Schneeberg und Hochschwab, das in Freispiegelleitungen ohne Pumpen in die Stadt fließt.",
+   "text": [
+    "Bis in die Mitte des 19. Jahrhunderts holten sich die Wiener*innen Wasser aus Hausbrunnen und Laufbrunnen, deren Wasser durch Abwasser und Friedhöfe oft verunreinigt war. Typhus und Cholera waren eine ständige Gefahr, 1830 und 1873 forderten Choleraepidemien viele Opfer. Der Geologe Eduard Suess untersuchte in den 1860er Jahren die Wasserverhältnisse und plädierte für Quellwasser aus den Kalkalpen.",
+    "Die I. Wiener Hochquellenwasserleitung wurde 1870 bis 1873 gebaut und am 24. Oktober 1873 eröffnet. Sie führt Quellwasser aus dem Gebiet von Rax und Schneeberg über rund 120 Kilometer in natürlichem Gefälle nach Wien. Die Leitung verläuft größtenteils unterirdisch und überquert Täler auf Aquädukten; das prominenteste Beispiel ist das Aquädukt bei Liesing im Süden Wiens.",
+    "Mit der Eröffnung ging der Hochstrahlbrunnen am Schwarzenbergplatz in Betrieb, der den Druck der neuen Leitung sichtbar machte. Zugleich entstanden Hochbehälter am Stadtrand, in denen das Wasser gespeichert und verteilt wird, etwa am Rosenhügel. Die Anlage wurde mehrfach erweitert, weil die Stadt schnell wuchs.",
+    "Die II. Hochquellenwasserleitung wurde 1910 eröffnet und bringt Wasser aus dem Hochschwabgebiet nach Wien. Sie ist noch länger als die erste und wurde ebenfalls nahezu ohne Pumpen betrieben. Das Wasser ist von sehr hoher Qualität und wird kaum aufbereitet.",
+    "Die Quellgebiete stehen unter Schutz: Die Stadt Wien besitzt große Waldflächen, bewirtschaftet sie schonend und hat Sperrzonen eingerichtet. Zusätzlich liefert das Wasserwerk Lobau Grundwasser zur Spitzendeckung. Rund 1.000 Trinkbrunnen im Stadtgebiet und das Leitungswasser in jedem Haushalt gelten als Stolz der Stadt. In heißen Sommern kommen mobile Trinkbrunnen und Nebelduschen dazu.",
+    "Die Wasserversorgung ist politisch fest verankert: Ein Verkauf an private Unternehmen ist in der Wiener Stadtverfassung ausgeschlossen. Das Wasser aus den Bergen gilt als Beispiel für langfristige kommunale Infrastruktur, deren Grundlagen ein Jahrhundert zurückliegen."
+   ],
+   "quellen": [
+    {
+     "t": "I. Wiener Hochquellenwasserleitung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/I._Wiener_Hochquellenwasserleitung"
+    },
+    {
+     "t": "II. Wiener Hochquellenwasserleitung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/II._Wiener_Hochquellenwasserleitung"
+    },
+    {
+     "t": "Wiener Wasser",
+     "u": "https://www.wien.gv.at/wienwasser/"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Hochstrahlbrunnen",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Schwarzenbergplatz, 1030 Wien",
+     "lon": 16.3733,
+     "lat": 48.2,
+     "jahr": "1873",
+     "text": "Der Hochstrahlbrunnen wurde zur Eröffnung der I. Hochquellenwasserleitung errichtet. Die Fontäne zeigt den Wasserdruck, den die Leitung dank natürlichem Gefälle liefert. Der Brunnen wird nachts beleuchtet und ist ein klassisches Wahrzeichen am Schwarzenbergplatz.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Hochstrahlbrunnen (Wien) (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Hochstrahlbrunnen_(Wien)"
+      }
+     ]
+    },
+    {
+     "n": "Wasserturm Favoriten",
+     "kat": "industrie",
+     "wiki": null,
+     "adr": "Windtenstraße 3, 1100 Wien",
+     "lon": 16.3703,
+     "lat": 48.1673,
+     "jahr": "1899",
+     "text": "Der Wasserturm in Favoriten wurde im Zuge der Erweiterung der Wasserversorgung 1898–1899 errichtet. Er sollte Druck für die Hochzone Favoritens liefern. Heute ist er ein Industriedenkmal und wird kulturell genutzt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Wasserturm Favoriten (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Wasserturm_Favoriten"
+      }
+     ]
+    },
+    {
+     "n": "Rosenhügel-Hochbehälter",
+     "kat": "wasser",
+     "wiki": null,
+     "adr": "Rosenhügel, 1230 Wien",
+     "lon": 16.276,
+     "lat": 48.152,
+     "jahr": "1873",
+     "text": "Am Rosenhügel in Liesing befindet sich einer der zentralen Hochbehälter der Wiener Wasserversorgung, in dem das Wasser aus den Alpen gespeichert wird. Die Anlage ist nicht öffentlich zugänglich.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "I. Wiener Hochquellenwasserleitung (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/I._Wiener_Hochquellenwasserleitung"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oeffis",
+   "n": "Geschichte der Öffis: Pferdetramway, Stadtbahn, U-Bahn und Liniennamen",
+   "kurz": "Von der Pferdetramway 1865 bis zur fahrerlosen U5: Wien hat eines der dichtesten Öffi-Netze Europas, das die Stadt geformt hat.",
+   "text": [
+    "Die erste Pferdestraßenbahn Wiens fuhr 1865 zwischen Schottentor und Hernals. Zwei Gesellschaften konkurrierten bis zur Jahrhundertwende, bevor die Stadt 1903 die Betriebe übernahm. Die Elektrifizierung folgte ab 1897; die heutigen Liniennummern wurden 1907 eingeführt, später erweitert und mehrfach umgebaut. Nach der Einstellung vieler Strecken in den 1960er und 70er Jahren blieb das Netz dennoch eines der größten der Welt.",
+    "Die Stadtbahn wurde 1898 eröffnet. Otto Wagner prägte als künstlerischer Berater die Stationen, Viadukte und Brücken. Es gab die Gürtellinie, die Wientallinie und die Donaukanallinie, die zunächst mit Dampflokomotiven betrieben wurden. Die Vorortelinie gehörte der Staatsbahn. 1925 wurde die Stadtbahn elektrifiziert, später in die Straßenbahn eingegliedert und ab den 1970er Jahren in das U-Bahn-Netz umgebaut.",
+    "Nach langer Diskussion beschloss der Gemeinderat 1968 den Bau einer U-Bahn. Der Spatenstich erfolgte 1969 am Karlsplatz. 1976 ging die U4 als erste Linie in Betrieb, zunächst auf der alten Stadtbahntrasse. 1978 folgte die erste echte U-Bahn-Strecke der U1 zwischen Karlsplatz und Reumannplatz, 1980 die U2 auf dem früheren Straßenbahntunnel, 1989 die U6 auf der Gürtellinie, 1991 die U3.",
+    "Die Linienbezeichnungen folgen Regeln, die historisch gewachsen sind: Ziffern bezeichnen Straßenbahnen, Buchstaben waren früher häufiger und sind heute nur noch bei der Linie D und der Linie O erhalten. Buslinien tragen häufig den Zusatz A oder B, etwa 13A oder 48A; oft ersetzten sie eingestellte Straßenbahnlinien, so löste die 13A 1961 die Straßenbahnlinie 13 ab. Nachtbusse tragen ein vorangestelltes N.",
+    "Die U-Bahn-Linien haben Farben: U1 rot, U2 violett, U3 orange, U4 grün, U5 türkis, U6 braun. Die Farben wurden bei der Planung festgelegt und sind heute Teil der Orientierung. Die Stationen zeigen oft Wandgestaltungen, die zur jeweiligen Gegend passen.",
+    "Seit 2020 wird die U5 gebaut. Sie soll fahrerlos verkehren und in der ersten Stufe vom Karlsplatz zum Frankhplatz in der Josefstadt führen; der Start wurde zuletzt auf 2030 verschoben. Mit dem Projekt U2xU5 ist auch ein Ausbau der U2 verbunden. Das U2xU5-Projekt gilt als größtes Infrastrukturprojekt der Stadt, die Baustellen im Bereich Rathaus und Frankhplatz prägen die Josefstadt."
+   ],
+   "quellen": [
+    {
+     "t": "Wiener Linien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Linien"
+    },
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    },
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    },
+    {
+     "t": "Wiener Stadtbahn (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Stadtbahn"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Otto-Wagner-Pavillons Karlsplatz",
+     "kat": "bauwerk",
+     "wiki": null,
+     "adr": "Karlsplatz, 1040 Wien",
+     "lon": 16.3698,
+     "lat": 48.2007,
+     "jahr": "1899",
+     "text": "Die beiden Pavillons wurden als Stadtbahnstation 1898–1899 nach Plänen von Otto Wagner gebaut. Der Marmor-Stahl-Bau mit Goldornamenten ist ein Hauptwerk des Wiener Jugendstils. Beim Bau der U-Bahn wurden sie abgetragen und später wieder aufgebaut; heute beherbergt einer ein Museum.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Otto-Wagner-Pavillons am Karlsplatz (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Otto-Wagner-Pavillons_am_Karlsplatz"
+      }
+     ]
+    },
+    {
+     "n": "Hofpavillon Hietzing",
+     "kat": "bauwerk",
+     "wiki": null,
+     "adr": "Schönbrunner Schlossstraße 1, 1130 Wien",
+     "lon": 16.3036,
+     "lat": 48.1858,
+     "jahr": "1899",
+     "text": "Der Hofpavillon an der Stadtbahnstation Hietzing war für Kaiser Franz Joseph gedacht, wenn er mit der Stadtbahn nach Schönbrunn fahren wollte. Er wurde ebenfalls von Otto Wagner entworfen und kaum genutzt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Hofpavillon Hietzing (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Hofpavillon_Hietzing"
+      }
+     ]
+    },
+    {
+     "n": "Karlsplatz, U-Bahn-Baustelle U2xU5",
+     "kat": "ereignis",
+     "wiki": null,
+     "adr": "Karlsplatz, 1040 Wien",
+     "lon": 16.37,
+     "lat": 48.2005,
+     "jahr": "2020–heute",
+     "text": "Am Karlsplatz laufen U1, U2 und U4 zusammen; die Station wird für die U5 vorbereitet. Der Bau der unterirdischen Anlagen für das Projekt U2xU5 zählt zu den größten Bauvorhaben der Gegenwart.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "U-Bahn-Linie U5 (Wien) (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/U-Bahn-Linie_U5_(Wien)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wein",
+   "n": "Weinbau und Heurige in Wien",
+   "kurz": "Wien ist die einzige Millionenstadt mit nennenswertem Weinbau innerhalb der Stadtgrenzen.",
+   "text": [
+    "Weinbau in Wien reicht bis in die Römerzeit zurück. Im Mittelalter war er ein wichtiger Wirtschaftszweig, und die Weingärten reichten bis weit in das heutige Stadtgebiet. Der Wein wurde von Klöstern, Bürgern und Bauern angebaut.",
+    "Auch heute werden in Wien rund 600 Hektar Weinreben bewirtschaftet, hauptsächlich am Nussberg, Kahlenberg, Bisamberg, in Grinzing, Sievering, Neustift am Walde, Stammersdorf und Mauer. Der Wiener Gemischte Satz, bei dem mehrere Rebsorten gemeinsam im Weingarten stehen und gemeinsam gelesen werden, ist das Markenzeichen. Er ist seit 2013 als DAC (Districtus Austriae Controllatus) geschützt.",
+    "Kaiser Joseph II. erlaubte 1784 per Verordnung den Weinbauern, ihren eigenen Wein, Most und Speisen ohne besondere Gewerbebewilligung auszuschenken. Das ist die rechtliche Geburt des Heurigen. Ein Strohkranz oder Föhrenbuschen über dem Tor zeigt an, dass „ausg’steckt“ ist, also offen.",
+    "Der Wortstamm: „Heuriger“ bedeutet „von diesem Jahr“. Der Heurige ist sowohl der Wein des laufenden Jahrgangs als auch das Lokal, in dem er ausgeschenkt wird. Kennzeichen sind das Buffet mit kalten Speisen, das man sich selbst holt, und Schrammelmusik. Die Heurigenorte wie Grinzing, Nussdorf und Stammersdorf bekamen im 20. Jahrhundert Konkurrenz durch touristische Betriebe.",
+    "Die Stadt Wien betreibt selbst ein Weingut, das Weingut Cobenzl, das zu den bekannten Wiener Weinbaubetrieben zählt. Auch die Bewirtschaftung der Weingärten ist ein Teil der Stadtplanung: Die Weinbauflächen sind als Grünland gewidmet und werden teilweise gesichert. Wiener Weinbau ist politisch gewollt, schon weil er das Landschaftsbild prägt.",
+    "Heiligenstadt, heute ein Heurigenviertel, war auch Wohnort Beethovens, der hier 1802 das Heiligenstädter Testament schrieb. In Stammersdorf liegt mit der Kellergasse ein Ensemble von Weinkellern am Stadtrand."
+   ],
+   "quellen": [
+    {
+     "t": "Weinbau in Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Weinbau_in_Wien"
+    },
+    {
+     "t": "Heuriger (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Heuriger"
+    },
+    {
+     "t": "Wiener Gemischter Satz (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemischter_Satz"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Weingut Cobenzl",
+     "kat": "natur",
+     "wiki": null,
+     "adr": "Am Cobenzl 96, 1190 Wien",
+     "lon": 16.343,
+     "lat": 48.278,
+     "jahr": null,
+     "text": "Am Cobenzl bewirtschaftet die Stadt Wien eigene Weingärten, die zu den bekanntesten der Stadt zählen. Die Lage mit Blick über Wien macht den Ort zu einem beliebten Ausflugsziel.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Weinbau in Wien (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Weinbau_in_Wien"
+      }
+     ]
+    },
+    {
+     "n": "Nussberg",
+     "kat": "natur",
+     "wiki": null,
+     "adr": "Nussberg, 1190 Wien",
+     "lon": 16.36,
+     "lat": 48.268,
+     "jahr": null,
+     "text": "Der Nussberg zwischen Nussdorf und Kahlenberg ist eine der bekanntesten Wiener Weinlagen. Von den Weinbergen blickt man auf die Donau und das Stadtgebiet. Der Gemischte Satz wird hier besonders gepflegt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Weinbau in Wien (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Weinbau_in_Wien"
+      }
+     ]
+    },
+    {
+     "n": "Stammersdorfer Kellergasse",
+     "kat": "kultur",
+     "wiki": null,
+     "adr": "Stammersdorf, 1210 Wien",
+     "lon": 16.404,
+     "lat": 48.31,
+     "jahr": null,
+     "text": "In Stammersdorf liegt eine der bekannteren Kellergassen Wiens, in der die Weinbauern ihren Wein einlagerten. Die Gasse ist ein Beispiel für die ländliche Weinkultur am nördlichen Stadtrand jenseits der Donau.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Stammersdorf (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Stammersdorf"
+      }
+     ]
+    },
+    {
+     "n": "Beethovenhaus Heiligenstadt",
+     "kat": "kultur",
+     "wiki": null,
+     "adr": "Probusgasse 6, 1190 Wien",
+     "lon": 16.3598,
+     "lat": 48.2481,
+     "jahr": "1802",
+     "text": "In der Probusgasse in Heiligenstadt wohnte Beethoven 1802 und schrieb das Heiligenstädter Testament. Das Haus liegt im Heurigenviertel und ist heute ein Museum.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Heiligenstädter Testament (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Heiligenstädter_Testament"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "graetzel",
+   "n": "Das Wiener Grätzel und seine Namen",
+   "kurz": "Das Grätzel ist die Wiener Einheit zwischen Haus und Bezirk: ein Viertel, das man erlebt, aber nirgends offiziell abgegrenzt findet.",
+   "text": [
+    "Das Wort Grätzel, auch Grätzl geschrieben, bezeichnet ein kleinräumiges Stadtviertel, das sich durch Nachbarschaft, Geschäfte und gemeinsame Identität auszeichnet. Der Begriff wird meist auf slawisch gradec („kleine Burg, Städtchen“) zurückgeführt. Anders als Bezirke oder Katastralgemeinden haben Grätzel keine rechtlichen Grenzen; sie entstehen aus Gewohnheit.",
+    "Viele Grätzelnamen gehen auf Gebäude zurück, die längst verschwunden sind. Das Freihausviertel auf der Wieden verweist auf das Starhembergsche Freihaus, einen riesigen Gebäudekomplex, der bis ins 20. Jahrhundert stand; dort steht heute die Technische Universität. Das Servitenviertel im neunten Bezirk geht auf das Servitenkloster zurück, das Karmeliterviertel in der Leopoldstadt auf das Karmeliterkloster.",
+    "Andere Namen spiegeln Berufe oder Verwendungen. Das Textilviertel in der Inneren Stadt erinnert an die Konfektionsindustrie, der Spittelberg an das Bürgerspital, dem die Gründe gehörten. Der Brunnenmarkt, der Meidlinger Markt, der Karmelitermarkt und viele andere Märkte bilden Grätzelzentren.",
+    "Die Stadt Wien nutzt den Begriff bewusst in Förderprogrammen: Grätzloasen, Grätzelmanagement und Gebietsbetreuung sind Instrumente der Stadtentwicklung. Die Idee ist, dass Straßen, Plätze und Höfe in der Nachbarschaft belebt werden.",
+    "Im Alltag funktionieren Grätzel anders als Bezirke: Man wohnt „im Grätzel“, auch wenn man auf der anderen Seite der Bezirksgrenze wohnt. Das macht den Begriff auch politisch relevant, weil Veränderungen wie Verkehrsberuhigung meist auf Grätzelebene diskutiert werden."
+   ],
+   "quellen": [
+    {
+     "t": "Grätzel (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Grätzel"
+    },
+    {
+     "t": "Gebietsbetreuung Stadterneuerung",
+     "u": "https://www.gbstern.at/"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Spittelberg",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Spittelberggasse, 1070 Wien",
+     "lon": 16.3547,
+     "lat": 48.203,
+     "jahr": "1700er",
+     "text": "Der Spittelberg war eine Vorstadtsiedlung mit kleinen Häusern und Gasthäusern, im 19. Jahrhundert ein Rotlichtviertel. In den 1970er Jahren wurde das Viertel saniert und ist heute ein Beispiel für behutsame Stadterneuerung.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Spittelberg (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Spittelberg"
+      }
+     ]
+    },
+    {
+     "n": "Servitenviertel",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Servitenplatz, 1090 Wien",
+     "lon": 16.3623,
+     "lat": 48.219,
+     "jahr": "1651",
+     "text": "Das Servitenviertel liegt rund um das Servitenkloster mit der Servitenkirche (ab 1651 erbaut). Es ist ein kleinteiliges Viertel am Rand des Alsergrunds mit Gastronomie.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Servitenviertel (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Servitenviertel"
+      }
+     ]
+    },
+    {
+     "n": "Karmeliterviertel",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Karmelitermarkt, 1020 Wien",
+     "lon": 16.3775,
+     "lat": 48.215,
+     "jahr": null,
+     "text": "Das Karmeliterviertel in der Leopoldstadt ist nach dem Karmeliterkloster benannt. Der Karmelitermarkt bildet das Zentrum. Das Viertel hat eine ausgeprägte jüdische Geschichte und wurde seit den 2000er Jahren aufgewertet.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Karmelitermarkt (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Karmelitermarkt"
+      }
+     ]
+    },
+    {
+     "n": "Freihausviertel",
+     "kat": "wohnen",
+     "wiki": null,
+     "adr": "Wiedner Hauptstraße, 1040 Wien",
+     "lon": 16.3667,
+     "lat": 48.196,
+     "jahr": null,
+     "text": "Das Freihausviertel verdankt seinen Namen dem Starhembergschen Freihaus, einem Gebäudekomplex mit Höfen und Wohnungen, der bis ins 20. Jahrhundert bestand. Heute prägt die Technische Universität das Viertel mit dem Gebäudenamen „Freihaus“.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Wieden (Wien) (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Wieden_(Wien)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ns-zeit",
+   "n": "NS-Zeit und Erinnerungskultur",
+   "kurz": "Wien war 1938 bis 1945 Teil des Deutschen Reichs; Spuren der Verfolgung finden sich in fast jedem Grätzel.",
+   "text": [
+    "Am 12. und 13. März 1938 marschierten deutsche Truppen in Österreich ein, am 15. März sprach Hitler vor einer jubelnden Menge am Heldenplatz. Bereits in den ersten Tagen begannen Verhaftungen und „Reibpartien“, bei denen Juden gezwungen wurden, Parolen von Gehsteigen zu waschen. Wien hatte damals rund 180.000 jüdische Einwohner*innen, etwa ein Zehntel der Bevölkerung.",
+    "Die Verfolgung geschah rasch: Wohnungen und Betriebe wurden „arisiert“, Geschäfte geplündert. In der Novemberpogromnacht vom 9. auf 10. November 1938 wurden die Synagogen in Brand gesetzt, zahlreiche Wiener Tempel zerstört, Jüdinnen und Juden verhaftet und nach Dachau deportiert. Der Stadttempel in der Seitenstettengasse überlebte, weil er im Hofverbund lag und ein Feuer die Nachbarhäuser gefährdet hätte.",
+    "Etwa zwei Drittel der jüdischen Wienerinnen und Wiener konnten fliehen. Rund 65.000 österreichische Juden und Jüdinnen wurden in der Shoah ermordet, viele davon aus Wien. Deportationen führten über Sammellager in der Leopoldstadt zu den Bahnhöfen, darunter der Aspangbahnhof, von wo aus ab 1939 Transporte nach Theresienstadt, Riga, Minsk und anderswo gingen.",
+    "Die Geheime Staatspolizei hatte ihre Leitstelle im früheren Hotel Metropol am Morzinplatz, wo heute ein Mahnmal steht. Zusätzlich wurden große Flaktürme gebaut, die als Luftabwehr dienten und bis heute im Stadtbild stehen. Der Widerstand reichte von Kommunist*innen über Monarchisten bis zu religiösen Gruppen; viele wurden im Landesgericht hingerichtet.",
+    "Die Erinnerungskultur setzte spät ein. Lange herrschte die Opferthese, wonach Österreich das erste Opfer Hitlers gewesen sei. Erst in den 1980er Jahren, besonders im Zuge der Waldheim-Debatte 1986, wandelte sich der Umgang. Das Denkmal gegen Krieg und Faschismus von Alfred Hrdlicka am Albertinaplatz (1988–1991) und das Mahnmal von Rachel Whiteread am Judenplatz (2000) sind Marksteine.",
+    "Seit 2005 setzt der Verein „Steine der Erinnerung“ kleine Gedenktafeln in Gehwege, die an vertriebene und ermordete Menschen erinnern. Sie liegen vor deren letzten selbstgewählten Wohnorten. Hinzu kommen Gedenkstätten wie das Dokumentationsarchiv des österreichischen Widerstandes und das Jüdische Museum."
+   ],
+   "quellen": [
+    {
+     "t": "Anschluss Österreichs (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Anschluss_Österreichs"
+    },
+    {
+     "t": "Steine der Erinnerung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Steine_der_Erinnerung"
+    },
+    {
+     "t": "Novemberpogrome 1938 (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Novemberpogrome_1938"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Mahnmal am Judenplatz",
+     "kat": "erinnerung",
+     "wiki": null,
+     "adr": "Judenplatz, 1010 Wien",
+     "lon": 16.3711,
+     "lat": 48.2112,
+     "jahr": "2000",
+     "text": "Das Mahnmal von Rachel Whiteread zeigt eine Bibliothek mit nach außen gekehrten Buchrücken und erinnert an die 65.000 ermordeten österreichischen Jüdinnen und Juden. Es steht über den Resten der mittelalterlichen Synagoge, die im Museum Judenplatz zugänglich ist.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Mahnmal für die österreichischen jüdischen Opfer der Shoah (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Mahnmal_für_die_österreichischen_jüdischen_Opfer_der_Shoah"
+      }
+     ]
+    },
+    {
+     "n": "Denkmal gegen Krieg und Faschismus",
+     "kat": "erinnerung",
+     "wiki": null,
+     "adr": "Albertinaplatz, 1010 Wien",
+     "lon": 16.3688,
+     "lat": 48.2037,
+     "jahr": "1988–1991",
+     "text": "Das Denkmal von Alfred Hrdlicka steht an der Stelle des Philipphofs, der im Bombenkrieg zerstört wurde und in dessen Keller Menschen starben. Die „Straßenwaschenden Juden“ erinnern an die demütigenden Szenen nach dem Anschluss.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Denkmal gegen Krieg und Faschismus (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Denkmal_gegen_Krieg_und_Faschismus"
+      }
+     ]
+    },
+    {
+     "n": "Morzinplatz, Gestapo-Leitstelle",
+     "kat": "erinnerung",
+     "wiki": null,
+     "adr": "Morzinplatz, 1010 Wien",
+     "lon": 16.3786,
+     "lat": 48.2134,
+     "jahr": "1938–1945",
+     "text": "Im Hotel Metropol, das an dieser Stelle stand, hatte die Gestapo ihre Leitstelle. Viele Verhaftete wurden hier verhört und gefoltert. Heute erinnert ein Mahnmal an die Opfer.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Morzinplatz (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Morzinplatz"
+      }
+     ]
+    },
+    {
+     "n": "Flakturm Augarten",
+     "kat": "geschichte",
+     "wiki": null,
+     "adr": "Augarten, 1020 Wien",
+     "lon": 16.378,
+     "lat": 48.2262,
+     "jahr": "1942–1945",
+     "text": "Im Augarten stehen ein Gefechtsturm und ein Leitturm als Teil der Wiener Flaktürme. Sie waren massiv gebaut und sind bis heute kaum abzubrechen. Ein Teil der Flaktürme wird neu genutzt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Flaktürme (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Flaktürme"
+      }
+     ]
+    },
+    {
+     "n": "Gedenkort Aspangbahnhof",
+     "kat": "erinnerung",
+     "wiki": null,
+     "adr": "Aspangstraße, 1030 Wien",
+     "lon": 16.3935,
+     "lat": 48.1953,
+     "jahr": "1939–1942",
+     "text": "Vom Aspangbahnhof gingen Transporte von Wiener Jüdinnen und Juden in die Vernichtungslager. Der Bahnhof wurde nach dem Krieg abgebrochen, ein Gedenkort erinnert an die Deportierten.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Aspangbahnhof (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Aspangbahnhof"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sagen",
+   "n": "Wiener Sagen und Mythen im Überblick",
+   "kurz": "Von Basilisk bis Donauweibchen: Die Sagen Wiens sind oft an Orte gebunden, die man noch sehen kann.",
+   "text": [
+    "Wiener Sagen sind meist Ortssagen: Sie erklären Namen, Funde oder Bauwerke. Gesammelt wurden sie vor allem im 19. Jahrhundert. Viele erzählen von Teufelspakten, Wasserwesen und Ungeheuern.",
+    "Die Basiliskensage ist an das Haus Schönlaterngasse 7 geknüpft. 1212 soll in einem Brunnen ein Basilisk gefunden worden sein, den ein Bäckerjunge mit einem Spiegel getötet habe. Das Haus trägt heute eine Basiliskenfigur. Die Sage ist eine Standarderzählung des Mittelalters, die an verschiedenen Orten Europas erzählt wurde.",
+    "Der „Stock im Eisen“ ist ein Baumstamm voller Nägel, der in einer Mauer am Stephansplatz steckt. Nach der Legende hat ein Schlosserlehrling mit Hilfe des Teufels das Schloss geschaffen, das den Stamm sichert. Wandernde Gesellen schlugen Nägel ein, wenn sie die Stadt verließen. Der Stamm ist seit dem 16. Jahrhundert belegt.",
+    "Die „Spinnerin am Kreuz“ ist eine gotische Säule am Wienerberg in Favoriten. Der Sage nach wartete hier eine Frau spinnend auf die Rückkehr ihres Mannes. Historisch handelt es sich um ein spätgotisches Denkmal aus dem 15. Jahrhundert.",
+    "Das Donauweibchen im Stadtpark erinnert an eine Wassernixe der Donausage. Die Legende der verführten und verlassenen Frau ist ein Allgemeingut des 19. Jahrhunderts, das durch das Wiener Volkstheater verbreitet wurde. Das Denkmal im Stadtpark stammt aus der Zeit der Parkanlage.",
+    "Viele dieser Sagen haben einen historischen Kern, etwa in Seuchen, Belagerungen oder Bauhandwerk. Wer sie kennt, liest die Stadt als Erzählraum: Die Bauwerke sind Anker für Erzählungen, die Wiener*innen über Generationen weitergegeben haben."
+   ],
+   "quellen": [
+    {
+     "t": "Basiliskenhaus (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Basiliskenhaus"
+    },
+    {
+     "t": "Stock im Eisen (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Stock_im_Eisen"
+    },
+    {
+     "t": "Spinnerin am Kreuz (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Spinnerin_am_Kreuz"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Basiliskenhaus",
+     "kat": "mythos",
+     "wiki": null,
+     "adr": "Schönlaterngasse 7, 1010 Wien",
+     "lon": 16.3766,
+     "lat": 48.2084,
+     "jahr": "1212",
+     "text": "Das Basiliskenhaus ist der Schauplatz der Wiener Basiliskensage. Ein Bäckerlehrling soll 1212 im Brunnen einen Basilisken entdeckt haben. Das Gebäude trägt eine Darstellung des Ungeheuers.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Basiliskenhaus (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Basiliskenhaus"
+      }
+     ]
+    },
+    {
+     "n": "Stock im Eisen",
+     "kat": "mythos",
+     "wiki": null,
+     "adr": "Stock-im-Eisen-Platz, 1010 Wien",
+     "lon": 16.3702,
+     "lat": 48.2086,
+     "jahr": null,
+     "text": "Der Baumstamm mit Nägeln steht hinter Glas am Stock-im-Eisen-Platz. Die Sage verbindet ihn mit dem Teufel und einem Schlosserlehrling.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Stock im Eisen (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Stock_im_Eisen"
+      }
+     ]
+    },
+    {
+     "n": "Spinnerin am Kreuz",
+     "kat": "mythos",
+     "wiki": null,
+     "adr": "Triester Straße, 1100 Wien",
+     "lon": 16.3361,
+     "lat": 48.1606,
+     "jahr": "1452–1458",
+     "text": "Die gotische Säule am Wienerberg erinnert an eine Sage, in der eine Frau auf einen Heimkehrer wartete. Das Denkmal wurde im 15. Jahrhundert errichtet und ist ein Wahrzeichen von Favoriten.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Spinnerin am Kreuz (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Spinnerin_am_Kreuz"
+      }
+     ]
+    },
+    {
+     "n": "Donauweibchen-Brunnen",
+     "kat": "mythos",
+     "wiki": null,
+     "adr": "Stadtpark, 1030 Wien",
+     "lon": 16.379,
+     "lat": 48.2037,
+     "jahr": "1865",
+     "text": "Das Donauweibchen im Stadtpark ist eine Bronzeskulptur, die an die Wassernixe der Donau erinnert. Es steht an einer Brunnenanlage und ist ein beliebtes Fotomotiv.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Donauweibchen (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Donauweibchen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wienerwald-gruen",
+   "n": "Wienerwald und Grüngürtel",
+   "kurz": "Rund die Hälfte der Stadtfläche ist Grünraum, geschützt durch den Wald- und Wiesengürtel von 1905.",
+   "text": [
+    "Der Wienerwald ist der Ausläufer der Alpen im Westen Wiens und bedeckt rund 1.250 Quadratkilometer. In den 1870er Jahren sollte ein großer Teil des Waldes für Holz geschlagen und verkauft werden. Der Journalist und Politiker Josef Schöffel kämpfte dagegen und konnte den Verkauf verhindern. Er gilt als „Retter des Wienerwalds“.",
+    "1905 beschloss der Gemeinderat unter Bürgermeister Karl Lueger den Wald- und Wiesengürtel, ein Schutzgebiet rund um die Stadt, das bebaute Flächen begrenzt. Dieser Beschluss prägt bis heute die Wiener Stadtplanung. 2005 wurde der Wienerwald zum UNESCO-Biosphärenpark erklärt.",
+    "Der Lainzer Tiergarten im Südwesten war das kaiserliche Jagdrevier und ist seit 1923 öffentlich zugänglich. Er ist rund 24 Quadratkilometer groß und umgeben von einer Mauer. Darin liegt die Hermesvilla, ein Schloss, das Franz Joseph für Kaiserin Elisabeth erbauen ließ.",
+    "Im Osten liegt die Lobau, ein Teil des Nationalparks Donau-Auen, der 1996 gegründet wurde. Die Auenlandschaft entstand durch die Donauüberschwemmungen und blieb auch nach der Regulierung teilweise erhalten. Die Lobau war lange von der Stadtautobahn bedroht; der Lobautunnel wurde 2021 gestoppt.",
+    "Weitere Grünräume sind der Prater, der Steinhof, der Kahlenberg und der Bisamberg. Die Stadt Wien betreibt Wiesen und Wälder und ist selbst Waldbesitzerin. Der Anteil des Grünlands liegt bei rund 50 Prozent der Stadtfläche."
+   ],
+   "quellen": [
+    {
+     "t": "Wienerwald (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wienerwald"
+    },
+    {
+     "t": "Josef Schöffel (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Josef_Schöffel"
+    },
+    {
+     "t": "Lainzer Tiergarten (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Lainzer_Tiergarten"
+    },
+    {
+     "t": "Lobau (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Lobau"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Hermesvilla",
+     "kat": "bauwerk",
+     "wiki": null,
+     "adr": "Lainzer Tiergarten, 1130 Wien",
+     "lon": 16.2464,
+     "lat": 48.178,
+     "jahr": "1882–1886",
+     "text": "Die Hermesvilla im Lainzer Tiergarten wurde für Kaiserin Elisabeth gebaut, als Rückzugsort. Sie ist ein Museum der Stadt Wien.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Hermesvilla (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Hermesvilla"
+      }
+     ]
+    },
+    {
+     "n": "Lobau",
+     "kat": "natur",
+     "wiki": null,
+     "adr": "Lobau, 1220 Wien",
+     "lon": 16.519,
+     "lat": 48.185,
+     "jahr": "1996",
+     "text": "Die Lobau ist Teil des Nationalparks Donau-Auen. Sie ist eines der letzten größeren Auengebiete an der Donau und wird von Wien geschützt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Lobau (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Lobau"
+      }
+     ]
+    },
+    {
+     "n": "Kahlenberg",
+     "kat": "natur",
+     "wiki": null,
+     "adr": "Kahlenberg, 1190 Wien",
+     "lon": 16.333,
+     "lat": 48.281,
+     "jahr": "1683",
+     "text": "Vom Kahlenberg stieg 1683 das Entsatzheer zum Angriff auf die Osmanen ab. Heute ist er ein Aussichtspunkt am Rand des Wienerwalds.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Kahlenberg (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Kahlenberg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stadtentwicklung",
+   "n": "Stadtentwicklung heute: Seestadt, Nordbahnviertel, Sonnwendviertel",
+   "kurz": "Wien wächst: Stadterweiterungsgebiete auf ehemaligen Bahn- und Flugfeldern nehmen die Bevölkerung des 21. Jahrhunderts auf.",
+   "text": [
+    "Nach Jahrzehnten der Stagnation wächst Wien seit den 1990er Jahren und überschritt 2023 die Marke von zwei Millionen Einwohner*innen. Zur Aufnahme der Menschen werden große Flächen ehemaliger Bahnhöfe, Flugfelder und Industriegründe neu bebaut. Planungsprinzipien sind Nutzungsmischung, Grünräume und Anbindung an den Öffentlichen Verkehr.",
+    "Die Seestadt Aspern entsteht seit 2009 auf dem ehemaligen Flugfeld Aspern im Bezirk Donaustadt. Ihr Zentrum ist ein künstlicher See, ihre Anbindung die U2 seit 2013. Es sollen mehrere zehntausend Menschen hier wohnen und arbeiten; Straßen sind nach Frauen benannt, was als bewusstes Zeichen gilt.",
+    "Das Nordbahnviertel entsteht auf dem Gelände des früheren Nordbahnhofs in der Leopoldstadt. Der Bahnhof war einst Ausgangspunkt der Nordbahn; nach der Nachkriegszeit lag er brach. Seit den 2010er Jahren wird das Areal mit Wohnungen, Schulen, Parks und dem Rudolf-Bednar-Park bebaut, die Straßenbahnlinie O wurde bis zur Bruno-Marek-Allee verlängert.",
+    "Das Sonnwendviertel entstand im Zuge des Hauptbahnhofs, der 2014 eröffnet wurde. Auf den alten Gleisflächen in Favoriten wurden Wohnbauten, ein Park und ein Bildungscampus geschaffen. Der Helmut-Zilk-Park ist der zentrale Freiraum, die Straßenbahnlinie D wurde bis zur Absberggasse verlängert.",
+    "Weitere Entwicklungsgebiete sind Neu Marx im dritten Bezirk, die Biotope City am Wienerberg, das Areal des Nordwestbahnhofs und das Gebiet Berresgasse in der Donaustadt. Sie stehen teils in der Kritik wegen Dichte, Preisen und Versiegelung. Die Stadt versucht, mit Zielen wie Bodenschutz und Klimaanpassung gegenzusteuern."
+   ],
+   "quellen": [
+    {
+     "t": "Seestadt Aspern (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Seestadt_Aspern"
+    },
+    {
+     "t": "Hauptbahnhof Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Hauptbahnhof_Wien"
+    },
+    {
+     "t": "Nordbahnviertel (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Nordbahnviertel"
+    },
+    {
+     "t": "Stadt Wien: Stadtentwicklung",
+     "u": "https://www.wien.gv.at/stadtentwicklung/"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Seestadt Aspern",
+     "kat": "politik",
+     "wiki": null,
+     "adr": "Seestadtstraße, 1220 Wien",
+     "lon": 16.504,
+     "lat": 48.225,
+     "jahr": "2009–heute",
+     "text": "Die Seestadt gilt als eines der größten Stadtentwicklungsprojekte Europas. Der See bildet das Zentrum, rund um ihn entstehen Wohn- und Arbeitsquartiere. Die U2-Endstation Seestadt liegt am Rand.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Seestadt Aspern (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Seestadt_Aspern"
+      }
+     ]
+    },
+    {
+     "n": "Nordbahnviertel",
+     "kat": "politik",
+     "wiki": null,
+     "adr": "Bruno-Marek-Allee, 1020 Wien",
+     "lon": 16.392,
+     "lat": 48.227,
+     "jahr": "2010er–heute",
+     "text": "Auf dem Gelände des alten Nordbahnhofs entsteht ein neues Stadtviertel mit Wohnungen und Parks. Zentral ist der lange Rudolf-Bednar-Park.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Nordbahnviertel (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Nordbahnviertel"
+      }
+     ]
+    },
+    {
+     "n": "Sonnwendviertel und Helmut-Zilk-Park",
+     "kat": "politik",
+     "wiki": null,
+     "adr": "Sonnwendgasse, 1100 Wien",
+     "lon": 16.377,
+     "lat": 48.183,
+     "jahr": "2014–heute",
+     "text": "Das Sonnwendviertel liegt südlich des Hauptbahnhofs auf ehemaligen Gleisflächen. Der Helmut-Zilk-Park ist ein zentraler Freiraum, der Bildungscampus Sonnwendviertel ein Vorzeigeprojekt.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Hauptbahnhof Wien (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Hauptbahnhof_Wien"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "politik",
+   "n": "Wiens politisches System",
+   "kurz": "Wien ist Gemeinde und Bundesland zugleich: Der Gemeinderat ist auch der Landtag, der Stadtsenat die Landesregierung.",
+   "text": [
+    "Seit 1922 ist Wien ein eigenes Bundesland. Das hat zur Folge, dass die Stadt gleichzeitig Gemeinde und Land ist. Der Gemeinderat mit 100 Mitgliedern fungiert zugleich als Landtag, der Bürgermeister zugleich als Landeshauptmann. Der Stadtsenat bildet die Landesregierung. Die Mitglieder der Regierung heißen Stadträt*innen.",
+    "Gewählt wird alle fünf Jahre nach Verhältniswahlrecht. Das Wahlalter liegt bei 16 Jahren. Neben dem Gemeinderat werden auch die Bezirksvertretungen gewählt. Zusätzlich bestehen amtsführende und nicht amtsführende Stadträt*innen, die die Opposition abbilden.",
+    "Die 23 Bezirke haben keine eigene Verwaltungshoheit wie Gemeinden, sondern sind Teile der Stadt. Sie haben aber gewählte Bezirksvertretungen mit Bezirksvorsteher*innen. Diese entscheiden über Dinge wie Straßenbenennungen, Parkgestaltung oder Verkehrsberuhigung im Rahmen der Bezirkskompetenzen, während größere Entscheidungen im Rathaus fallen.",
+    "Bei der Wahl am 27. April 2025 blieb die SPÖ mit knapp 40 Prozent klar stärkste Kraft, gefolgt von der FPÖ mit rund 20 Prozent und den Grünen mit rund 14 Prozent; ÖVP und NEOS lagen jeweils bei etwa 9 bis 10 Prozent.",
+    "Regiert wird seither von einer Koalition aus SPÖ und NEOS unter Bürgermeister Michael Ludwig; Vizebürgermeisterin ist Bettina Emmerling (NEOS). Zuvor regierten SPÖ und NEOS bereits seit 2020; davor SPÖ und Grüne von 2010 bis 2020. Wien wird seit 1919 mit Unterbrechung 1934 bis 1945 von der SPÖ geführt.",
+    "Die Stadt hat ein spezielles Verhältnis zum Bund: Sie ist Bundesland, kann Landesgesetze beschließen und vertritt sich im Bundesrat. Zugleich ist sie die Hauptstadt der Republik, was sie zum Sitz von Regierung und Parlament macht."
+   ],
+   "quellen": [
+    {
+     "t": "Wiener Gemeinderat (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeinderat"
+    },
+    {
+     "t": "Wiener Landtag (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Landtag"
+    },
+    {
+     "t": "Landtagswahl in Wien 2025 (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Landtagswahl_in_Wien_2025"
+    },
+    {
+     "t": "Stadt Wien: Politik und Verwaltung",
+     "u": "https://www.wien.gv.at/politik-verwaltung/"
+    }
+   ],
+   "orte": [
+    {
+     "n": "Wiener Rathaus",
+     "kat": "politik",
+     "wiki": null,
+     "adr": "Rathausplatz 1, 1010 Wien",
+     "lon": 16.3592,
+     "lat": 48.2108,
+     "jahr": "1872–1883",
+     "text": "Das Rathaus wurde von Friedrich von Schmidt im neugotischen Stil erbaut. Hier tagen Gemeinderat und Landtag, hier hat der Bürgermeister sein Büro. Der Rathausmann auf dem Turm ist ein Wahrzeichen.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Wiener Rathaus (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Wiener_Rathaus"
+      }
+     ]
+    },
+    {
+     "n": "Parlament",
+     "kat": "politik",
+     "wiki": null,
+     "adr": "Dr.-Karl-Renner-Ring 3, 1010 Wien",
+     "lon": 16.3607,
+     "lat": 48.208,
+     "jahr": "1883",
+     "text": "Das Parlament von Theophil Hansen steht gegenüber dem Rathaus am Ring. Es ist Sitz von Nationalrat und Bundesrat, nach mehrjähriger Sanierung seit 2023 wieder in Betrieb.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Parlamentsgebäude (Wien) (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Parlamentsgebäude_(Wien)"
+      }
+     ]
+    },
+    {
+     "n": "Landhaus Herrengasse",
+     "kat": "politik",
+     "wiki": null,
+     "adr": "Herrengasse 13, 1010 Wien",
+     "lon": 16.366,
+     "lat": 48.2095,
+     "jahr": "1513",
+     "text": "Das Palais in der Herrengasse war Sitz der niederösterreichischen Landstände. Hier begann im März 1848 die Revolution in Wien, mit einer Versammlung vor dem Landhaus. Bis 1997 war es auch Sitz der niederösterreichischen Landesregierung.",
+     "fakt": null,
+     "quellen": [
+      {
+       "t": "Palais Niederösterreich (Wikipedia)",
+       "u": "https://de.wikipedia.org/wiki/Palais_Niederösterreich"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "linien": {
+  "1": {
+   "text": "Die Linie 1 verbindet Favoriten mit dem Ring und dem Prater. Sie und die Linie 2 befahren seit 2008 den Ring in je eine Richtung. Zusätzlich nutzt sie den Südgürtel-Tunnel, der ursprünglich als Teil einer U-Straßenbahn gedacht war. Als Ringlinie ist sie die klassische Sightseeing-Linie, aber auch Pendlerlinie ins Zentrum von Favoriten.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "2": {
+   "text": "Die Linie 2 fährt den Ring in Gegenrichtung zur 1 und reicht im Nordwesten nach Hernals, im Nordosten in die Brigittenau bis zum Friedrich-Engels-Platz. Seit 2009 verbindet ein Gleisanschluss sie mit dem Schmerlingplatz.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "5": {
+   "text": "Die Linie 5 verbindet den Westbahnhof über die Josefstadt und die Leopoldstadt mit dem Norden der Stadt. An ihrer Strecke zweigt in der Nordbahnstraße die Linie O vom Hauptweg ab. Als Querverbindung zwischen Westbahnhof und Praterstern ist sie eine Linie für Alltagswege abseits des Rings.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "6": {
+   "text": "Die Linie 6 fährt zwischen Burggasse und Favoriten über den Gürtel und durch den Südgürtel-Tunnel. Seit 2019 endet sie in einer neuen Schleife an der Geiereckstraße. Sie gehört zu den stark frequentierten Linien und ist eine klassische Gürtellinie.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "9": {
+   "text": "Die Linie 9 ist eine Gürtellinie und bedient die Strecke rund um den Westbahnhof. Bis 1976 verkehrten auf ihr die gelenkigen D1-Triebwagen, eine Seltenheit im damaligen Netz. Sie ist damit ein Relikt des früheren Gelenkwagenbetriebs.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "10": {
+   "text": "Die Linie 10 übernahm 2017 den Abschnitt Hietzing–Unter St. Veit. Sie verbindet den Westen der Stadt durch Penzing und Hernals. Geplant ist ein Anschluss an die U5 in Hernals bis Mitte der 2030er Jahre.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "11": {
+   "text": "Die Linie 11 fährt seit 2019 vom Otto-Probst-Platz über den Reumannplatz auf der Trasse der Linie 6 nach Kaiserebersdorf. Sie ersetzte die Linie 67, die in Etappen verkürzt wurde. Sie bindet Favoriten und Simmering enger zusammen.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "12": {
+   "text": "Die Linie 12 ist die jüngste Straßenbahnlinie der Stadt und seit 1. September 2025 in Betrieb. Sie zweigt bei der Rebhanngasse von der Linie 2 ab und führt über die Taborstraße und Vorgartenstraße zur Hillerstraße im Stuwerviertel. Eine zweite Ausbaustufe soll bis zum Nordwestbahnhof führen.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "18": {
+   "text": "Die Linie 18 nutzt den Südgürtel-Tunnel und wurde im September 2026 von der Schlachthausgasse durch den Prater am Stadion vorbei bis zur Meiereistraße am Handelskai verlängert. Dort ersetzt sie die Buslinie 77A. Historisch gab es auch eine Linie 18G als Misch-Straßenbahn-Bahn-Linie von 1925 bis 1945.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "25": {
+   "text": "Die Linie 25 wurde 2006 mit der Eröffnung der U1 nach Leopoldau eingestellt und 2012 auf dem Abschnitt Floridsdorf–Kagran wieder in Betrieb genommen. Sie bedient die Donaustadt, eine Verlängerung durch die Seestadt ist geplant. Sie ist ein Beispiel für die Rückkehr der Straßenbahn in Wachstumsgebiete.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "26": {
+   "text": "Die Linie 26 fährt über Kagraner Platz bis zur Hausfeldstraße, wo seit 2013 die U2 Anschluss bietet. Sie teilt sich die Strecke mit der Linie 27 nach Strebersdorf. Sie verbindet Floridsdorf und die Donaustadt.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "27": {
+   "text": "Die Linie 27 ist seit 6. Oktober 2025 in Betrieb. Sie zweigt bei der Prinzgasse nach Aspern Nord ab und fährt gemeinsam mit der 26 nach Strebersdorf. Sie erweitert das Straßenbahnnetz im Nordosten.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "30": {
+   "text": "Die Linie 30 verstärkt seit 2004 die Linie 31 zwischen Floridsdorf und Stammersdorf. Sie bedient den ländlichen Nordrand mit Weinbauvierteln wie Stammersdorf.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "31": {
+   "text": "Die Linie 31 führt nach Stammersdorf und verwendet seit 1996 den Korridor der früheren Linie 32. Sie ist die klassische Linie in die Heurigenorte nördlich der Donau. Die Linie 33 wurde 2025 eingestellt.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "37": {
+   "text": "Die Linie 37 gehört zu den radial aus der Innenstadt Richtung Nordwesten führenden Linien und fährt über die Währinger Straße. Sie bedient Döbling und das Gebiet um die Hohe Warte.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "38": {
+   "text": "Die Linie 38 führt vom Schottentor nach Grinzing und gehört zu den Linien in die Heurigenorte. Sie ist eine typische Ausflugsstrecke durch Döbling und Nußdorfer Straße.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "40": {
+   "text": "Die Linie 40 führt vom Schottentor nach Währing in Richtung Gersthof. Sie ist eine der klassischen Linien aus dem Alsergrund in die westlichen Vorstädte.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "41": {
+   "text": "Die Linie 41 fährt vom Schottentor nach Pötzleinsdorf. Der Endpunkt liegt am Rand des Wienerwaldes, nahe dem Pötzleinsdorfer Schlosspark.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "42": {
+   "text": "Die Linie 42 verbindet das Schottentor mit Währing und endet an der Antonigasse. Sie ist eine der kürzeren Linien aus der Innenstadt Richtung Nordwesten.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "43": {
+   "text": "Die Linie 43 führt über die Alser Straße nach Hernals und Dornbach. Sie fährt auf einer Strecke, die einst von der Dampftramway befahren wurde.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "44": {
+   "text": "Die Linie 44 fährt vom Schottentor über die Alser Straße nach Hernals. Seit 2017 wurden die Enden der Linien 44 und 2 am Johann-Nepomuk-Berger-Platz getauscht.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "46": {
+   "text": "Die Linie 46 endet am Schmerlingplatz und verbindet Josefstadt und Ottakring mit dem Ring. Als letzte Linie verlor sie 1996 die Schaffner.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "49": {
+   "text": "Die Linie 49 führt vom Ring beim Volkstheater nach Hütteldorf. Sie bedient den Westen der Stadt Richtung Penzing.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "52": {
+   "text": "Die Linie 52 verbindet den Westbahnhof mit Baumgarten in Penzing.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "60": {
+   "text": "Die Linie 60 führt vom Westbahnhof über Hietzing nach Rodaun, in den Bezirk Liesing. Seit 2017 beginnt sie am Westbahnhof, nachdem die Linie 58 eingestellt wurde. Sie ist eine der längsten Straßenbahnlinien Wiens und die einzige, die bis nach Liesing reicht.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "62": {
+   "text": "Die Linie 62 führt von der Oper über Meidling bis nach Lainz. Sie durchfährt den Südgürtel-Tunnel und gilt als die klassische Meidlinger Linie.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "71": {
+   "text": "Die Linie 71 fährt von der Börse am Ring über Rennweg und Simmeringer Hauptstraße zum Zentralfriedhof und weiter nach Kaiserebersdorf. Sie wurde berühmt als Linie zu den Friedhofstoren; die Wendung „den 71er nehmen“ ist umgangssprachlich ein Euphemismus für das Sterben. In Notzeiten, etwa am Ende des Ersten Weltkriegs, wurden auf dieser Strecke auch Särge zum Zentralfriedhof transportiert.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "D": {
+   "text": "Die Linie D gehört zu den beiden letzten Buchstabenlinien und fährt von Nußdorf über den Ring zum Hauptbahnhof und laut aktuellem Liniennetz der Wiener Linien (OGD) weiter bis Simmering. Sie wurde 2012 über das Quartier Belvedere zum Hauptbahnhof Ost und 2019 durch das Sonnwendviertel bis zur Absberggasse verlängert. Am Helmut-Zilk-Park verläuft sie auf Rasengleis.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "O": {
+   "text": "Die Linie O ist die zweite verbliebene Buchstabenlinie. Sie zweigt in der Nordbahnstraße von der Linie 5 ab und wurde 2020 vom Praterstern bis zur Bruno-Marek-Allee im Nordbahnviertel verlängert. Ein Anschluss an die U2 bei der Gußriegelstraße ist für die Mitte der 2030er Jahre geplant.",
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  "U1": {
+   "text": "Die U1 (rot) verbindet Leopoldau im Norden mit Oberlaa im Süden. Der erste Abschnitt Karlsplatz–Reumannplatz wurde 1978 eröffnet, 2006 folgte die Verlängerung nach Leopoldau, 2017 nach Oberlaa mit Therme Wien. Sie führt unter dem Stephansplatz durch und bedient die UNO-City.",
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  "U2": {
+   "text": "Die U2 (violett) entstand 1980 als Strecke Karlsplatz–Schottenring im früheren Straßenbahntunnel. Seit 2008 wurde sie über das Stadion nach Aspern ausgebaut, die Seestadt wurde 2013 erreicht. Die U2xU5 baut den Tunnelabschnitt Karlsplatz–Rathaus für den Mischbetrieb mit der U5 um.",
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  "U3": {
+   "text": "Die U3 (orange) wurde in Etappen eröffnet, Erdberg–Volkstheater 1991, Ottakring 1998 und Simmering 2000. Sie verbindet den Westen Wiens durch die Innenstadt mit Simmering. Sie wurde neu gebaut, nicht aus der Stadtbahn entwickelt.",
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  "U4": {
+   "text": "Die U4 (grün) fährt von Heiligenstadt nach Hütteldorf und nutzt die Trassen der alten Stadtbahn, die Donaukanal- und die Wientallinie. Sie wurde 1976 als erste U-Bahn-Linie eröffnet. Entlang der Strecke finden sich Stationen von Otto Wagner, etwa am Karlsplatz und in Hietzing.",
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  "U5": {
+   "text": "Die U5 (türkis) ist die in Bau befindliche fahrerlose Linie. Die erste Etappe soll vom Karlsplatz zum Frankhplatz in der Josefstadt führen und wurde auf 2030 verschoben. Sie soll später bis Hernals verlängert werden.",
+   "quellen": [
+    {
+     "t": "U-Bahn-Linie U5 (Wien) (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn-Linie_U5_(Wien)"
+    }
+   ]
+  },
+  "U6": {
+   "text": "Die U6 (braun) fährt von Siebenhirten im Süden nach Floridsdorf im Norden und folgt auf dem Gürtel der früheren Stadtbahn, die 1898 von Otto Wagner gestaltet wurde. Sie wurde 1989 als U-Bahn eröffnet und 1996 bis Floridsdorf verlängert.",
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  "13A": {
+   "text": "Die 13A ist Wiens berühmteste Buslinie und löste 1961 die Straßenbahnlinie 13 ab. Sie führte vom Alsergrund durch die Innere Stadt zum Südbahnhof, heute Hauptbahnhof. Berühmt waren ihre Doppeldeckerbusse; die Linie war ab 1996 Schauplatz von Blockaden für Barrierefreiheit.",
+   "quellen": [
+    {
+     "t": "Busverkehr in Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Busverkehr_in_Wien"
+    }
+   ]
+  },
+  "48A": {
+   "text": "Die 48A wurde 1974 eingeführt, nachdem seit 1968 ein Bus unter der Nummer 48 auf dieser Strecke fuhr. Seit 1976 verkehren Gelenkbusse ohne Schaffner. Seit 1998 bedient sie die U-Bahn-Station Ottakring. Seit 2014 kam zeitweise ein historischer Doppeldecker zum Einsatz.",
+   "quellen": [
+    {
+     "t": "Busverkehr in Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Busverkehr_in_Wien"
+    }
+   ]
+  },
+  "1A": {
+   "text": "Die Linie 1A gehört zu den Citybus-Linien der Innenstadt, die mit kleinen Bussen durch enge Gassen des ersten Bezirks fahren. Sie sind auf kurze Wege zwischen Plätzen und Bahnhöfen ausgerichtet.",
+   "quellen": [
+    {
+     "t": "Busverkehr in Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Busverkehr_in_Wien"
+    }
+   ]
+  },
+  "2A": {
+   "text": "Die Linie 2A gehört zu den Citybus-Linien der Innenstadt, die mit kleinen Bussen durch enge Gassen des ersten Bezirks fahren. Sie sind auf kurze Wege zwischen Plätzen und Bahnhöfen ausgerichtet.",
+   "quellen": [
+    {
+     "t": "Busverkehr in Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Busverkehr_in_Wien"
+    }
+   ]
+  },
+  "3A": {
+   "text": "Die Linie 3A gehört zu den Citybus-Linien der Innenstadt, die mit kleinen Bussen durch enge Gassen des ersten Bezirks fahren. Sie sind auf kurze Wege zwischen Plätzen und Bahnhöfen ausgerichtet.",
+   "quellen": [
+    {
+     "t": "Busverkehr in Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Busverkehr_in_Wien"
+    }
+   ]
+  }
+ },
+ "fragen": [
+  {
+   "q": "In welchem Jahr wurde Floridsdorf als 21. Bezirk nach Wien eingemeindet?",
+   "a": "1904",
+   "f": [
+    "1892",
+    "1900",
+    "1938"
+   ],
+   "erkl": "Floridsdorf kam 1904 als erster Bezirk nördlich der Donau zu Wien.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    }
+   ]
+  },
+  {
+   "q": "Aus welchem Bezirk wurde 1900 die Brigittenau als XX. Bezirk abgetrennt?",
+   "a": "Leopoldstadt",
+   "f": [
+    "Alsergrund",
+    "Floridsdorf",
+    "Landstraße"
+   ],
+   "erkl": "Die Brigittenau war bis 1900 Teil der Leopoldstadt.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    }
+   ]
+  },
+  {
+   "q": "Wodurch verschoben sich 1861 die Nummern der Bezirke Mariahilf bis Alsergrund um eins?",
+   "a": "Margareten wurde von der Wieden abgetrennt",
+   "f": [
+    "Die Josefstadt wurde geteilt",
+    "Hietzing kam dazu",
+    "Der Linienwall wurde abgetragen"
+   ],
+   "erkl": "Margareten wurde 1861 als V. Bezirk selbstständig, die folgenden Bezirke rückten nach.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    }
+   ]
+  },
+  {
+   "q": "In welchem Jahr wirkte das Gesetz, das die Vororte außerhalb des Linienwalls (Bezirke X–XIX) zu Wien brachte?",
+   "a": "1892",
+   "f": [
+    "1850",
+    "1904",
+    "1920"
+   ],
+   "erkl": "Das Gesetz von 1890 trat am 1. Jänner 1892 in Kraft.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    }
+   ]
+  },
+  {
+   "q": "Welche Gemeinden verließen 1954 Groß-Wien wieder?",
+   "a": "Rund 80 niederösterreichische Gemeinden, darunter Schwechat und Klosterneuburg",
+   "f": [
+    "Floridsdorf und Donaustadt",
+    "Alle Orte südlich des Gürtels",
+    "Nur Liesing"
+   ],
+   "erkl": "1954 wurde die Erweiterung von 1938 großteils rückgängig gemacht.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    }
+   ]
+  },
+  {
+   "q": "Warum heißt der 15. Bezirk Rudolfsheim-Fünfhaus?",
+   "a": "Er entstand 1938 aus der Vereinigung zweier Bezirke",
+   "f": [
+    "Er wurde nach zwei Kaisern benannt",
+    "Er liegt an zwei Flüssen",
+    "Er wurde 1954 geteilt"
+   ],
+   "erkl": "Rudolfsheim und Fünfhaus waren bis 1938 getrennte Bezirke.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Rudolfsheim-Fünfhaus (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Rudolfsheim-Fünfhaus"
+    }
+   ]
+  },
+  {
+   "q": "Nach wem ist der Bezirk Leopoldstadt benannt?",
+   "a": "Kaiser Leopold I.",
+   "f": [
+    "Kaiser Leopold II.",
+    "Herzog Leopold V.",
+    "Leopold Figl"
+   ],
+   "erkl": "Leopold I. vertrieb 1670 die Juden aus dem Unteren Werd und gab dem Viertel seinen Namen.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    }
+   ]
+  },
+  {
+   "q": "Wofür steht der Name Favoriten?",
+   "a": "Für die Favorita, das Lustschloss der Habsburger",
+   "f": [
+    "Für die beliebtesten Märkte",
+    "Für ein Fußballstadion",
+    "Für eine Gärtnerfamilie"
+   ],
+   "erkl": "Die Favorita ist das heutige Theresianum.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeindebezirke (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeindebezirke"
+    }
+   ]
+  },
+  {
+   "q": "Wann wurde der Linienwall errichtet?",
+   "a": "1704",
+   "f": [
+    "1529",
+    "1683",
+    "1857"
+   ],
+   "erkl": "Er entstand im Spanischen Erbfolgekrieg gegen die Kuruzzen.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Linienwall (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Linienwall"
+    }
+   ]
+  },
+  {
+   "q": "Welche Funktion hatte der Linienwall in späterer Zeit hauptsächlich?",
+   "a": "Steuergrenze für die Verzehrungssteuer",
+   "f": [
+    "Hochwasserdamm",
+    "Friedhofsmauer",
+    "Zollgrenze zu Ungarn"
+   ],
+   "erkl": "An den Linien wurde die Akzise auf eingeführte Waren eingehoben.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Linienwall (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Linienwall"
+    }
+   ]
+  },
+  {
+   "q": "Welcher heutigen Straße entspricht im Wesentlichen die Trasse des Linienwalls?",
+   "a": "Dem Gürtel",
+   "f": [
+    "Dem Ring",
+    "Der Donaulände",
+    "Der Triester Straße"
+   ],
+   "erkl": "Der Gürtel liegt auf der Linie des 1890er Jahre abgetragenen Walls.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Gürtel (Wien) (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Gürtel_(Wien)"
+    }
+   ]
+  },
+  {
+   "q": "Welcher Architekt prägte die Stationen der Wiener Stadtbahn ab 1898?",
+   "a": "Otto Wagner",
+   "f": [
+    "Adolf Loos",
+    "Theophil Hansen",
+    "Karl Ehn"
+   ],
+   "erkl": "Otto Wagner war künstlerischer Berater der Stadtbahn.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Stadtbahn (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Stadtbahn"
+    }
+   ]
+  },
+  {
+   "q": "Mit welchem Dokument ordnete Franz Joseph 1857 die Schleifung der Stadtmauer an?",
+   "a": "Mit dem Handschreiben vom 20. Dezember 1857",
+   "f": [
+    "Mit dem Staatsgrundgesetz 1867",
+    "Mit der Gemeindeordnung 1850",
+    "Mit dem Ringstraßengesetz 1890"
+   ],
+   "erkl": "Das Handschreiben begann die Ringstraßenzeit.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Ringstraße (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Ringstraße"
+    }
+   ]
+  },
+  {
+   "q": "Wie breit war das Glacis vor der Stadtmauer etwa?",
+   "a": "Rund 450 Meter",
+   "f": [
+    "Rund 50 Meter",
+    "Rund 1,5 Kilometer",
+    "Rund 150 Meter"
+   ],
+   "erkl": "Das Schussfeld blieb jahrhundertelang unverbaut.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Ringstraße (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Ringstraße"
+    }
+   ]
+  },
+  {
+   "q": "In welchem Jahr wurde die Ringstraße eröffnet?",
+   "a": "1865",
+   "f": [
+    "1848",
+    "1857",
+    "1883"
+   ],
+   "erkl": "Franz Joseph eröffnete den Ring 1865.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Ringstraße (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Ringstraße"
+    }
+   ]
+  },
+  {
+   "q": "Welches Bauwerk der Stadtbefestigung blieb als Torbau am Heldenplatz erhalten?",
+   "a": "Das Äußere Burgtor",
+   "f": [
+    "Das Stubentor",
+    "Das Schottentor",
+    "Das Kärntnertor"
+   ],
+   "erkl": "Es wurde 1824 als Siegesdenkmal vollendet.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Äußeres Burgtor (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Äußeres_Burgtor"
+    }
+   ]
+  },
+  {
+   "q": "Wann wurde die Donau bei Wien durch den neuen Hauptstrom reguliert?",
+   "a": "1870 bis 1875",
+   "f": [
+    "1830 bis 1835",
+    "1900 bis 1910",
+    "1950 bis 1960"
+   ],
+   "erkl": "Das neue Bett ist rund 280 Meter breit.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Donauregulierung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Donauregulierung"
+    }
+   ]
+  },
+  {
+   "q": "Wie lang ist die Donauinsel ungefähr?",
+   "a": "21 Kilometer",
+   "f": [
+    "5 Kilometer",
+    "12 Kilometer",
+    "40 Kilometer"
+   ],
+   "erkl": "Sie entstand 1972 bis 1988 beim Bau der Neuen Donau.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Donauinsel (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Donauinsel"
+    }
+   ]
+  },
+  {
+   "q": "Wer entwarf das Nussdorfer Wehr am Donaukanal?",
+   "a": "Otto Wagner",
+   "f": [
+    "Friedrich Ohmann",
+    "Joseph Maria Olbrich",
+    "Hubert Gessner"
+   ],
+   "erkl": "Das Wehr entstand 1894 bis 1898.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Donaukanal (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Donaukanal"
+    }
+   ]
+  },
+  {
+   "q": "Was ist die Alte Donau?",
+   "a": "Ein von der Regulierung abgetrennter Donauarm",
+   "f": [
+    "Ein Kanal des 18. Jahrhunderts",
+    "Ein Teil des Donaukanals",
+    "Ein Stausee im Wienerwald"
+   ],
+   "erkl": "Sie blieb als Stillgewässer erhalten.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Alte Donau (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Alte_Donau"
+    }
+   ]
+  },
+  {
+   "q": "In welchem Zeitraum wurde der Wienfluss reguliert und teilweise eingewölbt?",
+   "a": "1895 bis 1899",
+   "f": [
+    "1750 bis 1760",
+    "1920 bis 1930",
+    "1960 bis 1970"
+   ],
+   "erkl": "Gleichzeitig entstand die Wientallinie der Stadtbahn.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wienfluss (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wienfluss"
+    }
+   ]
+  },
+  {
+   "q": "Was liegt auf dem eingewölbten Wienfluss?",
+   "a": "Der Naschmarkt",
+   "f": [
+    "Der Prater",
+    "Der Karlsplatz allein",
+    "Der Brunnenmarkt"
+   ],
+   "erkl": "Der Markt nutzt den früheren Flussraum.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Naschmarkt (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Naschmarkt"
+    }
+   ]
+  },
+  {
+   "q": "Nach welchem Bach ist der Alsergrund benannt?",
+   "a": "Alserbach",
+   "f": [
+    "Krottenbach",
+    "Ottakringer Bach",
+    "Wienfluss"
+   ],
+   "erkl": "Der Alserbach floss durch Hernals und den Alsergrund.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Alserbach (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Alserbach"
+    }
+   ]
+  },
+  {
+   "q": "Wer wurde 1919 erster sozialdemokratischer Bürgermeister Wiens?",
+   "a": "Jakob Reumann",
+   "f": [
+    "Karl Seitz",
+    "Karl Lueger",
+    "Theodor Körner"
+   ],
+   "erkl": "Karl Seitz folgte 1923.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Rotes Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Rotes_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Welcher Finanzstadtrat finanzierte das Wohnbauprogramm des Roten Wien?",
+   "a": "Hugo Breitner",
+   "f": [
+    "Julius Tandler",
+    "Otto Bauer",
+    "Karl Renner"
+   ],
+   "erkl": "Er führte die Wohnbausteuer und weitere Abgaben ein.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Rotes Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Rotes_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Wer plante den Karl-Marx-Hof?",
+   "a": "Karl Ehn",
+   "f": [
+    "Hubert Gessner",
+    "Harry Glück",
+    "Otto Wagner"
+   ],
+   "erkl": "Er wurde 1927 bis 1930 gebaut.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Karl-Marx-Hof (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Karl-Marx-Hof"
+    }
+   ]
+  },
+  {
+   "q": "Wer plante den Wohnpark Alt-Erlaa?",
+   "a": "Harry Glück",
+   "f": [
+    "Karl Ehn",
+    "Roland Rainer",
+    "Hundertwasser"
+   ],
+   "erkl": "Die Anlage mit Dachschwimmbädern entstand 1973 bis 1985.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wohnpark Alt-Erlaa (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wohnpark_Alt-Erlaa"
+    }
+   ]
+  },
+  {
+   "q": "Wann wurde die I. Wiener Hochquellenwasserleitung eröffnet?",
+   "a": "1873",
+   "f": [
+    "1848",
+    "1910",
+    "1925"
+   ],
+   "erkl": "Ihr zu Ehren entstand der Hochstrahlbrunnen.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "I. Wiener Hochquellenwasserleitung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/I._Wiener_Hochquellenwasserleitung"
+    }
+   ]
+  },
+  {
+   "q": "Aus welchem Gebiet stammt das Wasser der I. Hochquellenleitung?",
+   "a": "Rax und Schneeberg",
+   "f": [
+    "Hochschwab",
+    "Dachstein",
+    "Ötscher"
+   ],
+   "erkl": "Die II. Leitung (1910) holt Wasser aus dem Hochschwabgebiet.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "I. Wiener Hochquellenwasserleitung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/I._Wiener_Hochquellenwasserleitung"
+    }
+   ]
+  },
+  {
+   "q": "Wann fuhr die erste Pferdetramway in Wien?",
+   "a": "1865",
+   "f": [
+    "1832",
+    "1897",
+    "1907"
+   ],
+   "erkl": "Sie verband Schottentor und Hernals.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Wann wurde die Stadtbahn eröffnet?",
+   "a": "1898",
+   "f": [
+    "1865",
+    "1925",
+    "1976"
+   ],
+   "erkl": "Sie bestand aus Gürtel-, Wiental- und Donaukanallinie.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Stadtbahn (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Stadtbahn"
+    }
+   ]
+  },
+  {
+   "q": "Welche U-Bahn-Linie wurde 1976 als erste eröffnet?",
+   "a": "U4",
+   "f": [
+    "U1",
+    "U2",
+    "U6"
+   ],
+   "erkl": "Sie nutzte die alte Stadtbahntrasse.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  {
+   "q": "In welchem Jahr wurde der Bau der U-Bahn beschlossen und ab wann gebaut?",
+   "a": "Beschluss 1968, Baubeginn 1969",
+   "f": [
+    "Beschluss 1945, Baubeginn 1950",
+    "Beschluss 1975, Baubeginn 1976",
+    "Beschluss 1985, Baubeginn 1986"
+   ],
+   "erkl": "Der Spatenstich erfolgte am Karlsplatz.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Welche Farbe hat die U-Bahn-Linie U4?",
+   "a": "Grün",
+   "f": [
+    "Orange",
+    "Violett",
+    "Rot"
+   ],
+   "erkl": "U1 rot, U2 violett, U3 orange, U4 grün, U5 türkis, U6 braun.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "U-Bahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Wohin soll die erste Etappe der U5 führen?",
+   "a": "Vom Karlsplatz zum Frankhplatz",
+   "f": [
+    "Von Hütteldorf nach Floridsdorf",
+    "Vom Westbahnhof nach Aspern",
+    "Vom Praterstern zum Hauptbahnhof"
+   ],
+   "erkl": "Der Start wurde zuletzt auf 2030 verschoben.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "U-Bahn-Linie U5 (Wien) (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/U-Bahn-Linie_U5_(Wien)"
+    }
+   ]
+  },
+  {
+   "q": "Welche beiden Straßenbahnlinien tragen noch Buchstaben?",
+   "a": "D und O",
+   "f": [
+    "A und B",
+    "G und H",
+    "J und K"
+   ],
+   "erkl": "Alle anderen sind Ziffernlinien.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Welche Straßenbahnlinie ist seit 2025 neu und zweigt bei der Rebhanngasse von der 2 ab?",
+   "a": "Linie 12",
+   "f": [
+    "Linie 27",
+    "Linie 18",
+    "Linie 33"
+   ],
+   "erkl": "Sie fährt zur Hillerstraße im Stuwerviertel.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Straßenbahn Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Straßenbahn_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Welche Buslinie löste 1961 die Straßenbahnlinie 13 ab?",
+   "a": "13A",
+   "f": [
+    "48A",
+    "2A",
+    "5A"
+   ],
+   "erkl": "Sie war für ihre Doppeldecker berühmt.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Busverkehr in Wien (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Busverkehr_in_Wien"
+    }
+   ]
+  },
+  {
+   "q": "Seit wann ist der Wiener Gemischte Satz als DAC geschützt?",
+   "a": "2013",
+   "f": [
+    "1784",
+    "1905",
+    "1996"
+   ],
+   "erkl": "Mehrere Sorten stehen gemeinsam im Weingarten.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemischter Satz (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemischter_Satz"
+    }
+   ]
+  },
+  {
+   "q": "Welcher Kaiser erlaubte 1784 den Ausschank selbst erzeugten Weins und damit den Heurigen?",
+   "a": "Joseph II.",
+   "f": [
+    "Franz Joseph I.",
+    "Maria Theresia",
+    "Leopold I."
+   ],
+   "erkl": "Der Strohkranz zeigt „ausg'steckt“ an.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Heuriger (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Heuriger"
+    }
+   ]
+  },
+  {
+   "q": "Wofür steht das Wort „Heuriger“ ursprünglich?",
+   "a": "Für den Wein des laufenden Jahres",
+   "f": [
+    "Für ein Winzerhaus",
+    "Für ein Weinfass",
+    "Für einen Wiener Winzerverband"
+   ],
+   "erkl": "Heuer = in diesem Jahr.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Heuriger (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Heuriger"
+    }
+   ]
+  },
+  {
+   "q": "In welchem Jahr beschloss der Gemeinderat den Wald- und Wiesengürtel?",
+   "a": "1905",
+   "f": [
+    "1873",
+    "1923",
+    "1996"
+   ],
+   "erkl": "Josef Schöffel hatte zuvor den Wienerwald gerettet.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Josef Schöffel (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Josef_Schöffel"
+    }
+   ]
+  },
+  {
+   "q": "Welches Gebiet wurde 1996 zum Nationalpark?",
+   "a": "Donau-Auen mit der Lobau",
+   "f": [
+    "Lainzer Tiergarten",
+    "Prater",
+    "Kahlenberg"
+   ],
+   "erkl": "Der Nationalpark Donau-Auen reicht in die Stadt hinein.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Lobau (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Lobau"
+    }
+   ]
+  },
+  {
+   "q": "Wer schuf das Mahnmal am Judenplatz?",
+   "a": "Rachel Whiteread",
+   "f": [
+    "Alfred Hrdlicka",
+    "Hans Gasser",
+    "Anish Kapoor"
+   ],
+   "erkl": "Es wurde 2000 enthüllt.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Mahnmal für die österreichischen jüdischen Opfer der Shoah (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Mahnmal_für_die_österreichischen_jüdischen_Opfer_der_Shoah"
+    }
+   ]
+  },
+  {
+   "q": "Wer schuf das Denkmal gegen Krieg und Faschismus am Albertinaplatz?",
+   "a": "Alfred Hrdlicka",
+   "f": [
+    "Rachel Whiteread",
+    "Karl Ehn",
+    "Fritz Wotruba"
+   ],
+   "erkl": "Es entstand 1988 bis 1991.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Denkmal gegen Krieg und Faschismus (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Denkmal_gegen_Krieg_und_Faschismus"
+    }
+   ]
+  },
+  {
+   "q": "Wie heißen die kleinen Gedenktafeln für NS-Opfer in Wiener Gehwegen?",
+   "a": "Steine der Erinnerung",
+   "f": [
+    "Stolpersteine",
+    "Mahnplatten",
+    "Erinnerungsfliesen"
+   ],
+   "erkl": "Der Verein setzt sie seit 2005.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Steine der Erinnerung (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Steine_der_Erinnerung"
+    }
+   ]
+  },
+  {
+   "q": "Wo befand sich die Gestapo-Leitstelle Wien?",
+   "a": "Im Hotel Metropol am Morzinplatz",
+   "f": [
+    "Im Palais Epstein",
+    "Im Wiener Rathaus",
+    "In der Hofburg"
+   ],
+   "erkl": "Heute erinnert dort ein Mahnmal.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Morzinplatz (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Morzinplatz"
+    }
+   ]
+  },
+  {
+   "q": "Welche Sage ist mit dem Haus Schönlaterngasse 7 verbunden?",
+   "a": "Der Basilisk",
+   "f": [
+    "Der Lindwurm",
+    "Das Donauweibchen",
+    "Der Stock im Eisen"
+   ],
+   "erkl": "Ein Bäckerjunge soll 1212 den Basilisken getötet haben.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Basiliskenhaus (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Basiliskenhaus"
+    }
+   ]
+  },
+  {
+   "q": "In welchem Jahr begann der Bau der Seestadt Aspern?",
+   "a": "2009",
+   "f": [
+    "1989",
+    "1999",
+    "2019"
+   ],
+   "erkl": "Die U2 erreichte sie 2013.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Seestadt Aspern (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Seestadt_Aspern"
+    }
+   ]
+  },
+  {
+   "q": "Welche Funktion hat Wien rechtlich?",
+   "a": "Gemeinde und Bundesland zugleich",
+   "f": [
+    "Nur Gemeinde",
+    "Nur Bundesland",
+    "Bundesstadt ohne Land"
+   ],
+   "erkl": "Der Gemeinderat ist zugleich Landtag.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeinderat (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeinderat"
+    }
+   ]
+  },
+  {
+   "q": "Wie viele Mitglieder hat der Wiener Gemeinderat?",
+   "a": "100",
+   "f": [
+    "50",
+    "80",
+    "120"
+   ],
+   "erkl": "Seit 2025 sitzen dort SPÖ, FPÖ, Grüne, ÖVP und NEOS.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Wiener Gemeinderat (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Wiener_Gemeinderat"
+    }
+   ]
+  },
+  {
+   "q": "Welche Parteien bilden nach der Wahl 2025 die Wiener Stadtregierung?",
+   "a": "SPÖ und NEOS",
+   "f": [
+    "SPÖ und Grüne",
+    "SPÖ und ÖVP",
+    "SPÖ und FPÖ"
+   ],
+   "erkl": "Bürgermeister ist Michael Ludwig.",
+   "wiki": null,
+   "quellen": [
+    {
+     "t": "Landtagswahl in Wien 2025 (Wikipedia)",
+     "u": "https://de.wikipedia.org/wiki/Landtagswahl_in_Wien_2025"
+    }
+   ]
+  }
+ ]
+}

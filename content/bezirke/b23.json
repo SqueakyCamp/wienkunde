@@ -1,0 +1,753 @@
+{
+  "nr": 23,
+  "name": "Liesing",
+  "kurz": "Ein Bezirk aus acht ehemals niederösterreichischen Dörfern, in dem Brauereien, Konservenfabriken und Kläranlagen mit Wotruba-Kirche und Wohnpark Alterlaa die Stadt am Südrand prägen.",
+  "profil": [
+    "Liesing ist erst seit 1938 Teil Wiens und war bis 1954 der 25. Bezirk. Die Orte Atzgersdorf, Erlaa, Inzersdorf, Kalksburg, Liesing, Mauer, Rodaun und Siebenhirten waren bis dahin selbständige niederösterreichische Gemeinden, Liesing selbst war 1905 zur Stadt erhoben worden. Nach dem Krieg sollte der Bezirk 1946 beschlossen, aber erst am 1. September 1954 mit dem Gebietsänderungsgesetz als 23. Bezirk verwirklicht werden. Der nördliche Teil von Inzersdorf mit der Katastralgemeinde Inzersdorf-Stadt war schon 1890 zum 10. Bezirk gekommen, Teile von Mauer 1892 zu Hietzing. Auhof und Hadersdorf-Weidlingau, die 1938 ebenfalls zu Liesing gehörten, wurden später dem 14. Bezirk zugeschlagen.",
+    "Der Bezirk erstreckt sich vom Wienerwald über das Liesingtal ins Wiener Becken. Der Liesingbach, benannt nach einem slawischen Gewässernamen (Lesnika, Waldbach, 1002 als Liezniccha erwähnt), entsteht in Rodaun aus Dürrer und Reicher Liesing. Auch Rodaun (um 1170 Radune) hat einen slawischen Namen, Atzgersdorf (um 1120) und Erlaa (um 1114) gehören zu den ältesten urkundlich genannten Orten der Gegend, Mauer wird 1114 erstmals als Burg genannt. In Mauer liegt mit der Antonshöhe eines der bedeutendsten jungsteinzeitlichen Bergwerke Österreichs.",
+    "Die Herrschaften wechselten mehrfach, aber ein Muster ist gut erkennbar: Die Jesuiten waren in Mauer und Kalksburg Grundherren (1609 bis 1773), in Atzgersdorf und Liesing gehörte der Besitz der Goldeggschen Stiftung bzw. dem St.-Barbara-Konvikt, in Erlaa herrschte ab 1765 Fürst Starhemberg. Die Türken 1529 und 1683 verwüsteten fast alle Orte, in Rodaun und Inzersdorf gab es um 1600 starke protestantische Zentren. Aus dieser Zeit stammt die Verbindung zur Adels- und Hofgesellschaft, die in Schlössern wie dem Erlaaer Schloss von Nikolaus Pacassi (1766-1770) oder dem Rodauner Schloss ihre Landsitze hatte.",
+    "Mit der Südbahn (1841 Wien-Gloggnitzer Bahn) wurde das Liesingtal ab dem 19. Jahrhundert zum Industriegebiet. In Liesing entstanden die Brauerei von Johann Georg Held (1839 bis 1974) und der Verlag Artaria, in Inzersdorf die erste österreichische Militärkonservenfabrik (1873, später Nahrungsmittelwerke Inzersdorfer bis 2004), in Atzgersdorf Klavier- und Schuhfabriken, in Siebenhirten die Brauerei Schellenhof. Das hat auch zu großen Kläranlagen am Liesingbach geführt, etwa die Gelbe Haide (1949) und Blumental (1970 bis 2005). Heute ist Liesing ein Gewerbe- und Betriebsgebiet mit Einkaufszentren und Technologiebetrieben.",
+    "Zwischen den alten Ortskernen entstanden vom 20. Jahrhundert an ausgedehnte Wohnsiedlungen: die Gemeindebauten der 1950er- bis 1970er-Jahre (Radfux-Hof, Truman-Hof), die Flachbausiedlung Maurerberg von Roland Rainer (1958-1964), später große Anlagen wie der Ella-Lingens-Hof (1997-1999) und der Wohnpark Alterlaa. In der NS-Zeit gab es eine ganze Reihe von Zwangsarbeitslagern, in Atzgersdorf wurde 1938 die Synagoge in der Dirmhirngasse zerstört, und am Georgenberg wurde eine Luftnachrichtenkaserne begonnen.",
+    "Mauer war Garnisonsort (ab 1777) und Flugplatz (1919 bis 1929), Kalksburg bekannt für das Jesuitenkolleg und das 1956 gegründete Genesungsheim, das heutige Anton-Proksch-Institut. Rodaun und Kalksburg sind noch heute Sommerfrischeorte am Wienerwaldrand, mit Klettergarten (Mizzi-Langer-Wand) und Bädern wie dem Stelzerbad. 2008 bis 2014 war das Wiental Zielgebiet der Stadtentwicklung, die Verdichtung am Liesingbach und an der Breitenfurter Straße ist ein Dauerthema."
+  ],
+  "politik": "Liesing ist ein traditionell sozialdemokratischer Bezirk. Bei der Bezirksvertretungswahl 2025 erreichte die SPÖ 38,9 Prozent vor der FPÖ (22,6), ÖVP (11,5), Grünen (10,5), NEOS (9,1), PRO (2,9) und KPÖ (2,3), die Beteiligung lag bei 52,2 Prozent. Bei der Gemeinderatswahl im Bezirk kam die SPÖ auf 39,8, die FPÖ auf 23,9 Prozent. Bezirksvorsteher ist Gerald Bischof (SPÖ), der nach der Angelobung der neuen Bezirksvertretung 2025 erneut bestätigt wurde. Der FPÖ-Anteil ist hier höher als in den meisten Innenbezirken, was für Randbezirke mit Gewerbegebieten typisch ist. Hans Lackner (SPÖ) war von 1968 bis 1983 Bezirksvorsteher.",
+  "quellen": [
+    {
+      "t": "Wien Geschichte Wiki: Liesing",
+      "u": "https://www.geschichtewiki.wien.gv.at/Liesing"
+    },
+    {
+      "t": "Wikipedia: Liesing (Wien)",
+      "u": "https://de.wikipedia.org/wiki/Liesing_(Wien)"
+    },
+    {
+      "t": "Stadt Wien: Liesing",
+      "u": "https://www.wien.gv.at/bezirke/liesing/"
+    }
+  ],
+  "teile": [
+    {
+      "n": "Liesing",
+      "art": "Dorf",
+      "wiki": "Liesing (Gemeinde)",
+      "lon": 16.288,
+      "lat": 48.1346,
+      "text": "Das Dorf am Liesingbach wird 1002 als „Liezniccha“ erwähnt, der älteste Ortskern liegt im Bereich des heutigen städtischen Pflegeheims. Es war in Ober- und Unterliesing geteilt, Herren von Liesing sind ab 1179 bezeugt. Nach den Türken 1529 wurde es weitgehend zerstört, 1543 unterstellte Ferdinand I. Liesing und Atzgersdorf dem Bistum Wien. 1841 erhielt es einen Südbahn-Anschluss, 1905 wurde es zur Stadt erhoben. Sie war bis 1938 selbständige Stadtgemeinde.",
+      "quellen": []
+    },
+    {
+      "n": "Atzgersdorf",
+      "art": "Dorf",
+      "wiki": "Atzgersdorf (Ort)",
+      "lon": 16.296,
+      "lat": 48.146,
+      "text": "Atzgersdorf wird um 1120/1130 als Azichinstorf erstmals genannt. Das älteste Zentrum liegt um den Kirchenplatz mit der Katharinenkirche, deren Gründung um 1300 liegt. 1411 wurde die Herrschaft gemeinsam mit Lainz, Speising und Liesing an die Brüder Gradner verliehen, ab 1657 gehörte sie den Jesuiten (Konvikt St. Barbara), 1775 kam sie an die Starhemberg in Erlaa. Der Ort wurde zum Industriestandort mit Klavier-, Schuh- und Maschinenfabriken und wurde am 15. Oktober 1938 eingemeindet.",
+      "quellen": []
+    },
+    {
+      "n": "Inzersdorf",
+      "art": "Dorf",
+      "wiki": "Inzersdorf (Ort)",
+      "lon": 16.3535,
+      "lat": 48.1492,
+      "text": "Inzersdorf entstand als Brückenort am Liesingbach, die Pfarre wurde 1217 von Ulrich von Rodaun als eine von St. Stephan unabhängige Pfarre gegründet und gehört zu den ältesten Wiens. 1890 wurde fast das gesamte nördliche Gemeindegebiet als Inzersdorf-Stadt nach Favoriten eingemeindet, nicht aber das eigentliche Dorf. Das heutige Inzersdorf kam am 15. Oktober 1938 zu Wien. Das Alte und das Neue Inzersdorfer Schloss wurden beide 1965 für die Südosttangente abgerissen.",
+      "quellen": []
+    },
+    {
+      "n": "Erlaa",
+      "art": "Dorf",
+      "wiki": "Erlaa (Ort)",
+      "lon": 16.3112,
+      "lat": 48.1488,
+      "text": "Erlaa wird um 1114 als „Erila“ erwähnt. Es besteht aus Alt- und Neuerlaa, das älteste Gassendorf liegt entlang der S-förmigen Windung von Anton-Baumgartner-Straße und Erlaaer Straße. Bis Mitte des 16. Jahrhunderts bestand über die Familie Eckartsauer ein Zusammenhang mit Mauer und Kalksburg, 1775 erwarb Georg Adam Fürst Starhemberg die Grundherrschaft und baute das Erlaaer Schloss aus. Seit 1938 gehört es zu Wien. Alterlaa am rechten Ufer ist das Gebiet des Schlosses und der später entstandenen Wohnpark-Anlage.",
+      "quellen": []
+    },
+    {
+      "n": "Siebenhirten",
+      "art": "Dorf",
+      "wiki": "Siebenhirten (Ort)",
+      "lon": 16.3096,
+      "lat": 48.1276,
+      "text": "Siebenhirten wird um 1140/1150 als „Subinnirtin“, sieben Hirten (vielleicht die ersten Siedler), erstmals genannt. Das regelmäßige Straßendorf entstand aus einer Zeilensiedlung am Petersbach westlich der heutigen Triester Straße, im 15. Jahrhundert bestanden die Teufelsmühle und die St.-Mang-Kirche (1944 zerstört). Von 1559 bis 1848 gehörte es zur Rodauner Grundherrschaft. 1911/1912 wurde eine eigene Pfarre gegründet, seit 1938 ist es Wiener Stadtteil. Die Einwohnerzahl stieg von 1.076 (1880) auf über 8.000 (1991).",
+      "quellen": []
+    },
+    {
+      "n": "Mauer",
+      "art": "Dorf",
+      "wiki": "Mauer (Ort)",
+      "lon": 16.2686,
+      "lat": 48.1507,
+      "text": "Mauer wird 1114 als Burg („Gereut“) und 1210 als Můer genannt, es gab schon unter den Babenbergern ein Jagdschloss. Der alte Ort, ein Grabenangerdorf, erstreckte sich entlang des Hauptplatzes und der Endresstraße, die Erhardkirche (um 1450) steht an der Grenze zu Hietzing. Die Jesuiten waren von 1609 bis 1773 Grundherren, danach wurde Mauer ab 1777 Garnisonsort. Das Schloss („Untere Kaserne“) wurde 1895 abgetragen, die Engelsburg („Obere Kaserne“) 1923 bis 1926. Ein kleiner Teil kam 1892 nach Hietzing, der Rest 1938 nach Wien.",
+      "quellen": []
+    },
+    {
+      "n": "Rodaun",
+      "art": "Dorf",
+      "wiki": "Rodaun (Ort)",
+      "lon": 16.2571,
+      "lat": 48.1335,
+      "text": "Rodaun liegt am Austritt des Liesingbachs aus dem Wienerwald und wird um 1170 als „Radune“ erstmals genannt, nach einem slawischen Mädchennamen. Die Herren von Rodaun waren ein babenbergisches Dienstmannengeschlecht und begleiteten Leopold V. 1190 auf den Kreuzzug. Unter den Freiherren von Landau war der Ort um 1600 ein Zentrum des Protestantismus. Im 18. Jahrhundert wurde es mit seiner schwefel- und eisenhaltigen Thermalquelle ein beliebter Aufenthaltsort des Adels, um 1900 Sommerfrische mit dem Wirtshaus von Johann Stelzer. In Rodaun lebte außerdem Hugo von Hofmannsthal.",
+      "quellen": [
+        {
+          "t": "Wikipedia: Rodaun",
+          "u": "https://de.wikipedia.org/wiki/Rodaun"
+        }
+      ]
+    },
+    {
+      "n": "Kalksburg",
+      "art": "Dorf",
+      "wiki": "Kalksburg (Ort)",
+      "lon": 16.2451,
+      "lat": 48.1378,
+      "text": "Kalksburg ist ein Kirchweiler im Bereich einer ehemaligen Burg am Eingang der Klause, der Verbindung nach Mauer. Der Name kommt von „Kalb“, nicht von Kalk (Umdeutung 1357), also von einem Flurnamen für ein Berggelände mit Kälberweide. 1463 wurde die Burg zerstört, später gab es keinen eigenen Herrschaftssitz mehr. Der Hofjuwelier Franz von Mack erwarb 1790 mit Mauer auch Kalksburg, errichtete hier mehrere Bauten und gründete die Pfarrkirche (Weihe 1801). Sein Schloss ging 1856 an die Jesuiten, die hier ein Kolleg eröffneten. Eingemeindung 1938.",
+      "quellen": []
+    },
+    {
+      "n": "Breitenfurt (Flurname)",
+      "art": "Grätzel",
+      "wiki": "Breitenfurt",
+      "lon": 16.2867,
+      "lat": 48.1372,
+      "text": "Breitenfurt war ursprünglich ein Flurname, der 1544 erstmals genannt wird. Die ersten Siedler dürften Holzarbeiter gewesen sein, die das Waldgebiet rodeten, im 17. Jahrhundert entstand der Ort. Gasthäuser im Liesingtal („Grüner Baum“, „Roter Stadel“) zogen Wiener Sommergäste an. Grundherrschaft war die kaiserliche Waldherrschaft Purkersdorf. Die Breitenfurter Straße ist heute die Hauptachse des Bezirks zwischen Atzgersdorf und Liesing.",
+      "quellen": []
+    },
+    {
+      "n": "Maurerberg",
+      "art": "Siedlung",
+      "wiki": "Maurerbergsiedlung",
+      "lon": 16.2614,
+      "lat": 48.1428,
+      "text": "Die Maurerbergsiedlung (Maurerberggasse, Rudolf-Waisenhorn-Gasse) entstand 1958 bis 1964 nach Plänen von Roland Rainer auf einem steilen Südwesthang. 43 Einfamilienhäuser verwirklichen erstmals in Wien Rainers Konzept des „urbanen Flachbaus“. Die Siedlung liegt oberhalb von Liesing, nahe dem Maurer Wald.",
+      "quellen": []
+    },
+    {
+      "n": "Willendorf (abgekommen)",
+      "art": "Dorf",
+      "wiki": "Steinhof",
+      "lon": 16.3294,
+      "lat": 48.1545,
+      "text": "Der Steinhof in Inzersdorf war ein herrschaftlicher Gutshof und das Zentrum des abgekommenen Orts Willendorf, der westlich der Triester Straße bis zur Erlaaer Straße reichte und am 28. November 1437 urkundlich genannt wird. Der Hof wurde im 16. Jahrhundert während der Türkenkriege zerstört und in veränderter Form wiederaufgebaut. Die Willendorfer Gasse erinnert noch an den verschwundenen Ort, in der auch ein Schokolademuseum liegt.",
+      "quellen": []
+    }
+  ],
+  "orte": [
+    {
+      "n": "Antonshöhe: jungsteinzeitliches Bergwerk",
+      "kat": "geschichte",
+      "wiki": "Antonshöhe",
+      "adr": "Maurer Wald, Antonshöhe",
+      "lon": 16.2439,
+      "lat": 48.1486,
+      "jahr": "um 5000 v. Chr.",
+      "text": "Seit 1880 gab es hier einen Steinbruch für Straßenschotter. 1924 kamen bei Sprengarbeiten menschliche Knochen zum Vorschein, 1929 und 1930 grub Josef Bayer vom Naturhistorischen Museum vier Schächte und sechs Gräber mit sieben Individuen aus. Die Schächte waren acht bis zehn Meter tief, in einem gab es unten eine sechs Meter lange Abbaustrecke, gewonnen wurde Hornstein für Klingen, Schaber und Pfeilspitzen. Radiokarbondaten der Toten ergeben 4500 bis 4200 v. Chr. und gehören zur späteren Lengyel-Kultur. Der Fundort gilt als eines der bedeutendsten neolithischen Kulturdenkmäler Österreichs.",
+      "fakt": "Die Bergleute wurden in den aufgelassenen Schächten ihres eigenen Bergwerks bestattet.",
+      "quellen": []
+    },
+    {
+      "n": "Wotruba-Kirche auf dem Georgenberg",
+      "kat": "bauwerk",
+      "wiki": "Wotruba-Kirche",
+      "adr": "Ottillingerplatz 1",
+      "lon": 16.257,
+      "lat": 48.149,
+      "jahr": "1974–1976",
+      "text": "Ursprünglich war die Kirche für ein Karmelitinnenkloster in Stein bei Wien geplant, was aber dem Armutsgelübde widersprach. Margarete Ottillinger, die nach ihrer Deportation in der Sowjetunion zurückgekehrt war und die Kirche als Dank betrachtete, kümmerte sich um Organisation und Finanzierung. Fritz Wotruba, auf den Prälat Ungar sie hinwies, sah sie als Skulptur, in der Landschaft, Architektur und Stadt eins werden. 152 Betonblöcke mit über 4.000 Tonnen sind asymmetrisch aufgeschichtet. Die Baugenehmigung wurde am 24. Juli 1974 erteilt, die Einweihung war am 24. Oktober 1976.",
+      "fakt": "Die Kirche besteht aus 152 Betonblöcken mit zusammen über 4.000 Tonnen.",
+      "quellen": []
+    },
+    {
+      "n": "Luftnachrichtenkaserne am Georgenberg",
+      "kat": "erinnerung",
+      "wiki": "Luftnachrichtentruppen-Kaserne",
+      "adr": "Kalksburger Straße / Rysergasse",
+      "lon": 16.2549,
+      "lat": 48.1457,
+      "jahr": "1938–1949",
+      "text": "Unmittelbar nach dem Anschluss 1938 begann das Luftgaukommando XVII mit dem Bau einer Kaserne auf dem Georgenberg, die kriegsbedingt 1941 eingestellt wurde. Das Areal umfasste zunächst etwa 15 Hektar, die Anlage hatte rund sechs Hektar. Das Luftnachrichten-Regiment 4 bezog das gleichzeitig errichtete Quartier. Die Kaserne wurde 1949 abgebrochen, später entstand auf dem Georgenberg die Wotruba-Kirche. Der Georgenberg (322 m) war davor in historischer Zeit unbebaut gewesen und ist eine frühzeitliche Siedlungsstätte.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Maurerbergsiedlung: urbaner Flachbau",
+      "kat": "wohnen",
+      "wiki": "Maurerbergsiedlung",
+      "adr": "Maurerberggasse, Rudolf-Waisenhorn-Gasse",
+      "lon": 16.2614,
+      "lat": 48.1428,
+      "jahr": "1958–1964",
+      "text": "Roland Rainer plante die Siedlung auf einem steilen Südwesthang mit Fernsicht. Sie umfasst 43 Einfamilienhäuser und war das erste Wiener Beispiel für seinen Gedanken des „urbanen Flachbaus“, also dichter, niedriger Bebauung mit privaten Gärten als Gegenmodell zum Hochhaus. Rainer, später Architekt des ORF-Zentrums, verfolgte das Konzept auch in der Siedlung Puchenau bei Linz. Die Siedlung wird in der Wiener Architektur oft als Vorläufer späterer Gartensiedlungen genannt.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Liesinger Brauerei",
+      "kat": "industrie",
+      "wiki": "Liesinger Brauerei",
+      "adr": "Breitenfurter Straße 372-380",
+      "lon": 16.2796,
+      "lat": 48.1367,
+      "jahr": "1839–1974",
+      "text": "Johann Georg Held gründete die Brauerei 1839 gegen den Widerstand der Brauerzunft. Seine Mutter hatte 1803 ein Haus samt dem 1722 gebauten Felsenkeller am Fuß des „Steinmaßls“ von der Grundherrin Josepha Gräfin Breuner erworben, der Keller war ursprünglich für Wein gedacht. Der „Oberliesinger Felsenkeller-Bräu“ war ein rascher Erfolg, in der Nähe brauten schon Schellenhof, Brunn und Perchtoldsdorf. Die Brauerei bestand bis 1974. Nach ihr heißt der Brauereisteg über den Liesingbach, der Steg von 1927 wurde abgetragen und ersetzt.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Schellenhof: Brauerei, „Sophie“ und der Knobl-Keller",
+      "kat": "erinnerung",
+      "wiki": "Schellenhof",
+      "adr": "Siebenhirten, Schellenhofgasse",
+      "lon": 16.3038,
+      "lat": 48.1278,
+      "jahr": "1719–1944",
+      "text": "Der ehemalige Edelsitz an der Südgrenze Wiens wird um 1530 erstmals erwähnt, ab dem frühen 18. Jahrhundert (1719) gab es eine Brauerei, die 1862 von der Ersten Bierbrauerei-AG erworben wurde. In der NS-Zeit diente die Kelleranlage unter dem Decknamen „Sophie“ als Untergrund-Fabrik und Luftschutzkeller. Am 29. Mai 1944 zerstörte ein Bombenangriff den Komplex, im „Knobl-Keller“ wurden über hundert Menschen verschüttet und getötet. Auf dem Ruinengelände baute die Gemeinde Wien 1960/61 die Wohnhausanlage „Brauhausflur“. Straßennamen wie Schellenhofgasse, Kellerberggasse und Schellenseegasse erinnern noch.",
+      "fakt": "Über hundert Menschen wurden 1944 im Bierkeller der Brauerei verschüttet.",
+      "quellen": []
+    },
+    {
+      "n": "Liesinger Schloss und die Haselnuss im Wappen",
+      "kat": "mythos",
+      "wiki": "Liesinger Schloss",
+      "adr": "Perchtoldsdorfer Straße 6",
+      "lon": 16.2809,
+      "lat": 48.1335,
+      "jahr": "1387–1876",
+      "text": "Ein Hof in Liesing wird am 16. Oktober 1387 erwähnt und mit dem späteren Schloss in Verbindung gebracht. Ab 1435 gehörte er dem Dorotheerkloster, das ihn zu einem Gutshof ausbaute, 1529 und 1683 wurde er verwüstet. Der Legende nach verschonten die Türken nur den Haselbaum im Schlosspark, woran das Liesinger Wappen noch erinnert. Anfang des 18. Jahrhunderts baute das Stift St. Dorothea es zum Schloss aus. 1876 kam das Schloss, das seine Funktion verloren hatte, an die Stadt Wien, heute ist der stark überformte Bau ein Pflegeheim.",
+      "fakt": "Das Wappen von Liesing erinnert an den einzigen Baum, den die Osmanen im Schlosspark verschont haben sollen.",
+      "quellen": []
+    },
+    {
+      "n": "Rodauner Schloss und Sancta Christiana",
+      "kat": "bauwerk",
+      "wiki": "Rodauner Schloss",
+      "adr": "Willergasse 53-57",
+      "lon": 16.2556,
+      "lat": 48.1319,
+      "jahr": "1405–1902",
+      "text": "Das Schloss wird 1405 erstmals genannt, geht aber wahrscheinlich auf die Babenbergerzeit zurück, eine Kapelle gab es ab 1379. Unter den Freiherren von Landau war es nach 1591 ein wichtiges Zentrum des Protestantismus. Ein mittelalterlicher Rundturm blieb bis ins frühe 20. Jahrhundert erhalten, ein Renaissancetor trägt die Jahreszahl 1578. Der heutige klassizistische dreigeschossige Bau stammt aus dem späten 18. Jahrhundert, 1776 ließ Josef Karl von Stockhammer die Hauptfront erneuern. 1898 verkauften die Töchter Carl Ritter von Mautner Markhofs es an die Schwestern von der Kindheit Jesu und Maria, die 1902 ein Mädchenpensionat einrichteten, heute die Klosterschule Sancta Christiana.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Erlaaer Schloss und die Schlossallee",
+      "kat": "bauwerk",
+      "wiki": "Erlaaer Schloss",
+      "adr": "Erlaaer Straße 54",
+      "lon": 16.3072,
+      "lat": 48.148,
+      "jahr": "1766–1770",
+      "text": "Georg Adam Fürst Starhemberg erwarb 1765 die Grundherrschaft und ließ das spätmittelalterliche Schloss 1766 bis 1770 von Nikolaus Pacassi umgestalten, dem Architekten von Schönbrunn. Er legte einen Park an, den Laurenz Janscha um 1790 festhielt, und schuf mit der Schlossallee eine Verbindung zu den kaiserlichen Schlössern in Hetzendorf und Schönbrunn. Nachdem Starhemberg 1775 auch Atzgersdorf erworben hatte, war das Schloss bis 1848 Zentrum eines bedeutenden Herrschaftskomplexes. Im Mai 1919 trug man den Vordertrakt mit der Kapelle ab und errichtete eine Mauer mit monumentalem Gittertor.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Alterlaa und der Wohnpark",
+      "kat": "wohnen",
+      "wiki": "Alterlaa",
+      "adr": "Anton-Baumgartner-Straße",
+      "lon": 16.3143,
+      "lat": 48.1528,
+      "jahr": "1973–1985",
+      "text": "Alterlaa ist das alte Siedlungsgebiet mit dem mittelalterlichen Herrschaftssitz und der Kirche, bezeugt ab dem 17. Jahrhundert. Hier steht seit den 1970er-Jahren der Wohnpark Alterlaa von Harry Glück, eine terrassenförmige Wohnanlage mit rund 3.200 Wohnungen und Schwimmbädern auf den Dächern, gebaut 1973 bis 1985. Der Christensonsteg über die Anton-Baumgartner-Straße erinnert an die Baumschule Christenson, die im Zuge der Schwedenhilfe nach 1945 entstand. Die Anlage gilt als eines der gelungensten Beispiele für Großwohnbau in Wien.",
+      "fakt": "Auf den Dächern des Wohnparks gibt es Schwimmbäder für die Bewohner*innen.",
+      "quellen": [
+        {
+          "t": "Wikipedia: Wohnpark Alterlaa",
+          "u": "https://de.wikipedia.org/wiki/Wohnpark_Alterlaa"
+        }
+      ]
+    },
+    {
+      "n": "Maurer Schloss und die Kasernen",
+      "kat": "verschwunden",
+      "wiki": "Maurer Schloss",
+      "adr": "Gebirgsgasse / Schloßgartenstraße",
+      "lon": 16.2578,
+      "lat": 48.1525,
+      "jahr": "1777–1926",
+      "text": "Die alte Burg Gereut geht auf das 12. Jahrhundert zurück und war im 13. Jahrhundert die Voraussetzung für den Ort darunter. Die Haimonen stifteten dort nach der Mitte des 13. Jahrhunderts die Andreaskapelle. 1529 und 1683 wurde sie zerstört und danach wiederaufgebaut, Georg Matthäus Vischer stellte sie 1672 als wehrhaftes Schloss dar. Nach der Aufhebung der Jesuitenherrschaft 1773 übernahm 1777 das Militär, Mauer blieb bis 1918 Garnisonsort. Das Schloss („Untere Kaserne“) wurde 1895 abgerissen. Die Engelsburg (ab 1776 „Obere Kaserne“) war der zweite Herrschaftssitz und wurde 1923 bis 1926 abgetragen.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Anton-Proksch-Institut Kalksburg",
+      "kat": "geschichte",
+      "wiki": "Anton-Proksch-Institut",
+      "adr": "Gräfin-Zichy-Straße 6",
+      "lon": 16.248,
+      "lat": 48.1367,
+      "jahr": "1956",
+      "text": "1956 wurde unter der Schirmherrschaft des Sozialministers Anton Proksch und auf Initiative der Ärzte Hans Hoff und Emil Tuchmann die gemeinnützige Stiftung „Genesungsheim Kalksburg“ gegründet. Die Anstalt eröffnete mit 19 Mitarbeitern, darunter zwei Ärzten und vier Krankenpflegerinnen, und kümmerte sich um 65, überwiegend männliche Patienten. Nach dem Tod Prokschs bekam sie ihren heutigen Namen. 1961 zog die Trinkerfürsorgeheilstätte in das 1788 von Franz von Mack errichtete Gebäude (ursprüngliches Gemeindewirtshaus), 1972 wurde die erste Drogenstation eröffnet.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Teufelsmühle in Siebenhirten",
+      "kat": "mythos",
+      "wiki": "Teufelsmühle",
+      "adr": "Triester Straße 360 / Ketzergasse 1",
+      "lon": 16.3199,
+      "lat": 48.1275,
+      "jahr": "1590",
+      "text": "Die Mühle am Petersbach wird im Bereitungsbuch 1590/91 erstmals erwähnt, ist aber wohl älter. Der Name geht vermutlich auf die Adelsfamilie Teufel im 16. Jahrhundert zurück. Die Sage von einem räuberischen Mühlenbesitzer, der seine Frau ermordet habe, und vom nächtlichen Spuk taucht erst im 18. Jahrhundert auf. Carl Friedrich Hensler machte daraus das Theaterstück „Teufelsmühle“ am Leopoldstädter Theater. An Stelle der Mühle stand ab dem 18. Jahrhundert ein Gasthaus, das 1903 abbrannte und durch einen Neubau ersetzt wurde.",
+      "fakt": "Der Name der Mühle hat vermutlich nichts mit dem Teufel zu tun, sondern mit einer Familie Teufel.",
+      "quellen": []
+    },
+    {
+      "n": "Die Synagoge in der Dirmhirngasse",
+      "kat": "erinnerung",
+      "wiki": "Synagoge des Israelitischen Bethausvereins Minjan in Liesing",
+      "adr": "Dirmhirngasse 112",
+      "lon": 16.2843,
+      "lat": 48.1388,
+      "jahr": "1900–1938",
+      "text": "Der 1894 gegründete Israelitische Bethausverein Minjan in Liesing baute 1900 nach Plänen von Richard Esriel inmitten von Feldern nahe der Südbahn eine Synagoge mit 120 Männer- und 120 Frauenplätzen. Sie war das religiöse Zentrum der Jüdinnen und Juden der Gemeinde Atzgersdorf und gehörte zum Sprengel der Kultusgemeinde Mödling. Vorher hatte man sich 1867 bis 1876 in der Liesingergasse 11 und dann in der Karlsgasse 4 getroffen. Im Novemberpogrom 1938 wurde sie zerstört, heute steht dort ein Fitnesscenter, davor ein Orthopädiebetrieb.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Denkmal für Franz Heindl und Viktor Mrnustik",
+      "kat": "erinnerung",
+      "wiki": "Denkmal Franz Heindl und Viktor Mrnustik - Varta Werk",
+      "adr": "Friedhof Liesing, Eingang",
+      "lon": 16.2903,
+      "lat": 48.1339,
+      "jahr": "1950",
+      "text": "Das Denkmal für die beiden Widerstandskämpfer, die von der NS-Justiz im Wiener Landesgericht ermordet wurden, wurde am 28. April 1950 am Gelände der ÖFA-Akkumulatoren GmbH (später Varta) in der Siebenhirtenstraße 12 enthüllt, nicht öffentlich zugänglich. Nach dem Abriss der Fabrik stellte man es 2009 vor dem Eingang des Liesinger Friedhofs wieder auf. Bei der Enthüllung sprachen unter anderem Ludwig Berg vom Bundesverband der österreichischen KZler und eine Widerstandskämpferin.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Zwangsarbeitslager in Liesing",
+      "kat": "erinnerung",
+      "wiki": "Zwangsarbeiterlager Anton-Freunschlag-Gasse",
+      "adr": "u. a. Anton-Freunschlag-Gasse, Kernstockgasse 12, Steinerstraße 480",
+      "lon": 16.294,
+      "lat": 48.14,
+      "jahr": "1940–1945",
+      "text": "Im damaligen 25. Bezirk gab es zahlreiche Lager für Zwangsarbeiter*innen, etwa in der Anton-Freunschlag-Gasse, Zwerggrabengasse, Ottokar-Kernstock-Gasse 12, Steinerstraße 351 und 480, Kinskygasse 16, Holzweberstraße 133, Wiener Straße 52, Triester Straße 254, Seybelgasse 12, Wernergasse 11 und Brunner Straße 340. Sie gehörten zu den Industriebetrieben der Gegend, die viele Arbeitskräfte brauchten. Die Existenz von Lagern ist durch Stempel, Ausweise und Bezugskarten dokumentiert, die in den Archiven erhalten blieben.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Verlag Artaria in Liesing",
+      "kat": "industrie",
+      "wiki": "Verlag Artaria & Co",
+      "adr": "Brunner Straße 69",
+      "lon": 16.2984,
+      "lat": 48.1385,
+      "jahr": "1775–1932",
+      "text": "Die aus Blevio bei Como stammenden Brüder Cesare, Domenico und Giovanni Artaria wanderten um 1750 als reisende Kunsthändler durch Mitteleuropa. Die Neffen Francesco und Carlo kamen 1768 nach Wien, 1775 wurde der Verlag Artaria & Co gegründet. Der Wiener Kunst- und Musikverlag wurde berühmt, weil er Haydn, Mozart und Beethoven verlegte, und bestand bis 1932 als eigenes Unternehmen. Die Adresse in der Brunner Straße im heutigen Liesing zeigt, wie viel Industrie und Gewerbe in den Süden verlagert wurde.",
+      "fakt": null,
+      "quellen": [
+        {
+          "t": "Wikipedia: Artaria",
+          "u": "https://de.wikipedia.org/wiki/Artaria"
+        }
+      ]
+    },
+    {
+      "n": "Inzersdorfer Nahrungsmittelwerke",
+      "kat": "industrie",
+      "wiki": "Inzersdorfer",
+      "adr": "Draschestraße 107",
+      "lon": 16.3461,
+      "lat": 48.1497,
+      "jahr": "1873–2004",
+      "text": "Die Familien Eisler und Breden gründeten 1873 die erste österreichische Militär-Konservenfabrik, anfangs wurden Patronenhülsen, Kapseln und Blechdosen hergestellt, die man gleich mit Gemüse oder Fleisch füllte. Im Ersten Weltkrieg arbeiteten über 1.000 Personen hier. In den 1930er-Jahren stellte man auf billige Massennahrungsmittel um, 1937/38 kam der Betrieb wieder in Familienbesitz (Pecher-Voith). 1945 wurde er völlig ausgeplündert, im Wiederaufbau verzehnfachte man die Produktion 1950 bis 1970. Die Firma bestand bis 2004.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Inzersdorfer Metzgerwerke",
+      "kat": "industrie",
+      "wiki": "Inzersdorfer Metzgerwerke",
+      "adr": "Inzersdorf, Großmarktgebiet",
+      "lon": 16.3667,
+      "lat": 48.1318,
+      "jahr": "1920",
+      "text": "Der Wiener Spediteur Robert Friedrich Metzger gründete 1920 eine betriebseigene Eisenbahnwerkstatt und bahnamtliche Prüfstelle. Später wurde daraus eine Waggonbau- und Waggonverleihanstalt, in den 1930er-Jahren eine „Waggonfabrik“ und Weingroßhandlung. Inzersdorf war der eigentliche Hauptsitz der 1903 in Triest gegründeten Spedition Metzger, mit Niederlassungen in Berlin, Genf, Basel, Innsbruck, Bozen, Budapest und Stuttgart. Das Beispiel zeigt die Lage Inzersdorfs an der Bahn.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Aeterna-Schuhfabrik in Atzgersdorf",
+      "kat": "industrie",
+      "wiki": "Aeterna Schuhfabriks-A.-G.",
+      "adr": "Schuhfabrikgasse 17",
+      "lon": 16.303,
+      "lat": 48.1586,
+      "jahr": "1925",
+      "text": "Moritz Altstadt begann 1908 mit einer Handelsagentur für den Schuhwarenexport, 1914 wurde seine Schuhfabrik in Wien 16 registriert und 1919 in die Aeterna Schuhfabriks-A.-G. umgewandelt. Die Aktienmehrheit hielten Moritz und Clara Altstadt, im Verwaltungsrat saß Ludwig Klausner, Chef der Schuhhandelsfirma Del-Ka. 1925 kam zum Standort im 16. Bezirk eine Fabrik in Atzgersdorf dazu, ab 1955 hieß die Straße Schuhfabrikgasse 17. Die Geschichte der Firma gehört zu den Wiener Unternehmen mit jüdischen Gründern, deren Schicksal 1938 eine Wende erfuhr.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Klavierfabrik Parttart in Atzgersdorf",
+      "kat": "industrie",
+      "wiki": "Alois Parttarts Eidam Edmund Luner, Pianoforte-Fabrik",
+      "adr": "Atzgersdorf",
+      "lon": 16.2908,
+      "lat": 48.1481,
+      "jahr": "1892",
+      "text": "Alois Parttart eröffnete 1892 nach längerer Selbständigkeit in Atzgersdorf eine Klavierfabrik, die Pianoforte und Pianinos aller Größen und Preisklassen herstellte. Bis 1898 wurden mehr als 10.000 Pianinos und Stutzflügel erzeugt und vertrieben. Nach dem Tod des Gründers 1898 übernahm sein Schwiegersohn Edmund Luner das Unternehmen. Es zeigt, dass Atzgersdorf neben Brauereien und Textil auch ein Zentrum des Musikinstrumentenbaus war.",
+      "fakt": "Bis 1898 verließen mehr als 10.000 Klaviere die Fabrik in Atzgersdorf.",
+      "quellen": []
+    },
+    {
+      "n": "Kläranlagen am Liesingbach",
+      "kat": "wasser",
+      "wiki": "Kläranlage Gelbe Haide",
+      "adr": "Gutheil-Schoder-Gasse 17; Großmarktstraße 5",
+      "lon": 16.3358,
+      "lat": 48.1551,
+      "jahr": "1949–2005",
+      "text": "Die Kläranlage Gelbe Haide entstand 1949 in Liesing und war die erste Kläranlage Wiens, sie reinigte das Gebiet der „Gelben Haide“ in Inzersdorf, das nur über Regenwasserkanäle verfügte und Abwässer in Senkgruben leitete. Blumental (Großmarktstraße 5) war von 1970 bis 2005 die erste mechanisch-vollbiologische Anlage Wiens. Der Plan für eine Liesingtalkanalisation geht auf eine Konkurrenz von 1912 zurück (Landesgesetz vom 27. August 1912), die ein Projekt von 1913 für die Gemeinden von Schwechat bis Rodaun vorsah. Der linke Liesingtalsammelkanal unterquert den Liesingbach mit zwei Düker-Steinzeugrohren.",
+      "fakt": "Wiens erste Kläranlage lag in Liesing.",
+      "quellen": []
+    },
+    {
+      "n": "Flugfeld Mauer",
+      "kat": "kurios",
+      "wiki": "Flugfeld Mauer",
+      "adr": "Friedensstraße / Erhardgasse",
+      "lon": 16.2778,
+      "lat": 48.1553,
+      "jahr": "1919–1929",
+      "text": "Der Flugplatz wurde 1919 am Sportplatz Friedensstraße eröffnet. 1925 diskutierte man einen großen Flughafen in Mauer zur Entlastung von Aspern, am 12. November 1925 fand die erste österreichische Flugkonferenz in Mauer statt, am 14. Februar 1926 die zweite. Am 3. Juli 1927 gab es einen Großflugtag mit 40.000 Zuschauer*innen. 1929 wurde die Bewilligung entzogen, am 6. September 1948 begann auf dem Areal der Bau des heutigen Sportplatzes.",
+      "fakt": "Einen Großflugtag 1927 in Mauer sahen 40.000 Menschen.",
+      "quellen": []
+    },
+    {
+      "n": "Gloggargrund: Erdäpfel gegen den Hunger",
+      "kat": "alltag",
+      "wiki": "Gloggargrund",
+      "adr": "Atzgersdorf, Gloggargrund",
+      "lon": 16.2944,
+      "lat": 48.1423,
+      "jahr": "1917",
+      "text": "Die Dauerkleingartenanlage geht auf die erste Siedlerin Berta Fimpinger zurück, die 1917 hier erstmals Erdäpfel pflanzte. Die schlechten Ernährungsbedingungen im Ersten Weltkrieg brachten andere dazu, den Grund ebenfalls zum Anbau zu nutzen. In den 1920er-Jahren parzellierte der Eigentümer das Gelände. Die Anlage zeigt, wie die Kleingartenbewegung in den Randgemeinden Wiens aus Not entstand.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Harry-S.-Truman-Hof",
+      "kat": "wohnen",
+      "wiki": "Harry-S.-Truman-Hof",
+      "adr": "Rudolf-Zeller-Gasse 5-18",
+      "lon": 16.2876,
+      "lat": 48.1494,
+      "jahr": "1956–1963",
+      "text": "Die Anlage mit 492 Wohnungen entstand in mehreren Bauetappen nach Plänen von Hauschka, Albrecht, Sorgo, Molnar, Kastner, Bossew und Brunner, jeder Architekt verantwortete einen eigenen Abschnitt. Sie besteht aus vier neungeschossigen, sternförmigen Hochhäusern und 13 dreigeschossigen Wohnblöcken. Der Name wurde am 13. Juni 1983 nach dem US-Präsidenten Harry S. Truman vergeben, dem „Vater des European Recovery Program“ (Marshallplan). Er ist eine Würdigung der amerikanischen Hilfe nach 1945.",
+      "fakt": "Der Gemeindebau trägt den Namen eines US-Präsidenten.",
+      "quellen": []
+    },
+    {
+      "n": "Ella-Lingens-Hof",
+      "kat": "wohnen",
+      "wiki": "Ella-Lingens-Hof",
+      "adr": "Steinergasse 36, Carlbergergasse 10",
+      "lon": 16.2888,
+      "lat": 48.1416,
+      "jahr": "1997–1999",
+      "text": "Die städtische Wohnhausanlage mit 491 Wohnungen entstand auf den ehemaligen Konsum-COOP-Gründen, davor stand hier die Fabrik Amme-Luther-Seck (Mühlenausrüstung). Sie wurde 2003 nach der Ärztin Elisabeth (Ella) Lingens benannt, die als Widerstandskämpferin im KZ Auschwitz war. Der Bau ist ein Beispiel für die Umnutzung von Industrieflächen in Atzgersdorf. Daneben liegt die Hans-Lackner-Halle (Rundturnhalle von 1974), benannt nach dem Bezirksvorsteher.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Bhutan-Kulturdenkmal im Druk-Yul-Park",
+      "kat": "kurios",
+      "wiki": "Bhutan-Kulturdenkmal",
+      "adr": "Druk-Yul-Park, Mauer",
+      "lon": 16.2734,
+      "lat": 48.156,
+      "jahr": "2010–2012",
+      "text": "Zum 20-jährigen Jubiläum der diplomatischen Beziehungen zwischen Bhutan und Österreich wurde auf Betreiben des Dachverbandes PaN und der Österreichisch-Bhutanischen Gesellschaft im Druk-Yul-Park ein Denkmal der Freundschaft errichtet. Es besteht aus einer knapp drei Meter hohen Stupa nach dem Vorbild der Stupas am 3.150 Meter hohen Dochula-Pass und aus einer Mani-Mauer. Der Park trägt den Namen von Druk Yul, dem Land des Donnerdrachen.",
+      "fakt": "Eine buddhistische Stupa steht im Maurer Park.",
+      "quellen": []
+    },
+    {
+      "n": "Magna-Mater-Brunnen von Anton Hanak",
+      "kat": "kultur",
+      "wiki": "Magna-Mater-Brunnen",
+      "adr": "Gegenüber Speisinger Straße 258",
+      "lon": 16.2693,
+      "lat": 48.1518,
+      "jahr": "um 1930",
+      "text": "Das flache Achteckbecken mit vier gewundenen Schlangen als Wasserspeier trägt in der Mitte auf einem Vierkantsockel eine weibliche Kolossalfigur, die „Fürsorgende Mutter“ mit vier Kindern, von Anton Hanak (Skulptur) und Adolf Stöckl (Architektur). Sie wurde um 1930 für die Kinderübernahmestelle im 9. Bezirk geschaffen und 1964 nach Mauer versetzt. Die frühere Maurer Schule stand ebenfalls an der Speisinger Straße 258.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Mizzi-Langer-Wand",
+      "kat": "natur",
+      "wiki": "Mizzi-Langer-Wand",
+      "adr": "Kaltenleutgebner Straße, Rodaun",
+      "lon": 16.2523,
+      "lat": 48.131,
+      "jahr": null,
+      "text": "Der Klettergarten am Südabhang des Zugbergs (325 m) ist ein ehemaliger Rodauner Steinbruch. Die Felsen aus Hauptdolomit sind bis zu 40 Meter hoch und bieten Übungsklettereien in fast allen Schwierigkeitsgraden, vor allem an Frühjahrswochenenden ist er stark besucht. Benannt ist er nach Mizzi Langer. Der Steinabbau in Rodaun versorgte seit dem Mittelalter Wien mit Baumaterial für die Stadtbefestigung.",
+      "fakt": "Wiens bekannter Klettergarten war früher ein Steinbruch.",
+      "quellen": []
+    },
+    {
+      "n": "Inzersdorfer Schlösser und die Südosttangente",
+      "kat": "verschwunden",
+      "wiki": "Neues Inzersdorfer Schloss",
+      "adr": "Draschestraße, Inzersdorf",
+      "lon": 16.3418,
+      "lat": 48.1506,
+      "jahr": "1765–1965",
+      "text": "Ferdinand Graf Harrach baute nach 1765 das Neue Inzersdorfer Schloss (Drascheschloss) 360 Meter westlich des Alten Schlosses aus dem 17. Jahrhundert. Im Hauptsaal fand sich ein Deckengemälde von Daniel Gran („Der Morgen“), im Park standen zwei Flussgötter von Georg Raphael Donner. Beide Schlösser wurden im Zweiten Weltkrieg beschädigt und 1965 für die Südosttangente (A 23) abgerissen, ein Teil des Geländes wurde zum Draschepark. Die Skulpturen kamen später an anderen Ort.",
+      "fakt": "Die Südosttangente verläuft über dem Gelände eines barocken Schlosses.",
+      "quellen": []
+    },
+    {
+      "n": "Epidemiespital Spinnerin am Kreuz",
+      "kat": "verschwunden",
+      "wiki": "Kommunal-Epidemiespital - Kriegsnotspital II - Heilanstalt der Stadt Wien \"Spinnerin am Kreuz\"",
+      "adr": "Triester Straße 206",
+      "lon": 16.3294,
+      "lat": 48.1421,
+      "jahr": "1872–1925",
+      "text": "Das Spital wurde infolge einer Blatternepidemie 1872/73 errichtet, damals im 10. Bezirk gelegen. Ab 1923 wurde es als Infektionsnotspital und Tuberkuloseheilstätte genutzt, 1925 wurde es geschlossen und abgetragen. Es trug im Ersten Weltkrieg auch den Namen Kriegsnotspital II.",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Stelzerbad und das „Wirtshaus von Österreich“",
+      "kat": "alltag",
+      "wiki": "Stelzerbad",
+      "adr": "An der Au 2, Rodaun",
+      "lon": 16.2551,
+      "lat": 48.1347,
+      "jahr": "um 1900",
+      "text": "Das Sommerbad wurde nach 1945 anstelle des alten Rodauner Bads errichtet und trägt den Namen des aus Breitenfurt stammenden Wirts Johann Stelzer. Er führte um die Jahrhundertwende das „Wirtshaus von Österreich“, eine Hauptattraktion des damaligen Sommerfrischeorts Rodaun, und ein Treffpunkt der besseren Gesellschaft. Das Höpflerbad in Atzgersdorf (Endresstraße 24-26) ist nach dem Realitäten- und Badeanstaltsbesitzer Kaspar Höpfler benannt und seit 1901 sicher bezeugt.",
+      "fakt": null,
+      "quellen": [
+        {
+          "t": "Wien Geschichte Wiki: Höpflerbad",
+          "u": "https://www.geschichtewiki.wien.gv.at/H%C3%B6pflerbad"
+        }
+      ]
+    },
+    {
+      "n": "Kinos in Mauer und Rodaun",
+      "kat": "kultur",
+      "wiki": "Park-Kino",
+      "adr": "Geßlgasse 4; Willergasse 30",
+      "lon": 16.2684,
+      "lat": 48.1496,
+      "jahr": "1913–1972",
+      "text": "Das Park-Kino in Mauer (Geßlgasse 4) bestand von 1913 bis 1966, das Haus Kirchengasse 4 war schon 1859 in einer Kaufurkunde des Gemeinderats und Ehrenbürgers Anton Ölzelt von Newin erwähnt. Die Rodauner Lichtspiele (Willergasse 30) wurden 1921 gegründet, hatten 291 Sitzplätze und gehörten Betty Bangert. 1962 baute Robert Kotas sie neu, am 25. April 1972 mussten sie schließen. In Atzgersdorf gab es zusätzlich das Vereinhaus Biograph (1911).",
+      "fakt": null,
+      "quellen": []
+    },
+    {
+      "n": "Liesingbach und Gütenbach",
+      "kat": "wasser",
+      "wiki": "Gütenbach",
+      "adr": "Rodaun bis Inzersdorf",
+      "lon": 16.2416,
+      "lat": 48.1376,
+      "jahr": null,
+      "text": "Der Liesingbach entsteht in Rodaun aus der Dürren Liesing (die Quellen in Sulz-Stangau sammelt und das Kalk- vom Sandsteingebirge scheidet) und der Reichen Liesing. Der Gütenbach entspringt am Hufeisenberg im Lainzer Tiergarten und mündet bei Kalksburg in die Reiche Liesing, er ist rund sieben Kilometer lang und in einem naturnahen Zustand mit guter bis sehr guter Gewässergüte. Der Knotzenbach in Mauer wurde dagegen eingewölbt und diente als Teil des Kanalisierungskonzepts der Gemeinde. Der Liesingbach ist ein typischer Wienerwaldbach mit starken Abflussschwankungen.",
+      "fakt": null,
+      "quellen": []
+    }
+  ],
+  "fragen": [
+    {
+      "q": "Welche Ordnungsnummer hatte der Bezirk Liesing von 1938 bis 1954?",
+      "a": "25",
+      "f": [
+        "14",
+        "21",
+        "24"
+      ],
+      "erkl": "Er war bis 1954 der 25. Bezirk, erst das Gebietsänderungsgesetz machte ihn zum 23.",
+      "wiki": "Liesing",
+      "quellen": []
+    },
+    {
+      "q": "Welche Katastralgemeinde von Liesing wurde schon 1890 großteils nach Favoriten eingemeindet?",
+      "a": "Inzersdorf (als Inzersdorf-Stadt)",
+      "f": [
+        "Atzgersdorf",
+        "Erlaa",
+        "Siebenhirten"
+      ],
+      "erkl": "Das nördliche Gemeindegebiet kam als Katastralgemeinde Inzersdorf-Stadt zum 10. Bezirk, das Dorf selbst erst 1938.",
+      "wiki": "Inzersdorf (Ort)",
+      "quellen": []
+    },
+    {
+      "q": "Was ist die Antonshöhe in Mauer?",
+      "a": "Ein jungsteinzeitliches Hornsteinbergwerk",
+      "f": [
+        "Ein römisches Kastell",
+        "Ein mittelalterlicher Burgberg",
+        "Ein Weinberg der Jesuiten"
+      ],
+      "erkl": "Die Schächte stammen von etwa 5000 v. Chr., die Bestattungen datieren auf 4500-4200 v. Chr. (Lengyel-Kultur).",
+      "wiki": "Antonshöhe",
+      "quellen": []
+    },
+    {
+      "q": "Wer entwarf die Kirche auf dem Georgenberg in Mauer, die aus 152 Betonblöcken besteht?",
+      "a": "Fritz Wotruba",
+      "f": [
+        "Clemens Holzmeister",
+        "Roland Rainer",
+        "Gustav Peichl"
+      ],
+      "erkl": "Die Einweihung der Wotruba-Kirche war am 24. Oktober 1976.",
+      "wiki": "Wotruba-Kirche",
+      "quellen": []
+    },
+    {
+      "q": "Welche Frau kümmerte sich um Organisation und Finanzierung der Wotruba-Kirche?",
+      "a": "Margarete Ottillinger",
+      "f": [
+        "Hilde Sochor",
+        "Ella Lingens",
+        "Bertha Neumann"
+      ],
+      "erkl": "Ottillinger sah die Kirche als Dank für ihre Rückkehr aus russischer Deportation.",
+      "wiki": "Wotruba-Kirche",
+      "quellen": []
+    },
+    {
+      "q": "Was verwirklichte Roland Rainer 1958-1964 in der Maurerbergsiedlung erstmals in Wien?",
+      "a": "Sein Konzept des urbanen Flachbaus",
+      "f": [
+        "Eine Hochhausscheibe",
+        "Einen Terrassenbau mit Dachschwimmbad",
+        "Ein Gemeindebau-Superblock"
+      ],
+      "erkl": "Die 43 Einfamilienhäuser waren Rainers erstes Wiener Beispiel für dichten, niedrigen Wohnbau.",
+      "wiki": "Maurerbergsiedlung",
+      "quellen": []
+    },
+    {
+      "q": "Was erinnert im Liesinger Wappen an die Türkenbelagerungen?",
+      "a": "Ein Haselbaum, der als einziger Baum im Schlosspark verschont geblieben sein soll",
+      "f": [
+        "Ein Brunnen, der nicht versiegte",
+        "Eine Eiche am Kirchplatz",
+        "Ein Tor der Schlossmauer"
+      ],
+      "erkl": "So erzählt es die Legende zum Liesinger Schloss.",
+      "wiki": "Liesinger Schloss",
+      "quellen": []
+    },
+    {
+      "q": "Wer ließ das Erlaaer Schloss 1766-1770 umgestalten und holte dafür Nikolaus Pacassi?",
+      "a": "Georg Adam Fürst Starhemberg",
+      "f": [
+        "Graf Harrach",
+        "Franz von Mack",
+        "Graf Breuner"
+      ],
+      "erkl": "Er erwarb 1765 die Grundherrschaft und schuf die Schlossallee zu den Schlössern Hetzendorf und Schönbrunn.",
+      "wiki": "Erlaaer Schloss",
+      "quellen": []
+    },
+    {
+      "q": "Wer gründete 1839 die Liesinger Brauerei?",
+      "a": "Johann Georg Held",
+      "f": [
+        "Anton Dreher",
+        "Karl Kotzmann",
+        "Franz von Mack"
+      ],
+      "erkl": "Die Brauerei bestand bis 1974 und nutzte den Felsenkeller von 1722.",
+      "wiki": "Liesinger Brauerei",
+      "quellen": []
+    },
+    {
+      "q": "Was geschah am 29. Mai 1944 im Siebenhirtner Schellenhof?",
+      "a": "Ein Bombenangriff zerstörte die Brauereianlage und verschüttete über hundert Menschen im Knobl-Keller",
+      "f": [
+        "Die Brauerei wurde durch ein Feuer zerstört",
+        "Die Anlage wurde von der SS besetzt",
+        "Die Brauerei wurde geschlossen"
+      ],
+      "erkl": "Die Kelleranlage diente unter dem Decknamen „Sophie“ als Untergrund-Fabrik und Luftschutzkeller.",
+      "wiki": "Schellenhof",
+      "quellen": []
+    },
+    {
+      "q": "Wofür wurden das Alte und das Neue Inzersdorfer Schloss 1965 abgerissen?",
+      "a": "Für die Südosttangente (A 23)",
+      "f": [
+        "Für die Westautobahn",
+        "Für das Großmarktgelände",
+        "Für die Wiener U-Bahn"
+      ],
+      "erkl": "Zum Teil wurde das Gelände überbaut, zum Teil entstand der Draschepark.",
+      "wiki": "Neues Inzersdorfer Schloss",
+      "quellen": []
+    },
+    {
+      "q": "Warum heißt die Teufelsmühle in Siebenhirten vermutlich so?",
+      "a": "Nach der Adelsfamilie Teufel im 16. Jahrhundert",
+      "f": [
+        "Weil dort ein Pakt beschworen wurde",
+        "Wegen des Mühlenbrands 1903",
+        "Nach dem Pächter Teufelsbauer im 19. Jahrhundert"
+      ],
+      "erkl": "Die Sage vom Teufel und dem Mühlenbesitzer taucht erst im 18. Jahrhundert auf.",
+      "wiki": "Teufelsmühle",
+      "quellen": []
+    },
+    {
+      "q": "Wann und von wem wurde die erste Kläranlage Wiens in Liesing gebaut?",
+      "a": "1949 für die Gelbe Haide in Inzersdorf",
+      "f": [
+        "1913 für das Liesingtal",
+        "1970 in Blumental",
+        "1927 beim Brauereisteg"
+      ],
+      "erkl": "Blumental, ab 1970 die erste mechanisch-vollbiologische Anlage Wiens, bestand bis 2005.",
+      "wiki": "Kläranlage Gelbe Haide",
+      "quellen": []
+    },
+    {
+      "q": "Wer gründete 1956 das Genesungsheim Kalksburg, das heutige Anton-Proksch-Institut?",
+      "a": "Anton Proksch mit den Ärzten Hans Hoff und Emil Tuchmann",
+      "f": [
+        "Julius Tandler mit Ella Lingens",
+        "Hans Lackner",
+        "Franz von Mack"
+      ],
+      "erkl": "Es eröffnete mit 19 Mitarbeitern und 65 Patienten.",
+      "wiki": "Anton-Proksch-Institut",
+      "quellen": []
+    },
+    {
+      "q": "Was wurde am Flugfeld Mauer 1927 veranstaltet?",
+      "a": "Ein Großflugtag mit 40.000 Zuschauer*innen",
+      "f": [
+        "Die erste österreichische Flugkonferenz",
+        "Die Eröffnung des Flughafens Aspern",
+        "Ein Fallschirmwettbewerb mit 2.000 Gästen"
+      ],
+      "erkl": "Die Bewilligung wurde 1929 entzogen, ab 1948 entstand ein Sportplatz.",
+      "wiki": "Flugfeld Mauer",
+      "quellen": []
+    },
+    {
+      "q": "Welche Handwerksform ging in Atzgersdorf 1892 in Produktion, bis 1898 über 10.000 Mal?",
+      "a": "Klaviere (Pianinos und Stutzflügel)",
+      "f": [
+        "Schuhe",
+        "Nähmaschinen",
+        "Orgeln"
+      ],
+      "erkl": "Alois Parttart eröffnete 1892 die Klavierfabrik, sein Schwiegersohn Edmund Luner übernahm sie.",
+      "wiki": "Alois Parttarts Eidam Edmund Luner, Pianoforte-Fabrik",
+      "quellen": []
+    }
+  ]
+}

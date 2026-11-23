@@ -1,0 +1,670 @@
+{
+ "nr": 4,
+ "name": "Wieden",
+ "kurz": "Der kleinste der Innenbezirke ist ein Vorstadtstreifen entlang der alten Südstraße, in dem Hofnähe, Mühlen, Kleine-Leute-Theater und Technik dicht übereinanderliegen.",
+ "profil": [
+  "Die Wieden ist kein Bezirk, der um ein Zentrum herum gewachsen ist, sondern ein langer Streifen an der Fernstraße nach Süden. Mit der Anlage dieser Straße (Wiener Neustadt, Semmering, Kärnten, Venedig) in der zweiten Hälfte des 12. Jahrhunderts begann die Entwicklung zur Vorstadt, die heutige Wiedner Hauptstraße ist ihre Achse. Der Name leitet sich wahrscheinlich vom mittelalterlichen „widem“ ab, dem Ausstattungsgut der Pfarre St. Stephan; urkundlich genannt wird die Wieden erstmals 1211 im Stiftungsbrief Leopolds VI. für das Heiligengeistspital.",
+  "Der älteste Siedlungskern lag zwischen Karlsgasse und Schleifmühlgasse an der Wiedner Hauptstraße, beim heutigen Rilkeplatz, und reichte bis an den Wienfluss. Dort drehten sich über Jahrhunderte Mühlen am Mühlbach, einem Arm des Wienflusses: Heiligengeistmühle, Bürgerspitalmühle, Schleifmühle, Heumühle. Mit den Türkenkriegen von 1529 und 1683 wurde die Vorstadt jeweils niedergebrannt und wieder aufgebaut. Zur Wieden gehörten auch das später eigenständige Schaumburgergrund und ein Teil von Hungelbrunn, bei den Grundherrschaften wie Freihaus und Mühlfeld blieben eigene Gerichtsbarkeiten bis 1848 bestehen.",
+  "Im Barock rückte die Wieden in die Nähe des Hofs: Kaiser Karl VI. hatte seine Sommerresidenz in der Favorita, dem heutigen Theresianum, und löste 1713 das Pestgelübde mit der Karlskirche ein. Adelige wie die Starhemberger und Schönburg legten Gartenpalais an, im Freihaus der Starhemberger entstand eine kleine Stadt für sich. In diesem Umfeld, im Freihaustheater und im Theater auf der Wieden, wurde 1791 die „Zauberflöte“ uraufgeführt. Gleichzeitig stand an der Wiedner Hauptstraße von 1267 bis 1787 das Leprosenhaus St. Hiob zum Klagbaum.",
+  "Die Bezirksgrenzen sind das Ergebnis von Verwaltungsreformen: 1850 wurden Wieden, Margareten, Schaumburgergrund, Hungelbrunn, Matzleinsdorf, Laurenzergrund, Hundsturm, Reinprechtsdorf und Nikolsdorf zum Bezirk Wieden vereint. Am 8. Oktober 1861 beschloss der Gemeinderat die Abtrennung von Margareten samt seinen Nachbarorten. 1874 kamen die Teile südlich des Linienwalls, der heutigen Gürtelstraße, zum neuen zehnten Bezirk Favoriten. Der Bezirk misst heute nur noch 1,78 Quadratkilometer.",
+  "Im 19. Jahrhundert wurde die Wieden zum Bezirk der Wissenschaft und Technik. Das Polytechnische Institut nahm 1815 den Betrieb auf und ist heute die Technische Universität am Karlsplatz. Die Regulierung und Einwölbung des Wienflusses veränderte das Gelände am Fluss grundlegend, dazu kamen Wien-Raaber Bahnhof und später Südbahnhof am Rand des Bezirks sowie Industrie- und Handelsbauten am Gürtel.",
+  "Die NS-Zeit hat in der Wieden deutliche Spuren: Im Palais Albert Rothschild in der Prinz-Eugen-Straße 22 saß ab 1938 die Zentralstelle für jüdische Auswanderung, die zentrale Behörde für Beraubung und Vertreibung. Für den Bau der Flaktürme entstanden Zwangsarbeiterlager im Freihaus und an anderen Adressen. Der Gemeindebau ist im Bezirk wegen der dichten Altbauten nur punktuell vertreten, mit dem Südtiroler Hof (1927/28) am Gürtel und dem Bertha-von-Suttner-Hof (Nachkriegszeit) auf dem Gelände des ehemaligen Palais Althan.",
+  "Heute ist die Wieden ein Bezirk mit hoher Bildungs- und Kulturdichte, mit einer guten Wohnqualität im Grätzel um den Rilkeplatz, den Naschmarkt an der Grenze und einem hohen Anteil an Diplomat*innen, Studierenden und Beschäftigten der Kammern und Verbände rund um Prinz-Eugen-Straße und Karlsplatz. Der Alois-Drasche-Park und das Viertel am Gürtel zeigen noch die gründerzeitliche Parzellierung des ehemaligen „Blecherne-Turm-Feldes“."
+ ],
+ "politik": "Bezirksvorsteherin ist Lea Halbwidl (SPÖ). Bei der Bezirksvertretungswahl 2025 lag die SPÖ mit 33,0 Prozent vor den Grünen (25,3), der ÖVP (13,2), den NEOS (12,9) und der FPÖ (11,3); die Beteiligung betrug 50,2 Prozent. Die Wieden ist traditionell ein roter Bezirk mit starken Grünen im bürgerlich-akademischen Teil und einer relativ starken ÖVP.",
+ "quellen": [
+  {
+   "t": "Wieden – Wikipedia",
+   "u": "https://de.wikipedia.org/wiki/Wieden_(Wien)"
+  },
+  {
+   "t": "Wien Geschichte Wiki: Wieden",
+   "u": "https://www.geschichtewiki.wien.gv.at/Wieden"
+  }
+ ],
+ "teile": [
+  {
+   "n": "Wieden",
+   "art": "Vorstadt",
+   "wiki": "Wieden (Vorstadt)",
+   "lon": 16.3674,
+   "lat": 48.19643,
+   "text": "Die namengebende Vorstadt entwickelte sich seit dem späten 12. Jahrhundert an der Fernhandelsstraße nach Süden. Der Name geht wahrscheinlich auf das „widem“, das Ausstattungsgut der Pfarre St. Stephan, zurück; erstmals urkundlich genannt wird sie 1211. Der älteste Kern liegt zwischen Karlsgasse und Schleifmühlgasse an der Wiedner Hauptstraße, beim Rilkeplatz. Paulanerkloster (ab 1627) und das Starhembergsche Freihaus bestimmten später das Bild. 1850 wurde die Wieden Teil des vierten Bezirks.",
+   "quellen": []
+  },
+  {
+   "n": "Schaumburgergrund",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.3697,
+   "lat": 48.1886,
+   "text": "Die ehemalige Vorstadt im Süden der Wieden hatte ihre Grundherrschaft in den Händen der Grafen Starhemberg-Schaumburg, die hier Gärten und Palais anlegten (Schönburgpalais, von Hildebrandt um 1705/06). Im 19. Jahrhundert wurden die barocken Gartengründe parzelliert; im Rosenbaumgarten entstand eine Sommervilla mit Park, die Gesellschaft aller Schichten anzog. Das Siegel des Schaumburgergrunds mit einer Krone und dem Südturm der Stephanskirche ist im Bezirkswappen der Wieden enthalten.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Wieden",
+     "u": "https://www.geschichtewiki.wien.gv.at/Wieden"
+    }
+   ]
+  },
+  {
+   "n": "Hungelbrunn",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.3628,
+   "lat": 48.1887,
+   "text": "Hungelbrunn war eine kleine Vorstadt zwischen Wieden und Margareten, von der nur kleine Teile beim vierten Bezirk verblieben. Sie ging 1850 in dem aus mehreren Vorstädten gebildeten Bezirk Wieden auf. Seit der Abtrennung Margaretens am 8. Oktober 1861 liegt der größere Teil im fünften Bezirk.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Wieden",
+     "u": "https://www.geschichtewiki.wien.gv.at/Wieden"
+    }
+   ]
+  },
+  {
+   "n": "Mühlfeld",
+   "art": "Grätzel",
+   "wiki": null,
+   "lon": 16.364,
+   "lat": 48.1982,
+   "text": "Mühlfeld war eine kleine Grundherrschaft an der Schleifmühle am Mühlbach, deren Sitz ab 1660 dort war. Die Gegend zwischen Schleifmühlgasse, Mühlgasse und Wienzeile war bis zur Wienflussregulierung von Mühlen, Gärten und Fabriken geprägt. Die Straßennamen halten die Erinnerung an die gewerbliche Nutzung am Wasser fest.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Schleifmühle",
+     "u": "https://www.geschichtewiki.wien.gv.at/Schleifmühle"
+    }
+   ]
+  }
+ ],
+ "orte": [
+  {
+   "n": "Karlskirche und das Pestgelübde",
+   "kat": "bauwerk",
+   "wiki": "Karlskirche",
+   "adr": "Karlsplatz",
+   "lon": 16.37187,
+   "lat": 48.19825,
+   "jahr": "1716–1737",
+   "text": "Karl VI. gelobte am 22. Oktober 1713 während der Pestepidemie bei St. Stephan den Bau einer Kirche. Der Bauplatz, eine öde, teils mit Reben bepflanzte Anhöhe am noch unregulierten Wienfluss mit einem kaiserlichen Kalkstadel, lag bereits größtenteils in kaiserlichem Besitz und markierte zugleich den Beginn der Wieden vor dem Weg zur Favorita. Die Grundsteinlegung fand am 4. Februar 1716 statt. Neben Johann Bernhard Fischer von Erlach reichten auch Hildebrandt und andere Entwürfe ein; Fischer erhielt den Auftrag. Die Kirche wurde bis 1959 von den Kreuzherren mit dem roten Stern betreut, seither von Prämonstratensern aus Stift Geras.",
+   "fakt": "Kaiser Karl VI. besaß in der Favorita einen Sommersitz; die Karlskirche stand also gleichsam als Tor vor ihm.",
+   "quellen": []
+  },
+  {
+   "n": "Freihaus auf der Wieden",
+   "kat": "verschwunden",
+   "wiki": "Freihaus auf der Wieden",
+   "adr": "Wiedner Hauptstraße 10, Operngasse 25",
+   "lon": 16.3679,
+   "lat": 48.1992,
+   "jahr": "1660–1930er",
+   "text": "Konrad Balthasar Starhemberg kaufte 1642 Grundstücke auf dem von zwei Wienflussarmen umschlossenen Werd; der Vorgängerbau, der „Ungelterhof“, brannte 1657 ab. Das 1660 erbaute Freihaus war als Herrschaft Konradswörth steuerfrei, der Name „Freihaus“ ist ab 1703 belegt. Zar Peter I. gab hier 1698 incognito ein Fest. Es wuchs zu einem Komplex mit mehreren Höfen, Werkstätten, Kapelle und Theater, in dem Tausende Menschen wohnten. Ein großer Teil wurde in den 1930er Jahren abgebrochen, heute stehen hier Gebäude der Technischen Universität.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Freihaustheater und die Zauberflöte",
+   "kat": "kultur",
+   "wiki": "Freihaustheater",
+   "adr": "Freihaus auf der Wieden",
+   "lon": 16.36758,
+   "lat": 48.19871,
+   "jahr": "1787–1801",
+   "text": "Im Zuge des Umbaus des Freihauses seit 1785 entstand ein Theater, das außen eher einer Scheune glich. Die erste Vorstellung fand am 14. Oktober 1787 statt. Johann Friedel übernahm das Haus 1788 und vererbte es seiner Gesellschafterin Eleonore Schikaneder, die ihren Mann Emanuel Schikaneder aus Regensburg nach Wien holte. Mozarts „Zauberflöte“ wurde im Freihaustheater am 30. September 1791 uraufgeführt. Das Gebäude bestand bis 1809; an die Premiere erinnert der Papageno-Hof von 1936/37 an der Operngasse.",
+   "fakt": "Das Zauberflöten-Häuschen aus dem Freihausgarten wurde 1873 nach Salzburg gebracht.",
+   "quellen": []
+  },
+  {
+   "n": "Papageno-Hof",
+   "kat": "wohnen",
+   "wiki": "Papageno-Hof",
+   "adr": "Operngasse 26, Faulmanngasse 1",
+   "lon": 16.36601,
+   "lat": 48.19831,
+   "jahr": "1936–1937",
+   "text": "Die Wohnhausanlage entstand innerhalb des Wiener Assanierungsfonds nach Plänen von Franz Gessner. Die bunte Keramikfigur des Papageno (bezeichnet H. Revy 1937) erinnert an die Uraufführung der „Zauberflöte“ im Freihaustheater. Sie ist ein Beispiel dafür, wie in den 1930er Jahren mit Kunst im Bauwerk an die Geschichte des Orts erinnert wurde.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Mühlbach und die Mühlen der Wieden",
+   "kat": "wasser",
+   "wiki": "Mühlbach (4)",
+   "adr": "zwischen Bürgerspital-Gegend und Schleifmühlgasse",
+   "lon": 16.36224,
+   "lat": 48.19637,
+   "jahr": null,
+   "text": "Der Mühlbach zweigte etwa beim Bürgerspital links vom Wienfluss ab und trieb eine ganze Reihe von Mühlen, die man auch in Befestigungsanlagen einband. Die Bürgerspitalmühle entspricht der bei Wolmuet 1547 eingezeichneten Heiligengeist-Mühle; die Radauner Mühle (1471 mit einer Bastei erwähnt) lag wahrscheinlich in der Gegend des Freihauses. Nach der Verschüttung des Bachs wurden auch die Mühlen aufgelassen, die Gassennamen wie Mühlgasse und Schleifmühlgasse blieben.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schleifmühle in der Froschlacke",
+   "kat": "industrie",
+   "wiki": "Schleifmühle",
+   "adr": "Schleifmühlgasse 23–25",
+   "lon": 16.36403,
+   "lat": 48.19815,
+   "jahr": "ab 1417",
+   "text": "Die Mühle ist ab 1417 nachweisbar, sicher aber älter, und hieß im Volksmund zuvor „Mühle in der Froschlacke“. Sie wurde von einem Wienflussarm betrieben und diente zunächst dem Mehlmahlen. Müller Hans Grebl baute sie ab 1570 zu einer Waffen-, Schleif- und Poliermühle aus, mit großer kriegswirtschaftlicher Bedeutung. Ab 1660 war sie Sitz der Grundherrschaft Mühlfeld, nach der die Schleifmühlgasse benannt ist.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bärenmühle",
+   "kat": "verschwunden",
+   "wiki": "Bärenmühle",
+   "adr": "Rechte Wienzeile 1",
+   "lon": 16.36609,
+   "lat": 48.19953,
+   "jahr": "ab 1705",
+   "text": "Als Georg Straub 1705 ein vom Müllermeister Georg Mackh erbautes Haus kaufte, errichtete er daneben die neue Bärenmühle, die zu den bekanntesten Mühlen Wiens wurde. Zu ihr wurde lediglich der Mühlschlag, also das Recht zum Mühlenbetrieb, von der alten Heiligengeistmühle übertragen. Die Mühle gehörte ursprünglich zu den Wirtschaftsgebäuden der Ritter vom Heiligen Geist, die bei der Kirche St. Anton ihr Spital hatten.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zum Klagbaum: das Leprosenhaus",
+   "kat": "geschichte",
+   "wiki": "Zum Klagbaum",
+   "adr": "Wiedner Hauptstraße 64–66, Klagbaumgasse",
+   "lon": 16.36625,
+   "lat": 48.1905,
+   "jahr": "1267–1787",
+   "text": "Das Siechenhaus St. Hiob zum Klagbaum wurde von Magister Gerhard von Siebenbürgen, Pfarrer von Wien, für Leprakranke gestiftet. Der Stiftbrief stammt von 1267, im selben Jahr weihte der Passauer Bischof die Kirche. Wie die Siechenhäuser St. Marx und Siechenals lag es an einer Ausfallsstraße an der Grenze des Burgfriedens. 1787 wurde das Haus unter Joseph II. aufgehoben. In der Klagbaumgasse 4 sitzt heute das Bezirksmuseum Wieden.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Laßlaturm",
+   "kat": "verschwunden",
+   "wiki": "Laßlaturm",
+   "adr": "Wiedner Hauptstraße 12 (Hotel Das Triest)",
+   "lon": 16.36732,
+   "lat": 48.19756,
+   "jahr": "1452–1529",
+   "text": "Der hohe Quaderbau mit vier spitzen Ecktürmchen bezeichnete die äußere Grenze der Vorstadt Wieden. Er ist nach König Ladislaus Postumus benannt, der 1452 durch den damals im Bau befindlichen Turm feierlich in die Stadt einzog. Vollendet wurde er erst 1461, 1529 von den Osmanen stark beschädigt und bald danach abgebrochen. In der Nähe steht seit 1904 der Rainerbrunnen auf dem Rilkeplatz.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Paulanerkloster und Paulanerkirche",
+   "kat": "bauwerk",
+   "wiki": "Paulanerkirche",
+   "adr": "Wiedner Hauptstraße 21, Paulanergasse 6",
+   "lon": 16.36731,
+   "lat": 48.19595,
+   "jahr": "1627–1686",
+   "text": "Die Paulaner erhielten 1626 die Erlaubnis zur Niederlassung in Wien. Kloster und Kirche entstanden auf Grundstücken, die der niederländische Gesandte Ambros von Renz 1656 für die Mönche kaufte; das Kloster mit Garten erstreckte sich über ein Areal zwischen Wiedner Hauptstraße 21–37, Floragasse und Favoritenstraße. Die zwischen 1627 und 1651 errichtete Kirche brannte 1683 durch die Osmanen nieder und wurde bis 1686 wiederhergestellt; der Turm folgte 1717. Seit 1783 ist sie Pfarrkirche „Zu den heiligen Schutzengeln“.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Denkmal Irene Harand",
+   "kat": "erinnerung",
+   "wiki": "Denkmal Irene Harand",
+   "adr": "vor der Paulanerkirche, Wiedner Hauptstraße",
+   "lon": 16.36741,
+   "lat": 48.19632,
+   "jahr": "2010",
+   "text": "Am 9. November 2010, dem 72. Jahrestag der Novemberpogrome, wurde vor der Paulanerkirche ein Denkmal für Irene Harand enthüllt. Harand war Autorin, Widerstandskämpferin und Katholikin, die schon früh gegen den Antisemitismus anschrieb. Ihr Buch „Sein Kampf – Antwort an Hitler“ wurde bei der Gedenkveranstaltung gelesen. Das Projekt trug ein Ehrenkomitee unter Wolfgang Bandion, die Ausführung lag bei Stephan Hilge.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Gluckhaus",
+   "kat": "geschichte",
+   "wiki": "Gluckhaus",
+   "adr": "Wiedner Hauptstraße 32",
+   "lon": 16.36688,
+   "lat": 48.1954,
+   "jahr": "1784–1787",
+   "text": "Das einstöckige Vorstadthaus mit querrechteckigem Hof gegenüber der Paulanerkirche war Wohn- und Sterbehaus von Christoph Willibald Gluck. Seine Frau Maria Anna kaufte die Liegenschaft mit Vertrag vom 30. Juni 1784 um 11.000 Gulden von den Erben des Reichshofkanzlisten Montfort Edler von Starkenburg. Entgegen häufigen Angaben wurde das Haus nicht schon 1764 erworben. Es bewahrt einen Gartensaal im Hoftrakt und ein Belvedere genanntes Aussichtskabinett auf dem Mansardendach.",
+   "fakt": "Gluck starb hier am 15. November 1787.",
+   "quellen": []
+  },
+  {
+   "n": "Rainerbrunnen am Rilkeplatz",
+   "kat": "kultur",
+   "wiki": "Rainerbrunnen",
+   "adr": "Rilkeplatz",
+   "lon": 16.36738,
+   "lat": 48.19792,
+   "jahr": "1904",
+   "text": "Der Brunnen von Richard Kauffungen erinnert an die goldene Hochzeit von Erzherzog Rainer (1827–1913) mit Marie Karoline, der Tochter von Erzherzog Karl, dem Sieger von Aspern. Rainer war Oberkommandierender der k. k. Landwehr, Präsident der Weltausstellung 1873 und Protektor des Museums für Kunst und Industrie. Die Gemeinde Wien und die Wiedner Bevölkerung stifteten den Brunnen. Er steht nahe der Stelle des mittelalterlichen Laßlaturms.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Technische Universität am Karlsplatz",
+   "kat": "geschichte",
+   "wiki": "Technische Universität",
+   "adr": "Karlsplatz 12–13",
+   "lon": 16.3699,
+   "lat": 48.19898,
+   "jahr": "1815",
+   "text": "Die niederösterreichische Landesregierung reichte 1803 ein erstes Projekt für ein polytechnisches Institut ein, Johann Josef Prechtl wurde 1813 mit der Suche nach einem Gebäude betraut. Am 6. November 1815 nahm das k. k. Polytechnische Institut auf den ehemaligen Losyschen Gründen, die man vom Bankier Sina erworben hatte, den Betrieb auf, 1816–1818 entstand der Neubau. Im Festsaal steht das 1842 enthüllte Standbild Franz I. von Joseph Klieber. Vor dem Haus stehen im Resselpark acht Hermenbüsten berühmter Techniker.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Resselpark",
+   "kat": "alltag",
+   "wiki": "Resselpark",
+   "adr": "Karlsplatz",
+   "lon": 16.37014,
+   "lat": 48.19959,
+   "jahr": "1862",
+   "text": "Die Grünanlage vor Technischer Universität und Evangelischer Schule wurde 1862 eröffnet und nichtamtlich nach Josef Ressel benannt. Sie umfasst Resseldenkmal, Marcusdenkmal, Maderspergerdenkmal, Brahmsdenkmal, Tilgnerbrunnen und eine Skulptur von Henry Moore. Nach 1945 war der Park Treffpunkt von Schleichhändlern und illegalem Warentausch, ab den späten 1980er Jahren der Drogenszene. 1971–1978 gestaltete Sven Ingmar Andersson ihn neu.",
+   "fakt": "Josef Ressel gilt als Erfinder der Schiffsschraube.",
+   "quellen": []
+  },
+  {
+   "n": "Brahmsdenkmal",
+   "kat": "kultur",
+   "wiki": "Brahmsdenkmal",
+   "adr": "Karlsplatz",
+   "lon": 16.37178,
+   "lat": 48.19963,
+   "jahr": "1908",
+   "text": "Das Marmordenkmal von Rudolf Weyr zeigt Johannes Brahms sitzend, zu seinen Füßen die Muse der Tonkunst mit Lyra. Es wurde am 7. Mai 1908 zum 75. Geburtstag enthüllt. Beim Umbau des Karlsplatzes für den U-Bahn-Bau veränderte man den Standort. Brahms wohnte lange in der nahen Karlsgasse.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schuberts Sterbewohnung",
+   "kat": "geschichte",
+   "wiki": "Schuberts Sterbehaus",
+   "adr": "Kettenbrückengasse 6",
+   "lon": 16.36146,
+   "lat": 48.19462,
+   "jahr": "1828",
+   "text": "Franz Schubert starb am 19. November 1828 gegen drei Uhr nachmittags in der Wohnung seines Bruders Ferdinand im zweiten Stock des erst im selben Jahr von Franz Reymund erbauten Biedermeierhauses. Er wohnte hier seit September 1828, in dieser Zeit entstanden die letzten Klaviersonaten D 958–960 und „Der Hirte auf dem Felsen“. Die Gedenktafel wurde im November 1869 enthüllt, das Zimmer ist als Gedenkstätte des Wien Museums eingerichtet.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Strauß-Palais",
+   "kat": "kultur",
+   "wiki": "Johann-Strauß-Palais",
+   "adr": "Johann-Strauß-Gasse 4–6",
+   "lon": 16.36634,
+   "lat": 48.18915,
+   "jahr": "1876–1878",
+   "text": "1875 kaufte Johann Strauss zwei Parzellen in der damaligen Igelgasse und ließ durch Stadtbaumeister Arnold Heymann ein zweistöckiges Palais mit Renaissancefassade bauen. Im Garten standen ein Brunnen mit dem „Donauweibchen“ von Hanns Gasser und ein Gartenhäuschen. Berühmt war der Billardsalon. Die dritte Frau Adele versammelte im Musiksalon die Künstlerwelt zu den „Johann-Strauss-Abenden“. Die Gasse hieß bis 1899 Igelgasse.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Johann-Strauß-Theater, später Scala",
+   "kat": "kultur",
+   "wiki": "Johann-Strauß-Theater",
+   "adr": "Favoritenstraße 8",
+   "lon": 16.36889,
+   "lat": 48.19546,
+   "jahr": "1908–1931",
+   "text": "Das als erstes Wiener Operettentheater erbaute Haus von Eduard Prandl fasste 1.192 Personen und wurde am 30. Oktober 1908 unter Leopold Müller mit „1001 Nacht“ von Johann Strauß eröffnet. Nach Müllers Tod 1912 führte sein Sohn Erich Müller es bis 1931 weiter. Ab 1931 hieß es Scala.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Theresianum und die Favorita",
+   "kat": "geschichte",
+   "wiki": "Theresianische Akademie (Gebäude)",
+   "adr": "Favoritenstraße 15",
+   "lon": 16.37088,
+   "lat": 48.19309,
+   "jahr": "1615–1749",
+   "text": "Auf dem Gelände stand ursprünglich ein Gutshof; früheste Eigentümer sind ab 1288 genannt, später der Angerfelderhof, der dem Rudolf Angerfelder († 1419) seinen Namen verdankt. Kaiser Matthias begann 1615 den Bau der neuen Favorita, Karl VI. bewohnte sie im Sommer. Maria Theresia verkaufte sie 1740 an die Jesuiten, 1749 wurde sie zur Ritterakademie. Nach Aufhebung des Ordens kam es zu Umnutzungen; heute besteht die Theresianische Akademie auf dem Gelände.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Palais Althan, Wiedner Krankenhaus und Danhauser",
+   "kat": "geschichte",
+   "wiki": "Wiedner Krankenhaus",
+   "adr": "Favoritenstraße 32, Waltergasse 5",
+   "lon": 16.37077,
+   "lat": 48.19225,
+   "jahr": "1825–1841",
+   "text": "Im ehemaligen Palais Althan, von 1791 bis 1825 im Eigentum der Grafen Károlyi, betrieb Joseph Ulrich Danhauser 1825–1838 seine Möbelfabrik, die der Biedermeier-Möbelkunst Gestalt gab; nach seinem Tod 1829 führte sie sein Sohn, der Maler Josef Danhauser, weiter. Wegen wiederkehrender Bettennot bei Typhus und Cholera beschloss die Lokalkommission am 2. März 1841 unter Bürgermeister Czapka, das Palais zu mieten. Daraus wurde das Wiedner Bezirkskrankenhaus.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Bertha-von-Suttner-Hof",
+   "kat": "wohnen",
+   "wiki": "Bertha-von-Suttner-Hof",
+   "adr": "Favoritenstraße 38–40",
+   "lon": 16.37058,
+   "lat": 48.19036,
+   "jahr": "1955–1957",
+   "text": "Die städtische Wohnhausanlage mit rund 360 Wohnungen wurde 1955–1957 nach Plänen von J. Parzer und der MA 19 erbaut und am 16. Jänner 1957 nach Bertha von Suttner benannt. Siegfried Charoux schuf die Skulptur „Die Waffen nieder“ nach ihrem Hauptwerk von 1889 und der gleichnamigen Zeitschrift 1892–1899, Helene Hädelmayr ein Mosaik am Kindergarten. Hier stand um 1710 das Palais Althan, auf dessen Grundmauern später das Krankenhaus entstand.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Südtiroler Hof",
+   "kat": "wohnen",
+   "wiki": "Südtiroler Hof",
+   "adr": "Wiedner Gürtel 38–40, Schelleingasse 9–15",
+   "lon": 16.37508,
+   "lat": 48.18671,
+   "jahr": "1927–1928",
+   "text": "Die ursprünglich 187 Wohnungen umfassende städtische Anlage von Karl Ernst und Josef Hahn ist nach dem im Vertrag von Saint-Germain 1919 Italien zugesprochenen Südtirol benannt. Expressionistische Fassadendetails und kleine Höfe, zwischen denen Stiegen den Niveauunterschied überbrücken, machen sie bemerkenswert. Es gab einen Kindergarten an der Schelleingasse und Geschäfte am Gürtel.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zentralstelle für jüdische Auswanderung",
+   "kat": "erinnerung",
+   "wiki": "Zentralstelle für jüdische Auswanderung",
+   "adr": "Prinz-Eugen-Straße 22",
+   "lon": 16.37651,
+   "lat": 48.19495,
+   "jahr": "1938–1943",
+   "text": "Gauleiter Josef Bürckel gründete die Zentralstelle am 20. August 1938 im vormaligen Palais Albert Rothschild. Sie war eine Einrichtung des Sicherheitsdienstes der SS und sollte die durch den NS-Terror erzwungene Auswanderung beschleunigen und die Vertriebenen möglichst effizient um ihr Vermögen bringen. Bis zur Schließung im März 1943 wurde sie zur wichtigsten Institution der systematischen Beraubung, Vertreibung und schließlich Deportation; bis zu 200.000 Menschen waren betroffen.",
+   "fakt": "Das Konzept wurde als „Wiener Modell“ auf andere besetzte Gebiete übertragen.",
+   "quellen": []
+  },
+  {
+   "n": "Zwangsarbeiterlager im Freihaus",
+   "kat": "erinnerung",
+   "wiki": "Zwangsarbeiterlager Wiedner Hauptstraße 10, Lager Freihaus",
+   "adr": "Wiedner Hauptstraße 10, Obstmarkt 1, Operngasse 13",
+   "lon": 16.3675,
+   "lat": 48.19849,
+   "jahr": "1943–1945",
+   "text": "Von Ende April 1943 bis 1945 befand sich im Freihaus das Lager für Flakturmarbeiter, das als OT-Lager von der Organisation Todt betrieben wurde. Es war eines von drei Lagern im Kontext des Baus der Wiener Flaktürme, neben dem Lager Sportplatz an der Brigittenauer Lände und dem Zwangsarbeiterlager Pater-Abel-Platz. Zusätzliche Lager gab es an der Mommsengasse 35 (russische Zwangsarbeiterinnen), Schlüsselgasse 6 und Weyringergasse.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Die „Küche“ in der Kanalisation",
+   "kat": "kurios",
+   "wiki": "Küche (Obdachlose)",
+   "adr": "Kanal nahe Schwarzenbergplatz",
+   "lon": 16.37531,
+   "lat": 48.19973,
+   "jahr": "um 1900",
+   "text": "Um 1900 bezeichnete man einen etwa drei Quadratmeter großen Raum in der Kanalisation als „Küche“. Er war über einen Seitenschacht und ein knapp einen Meter hohes Rohr erreichbar und diente ursprünglich als Küche für die Arbeiter beim Kanalbau. Obdachlose nutzten ihn als Unterschlupf, weil die Wärme vergleichsweise angenehm war. Der Journalist Emil Kläger begleitete sie für seine Sozialreportagen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zum Mondschein",
+   "kat": "verschwunden",
+   "wiki": "Zum Mondschein",
+   "adr": "Technikerstraße 5",
+   "lon": 16.37366,
+   "lat": 48.19855,
+   "jahr": "1408–1896",
+   "text": "1408 kaufte Konrad Ramperstorffer von Margarethe Mondschein eine Ziegelwerkstatt, die Ziegel für den Stephansdom lieferte; die Ziegelei verschwand, der Name blieb. Nach der ersten Türkenbelagerung entstand ein neues Haus, in dem ab 1772 der Traiteur Joachim Kronschnabel ein großes Tanzlokal betrieb. Der Name ging auf die Mondscheinbrücke über. 1896 wurde das Haus demoliert.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Café Wortner",
+   "kat": "alltag",
+   "wiki": "Café Wortner",
+   "adr": "Schaumburgergasse 2, Wiedner Hauptstraße 55",
+   "lon": 16.3672,
+   "lat": 48.19161,
+   "jahr": "1880",
+   "text": "Auf dem Gelände stand die zum Starhembergschen Schloss gehörende Seidenzeugfabrik des Leopold Haresleben (1805–1826). Ferdinand Wortner eröffnete das Kaffeehaus am 15. November 1880; es blieb über ein Jahrhundert in Familienbesitz. Am 1. Jänner 1984 übernahmen es junge Unternehmer mit Lesungen, Ausstellungen und Musik. Der Baublock am Dreiecksplatz mit Engelbrunnen ist städtebaulich interessant.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Rosenbaumgarten",
+   "kat": "natur",
+   "wiki": "Rosenbaumgarten",
+   "adr": "Kolschitzkygasse 9",
+   "lon": 16.37101,
+   "lat": 48.1872,
+   "jahr": "1816–1817",
+   "text": "Joseph Karl Rosenbaum ersteigerte 1816 zwei Parzellen aus den barocken Gartengründen des Starhemberg-Palais und ließ vom Hofgärtner Franz Antoine einen Garten anlegen, 1817 baute Josef Ortner mit beratender Hilfe Josef Georg Kornhäusels eine Sommervilla. Zu den Besuchern zählten Castelli, Grillparzer, Salieri und Weber. Der Garten zeigt, wie sich Biedermeier-Geselligkeit in der Vorstadt abspielte.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Taubenschule: Schule der Bürgermeister",
+   "kat": "politik",
+   "wiki": "Taubenschule",
+   "adr": "Margaretenstraße 52, Kettenbrückengasse 2",
+   "lon": 16.36209,
+   "lat": 48.19441,
+   "jahr": "1904",
+   "text": "In der Volksschule, die mit mehreren Wiener Bürgermeistern verbunden ist, gingen Karl Lueger, Richard Weiskirchner und Jakob Reumann zur Schule; Karl Seitz war hier Lehrer. Reumanns Lehrer war der Vater Weiskirchners. 1904 entstand ein Neubau nach Plänen von Johann Kazda.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Fernkorn und die Kunsterzgießerei",
+   "kat": "industrie",
+   "wiki": "K. k. Kunsterzgießerei",
+   "adr": "Gußhausstraße 25",
+   "lon": 16.37049,
+   "lat": 48.19675,
+   "jahr": "1856–1861",
+   "text": "Nachdem die Stuckgießerei der k. k. Kanonengießerei 1851 ins Arsenal übersiedelt war, richtete Anton Dominik Fernkorn 1856 in dem Haus ein Atelier ein. Vor ihm hatte Franz Anton Zauner hier sein Kaiser-Joseph-Denkmal gegossen (Rohguss 1801 und 1803). Mit allerhöchstem Handschreiben vom 28. Oktober 1861 wurde die Kunsterzgießerei zur Ausbildung junger Künstler gegründet. Die Gußhausstraße trägt ihren Namen davon.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Raaber Bahnhof",
+   "kat": "verschwunden",
+   "wiki": "Wien-Raaber Bahnhof",
+   "adr": "Wiedner Gürtel (Gelände des späteren Ostbahnhofs)",
+   "lon": 16.37339,
+   "lat": 48.18591,
+   "jahr": "1846",
+   "text": "Matthias von Schönerer entwarf den Wien-Raaber Bahnhof als klassizistischen „Doppelkopfbahnhof“ gemeinsam mit dem Wien-Gloggnitzer Bahnhof; mit den dazwischen angeordneten Betriebsbauten stand die Anlage weltweit ohne Beispiel. Er wurde 1846 eröffnet, Raab ist der deutsche Name von Győr. An der Stelle entstand später der Ostbahnhof.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Das RAVAG-Funkhaus",
+   "kat": "bauwerk",
+   "wiki": "Funkhaus",
+   "adr": "Argentinierstraße 30a",
+   "lon": 16.37294,
+   "lat": 48.19499,
+   "jahr": "1935–1939",
+   "text": "Das Funkhaus der Radio-Verkehrs AG auf dem ehemaligen Gartengrund des Theresianums ist der einzige im Dollfuß- und Schuschnigg-Regime fertiggestellte Monumentalbau und sollte den Stellenwert des Radios für die Vaterländische Front zeigen. Die RAVAG wurde am 1. Oktober 1924 gegründet, die ersten Sendungen kamen aus dem Kriegsministerium am Stubenring.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wanda-Lanzer-Park",
+   "kat": "politik",
+   "wiki": "Wanda-Lanzer-Park",
+   "adr": "Ziegelofengasse, Phorusgasse, Leibenfrostgasse",
+   "lon": 16.36331,
+   "lat": 48.18968,
+   "jahr": "2018",
+   "text": "Der Park hieß seit 2001 Wilhelm-Neusser-Park. Die Kommission zur Prüfung der Wiener Straßennamen (2011–2013) stufte die Benennung als Fall mit intensivem Diskussionsbedarf ein, 2018 beschloss der Kulturausschuss die Umbenennung nach Wanda Lanzer (1896–1980), Bibliothekarin, Archivarin, Volksbildnerin und Journalistin.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "Welcher Kaiser löste mit dem Bau der Karlskirche ein Pestgelübde ein?",
+   "a": "Karl VI.",
+   "f": [
+    "Leopold I.",
+    "Joseph I.",
+    "Ferdinand II."
+   ],
+   "erkl": "Karl VI. legte das Gelübde am 22. Oktober 1713 bei St. Stephan ab, die Grundsteinlegung folgte 1716.",
+   "wiki": "Karlskirche",
+   "quellen": []
+  },
+  {
+   "q": "In welchem Theater auf der Wieden wurde Mozarts „Zauberflöte“ 1791 uraufgeführt?",
+   "a": "Freihaustheater",
+   "f": [
+    "Theater in der Josefstadt",
+    "Theater an der Wien",
+    "Kärntnertortheater"
+   ],
+   "erkl": "Emanuel Schikaneder leitete das Freihaustheater, die Premiere war am 30. September 1791.",
+   "wiki": "Freihaustheater",
+   "quellen": []
+  },
+  {
+   "q": "Wann wurde die Wieden erstmals urkundlich genannt?",
+   "a": "1211",
+   "f": [
+    "1137",
+    "1283",
+    "1529"
+   ],
+   "erkl": "Im Stiftungsbrief Leopolds VI. für das Heiligengeistspital steht „vulgariter widern dicitur“.",
+   "wiki": "Wieden (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Von welchem Jahr bis zu welchem bestand das Leprosenhaus St. Hiob zum Klagbaum?",
+   "a": "1267 bis 1787",
+   "f": [
+    "1157 bis 1529",
+    "1356 bis 1683",
+    "1450 bis 1848"
+   ],
+   "erkl": "Der Stiftbrief stammt von 1267; 1787 wurde das Siechenhaus unter Joseph II. aufgehoben.",
+   "wiki": "Zum Klagbaum",
+   "quellen": []
+  },
+  {
+   "q": "Wo starb Franz Schubert am 19. November 1828?",
+   "a": "In der Wohnung seines Bruders Ferdinand in der Kettenbrückengasse 6",
+   "f": [
+    "Im Allgemeinen Krankenhaus",
+    "In seiner Geburtswohnung in der Himmelpfortgrund",
+    "Im Gluckhaus an der Wiedner Hauptstraße"
+   ],
+   "erkl": "Er wohnte ab September 1828 beim Bruder; die Wohnung ist heute Gedenkstätte des Wien Museums.",
+   "wiki": "Schuberts Sterbehaus",
+   "quellen": []
+  },
+  {
+   "q": "Wer gründete am 20. August 1938 die Zentralstelle für jüdische Auswanderung?",
+   "a": "Gauleiter Josef Bürckel",
+   "f": [
+    "Arthur Seyß-Inquart",
+    "Reinhard Heydrich",
+    "Odilo Globocnik"
+   ],
+   "erkl": "Die Zentralstelle hatte ihren Sitz im Palais Albert Rothschild in der Prinz-Eugen-Straße 22.",
+   "wiki": "Zentralstelle für jüdische Auswanderung",
+   "quellen": []
+  },
+  {
+   "q": "Welche Grundherrschaft hatte ab 1660 an der Schleifmühle ihren Sitz?",
+   "a": "Mühlfeld",
+   "f": [
+    "Konradswörth",
+    "Schaumburgergrund",
+    "Hungelbrunn"
+   ],
+   "erkl": "Mühlfeld hatte seinen Sitz an der Schleifmühle; Konradswörth war die Herrschaft des Freihauses.",
+   "wiki": "Schleifmühle",
+   "quellen": []
+  },
+  {
+   "q": "Wer baute um 1705/06 das Schönburgpalais am Schaumburgergrund?",
+   "a": "Johann Lukas von Hildebrandt",
+   "f": [
+    "Johann Bernhard Fischer von Erlach",
+    "Lukas von Hildebrandt jun.",
+    "Jakob Prandtauer"
+   ],
+   "erkl": "Es zählt zu den Frühwerken Hildebrandts; Bauherr war Gundacker Thomas Graf Starhemberg.",
+   "wiki": "Schönburgpalais",
+   "quellen": []
+  },
+  {
+   "q": "Wann nahm das k. k. Polytechnische Institut, die Vorgängerin der TU Wien, den Betrieb auf?",
+   "a": "1815",
+   "f": [
+    "1783",
+    "1848",
+    "1872"
+   ],
+   "erkl": "Der Betrieb begann am 6. November 1815 auf den Losyschen Gründen.",
+   "wiki": "Technische Universität",
+   "quellen": []
+  },
+  {
+   "q": "Was ist die Besonderheit des Wien-Raaber Bahnhofs von 1846?",
+   "a": "Er war mit dem Gloggnitzer Bahnhof ein klassizistischer Doppelkopfbahnhof",
+   "f": [
+    "Er war ein reiner Kopfbahnhof am Donaukanal",
+    "Er wurde von Otto Wagner entworfen",
+    "Er hatte als erster Bahnhof Wiens eine Stahlkuppel"
+   ],
+   "erkl": "Matthias von Schönerer plante beide Endbahnhöfe als symmetrische Anlage, weltweit ohne Beispiel.",
+   "wiki": "Wien-Raaber Bahnhof",
+   "quellen": []
+  },
+  {
+   "q": "Nach welchem König ist der abgebrochene Laßlaturm benannt?",
+   "a": "Ladislaus Postumus",
+   "f": [
+    "Matthias Corvinus",
+    "Ottokar II. Přemysl",
+    "Rudolf IV."
+   ],
+   "erkl": "Ladislaus zog 1452 durch den damals noch im Bau befindlichen Turm in die Stadt ein.",
+   "wiki": "Laßlaturm",
+   "quellen": []
+  },
+  {
+   "q": "Welches Kunstwerk am Bertha-von-Suttner-Hof verweist auf das Hauptwerk der Namensgeberin?",
+   "a": "Die Skulptur „Die Waffen nieder“ von Siegfried Charoux",
+   "f": [
+    "Ein Fresko „Friede auf Erden“ von Oskar Kokoschka",
+    "Eine Büste von Anton Hanak",
+    "Das Mosaik „Pax“ von Fritz Wotruba"
+   ],
+   "erkl": "Der Titel bezieht sich auf Suttners Roman von 1889 und ihre Zeitschrift (1892–1899).",
+   "wiki": "Bertha-von-Suttner-Hof",
+   "quellen": []
+  },
+  {
+   "q": "Wer ließ 1875/78 in der damaligen Igelgasse ein Palais mit berühmtem Billardsalon bauen?",
+   "a": "Johann Strauss (Sohn)",
+   "f": [
+    "Johannes Brahms",
+    "Franz Lehár",
+    "Carl Michael Ziehrer"
+   ],
+   "erkl": "Die Gasse hieß bis 1899 Igelgasse und heißt heute Johann-Strauß-Gasse.",
+   "wiki": "Johann-Strauß-Palais",
+   "quellen": []
+  },
+  {
+   "q": "Was bezeichnete man um 1900 als „Küche“ in der Wiener Kanalisation?",
+   "a": "Einen kleinen Raum nahe dem Schwarzenbergplatz, in dem Obdachlose Unterschlupf fanden",
+   "f": [
+    "Eine Armenküche in der Karlsgasse",
+    "Das Lager der Kanalarbeiter am Donaukanal",
+    "Eine Suppenküche der Gemeinde in der Wiedner Hauptstraße"
+   ],
+   "erkl": "Der Raum diente beim Kanalbau als Küche für die Arbeiter und wurde dann als Wärme spendender Schlafplatz benutzt.",
+   "wiki": "Küche (Obdachlose)",
+   "quellen": []
+  },
+  {
+   "q": "Welche Wiener Bürgermeister besuchten die Taubenschule an der Margaretenstraße?",
+   "a": "Karl Lueger, Richard Weiskirchner und Jakob Reumann",
+   "f": [
+    "Karl Seitz, Felix Slavik und Leopold Gratz",
+    "Cajetan Felder, Johann Prix und Josef Strobach",
+    "Karl Renner, Michael Hainisch und Theodor Körner"
+   ],
+   "erkl": "Karl Seitz war später Lehrer an der Schule.",
+   "wiki": "Taubenschule",
+   "quellen": []
+  }
+ ]
+}

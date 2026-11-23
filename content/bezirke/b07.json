@@ -1,0 +1,710 @@
+{
+ "nr": 7,
+ "name": "Neubau",
+ "kurz": "Aus Weingärten, Kasernen, Webstühlen und Ziegelgruben wurde der Bezirk, in dem Wien seine Stoffe wob und seit den 1970ern seine Stadterneuerung ausprobierte.",
+ "profil": [
+  "Neubau entstand 1850 aus den Vorstädten Neubau, Neustift, Spittelberg und Schottenfeld sowie Teilen von Laimgrube, Mariahilf, St. Ulrich und Altlerchenfeld und war zunächst der sechste Bezirk; erst nach der Abtrennung Margaretens 1861 wurde er der siebente. Er liegt auf einem Höhenzug zwischen Wienfluss und dem eingewölbten Ottakringer Bach, der heute noch in Neustiftgasse und Ulrichsplatz nachzuspüren ist, und umfasst 1,61 Quadratkilometer.",
+  "Der älteste Ortskern ist Zeismannsbrunn, ein Dorf am Ottakringer Bach, das 1202 erstmals genannt wird. Dort stiftete ein Wiener Bürger, Dietrich der Reiche, 1211 die Ulrichskapelle; das Schottenstift erhielt 1302 die Grundherrschaft von St. Ulrich, das Bürgerspital 1525 diejenige über den Spittelberg. 1530 wird erstmals der Name Neubau erwähnt: Niklas Chrysostomus Spießheimer ließ nach 1540 auf dem Ulrichshof-Gelände zunächst 20, dann über 70 Häuser „auf dem Neubau“ bauen, die Lange Gasse, die heutige Neubaugasse.",
+  "1529 und 1683 wurden die Vorstädte zerstört, nach 1683 wuchsen sie umso schneller wieder auf. Ab etwa 1720 entwickelte sich Neubau rasant; zwischen Neubaugasse und Zieglergasse entstand ein dichtverbautes Gebiet. Das Schottenfeld wurde 1777 eigene Vorstadt und ein boomendes Zentrum des Textilgewerbes: Von Joseph II. aus Süddeutschland und Görz geholte Einwanderer, die Seide, Samt, Bänder und Tuch erzeugten, wurden so reich, dass man die Gegend Brillantengrund nannte.",
+  "Der Spittelberg war dagegen das Viertel der Wirtshäuser, Kleinhandwerker und Kleinbürger. In den frühen 1970er Jahren sollten Teile abgerissen werden, wogegen eine Protestbewegung entstand, aus der das Amerlinghaus hervorging. Die Sanierung des Spittelbergs wurde zu einem Modell der sanften Stadterneuerung in Wien.",
+  "Mit Ringstraße und Stadterweiterung kamen große Kulturbauten: Aus dem Hofstallgebäude Karls VI. wurde 1921 der Messepalast und 2001 das MuseumsQuartier. Warenhäuser an der Mariahilfer Straße (Herzmansky, Gerngroß, Esders) machten Neubau zum Einkaufszentrum der Westvorstädte. Die Gürtelstraße und die Stadtbahn schlossen den Bezirk im Westen ab, mit der Hauptbücherei auf der U6-Trasse als jüngstem Zeichen.",
+  "Die NS-Zeit hat Spuren hinterlassen: Beim Tränengasanschlag auf das Kaufhaus Gerngroß am 18. Dezember 1932 zeigte sich der Antisemitismus der Wiener NSDAP. Im Messepalast und an vielen Adressen gab es Lager für Zwangsarbeiter*innen. Neubau besitzt kaum Gemeindebauten; aus der Nachkriegszeit sind Otto-Limanovsky-Hof und Hans-Binder-Hof genannt.",
+  "Heute ist Neubau ein ausgesprochen urbaner Bezirk mit hoher Dichte an Kreativwirtschaft, Mode, Gastronomie und Kulturinstitutionen und mit starkem grünen Einfluss in der Verkehrspolitik (Begegnungszonen, Fahrradstraßen). Spittelberg-Weihnachtsmarkt, MuseumsQuartier, Theater der Jugend und Volkstheater prägen das Bild."
+ ],
+ "politik": "Bezirksvorsteher ist Markus Reiter (Grüne). Neubau gehört mit Josefstadt und Währing zu den drei Bezirken mit grüner Bezirksvorstehung. Bei der Bezirksvertretungswahl 2025 erreichten die Grünen 45,5 Prozent, die SPÖ 22,0, die NEOS 9,7, die ÖVP 8,5, die FPÖ 8,3 und die KPÖ 5,7 Prozent; die Beteiligung lag bei 53,2 Prozent. Neubau ist seit Jahrzehnten ein Bezirk, in dem die Grünen besonders stark sind, bei der Gemeinderatswahl lag die SPÖ aber mit 36,9 vor den Grünen mit 27,6 Prozent.",
+ "quellen": [
+  {
+   "t": "Neubau – Wikipedia",
+   "u": "https://de.wikipedia.org/wiki/Neubau_(Wien)"
+  },
+  {
+   "t": "Wien Geschichte Wiki: Neubau",
+   "u": "https://www.geschichtewiki.wien.gv.at/Neubau"
+  }
+ ],
+ "teile": [
+  {
+   "n": "St. Ulrich (Zeismannsbrunn)",
+   "art": "Dorf",
+   "wiki": "Zeismannsbrunn",
+   "lon": 16.35195,
+   "lat": 48.20488,
+   "text": "Zeismannsbrunn lag am Ufer des Ottakringer Bachs im unteren Verlauf der Neustiftgasse, vom Mechitaristenkloster bis zur Döblergasse, und um den St.-Ulrichs-Platz. Erstmals genannt wird der Ort 1202. Am westlichen Ende des Schmalangerdorfs stand der Neudeggerhof (1462 genannt), ein bewehrter Gutshof. Aus der Kapelle des Wiener Bürgers Dietrich wurde St. Ulrich, das das Schottenstift 1302 als Grundherrschaft erhielt.",
+   "quellen": []
+  },
+  {
+   "n": "Neubau",
+   "art": "Vorstadt",
+   "wiki": "Neubau (Vorstadt)",
+   "lon": 16.34902,
+   "lat": 48.20313,
+   "text": "Die Vorstadt entstand durch Verbauung der zum Oberhof (St.-Ulrichs-Hof) gehörigen Gründe. Niklas Chrysostomus Spießheimer, Sohn des Humanisten Cuspinian, ließ 1540 20 Häuser „auf dem Acker“ und 1550 mehr als 70 Häuser „auf dem Neubau“ an der Langen Gasse errichten, der heutigen Neubaugasse. 1693 wurde der obere Teil von St. Ulrich als Neubau eigene Gemeinde. 1850 wurde die Vorstadt Teil Wiens.",
+   "quellen": []
+  },
+  {
+   "n": "Neustift",
+   "art": "Vorstadt",
+   "wiki": "Neustift (Vorstadt)",
+   "lon": 16.3475,
+   "lat": 48.20555,
+   "text": "Der obere Teil der Schottenstift-Siedlung bei St. Ulrich kommt im 14. Jahrhundert als Neustift vor (erstmals 1315). Die Siedlung erweiterte St. Ulrich im Bereich der Neustiftgasse zwischen Kellermann- und Zieglergasse. Bis 1850 war Neustift gemeinsam mit Neubau eine eigene Vorstadt; die Neustiftgasse hieß ab Ende des 17. Jahrhunderts im unteren Teil zeitweise anders. Seit 1861 gehört sie zum siebten Bezirk.",
+   "quellen": []
+  },
+  {
+   "n": "Spittelberg",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.35455,
+   "lat": 48.20314,
+   "text": "Das Bürgerspital erhielt 1525 die Grundherrschaft über den Hang oberhalb der Hofstallungen; daher der Name. Die enge, dichte Siedlung aus Weinhauern, Handwerkern und Wirten lag zwischen Burggasse und Mariahilfer Straße. Die Biedermeierhäuser mit Pawlatschenhöfen blieben erhalten und wurden ab den 1970er Jahren saniert. Im Bezirkswappen steht der Berg mit Reichsapfel und Heiligem Geist für Spittelberg.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Neubau",
+     "u": "https://www.geschichtewiki.wien.gv.at/Neubau"
+    }
+   ]
+  },
+  {
+   "n": "Schottenfeld",
+   "art": "Vorstadt",
+   "wiki": null,
+   "lon": 16.34472,
+   "lat": 48.2016,
+   "text": "Der Name verweist auf das Schottenstift, das hier Grundherr war; bis 1820 hieß der Teil Oberneustift. 1777 wurde Schottenfeld eigene Vorstadt, ein boomendes Zentrum des Textilgewerbes mit Seiden-, Samt- und Bandweberei. Wegen des Reichtums der zugewanderten Fabrikanten wurde die Gegend Brillantengrund genannt. Die Schottenfelder Kirche entstand 1784–1786.",
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Neubau",
+     "u": "https://www.geschichtewiki.wien.gv.at/Neubau"
+    }
+   ]
+  },
+  {
+   "n": "Altlerchenfeld",
+   "art": "Vorstadt",
+   "wiki": "Lerchenfeld",
+   "lon": 16.34487,
+   "lat": 48.20725,
+   "text": "Das Lerchenfeld ist 1295 als Lerochveldt genannt, 1337 kaufte der Hof das Areal zu Jagdzwecken. Die Besiedlung setzte erst Ende des 17. Jahrhunderts ein, ging dann aber so rasch, dass um 1700 schon der Vorort Neulerchenfeld entstand. Die Gegend liegt heute in Neubau und Josefstadt. Das Bezirkswappen zeigt ein von Lerchen bewinkeltes Kreuz.",
+   "quellen": []
+  }
+ ],
+ "orte": [
+  {
+   "n": "Ulrichskirche",
+   "kat": "bauwerk",
+   "wiki": "Ulrichskirche",
+   "adr": "St.-Ulrichs-Platz",
+   "lon": 16.35257,
+   "lat": 48.20477,
+   "jahr": "1211–1724",
+   "text": "Am Steilufer des Ottakringer Bachs baute 1211 der Bürger Dietrich im Dorf Zeismannsbrunn eine kleine Kirche, geweiht vom Passauer Bischof Mangold zu Ehren des heiligen Ulrich. 1408 ließ Schottenabt Thomas II. ein Gotteshaus errichten, das 1529 zerstört und 1574 abgetragen, 1589/90 wiederaufgebaut wurde. 1683 diente die Kirche den Osmanen als Munitionsdepot, der Turm als Beobachtungspunkt Kara Mustafas. Den Grundstein zum heutigen zweitürmigen Bau legte Abt Karl Fetzer am 21. April 1721, Joseph Reymund vollendete ihn bis 1724.",
+   "fakt": "Im Volksmund heißt sie Maria-Trost-Kirche nach einer Kopie des Grazer Gnadenbilds.",
+   "quellen": []
+  },
+  {
+   "n": "Türkischer Reiter",
+   "kat": "mythos",
+   "wiki": "Türkischer Reiter",
+   "adr": "Neustiftgasse 32–34",
+   "lon": 16.3505,
+   "lat": 48.20584,
+   "jahr": "1683",
+   "text": "Die Steinskulptur erinnert daran, dass hier 1683 Kara Mustafas Zelt gestanden haben soll. Diese Überlieferung ist ebenso falsch wie die Benennung der Zeltgasse, denn das Zelt stand auf der Schmelz. Im schmalen Einschnitt des Ottakringer Bachs wäre für die weitläufige Zeltburg kein Platz gewesen, auch lag er noch innerhalb der Reichweite der Geschütze der Belagerten. Richtig ist, dass bei St. Ulrich eine türkische Schanze als vorgeschobener Gefechtsstand stand.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Neudeggerhof",
+   "kat": "verschwunden",
+   "wiki": "Neudeggerhof",
+   "adr": "Neustiftgasse, Burggasse, Kirchengasse",
+   "lon": 16.35191,
+   "lat": 48.20623,
+   "jahr": "1376",
+   "text": "Der Name stammt von der Flurbezeichnung „Im Neideck“, die auch anderswo in Wien vorkommt. 1376 ist der Kaplan der passauischen Hofkirche Maria am Gestade als Besitzer nachweisbar, der Bischof von Passau war Lehensherr des gesamten Hofs. Der bewehrte Gutshof erstreckte sich über weite Teile des heutigen Grätzels zwischen Neustiftgasse, Burggasse und Kirchengasse.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Mechitaristenkirche und Kapuzinerkloster",
+   "kat": "geschichte",
+   "wiki": "Mechitaristenkirche",
+   "adr": "Neustiftgasse 4, Mechitaristengasse",
+   "lon": 16.35434,
+   "lat": 48.20549,
+   "jahr": "1603–1814",
+   "text": "1599 kamen die Kapuziner nach Wien, 1603 errichtete man ihnen ein kleines Kloster samt Kirche „Zum heiligen Franziskus“ am Platzl in St. Ulrich. Nach der Zerstörung durch die Osmanen 1683 wurde alles 1684 von Feldmarschall Graf Serényi neu erbaut. Joseph II. hob das Kloster 1784 auf. Das Hofdekret vom 13. Dezember 1810 sprach die Kirche den von den Franzosen aus Triest vertriebenen Mechitaristen zu, 1814 wurde sie ihnen verkauft. Der armenisch-katholische Orden ist bis heute im Haus.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Lannerhaus",
+   "kat": "kultur",
+   "wiki": "Lannerhaus",
+   "adr": "Mechitaristengasse 5",
+   "lon": 16.35399,
+   "lat": 48.20599,
+   "jahr": "1801",
+   "text": "Ein Teil des Gartengrunds des Kapuzinerklosters wurde 1788 von Johann und Johanna Oescher erstanden, die im selben Jahr ein Haus bauten. Hier kam am 12. April 1801 der Walzerkomponist Joseph Lanner als Sohn eines Handschuhmachergesellen zur Welt. Auf Anregung von Josef Wimmer wurde am 15. Mai 1879 eine Gedenktafel enthüllt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Augustinbrunnen",
+   "kat": "kurios",
+   "wiki": "Augustinbrunnen",
+   "adr": "Kellermanngasse, Neustiftgasse",
+   "lon": 16.35165,
+   "lat": 48.20558,
+   "jahr": "1908",
+   "text": "Hans Scherpe schuf den Brunnen mit der Figur des „Lieben Augustin“, enthüllt am 4. September 1908. Die Bleifigur wurde im Zweiten Weltkrieg eingeschmolzen und 1952 durch eine Sandsteinfigur von Josef Humplik ersetzt.",
+   "fakt": "Der Liebe Augustin soll 1679 betrunken in eine Pestgrube gefallen sein, ohne zu erkranken.",
+   "quellen": []
+  },
+  {
+   "n": "Trautsonpalais",
+   "kat": "bauwerk",
+   "wiki": "Trautsonpalais (7)",
+   "adr": "Museumstraße 7",
+   "lon": 16.35588,
+   "lat": 48.20581,
+   "jahr": "1710–1712",
+   "text": "Christian Alexander Oedtl baute in der Vorstadt St. Ulrich nach Plänen und unter Leitung von Johann Bernhard Fischer von Erlach ein Gartenpalais für Graf Johann Leopold Donat Trautson, nach dem Vorbild eines Amsterdamer Stadthauses von 1661. 1760 erwarb Maria Theresia es und wies es der Ungarischen Garde zu. Nach deren Auflösung 1848 hatte hier bis 1867 das Niederösterreichische Landesgericht seinen Sitz. Heute ist es Sitz des Justizministeriums.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Café Weghuber und Weghuberpark",
+   "kat": "alltag",
+   "wiki": "Café Weghuber",
+   "adr": "Museumstraße 5, Neustiftgasse 3",
+   "lon": 16.35617,
+   "lat": 48.20527,
+   "jahr": "1840",
+   "text": "Das Kaffeehaus wurde im frühen 19. Jahrhundert an der Ecke Hofstallstraße und Neustiftgasse gegründet und 1840 nach Albert Weghuber benannt. Im davor gelegenen Park, dem späteren Weghuberpark, errichtete Weghuber ein elegantes Sommerkaffeehaus mit fast täglichen Konzerten und wöchentlichen großen Festen. Ferdinand Raimund und Therese Krones zählten zu den Stammgästen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "MuseumsQuartier: Hofstallungen und Messepalast",
+   "kat": "bauwerk",
+   "wiki": "MuseumsQuartier",
+   "adr": "Museumsplatz 1",
+   "lon": 16.35861,
+   "lat": 48.20328,
+   "jahr": "1719–2001",
+   "text": "Karl VI. ließ am Rand des Glacis gegenüber der Hofburg repräsentative Hofstallungen errichten; der Bau nach Plänen von Johann Bernhard Fischer von Erlach wurde 1719 begonnen und 1723 von Joseph Emanuel Fischer von Erlach mit Änderungen vollendet. Er bot Platz für 600 Pferde und wurde 1850–1854 stark erweitert. 1921 fand hier die erste Wiener Internationale Messe statt, daher die Bezeichnung Messepalast; 2001 eröffnete das MuseumsQuartier. Zwischen 1942 und 1945 befand sich im Messepalast ein Zwangsarbeiterlager.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Messepalast",
+     "u": "https://www.geschichtewiki.wien.gv.at/Messepalast"
+    }
+   ]
+  },
+  {
+   "n": "Leopold Museum und Dschungel Wien",
+   "kat": "kultur",
+   "wiki": "Leopold Museum",
+   "adr": "Museumsplatz 1",
+   "lon": 16.35909,
+   "lat": 48.20262,
+   "jahr": "2001",
+   "text": "Das Leopold Museum zeigt die Sammlung des Augenärzte-Ehepaars Rudolf und Elisabeth Leopold, darunter die weltweit größte Schiele-Sammlung sowie Werke von Klimt, Kokoschka, Moser und Loos. Rudolf Leopold war einer der Ersten, die Schiele schätzten, als dessen Werke noch wenig galten. Der Dschungel Wien, ein Theaterhaus für junges Publikum, wurde am 1. Oktober 2004 im MuseumsQuartier eröffnet.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stiftkaserne und Savoyische Akademie",
+   "kat": "geschichte",
+   "wiki": "Stiftkaserne",
+   "adr": "Stiftgasse 2, Mariahilfer Straße 22–24",
+   "lon": 16.35557,
+   "lat": 48.2011,
+   "jahr": "1656–1749",
+   "text": "Hofkammerrat Johann Konrad Richthausen von Chaos stiftete 1663 sein Vermögen für wohltätige Zwecke (Chaossche Stiftung) und erwarb 1656 an der Mariahilfer Straße einen weitläufigen Acker, wo ein Sommerheim für Waisenkinder und 1679 eine Zuflucht während der Pest entstand. Herzogin Maria Theresia von Savoyen-Carignan baute 1746–1749 die Savoyische Adelige Akademie für Adelige, die dem Staat oder der Armee dienen wollten; Maria Theresia übernahm sie 1756. Aus den Bauten wurde die Stiftkaserne, die im Zweiten Weltkrieg einen Flakturm bekam.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Savoyische Adelige Akademie",
+     "u": "https://www.geschichtewiki.wien.gv.at/Savoyische_Adelige_Akademie"
+    }
+   ]
+  },
+  {
+   "n": "Stiftkirche",
+   "kat": "bauwerk",
+   "wiki": "Stiftkirche",
+   "adr": "Mariahilfer Straße 24, Stiftgasse 2",
+   "lon": 16.35595,
+   "lat": 48.20063,
+   "jahr": "1739",
+   "text": "Die Kirche „Zum Heiligen Kreuz“ wurde 1739 wohl nach einem Entwurf von Joseph Emanuel Fischer von Erlach für das Chaossche Stiftungshaus erbaut. Maria Theresia ließ sie vergrößern, und Benedikt Henrici errichtete 1772 den Turm mit durchbrochenem Helm. Zwischen 1785 und 1799 war sie Militärdepot, 1799 wurde sie wieder geweiht; 1921–1938 war sie Garnisonkirche.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Amerlinghaus und der Spittelberg-Protest",
+   "kat": "politik",
+   "wiki": "Amerlinghaus",
+   "adr": "Stiftgasse 8, Schrankgasse 1",
+   "lon": 16.35455,
+   "lat": 48.20314,
+   "jahr": "1803/1970er",
+   "text": "Das zweigeschossige Eckhaus mit stimmungsvollem Innenhof mit Pawlatschen und Arkaden stammt vermutlich aus der ersten Bauphase des Spittelbergs; hier wurde am 14. April 1803 der Maler Friedrich Amerling geboren. Anfang der 1970er Jahre sollten Teile des vernachlässigten Spittelberg-Viertels abgerissen und neu bebaut werden; dagegen formierte sich eine Protestbewegung, die zur Rettung des Viertels und zum Kulturzentrum Amerlinghaus führte. Im Haus ist auch das Bezirksmuseum Neubau untergebracht (gegründet 1966, eigene Räume seit 1. April 1978).",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zum schwarzen Mohren",
+   "kat": "bauwerk",
+   "wiki": "Spittelberggasse 19",
+   "adr": "Spittelberggasse 19, Burggasse 19",
+   "lon": 16.35488,
+   "lat": 48.20402,
+   "jahr": "um 1740/1750",
+   "text": "Das barocke Bäckerhaus hat einen Mittelhof mit Pawlatschen und Laubenstellungen, eine Barockfassade und kräftiges Fassadendekor mit Mohrenfigur. Es steht für den Bautyp des Spittelbergs, den vorstädtischen, schmalen Bürgerhäusern auf langgestreckten Parzellen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Wiener Werkstätte in der Neustiftgasse",
+   "kat": "kultur",
+   "wiki": "Wiener Werkstätte",
+   "adr": "Neustiftgasse 32–34",
+   "lon": 16.3505,
+   "lat": 48.20566,
+   "jahr": "1903",
+   "text": "Die Wiener Werkstätte entstand 1903 auf Initiative von Josef Hoffmann, Koloman Moser und dem Textilfabrikanten Fritz Waerndorfer. Sie wollte nach dem Vorbild der englischen Arts-and-Crafts-Bewegung der industriellen Massenproduktion und dem erstarrten Historismus kunsthandwerkliche Qualität entgegensetzen. Der erste Sitz war eine kleine Wohnung in der Heumühlgasse 6 in der Wieden; noch 1903 zog sie in einen dreistöckigen Gewerbebau in der Neustiftgasse 32–34.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schmauswaberl",
+   "kat": "alltag",
+   "wiki": "Schmauswaberl",
+   "adr": "Neustiftgasse 13",
+   "lon": 16.35454,
+   "lat": 48.2053,
+   "jahr": "um 1810",
+   "text": "In dem 1712 errichteten Bürgerhaus „Zum goldenen Schiff“ führte Anfang des 19. Jahrhunderts die Husarenwitwe Barbara Roman, geborene Wißmayer († 1813), ein Gasthaus. Sie hatte erreicht, dass sie die von der Hoftafel und herrschaftlichen Tafeln übrig gebliebenen Speisen verkaufen durfte, die sie in einem Gwölbl billig an Gäste abgab. Das Geschäft blühte so, dass sie die Hälfte des Gebäudes erwerben konnte. Der Name Schmauswaberl lebt im Wiener Sprachgebrauch weiter.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Langer Keller",
+   "kat": "geschichte",
+   "wiki": "Langer Keller",
+   "adr": "Burggasse 67",
+   "lon": 16.3475,
+   "lat": 48.20419,
+   "jahr": "1683–1758",
+   "text": "Schottenabt Sebastian Faber ließ in den Jahren nach 1683 auf Schottengrund einen langen Keller graben und darüber ein Haus für pensionierte Stiftsdiener errichten. 1690 überließ das Stift das Gebäude der Gemeinde St. Ulrich, die ein Grundarmenhaus einrichtete, das 1737 vergrößert wurde. 1758 kam es in Staatsbesitz, Maria Theresia machte es zur allgemeinen Versorgungsanstalt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Warenhaus Gerngroß und der Tränengasanschlag",
+   "kat": "ereignis",
+   "wiki": "Anschlag auf das Kaufhaus Gerngroß",
+   "adr": "Mariahilfer Straße 38–48",
+   "lon": 16.35401,
+   "lat": 48.1999,
+   "jahr": "1932",
+   "text": "Alfred Gerngroß kam 1881 aus Bayern nach Wien und baute mit seinem Bruder Hugo aus einem Tuchwarengeschäft ein großes Warenhaus mit 13 erworbenen Häusern; der Bau von Fellner und Helmer im Stil des Jugendstils (Metall-Glas-Fassade) entstand bis 1904. Am 18. Dezember 1932, dem „Goldenen Sonntag“, verübten Angehörige der Wiener SS einen Tränengasanschlag auf das Kaufhaus. Max Grillmayr plante ihn, der SS-Sturmbannführer Franz Mazanek leitete ihn; das Tränengas wurde im Heizkeller des Adolf-Hitler-Hauses in der Hirschengasse umgefüllt.",
+   "fakt": null,
+   "quellen": [
+    {
+     "t": "Wien Geschichte Wiki: Warenhaus Gerngroß",
+     "u": "https://www.geschichtewiki.wien.gv.at/Warenhaus_Gerngro%C3%9F"
+    }
+   ]
+  },
+  {
+   "n": "Warenhaus Herzmansky",
+   "kat": "alltag",
+   "wiki": "Warenhaus Herzmansky",
+   "adr": "Mariahilfer Straße 26–30",
+   "lon": 16.35527,
+   "lat": 48.20029,
+   "jahr": "1863–1897",
+   "text": "August Herzmansky eröffnete 1863 eine Gemischtwarenhandlung in der Kirchengasse 2, die durch gehobenes Angebot und Fixpreise Anklang fand. 1892 war es das größte Textilkaufhaus der Monarchie. Maximilian Katscher errichtete 1896/97 den Neubau in der Stiftgasse 3, fünf Geschoße in Ständerarchitektur mit schmiedeeisernen Stützen und einem Innenhof; die eiserne Hauptstiege wurde 1963 abgebrochen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Esders und das nie gebaute Lamarr-Haus",
+   "kat": "politik",
+   "wiki": "Warenhaus Stephan Esders",
+   "adr": "Mariahilfer Straße 18, Karl-Schweighofer-Gasse 2",
+   "lon": 16.35855,
+   "lat": 48.20128,
+   "jahr": "1894–2024",
+   "text": "Hier stand zuvor das 1839 demolierte Haus „Zum roten Krebs“. Stephan Esders ließ 1894/95 ein Warenhaus errichten, das 1964 vom Möbelhaus Leiner übernommen wurde. Nach dem Abbruch von Leiner sollte ab 2021 ein der Erfinderin Hedy Lamarr gewidmetes Warenhaus entstehen. Die Realisierung kam nicht zustande, und der Rohbau wurde 2024 vom Investor Georg Stump erworben.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Stafa: Mariahilfer Zentralpalast",
+   "kat": "bauwerk",
+   "wiki": "Stafa",
+   "adr": "Mariahilfer Straße 120, Kaiserstraße 2",
+   "lon": 16.34195,
+   "lat": 48.19651,
+   "jahr": "1910–1911",
+   "text": "Der Stahlbetonbau mit kreisrundem, neungeschoßigem Eckbaukörper wurde nach Plänen von Jakob Wohlschläger für sich selbst gebaut und am 18. August 1911, dem Geburtstag Kaiser Franz Josephs I., eröffnet. Im Keller gab es einen Gastbetrieb, im Mezzanin eine Konditorei, im dritten Geschoß ein Möbelhallen- und ein Tanzlokal „Palmenhaus“, oben eine Bildergalerie und eine Aussichtsterrasse mit Fernrohren. Die Reliefs am Rundbau schuf Anton Hanak.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Renaissancetheater und Theater der Jugend",
+   "kat": "kultur",
+   "wiki": "Renaissancetheater",
+   "adr": "Neubaugasse 36",
+   "lon": 16.3494,
+   "lat": 48.20137,
+   "jahr": "1912",
+   "text": "Das Theater besteht seit 1912; der Verein „Wiener Freie Bühne“ (konstituiert 1906) vermittelte hier Theaterkultur für ärmere Volksschichten, die erste Vorstellung war Nestroys „Kampl“ am 12. Dezember 1912. 1949–1975 hatte hier die Löwinger-Bühne ihren Sitz, 1957–1970 teilte sie das Haus mit dem Theater der Jugend (gegründet 1932). Mit über 40.000 Abonnent*innen ist es das größte Theater für Kinder und Jugendliche in Europa.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Altlerchenfelder Kirche",
+   "kat": "bauwerk",
+   "wiki": "Altlerchenfelder Kirche",
+   "adr": "Lerchenfelder Straße 111",
+   "lon": 16.3431,
+   "lat": 48.20692,
+   "jahr": "1715–1861",
+   "text": "Um 1715 gründete der Hofbäcker Michael Knorr eine Kapelle, die man nach ihm Michaelskapelle nannte. 1779 bewilligte Maria Theresia den Bau einer Kirche, 1783 wurde sie Pfarrkirche; Ferdinand Schubert, der Bruder Franz Schuberts, war hier Regens chori. 1848 begann Paul Sprenger den Neubau, wurde aber nach Protesten entlassen und durch den Schweizer Johann Georg Müller ersetzt. Der Name „Zu den sieben Zufluchten“ geht vermutlich auf eine Bruderschaft zurück.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Schottenfelder Kirche",
+   "kat": "bauwerk",
+   "wiki": "Schottenfelder Kirche",
+   "adr": "Westbahnstraße 17",
+   "lon": 16.34472,
+   "lat": 48.2016,
+   "jahr": "1784–1786",
+   "text": "Schottenabt Benno Pointner initiierte den Bau nach einem Entwurf des Stiftsbaumeisters Andreas Zach; der Fassadenturm wurde 1787 vollendet. Weil der Baugrund den Laurenzerinnen gehörte, wurde die Kirche dem heiligen Laurenz geweiht. Bei der Aufhebung des Laurenzerinnenklosters rettete Abt Benno viele Kunstschätze, darunter das Geländer des Hochaltars. Hier wirkte der volkstümliche Pater Urban Loritz († 1881); seit 1946 betreuen Deutschordenspriester sie.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Lichtenbergsches Etablissement: der Schafstall",
+   "kat": "kultur",
+   "wiki": "Lichtenbergsches Etablissement",
+   "adr": "Westbahnstraße 16, Bandgasse",
+   "lon": 16.34622,
+   "lat": 48.20187,
+   "jahr": "1794",
+   "text": "Matthias Lichtenberg gestaltete 1794 aus einer umgebauten Scheune ein Vergnügungslokal mit schmucklosem Ballsaal, Hof und einem steinernen schwarzen Schaf über dem Tor, daher auch „Zum schwarzen Schaf“ und spöttisch „Schafstall“. Philipp Fahrbach dirigierte hier am Ostermontag 1833 erstmals, Joseph Lanner gab Tanzkonzerte. Beleuchtet war es nur mit Talglichtern.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Apollosaal",
+   "kat": "verschwunden",
+   "wiki": "Apollosaal (7)",
+   "adr": "Zieglergasse 15",
+   "lon": 16.34494,
+   "lat": 48.19896,
+   "jahr": "1807–1808",
+   "text": "Der Mechaniker Sigmund Wolffsohn errichtete das Vergnügungsetablissement im April bis Dezember 1807, eröffnet wurde es am 10. Jänner 1808 (Eintritt 25 Gulden in Bankozetteln). Hinter einem einstöckigen Gebäude mit breiter Gassenfront verbarg sich eine prächtige Ausstattung; allein das Silberservice kostete 60.000 Gulden. Wolffsohn kündigte ein Riesenorchester von 60 Musikern an und beleuchtete mit über 5.000 Wachskerzen.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Kaiseracker",
+   "kat": "geschichte",
+   "wiki": "Zum Kaiseracker",
+   "adr": "Kaiserstraße 49",
+   "lon": 16.34036,
+   "lat": 48.20169,
+   "jahr": "1769",
+   "text": "Der Name geht auf eine Begebenheit bei Slavikovice zurück, wo Joseph II. am 19. August 1769 mit dem Pflug des Bauern Andreas Trnka einige Furchen ackerte. Die Pflugszene wurde in Kupferstichen, einer Maulbertsch-Verherrlichung und am Kaiser-Joseph-Denkmal (Zauner, 1807) festgehalten. Ein Sandsteinmal am Ort wurde 1788 entfernt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Argentor-Werke",
+   "kat": "industrie",
+   "wiki": "Argentor Werke",
+   "adr": "Wimbergergasse 24, Kaiserstraße 83",
+   "lon": 16.33881,
+   "lat": 48.20488,
+   "jahr": "1894–1902",
+   "text": "Baumeister Stagl & Brodhag errichteten ab 1894 die Werksanlage für die Firma C. Argentor Wohlmeyer & Co. Der Trakt in der Wimbergergasse (Entwurf 1901 Carl Brodhag, Umplanung nach System Henebique 1902 durch Ludwig Dillmann) ist einer der ersten Stahlbetonbauten Wiens. Dillmann setzte die Planung nach Brodhags Tod fort und stellte von Eisen-Monier-Konstruktion auf Stahlbeton um.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Sophienspital",
+   "kat": "geschichte",
+   "wiki": "Sozialmedizinisches Zentrum Sophienspital",
+   "adr": "Apollogasse 19, Kaiserstraße 9",
+   "lon": 16.34095,
+   "lat": 48.19778,
+   "jahr": "1845",
+   "text": "Eduard Graf Kenyon erwarb 1845 das Grundstück Schottenfeld Nr. 6 mit Haus und großem Garten. Seine Frau Eugenie Louise, geborene Turovsky († 1877), vermachte Grundstück und Vermögen testamentarisch für ein Spital für die bedürftige Bevölkerung des sechsten und siebenten Bezirks, das Erzherzogin-Sophien-Spital. Heute ist es ein Sozialmedizinisches Zentrum.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Hauptbücherei über der U6",
+   "kat": "bauwerk",
+   "wiki": "Hauptbücherei",
+   "adr": "Urban-Loritz-Platz 2a",
+   "lon": 16.33836,
+   "lat": 48.20002,
+   "jahr": "2003",
+   "text": "Das von Ernst Mayr entworfene lang gestreckte Gebäude steht auf dem Neubaugürtel über der Trasse der U6 und dem Stationsgebäude Burggasse und ist durch Lifte mit der unterirdischen Station verbunden. Eine 130 Meter lange Stahl-Glas-Membrankonstruktion überdacht den neu gestalteten Urban-Loritz-Platz. Aus Schallschutzgründen sind die Flanken gegenüber den beiden Gürtelstraßen nur sparsam geöffnet. Das Gelände ist auch ein Grenzgebiet zum 15. Bezirk.",
+   "fakt": "Der Platz ist nach Pater Urban Loritz benannt.",
+   "quellen": []
+  },
+  {
+   "n": "Literaturhaus Wien",
+   "kat": "kultur",
+   "wiki": "Literaturhaus Wien",
+   "adr": "Seidengasse 13",
+   "lon": 16.34535,
+   "lat": 48.20026,
+   "jahr": "1991",
+   "text": "In den Räumen des ehemaligen Dramatischen Zentrums nahm das Literaturhaus am 30. September 1991 nach zweijährigem Umbau den Betrieb auf. Es besteht aus drei Institutionen: der Dokumentationsstelle für neuere österreichische Literatur mit der 1993 gegründeten Exilbibliothek, der IG Autorinnen Autoren und der IG Übersetzerinnen Übersetzer.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zentraldepot des Stadtarchivs",
+   "kat": "geschichte",
+   "wiki": "Zentraldepot des Wiener Stadt- und Landesarchivs",
+   "adr": "Kandlgasse 30",
+   "lon": 16.34115,
+   "lat": 48.20288,
+   "jahr": "1958–1961",
+   "text": "Nach Gemeinderatsbeschluss vom 30. Mai 1958 baute Adolf Wölzl ein ehemaliges zweitraktiges Schulgebäude zum Depot um, mit einer Stahlkonstruktion im Inneren. Es bot rund 13 Kilometer Stellfläche und wurde 1961 seiner Bestimmung übergeben. Wegen starker Zugänge reichte es ab den 1980ern nicht mehr; das Wiener Stadt- und Landesarchiv übersiedelte 2001 in den Gasometer D.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Otto-Limanovsky-Hof",
+   "kat": "wohnen",
+   "wiki": "Otto-Limanovsky-Hof",
+   "adr": "Westbahnstraße 25",
+   "lon": 16.34262,
+   "lat": 48.20171,
+   "jahr": "1979–1981",
+   "text": "Erich Schnögass plante die Anlage mit 54 Wohnungen; sie ist seit 1985 nach dem Bezirksvorsteher Otto Limanovsky (1965–1978) benannt. An der Stelle stand ein 1850 errichtetes Wohnhaus, in dem von 1888 bis 1968 die von Josef Maria Eder gegründete Höhere Graphische Bundes-Lehr- und Versuchsanstalt untergebracht war.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Zweierlinie",
+   "kat": "alltag",
+   "wiki": "Zweierlinie",
+   "adr": "Museumstraße, Äußere Ringstraße",
+   "lon": 16.35605,
+   "lat": 48.20655,
+   "jahr": "1907",
+   "text": "Die Straße am stadtseitigen Rand der ehemaligen Vorstädte hieß ursprünglich Äußere Ringstraße oder Lastenstraße, weil auf der Ringstraße kein Lastenverkehr erlaubt war. 1907 erhielten die Straßenbahnlinien Nummern und Buchstaben; der Name Zweierlinie bezieht sich auf die hier verkehrende Linie 2. Heute ist es eine Autoachse an der Grenze zur Josefstadt.",
+   "fakt": null,
+   "quellen": []
+  },
+  {
+   "n": "Esterházysches Schöpfwerk",
+   "kat": "wasser",
+   "wiki": "Esterházysches Schöpfwerk (7, Kaiserstraße)",
+   "adr": "Kaiserstraße 9",
+   "lon": 16.34057,
+   "lat": 48.20236,
+   "jahr": "1764",
+   "text": "Ab 1764 wurde nahe der Mariahilfer Linie eine Wassermaschine mit zwei Pumpen, auch mit Pferdebetrieb möglich, zu einem bestehenden Brunnen gebaut. Die Saugkanäle lagen zwischen Schmelz und Linienwall. Das Esterházysche Pumpwerk lieferte Wasser aus einem Schöpfbrunnen und stand mit der Mariahilfer Wasserleitung in Verbindung.",
+   "fakt": null,
+   "quellen": []
+  }
+ ],
+ "fragen": [
+  {
+   "q": "In welchem Jahr wird der Ort Zeismannsbrunn (St. Ulrich) erstmals urkundlich genannt?",
+   "a": "1202",
+   "f": [
+    "1137",
+    "1295",
+    "1530"
+   ],
+   "erkl": "1295 ist das Lerchenfeld, 1530 der Name Neubau erstmals belegt.",
+   "wiki": "Zeismannsbrunn",
+   "quellen": []
+  },
+  {
+   "q": "Welche Institution erhielt 1302 die Grundherrschaft über St. Ulrich?",
+   "a": "Das Schottenstift",
+   "f": [
+    "Das Bürgerspital",
+    "Das Domkapitel",
+    "Das Heiligengeistspital"
+   ],
+   "erkl": "Das Bürgerspital bekam 1525 die Grundherrschaft über den Spittelberg.",
+   "wiki": "Neubau",
+   "quellen": []
+  },
+  {
+   "q": "Wer ließ 1540/1550 die ersten Häuser auf dem Neubau an der Langen Gasse errichten?",
+   "a": "Niklas Chrysostomus Spießheimer",
+   "f": [
+    "Johannes Cuspinian",
+    "Ferdinand I.",
+    "Schottenabt Benno Pointner"
+   ],
+   "erkl": "Spießheimer war der Sohn des Humanisten Cuspinian; aus der Langen Gasse wurde die Neubaugasse.",
+   "wiki": "Neubau (Vorstadt)",
+   "quellen": []
+  },
+  {
+   "q": "Was war der „Brillantengrund“?",
+   "a": "Das Schottenfeld, wo reiche Seidenfabrikanten wohnten",
+   "f": [
+    "Ein Edelsteinmarkt am Spittelberg",
+    "Ein Juweliersviertel in St. Ulrich",
+    "Ein Gartenpalais der Trautsons"
+   ],
+   "erkl": "Joseph II. holte Weber aus Süddeutschland und Görz, die zu großem Reichtum kamen.",
+   "wiki": "Brillantengrund",
+   "quellen": []
+  },
+  {
+   "q": "Wo stand tatsächlich das Zelt Kara Mustafas 1683, entgegen der Überlieferung am Türkischen Reiter?",
+   "a": "Auf der Schmelz",
+   "f": [
+    "Am Spittelberg",
+    "Auf dem Laaer Berg",
+    "Bei St. Ulrich"
+   ],
+   "erkl": "Bei St. Ulrich befand sich nur eine türkische Schanze.",
+   "wiki": "Türkischer Reiter",
+   "quellen": []
+  },
+  {
+   "q": "Was zeigt der Augustinbrunnen?",
+   "a": "Den Lieben Augustin",
+   "f": [
+    "Den heiligen Ulrich",
+    "Ferdinand Raimund",
+    "Kaiser Joseph II. beim Pflügen"
+   ],
+   "erkl": "Hans Scherpe schuf ihn 1908, die Figur wurde 1952 neu geschaffen.",
+   "wiki": "Augustinbrunnen",
+   "quellen": []
+  },
+  {
+   "q": "Wer wurde 1801 im Haus Mechitaristengasse 5 geboren?",
+   "a": "Joseph Lanner",
+   "f": [
+    "Johann Strauss Vater",
+    "Ferdinand Raimund",
+    "Friedrich Amerling"
+   ],
+   "erkl": "Lanner kam als Sohn eines Handschuhmachergesellen zur Welt.",
+   "wiki": "Lannerhaus",
+   "quellen": []
+  },
+  {
+   "q": "Für wen wurde das Trautsonpalais 1710–1712 gebaut?",
+   "a": "Für Johann Leopold Donat Graf Trautson",
+   "f": [
+    "Für Fürst Esterházy",
+    "Für Staatskanzler Kaunitz",
+    "Für Prinz Eugen"
+   ],
+   "erkl": "Planer war Fischer von Erlach, Baumeister Christian Alexander Oedtl.",
+   "wiki": "Trautsonpalais (7)",
+   "quellen": []
+  },
+  {
+   "q": "Welche historische Bezeichnung trug das MuseumsQuartier im 20. Jahrhundert?",
+   "a": "Messepalast",
+   "f": [
+    "Rotunde",
+    "Hofburgstallung",
+    "Stiftkaserne"
+   ],
+   "erkl": "1921 fand hier die erste Wiener Internationale Messe statt.",
+   "wiki": "Messepalast",
+   "quellen": []
+  },
+  {
+   "q": "Wann ereignete sich der Tränengasanschlag auf das Kaufhaus Gerngroß?",
+   "a": "18. Dezember 1932",
+   "f": [
+    "12. Februar 1934",
+    "11. März 1938",
+    "15. Juli 1927"
+   ],
+   "erkl": "Der „Goldene Sonntag“ war ein vorweihnachtlicher Einkaufssonntag.",
+   "wiki": "Anschlag auf das Kaufhaus Gerngroß",
+   "quellen": []
+  },
+  {
+   "q": "Welche Ideen vertrat die 1903 gegründete Wiener Werkstätte?",
+   "a": "Kunsthandwerkliche Qualität statt industrieller Massenware und Historismus",
+   "f": [
+    "Industrielle Serienfertigung im Stil des Art déco",
+    "Wiederbelebung der Biedermeier-Möbel",
+    "Förderung der Wiener Kaffeehauskultur"
+   ],
+   "erkl": "Gründer waren Josef Hoffmann, Koloman Moser und Fritz Waerndorfer.",
+   "wiki": "Wiener Werkstätte",
+   "quellen": []
+  },
+  {
+   "q": "Wer wurde am 14. April 1803 im Amerlinghaus geboren?",
+   "a": "Friedrich Amerling",
+   "f": [
+    "Rudolf von Alt",
+    "Ferdinand Georg Waldmüller",
+    "Josef Danhauser"
+   ],
+   "erkl": "Das Haus ist nach dem Maler benannt, der Spittelberg wurde in den 1970ern gerettet.",
+   "wiki": "Amerlinghaus",
+   "quellen": []
+  },
+  {
+   "q": "Welcher Orden erhielt 1810 die frühere Kapuzinerkirche in St. Ulrich?",
+   "a": "Die Mechitaristen",
+   "f": [
+    "Die Jesuiten",
+    "Die Piaristen",
+    "Die Barnabiten"
+   ],
+   "erkl": "Sie waren von den Franzosen aus Triest vertrieben worden.",
+   "wiki": "Mechitaristenkirche",
+   "quellen": []
+  },
+  {
+   "q": "Warum wurde die Schottenfelder Kirche dem heiligen Laurenz geweiht?",
+   "a": "Weil der Baugrund den Laurenzerinnen gehörte",
+   "f": [
+    "Weil hier das Stift Schotten einen Laurenz-Altar hatte",
+    "Wegen einer Pestgelübde-Stiftung 1679",
+    "Weil sie ein Wallfahrtsort war"
+   ],
+   "erkl": "Sie entstand 1784–1786 unter Abt Benno Pointner.",
+   "wiki": "Schottenfelder Kirche",
+   "quellen": []
+  },
+  {
+   "q": "Welche Neuerung zeigt der Argentor-Werke-Trakt in der Wimbergergasse?",
+   "a": "Er ist einer der ersten Stahlbetonbauten Wiens",
+   "f": [
+    "Er war die erste Fabrik mit elektrischem Licht",
+    "Er war das erste Hochhaus Wiens",
+    "Er war ein Gemeindebau der Ersten Republik"
+   ],
+   "erkl": "Ludwig Dillmann stellte von Eisen-Monier auf Stahlbeton um.",
+   "wiki": "Argentor Werke",
+   "quellen": []
+  }
+ ]
+}

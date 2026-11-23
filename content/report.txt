@@ -1,0 +1,20 @@
+o1-basilisk-in-der-schonlaterngasse: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Basiliskenhaus
+o1-donnerbrunnen-und-die-keuschheitskommission: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Donnerbrunnen_(Wien)
+o1-molker-bastei-und-pasqualatihaus: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Pasqualatihaus
+o18-kutschkermarkt: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Kutschkermarkt
+qs-seit-wann-ist-der-wiener-gemis: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Wiener_Gemischter_Satz
+qs-wer-schuf-das-mahnmal-am-juden: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Mahnmal_für_die_österreichischen_jüdischen_Opfer_der_Shoah
+qs-wer-schuf-das-denkmal-gegen-kr: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Denkmal_gegen_Krieg_und_Faschismus
+qs-welche-sage-ist-mit-dem-haus-s: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Basiliskenhaus
+stadtmauer-ring: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Wiener_Stadtbefestigung
+rotes-wien: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Gemeindebau_(Wien)
+s-gemeindebau-neu-gudrunstrae: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Gemeindebau_(Wien)
+s-hochstrahlbrunnen: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Hochstrahlbrunnen_(Wien)
+s-otto-wagner-pavillons-karlsplatz: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Otto-Wagner-Pavillons_am_Karlsplatz
+wein: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Wiener_Gemischter_Satz
+s-mahnmal-am-judenplatz: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Mahnmal_für_die_österreichischen_jüdischen_Opfer_der_Shoah
+s-denkmal-gegen-krieg-und-faschismus: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Denkmal_gegen_Krieg_und_Faschismus
+s-flakturm-augarten: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Flaktürme
+sagen: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Basiliskenhaus
+s-basiliskenhaus: Wikipedia-Artikel gibt es nicht: https://de.wikipedia.org/wiki/Basiliskenhaus
+Ohne jede Quelle: 5 ['o1-basilisk-in-der-schonlaterngasse', 'o1-donnerbrunnen-und-die-keuschheitskommission', 'o1-molker-bastei-und-pasqualatihaus', 'o18-kutschkermarkt', 't13-unter-st-veit']
