@@ -17,3 +17,10 @@ Private Lern-App für Daniel: Wien besser kennen (Geografie, Geschichte, Gebäud
 - Keine erfundenen Fakten oder URLs; Wiki-Titel müssen im Layer existieren. Texte sind KI-Zusammenfassungen der Quellen, die Links führen zu den Quellen (die App sagt das unter Entdecken > Daten und Quellen).
 - Quiz: Lernkartei mit Boxen 0–5 (`IVL` Tage), Runden à 10, Umfang ganz Wien / in meiner Nähe / Bezirk. Neue Modi in `MODES` (items + ask-Funktion).
 - Wien-Geschichte-Wiki-Texte nur gekürzt und mit Link zeigen; die App bleibt privat (Tailscale).
+
+## Hinweise (23.11.2026)
+- Wahl 2025: Gemeinderat aus OGD-Sprengeldaten (stimmt mit dem Endergebnis überein). Die OGD-Sprengeldaten der **Bezirksvertretungswahl enthalten keine Wahlkarten** (Margareten wäre dort falsch) -> BV-Werte aus `tools/bv2025_vienna_at.json` (vienna.at, vorläufig inkl. Großteil der Wahlkarten). `build_content.py` streicht Prozent-Sätze aus den Politiktexten der Agenten.
+- Bezirksvorsteher*innen sind gegen https://www.wien.gv.at/<slug>/bezirksvorstehung geprüft (Seitentitel nennt den Namen); die App verlinkt diese Seite je Bezirk.
+- Server liefert .json/.js/.css gzip-komprimiert (Cache in `data/gz/`); Daten werden mit `cache: "no-cache"` geladen.
+- Straßennamen-Quiz nur für Straßen, deren Name den Namensgeber nicht verrät (`nonTrivialStreet`).
+- Laut OGD-Liniennetz (Stand 11/2026) fährt der D-Wagen bis Simmering (Enkplatz); Linie 33 ist eingestellt.

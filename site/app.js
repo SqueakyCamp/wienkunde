@@ -484,7 +484,7 @@ const MODES = [
   { id: "bezirk", ic: "▦", n: "Bezirke", d: "Bezirk an der Form erkennen.", items: () => DATA.bezirke.map(b => ({ id: String(b.nr), b })), ask: askBezirk },
   { id: "kg", ic: "⌂", n: "Alte Gemeinden", d: "Katastralgemeinde auf der Karte: Welches Dorf, welche Vorstadt war das?", items: () => DATA.kg.map(k => ({ id: k.nr, k })), ask: askKG },
   { id: "gewaesser", ic: "≈", n: "Bäche und Flüsse", d: "Welches Gewässer ist das?", items: () => DATA.gewaesser.filter(g => !/\d|zubringer|graben|gerinne|kanal$|entlastung|hafen/i.test(g.n) || /donaukanal|wiener neustädter kanal/i.test(g.n)).map(g => ({ id: g.n, g })), ask: askGewaesser },
-  { id: "strasse", ic: "✎", n: "Straßennamen", d: "Nach wem oder was ist die Straße benannt?", items: () => (DATA.strassen || []).map(s => ({ id: String(s.id), s })), ask: askStrasse, need: "strassen" },
+  { id: "strasse", ic: "✎", n: "Straßennamen", d: "Nach wem oder was ist die Straße benannt?", items: () => (DATA.strassen || []).filter(nonTrivialStreet).map(s => ({ id: String(s.id), s })), ask: askStrasse, need: "strassen" },
   { id: "gemeindebau", ic: "▣", n: "Gemeindebauten", d: "Benannte Höfe erkennen.", items: () => (DATA.gemeindebauten || []).filter(g => g.named && g.geom && (g.w || 0) >= 150).map(g => ({ id: g.n + g.b, g })), ask: askGemeindebau, need: "gemeindebauten" },
   { id: "markt", ic: "◍", n: "Märkte", d: "Welcher Markt ist das?", items: () => DATA.maerkte.map(m => ({ id: m.n, m })), ask: askMarkt },
   { id: "wahl", ic: "✓", n: "Wahl 2025", d: "Stärkste Partei im Bezirk bei Gemeinderats- und Bezirksvertretungswahl.", items: () => DATA.bezirke.flatMap(b => [{ id: "gr" + b.nr, b, w: "gr" }, { id: "bv" + b.nr, b, w: "bv" }]), ask: askWahl },
@@ -708,6 +708,14 @@ function askGewaesser(it) {
   qbar("Welches Gewässer ist das?", mcBody(m.opts));
   bindMC(m.opts, m.correct, `<p><b>${esc(g.n)}</b></p><div class="src"><a href="${GWT(g.n)}" target="_blank" rel="noopener">Wien Geschichte Wiki ↗</a></div>`);
 }
+// Nur Straßen, bei denen der Name die Antwort nicht schon verrät (nicht „Herthergasse -> Paul Herther“)
+function nonTrivialStreet(s) {
+  const sn = norm(s.n).replace(/\b(gasse|str|strasse|weg|platz|ring|zeile|steig|allee|lande|kai|ufer|brucke|markt|hof|park|siedlung|bezirk|\d+)\b/g, " ").trim();
+  const nn = norm(s.nach);
+  if (nn.split(" ").some(t => t.length >= 4 && norm(s.n).replace(/ /g, "").includes(t))) return false;
+  if (sn.split(" ").some(t => t.length >= 4 && nn.replace(/ /g, "").includes(t))) return false;
+  return true;
+}
 function askStrasse(it) {
   const s = it.s;
   L.circleMarker([s.c[1], s.c[0]], { radius: 9, color: "#b3261e", weight: 4, fillColor: "#fff", fillOpacity: 1 }).addTo(focusLayer);
@@ -716,8 +724,8 @@ function askStrasse(it) {
   const isPerson = t => /^[A-ZÄÖÜ][a-zäöüß.]+(\s+(von|van|de|zu)?\s*[A-ZÄÖÜ][\wäöüß.-]+)+$/.test(t) && !/^(Gleichnamig|Ehemalig|Frühere?)/.test(t);
   const kind = isPerson(s.nach);
   const ok = x => x.nach !== s.nach && !/gasse|stra(ß|ss)e|weg\b|platz/i.test(x.nach) && isPerson(x.nach) === kind && x.nach.length < 60;
-  let pool = DATA.strassen.filter(x => x.b === s.b && ok(x));
-  if (pool.length < 6) pool = DATA.strassen.filter(ok);
+  let pool = DATA.strassen.filter(x => x.b === s.b && ok(x) && nonTrivialStreet(x));
+  if (pool.length < 6) pool = DATA.strassen.filter(x => ok(x) && nonTrivialStreet(x));
   const m = mcFrom(s.nach, [...new Set(pick(pool, 6).map(x => x.nach))].slice(0, 3));
   qbar(`Nach wem oder was ist die <b>${esc(s.n)}</b> (${s.b}.) benannt?`, mcBody(m.opts));
   bindMC(m.opts, m.correct, `<p style="white-space:pre-line">${esc(s.t || "")}</p><div class="src"><a href="${GW(s.id)}" target="_blank" rel="noopener">Wien Geschichte Wiki ↗</a></div>`);
