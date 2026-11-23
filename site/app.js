@@ -92,14 +92,15 @@ const kgAt = p => DATA.kg.find(k => inGeom(p, k.geom));
 let S = { q: {}, seen: {}, settings: { layers: ["ubahn"] }, stats: { answers: 0, right: 0, days: {} } };
 async function loadState() {
   try { const l = JSON.parse(localStorage.getItem("wk-state") || "null"); if (l) S = { ...S, ...l }; } catch { }
-  try { const r = await J("api/state"); if (r && r.t && (!S.t || r.t > S.t)) S = { ...S, ...r }; } catch { }
+  try { const r = await J("api/state"); HAS_API = true; if (r && r.t && (!S.t || r.t > S.t)) S = { ...S, ...r }; } catch { HAS_API = false; }
 }
+let HAS_API = false;
 let saveT;
 function save() {
   S.t = Date.now();
   localStorage.setItem("wk-state", JSON.stringify(S));
   clearTimeout(saveT);
-  saveT = setTimeout(() => fetch("api/state", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(S) }).catch(() => { }), 800);
+  if (HAS_API) saveT = setTimeout(() => fetch("api/state", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(S) }).catch(() => { }), 800);
 }
 
 // ---------------------------------------------------------------- Karte
@@ -198,7 +199,7 @@ function refreshWikiLayer() {
 // ---------------------------------------------------------------- Standort
 function locate(center) {
   if (!navigator.geolocation) return toast("Standort wird von diesem Browser nicht unterstützt");
-  if (!window.isSecureContext) return toast("Standort braucht HTTPS (Tailscale-Adresse mit :8445 verwenden)", 4000);
+  if (!window.isSecureContext) return toast("Der Standort funktioniert nur über HTTPS", 4000);
   follow = true; $("#locate").classList.add("on");
   if (me && center) { map.setView([me[1], me[0]], Math.max(map.getZoom(), 16)); showHere(me, { mine: true }); }
   if (watchId != null) return;
@@ -284,7 +285,7 @@ async function showHere(p, opt = {}) {
   const grp = { bau: [], topo: [], str: [], org: [] };
   for (const e of near) { if (e.art === "Verkehrsfläche") { if (e.d < 220) grp.str.push(e); } else (grp[e.k] || grp.topo).push(e); }
   const list = (arr, max) => arr.slice(0, max).map(e => `<div class="item" data-w="${e.id}"><div class="dist">${fmtD(e.d)}</div><div class="body"><b>${esc(e.n)}</b> ${e.art ? `<span class="muted small">${esc(e.art)}</span>` : ""}
-      ${e.t ? `<div class="ex">${esc(e.t)}</div>` : e.benannt ? `<div class="ex">Benannt nach ${esc(e.benannt)}</div>` : ""}<div class="src"><a href="${GW(e.id)}" target="_blank" rel="noopener">Wien Geschichte Wiki ↗</a></div></div></div>`).join("");
+      ${e.t ? `<div class="ex">${esc(e.t)}</div>` : e.benannt ? `<div class="ex">Benannt nach ${esc(e.benannt)}</div>` : ""}<div class="src"><a href="${GW(e.id)}" target="_blank" rel="noopener">Wien Geschichte Wiki ↗</a> <span class="muted">CC BY-NC-ND 4.0</span></div></div></div>`).join("");
   let w = "";
   if (grp.bau.length) w += `<div class="section"><h3>Gebäude und Bauwerke <small>${grp.bau.length} im Umkreis 450 m</small></h3>${list(grp.bau, 12)}</div>`;
   if (grp.topo.length) w += `<div class="section"><h3>Orte, Grätzel, Gewässer <small>${grp.topo.length}</small></h3>${list(grp.topo, 8)}</div>`;
@@ -360,7 +361,7 @@ function showStory(o) {
 function showWikiEntry(e) {
   sheetHTML(`<div class="card"><h4>${esc(e.n)}</h4><div class="meta">${e.art ? `<span>${esc(e.art)}</span>` : ""}${e.adr ? `<span>${esc(e.adr)}</span>` : ""}${e.von ? `<span>${esc(e.von)}${e.bis ? "–" + esc(e.bis) : ""}</span>` : ""}</div>
     <p style="white-space:pre-line">${esc(e.t || (e.benannt ? "Benannt nach " + e.benannt : ""))}</p>${e.frueher ? `<p class="small muted">Frühere Bezeichnung: ${esc(e.frueher)}</p>` : ""}
-    <div class="src"><a href="${GW(e.id)}" target="_blank" rel="noopener">Weiterlesen im Wien Geschichte Wiki ↗</a></div></div><button class="btn ghost" id="herebtn">Was ist hier noch?</button>`);
+    <div class="src"><a href="${GW(e.id)}" target="_blank" rel="noopener">Weiterlesen im Wien Geschichte Wiki ↗</a> <span class="muted">CC BY-NC-ND 4.0, gekürzt</span></div></div><button class="btn ghost" id="herebtn">Was ist hier noch?</button>`);
   $("#herebtn").onclick = () => showHere(e.c, { title: e.n });
 }
 function showLine(id) {
@@ -433,7 +434,7 @@ function viewEntdecken() {
       return `<a class="tile" href="#/bezirk/${b.nr}"><span class="num">${b.nr}</span><b>${esc(b.name)}</b><span class="small muted">${n ? n + " Geschichten" : "Porträt folgt"}</span>${n ? `<span class="prog"><i style="width:${100 * seen / n}%"></i></span>` : ""}</a>`; }).join("")}</div></div>
     ${themen.length ? `<div class="section"><h3>Themen</h3><div class="row">${themen.map(([k, v, n]) => `<a class="chip" href="#/thema/${k}">${esc(v)} · ${n}</a>`).join("")}</div></div>` : ""}
     ${(C.stadt || []).length ? `<div class="section"><h3>Ganz Wien</h3>${C.stadt.map(t => `<a class="mode" href="#/stadt/${esc(t.id)}"><span class="ic">✦</span><span class="body"><b>${esc(t.n)}</b><br><span class="small muted">${esc(t.kurz || "")}</span></span></a>`).join("")}</div>` : ""}
-    <div class="section"><h3>Daten und Quellen</h3><p class="small muted">Geodaten: Stadt Wien – data.wien.gv.at (CC BY 4.0), Katastralgemeinden: BEV Verwaltungsgrenzen 1:50 000, Kartengrundlage basemap.at. Ortsbeschreibungen: Wien Geschichte Wiki (gekürzt, mit Link) und Wikipedia (live). Bezirksporträts und Geschichten sind aus diesen Quellen zusammengefasst; die Links führen zu den Quellen.</p></div>`);
+    <div class="section"><h3>Daten und Quellen</h3><p class="small muted">Geodaten: <a href="https://data.wien.gv.at" target="_blank" rel="noopener">Stadt Wien – data.wien.gv.at</a> (CC BY 4.0). Katastralgemeinden: <a href="https://www.bev.gv.at" target="_blank" rel="noopener">BEV</a> Verwaltungsgrenzen 1:50 000 (CC BY 4.0). Karten: <a href="https://basemap.at" target="_blank" rel="noopener">basemap.at</a> (CC BY 4.0), im Quiz Esri World Light Gray Base. Einträge in der Umgebung: Auszüge aus dem <a href="https://www.geschichtewiki.wien.gv.at" target="_blank" rel="noopener">Wien Geschichte Wiki</a> (Wiener Stadt- und Landesarchiv, Wienbibliothek im Rathaus), <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank" rel="noopener">CC BY-NC-ND 4.0</a>, unverändert gekürzt, mit Link zum vollständigen Artikel; Wikipedia-Auszüge werden live geladen (CC BY-SA 4.0). Wahlergebnisse: Gemeinderat Stadt Wien OGD, Bezirksvertretung vienna.at (vorläufig). Bezirksporträts, Geschichten und Fragen wurden mit KI-Unterstützung aus diesen Quellen zusammengefasst und stichprobenartig geprüft; Fehler sind möglich, die Links führen zu den Quellen. Private, nicht-kommerzielle Lernseite.</p></div>`);
 }
 function viewBezirk(nr) {
   nr = +nr; const b = DATA.bezirke.find(x => x.nr === nr); if (!b) return viewEntdecken();
@@ -781,7 +782,7 @@ function viewIch() {
     </div>
     <div class="section"><h3>Je Kategorie</h3>${rows.map(({ m, s }) => `<div class="item"><div class="body"><b>${esc(m.n)}</b><div class="boxes">${s.boxes.map((n, i) => `<i style="background:${["#d9cfbd", "#e9a99f", "#e6c27a", "#b8d08a", "#7fb48e", "#2f6b4f"][i]};flex-grow:${n || 0.0001}"></i>`).join("")}</div></div><div class="dist">${s.known}/${s.total}</div></div>`).join("")}</div>
     <div class="section"><h3>Letzte Tage</h3><p class="small">${days.map(([d, n]) => `${d.slice(8)}.${d.slice(5, 7)}.: ${n}`).join(" · ") || "<span class='muted'>Noch keine Antworten.</span>"}</p></div>
-    <p class="small muted">Der Fortschritt wird am Server gespeichert und ist auf allen deinen Geräten gleich.</p>`);
+    <p class="small muted">${HAS_API ? "Der Fortschritt wird am Server gespeichert und ist auf allen deinen Geräten gleich." : "Der Fortschritt wird nur in diesem Browser gespeichert."}</p>`);
 }
 
 // ---------------------------------------------------------------- Router
