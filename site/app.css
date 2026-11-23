@@ -5,7 +5,7 @@
   --rot: #b3261e; --rot2: #8c1c16; --gruen: #2f6b4f; --gold: #b8892f; --blau: #2c5d8a;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
   --sans: "Atkinson", system-ui, sans-serif;
-  --nav: 62px; --top: 58px;
+  --nav: calc(60px + env(safe-area-inset-bottom)); --top: 58px;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; height: 100%; background: var(--paper); color: var(--ink); font: 16px/1.5 var(--sans); -webkit-text-size-adjust: 100%; }
@@ -38,14 +38,14 @@ h1 { font-size: 1.9rem; } h2 { font-size: 1.35rem; } h3 { font-size: 1.08rem; }
 #layers label { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-size: .95rem; }
 #layers select { width: 100%; padding: 4px; font: inherit; }
 
-/* Bottom sheet */
+/* Bottom sheet (Handy): Höhe per JS, drei Rastpunkte */
 .sheet { position: fixed; left: 0; right: 0; bottom: var(--nav); z-index: 1000; background: var(--paper); border-top: 1px solid var(--line); border-radius: 18px 18px 0 0;
-  box-shadow: 0 -6px 24px rgba(40,30,10,.15); max-height: 42vh; overflow: auto; transition: max-height .25s; overscroll-behavior: contain; }
-.sheet.big { max-height: calc(100vh - var(--nav) - var(--top) - 10px); }
-.sheet.min { max-height: 64px; overflow: hidden; }
-.grip { position: sticky; top: 0; height: 22px; background: var(--paper); cursor: pointer; z-index: 2; }
-.grip::after { content: ""; position: absolute; left: 50%; top: 8px; width: 42px; height: 5px; margin-left: -21px; border-radius: 3px; background: var(--line); }
-#sheetbody { padding: 0 16px 18px; }
+  box-shadow: 0 -6px 24px rgba(40,30,10,.15); height: 46vh; display: flex; flex-direction: column; overflow: hidden;
+  transition: height .28s cubic-bezier(.2,.8,.2,1); will-change: height; }
+.grip { flex: 0 0 auto; height: 30px; position: relative; cursor: grab; touch-action: none; -webkit-user-select: none; user-select: none; }
+.grip::after { content: ""; position: absolute; left: 50%; top: 11px; width: 44px; height: 5px; margin-left: -22px; border-radius: 3px; background: #bfb29b; }
+.sheet[data-state="full"] .grip::after { background: var(--ink2); }
+#sheetbody { flex: 1 1 auto; min-height: 0; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; padding: 0 16px calc(18px + env(safe-area-inset-bottom)); }
 .where { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; margin-bottom: 6px; }
 .where h2 { margin: 0; }
 .chip { display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px; border-radius: 12px; background: var(--paper2); font-size: .85rem; border: 1px solid var(--line); text-decoration: none; color: var(--ink); white-space: nowrap; }
@@ -122,7 +122,7 @@ button.chip { cursor: pointer; }
 .boxes { display: flex; gap: 2px; height: 6px; margin-top: 4px; }
 .boxes i { flex-grow: 1; border-radius: 2px; }
 
-#nav { position: fixed; left: 0; right: 0; bottom: 0; height: var(--nav); display: flex; background: var(--ink); z-index: 1100; padding-bottom: env(safe-area-inset-bottom); }
+#nav { position: fixed; left: 0; right: 0; bottom: 0; height: var(--nav); box-sizing: border-box; display: flex; background: var(--ink); z-index: 1100; padding-bottom: env(safe-area-inset-bottom); }
 #nav a { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #cfc6b6; text-decoration: none; font-size: .75rem; gap: 1px; }
 #nav a span { font-size: 1.25rem; line-height: 1; }
 #nav a.on { color: #fff; } #nav a.on span { color: #ff8a7f; }
@@ -140,7 +140,16 @@ button.chip { cursor: pointer; }
 
 @media (min-width: 900px) {
   .brand span:last-child { display: inline; }
-  .sheet, #quizbar { left: 12px; right: auto; width: 440px; bottom: calc(var(--nav) + 12px); border-radius: 18px; border: 1px solid var(--line); max-height: calc(100vh - var(--nav) - var(--top) - 30px); }
-  .sheet.min { max-height: 64px; }
-  .sheet:not(.min) { max-height: calc(100vh - var(--nav) - var(--top) - 30px); }
+  .sheet { left: 12px; right: auto; width: 440px; top: calc(var(--top) + 6px); bottom: calc(var(--nav) + 12px); height: auto !important; border-radius: 18px; border: 1px solid var(--line); }
+  .grip { display: none; }
+  #sheetbody { padding-top: 14px; }
+  #quizbar { left: 12px; right: auto; width: 440px; bottom: calc(var(--nav) + 12px); border-radius: 18px; border: 1px solid var(--line); }
+}
+/* Handy: Quizbalken kompakter, Optionen größer */
+@media (max-width: 899px) {
+  #quizbar { max-height: 52vh; padding: 10px 14px calc(12px + env(safe-area-inset-bottom)); }
+  .qq { font-size: 1.08rem; }
+  .opts button { min-height: 52px; font-size: .97rem; }
+  #layers { left: 10px; right: 62px; min-width: 0; }
+  .search { max-width: none; }
 }

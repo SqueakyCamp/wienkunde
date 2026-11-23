@@ -221,8 +221,86 @@ function locate(center) {
 
 // ---------------------------------------------------------------- Bottom Sheet
 const sheet = () => $("#sheet");
-function setSheet(state) { const s = sheet(); s.classList.toggle("big", state === "big"); s.classList.toggle("min", state === "min"); }
-function sheetHTML(h, state = "") { $("#sheetbody").innerHTML = h; sheet().hidden = false; setSheet(state); sheet().scrollTop = 0; }
+// ---- Bottom Sheet (Handy): drei Rastpunkte peek / half / full, frei ziehbar über Griff und Kopf,
+// und vom Inhalt aus nach unten, wenn dieser ganz oben gescrollt ist. Ab 900 px Breite: feste Seitenleiste.
+const SH = { state: "half", h: 0 };
+const isDesk = () => matchMedia("(min-width: 900px)").matches;
+function sheetSnaps() {
+  const navH = $("#nav").offsetHeight, topH = $("#top").offsetHeight;
+  const avail = window.innerHeight - navH - topH - 6;
+  return { peek: 76, half: Math.round(Math.min(avail, Math.max(260, window.innerHeight * 0.46))), full: avail };
+}
+function setSheetH(h, animate = true) {
+  const s = sheet(), sn = sheetSnaps();
+  h = Math.max(sn.peek, Math.min(sn.full, h));
+  s.style.transition = animate ? "" : "none";
+  s.style.height = h + "px";
+  SH.h = h;
+}
+function setSheet(state) {
+  const map_ = { min: "peek", big: "full", "": "half" };
+  SH.state = map_[state] ?? state;
+  const s = sheet();
+  s.dataset.state = SH.state;
+  if (isDesk()) { s.style.height = ""; return; }
+  setSheetH(sheetSnaps()[SH.state]);
+}
+function sheetHTML(h, state = "") { $("#sheetbody").innerHTML = h; sheet().hidden = false; $("#sheetbody").scrollTop = 0; if (state || SH.state === "peek" || !sheet().dataset.state) setSheet(state); }
+function padB() { // freie Höhe für fitBounds über dem Sheet bzw. Quizbalken
+  if (isDesk()) return 20;
+  const q = $("#quizbar"); if (!q.hidden) return q.offsetHeight + 10;
+  return sheet().hidden ? 20 : Math.min(SH.h, window.innerHeight * 0.5) + 10;
+}
+function initSheet() {
+  const s = sheet(), head = $("#sheethead"), body = $("#sheetbody");
+  let drag = null;
+  const start = (y) => { drag = { y0: y, h0: SH.h || s.offsetHeight, t: performance.now(), y: y, v: 0, moved: false }; };
+  const move = (y) => {
+    if (!drag) return;
+    const now = performance.now(), dt = Math.max(1, now - drag.t);
+    drag.v = (drag.y - y) / dt; drag.y = y; drag.t = now;
+    if (Math.abs(y - drag.y0) > 4) drag.moved = true;
+    setSheetH(drag.h0 + (drag.y0 - y), false);
+  };
+  const end = () => {
+    if (!drag) return;
+    const sn = sheetSnaps(), h = SH.h, v = drag.v, moved = drag.moved; drag = null;
+    if (!moved) return false;
+    let target;
+    if (v > 0.45) target = h < sn.half ? "half" : "full";
+    else if (v < -0.45) target = h > sn.half ? "half" : "peek";
+    else target = ["peek", "half", "full"].reduce((a, b) => Math.abs(sn[b] - h) < Math.abs(sn[a] - h) ? b : a);
+    setSheet(target);
+    return true;
+  };
+  // Kopf: immer ziehbar, Tippen schaltet um
+  head.addEventListener("pointerdown", e => { if (isDesk()) return; head.setPointerCapture(e.pointerId); start(e.clientY); });
+  head.addEventListener("pointermove", e => { if (drag) move(e.clientY); });
+  head.addEventListener("pointerup", () => {
+    if (isDesk()) return;
+    if (drag && !drag.moved) { drag = null; setSheet(SH.state === "full" ? "half" : SH.state === "half" ? "full" : "half"); return; }
+    end();
+  });
+  head.addEventListener("pointercancel", end);
+  // Inhalt: nach unten ziehen, wenn ganz oben gescrollt; nach oben ziehen, solange das Sheet nicht ganz offen ist
+  let ty = null, mode = null;
+  body.addEventListener("touchstart", e => { if (isDesk()) return; ty = e.touches[0].clientY; mode = null; }, { passive: true });
+  body.addEventListener("touchmove", e => {
+    if (ty == null || isDesk()) return;
+    const y = e.touches[0].clientY, dy = y - ty;
+    if (!mode) {
+      if (Math.abs(dy) < 6) return;
+      if (dy > 0 && body.scrollTop <= 0) mode = "sheet";
+      else if (dy < 0 && SH.state !== "full") mode = "sheet";
+      else mode = "scroll";
+      if (mode === "sheet") start(ty);
+    }
+    if (mode === "sheet") { e.preventDefault(); move(y); }
+  }, { passive: false });
+  const tend = () => { if (mode === "sheet") end(); ty = null; mode = null; };
+  body.addEventListener("touchend", tend); body.addEventListener("touchcancel", tend);
+  window.addEventListener("resize", () => setSheet(SH.state));
+}
 
 function srcLinks(o) {
   const q = [...(o.quellen || [])];
@@ -272,7 +350,7 @@ async function showHere(p, opt = {}) {
   h += `<div id="near-wiki"><p class="muted small">Lade Einträge aus dem Wien Geschichte Wiki …</p></div><div id="near-wp"></div><div id="near-more"></div>`;
   sheetHTML(h, opt.keep ? "" : "");
   $$("#sheetbody [data-line]").forEach(e => e.onclick = ev => { ev.stopPropagation(); showLine(e.dataset.line); });
-  $$("#sheetbody [data-kg]").forEach(e => e.onclick = () => { const k = DATA.kg.find(x => x.nr === e.dataset.kg); L.geoJSON(k.geom, { style: { color: "#8a6a2f", weight: 3, fillOpacity: .08 } }).addTo(focusLayer); map.fitBounds(bboxOf(k.geom), { paddingBottomRight: [0, 200] }); });
+  $$("#sheetbody [data-kg]").forEach(e => e.onclick = () => { const k = DATA.kg.find(x => x.nr === e.dataset.kg); L.geoJSON(k.geom, { style: { color: "#8a6a2f", weight: 3, fillOpacity: .08 } }).addTo(focusLayer); map.fitBounds(bboxOf(k.geom), { paddingBottomRight: [0, padB()] }); });
 
   // Geschichten in der Nähe
   const st = allStories().filter(o => o.c).map(o => ({ ...o, d: dist(p, o.c) })).filter(o => o.d < 700 && o.kat !== "teil").sort((a, b) => a.d - b.d).slice(0, 8);
@@ -369,7 +447,7 @@ function showLine(id) {
   if (VIEW !== "karte") location.hash = "#/";
   focusLayer.clearLayers();
   const g = L.geoJSON(l.geom, { style: { color: l.color || LINE_COL[l.t], weight: 7, opacity: .95 } }).addTo(focusLayer);
-  map.fitBounds(g.getBounds(), { padding: [30, 30], paddingBottomRight: [0, 160] });
+  map.fitBounds(g.getBounds(), { padding: [30, 30], paddingBottomRight: [0, padB()] });
   const st = lineStops(l);
   st.forEach(s => L.circleMarker([s.c[1], s.c[0]], { radius: 4, color: "#1d1a17", weight: 1.5, fillColor: "#fff", fillOpacity: 1 }).bindTooltip(s.n, { className: "lbl" }).addTo(focusLayer));
   const facts = (DATA.content.linien || {})[id];
@@ -659,7 +737,7 @@ function askLine(it) {
   const st = lineStops(l);
   st.forEach(s => L.circleMarker([s.c[1], s.c[0]], { radius: 3, color: "#1d1a17", weight: 1, fillColor: "#fff", fillOpacity: 1 }).addTo(focusLayer));
   drawContext("bezirke");
-  map.fitBounds(g.getBounds(), { padding: [40, 40], paddingBottomRight: [0, 220] });
+  map.fitBounds(g.getBounds(), { padding: [40, 40], paddingBottomRight: [0, padB()] });
   const typ = { U: "U- oder S-Bahn-Linie", S: "U- oder S-Bahn-Linie", T: "Straßenbahnlinie", B: "Autobuslinie", N: "NightLine" }[l.t];
   qbar(`Welche ${typ} ist das?`, typeBody("z. B. " + (l.t === "T" ? "49" : l.t === "B" ? "13A" : l.t === "N" ? "N25" : "U6")));
   const ends = endStops(l);
@@ -679,7 +757,7 @@ function endStops(l) {
 function askBezirk(it) {
   const b = it.b; drawContext("bezirke");
   L.geoJSON(b.geom, { style: { color: "#b3261e", weight: 3, fillColor: "#b3261e", fillOpacity: .3 } }).addTo(focusLayer);
-  map.fitBounds([[48.12, 16.18], [48.33, 16.58]], { paddingBottomRight: [0, 220] });
+  map.fitBounds([[48.12, 16.18], [48.33, 16.58]], { paddingBottomRight: [0, padB()] });
   qbar("Welcher Bezirk ist das? (Name oder Nummer)", typeBody("z. B. Hernals oder 17"));
   const p = DATA.content.bezirke?.[b.nr];
   bindType([b.name, String(b.nr), `${b.nr}. ${b.name}`, b.name.replace(/-/g, " ")], `<p><b>${b.nr}. ${esc(b.name)}</b>${p?.kurz ? " – " + esc(p.kurz) : ""}</p>`,
@@ -689,7 +767,7 @@ function askKG(it) {
   const k = it.k;
   DATA.kg.forEach(x => L.geoJSON(x.geom, { style: { color: "#a89a84", weight: 1, fill: false }, interactive: false }).addTo(focusLayer));
   L.geoJSON(k.geom, { style: { color: "#b3261e", weight: 3, fillColor: "#b3261e", fillOpacity: .3 } }).addTo(focusLayer);
-  map.fitBounds(bboxOf(k.geom), { padding: [80, 80], paddingBottomRight: [0, 240], maxZoom: 14 });
+  map.fitBounds(bboxOf(k.geom), { padding: [80, 80], paddingBottomRight: [0, padB()], maxZoom: 14 });
   const c = centroid(k.geom);
   const near = DATA.kg.filter(x => x !== k).map(x => [x, dist(c, centroid(x.geom))]).sort((a, b) => a[1] - b[1]).slice(0, 6).map(x => x[0]);
   const m = mcFrom(k.name, pick(near, 3).map(x => x.name));
@@ -701,7 +779,7 @@ function askGewaesser(it) {
   const g = it.g;
   const lay = L.geoJSON(g.geom, { style: { color: "#1f6fb2", weight: 6 } }).addTo(focusLayer);
   drawContext("bezirke");
-  map.fitBounds(lay.getBounds(), { padding: [60, 60], paddingBottomRight: [0, 220], maxZoom: 15 });
+  map.fitBounds(lay.getBounds(), { padding: [60, 60], paddingBottomRight: [0, padB()], maxZoom: 15 });
   const pool = modeById("gewaesser").items().map(x => x.g);
   const c = geomPoints(g.geom)[0];
   const near = pool.filter(x => x !== g).map(x => [x, dist(c, geomPoints(x.geom)[0])]).sort((a, b) => a[1] - b[1]).slice(0, 6).map(x => x[0]);
@@ -753,7 +831,7 @@ function askMarkt(it) {
 function askWahl(it) {
   const b = it.b, w = DATA.wahl2025[it.w][b.nr];
   L.geoJSON(b.geom, { style: { color: "#b3261e", weight: 3, fillOpacity: .2 } }).addTo(focusLayer);
-  drawContext("bezirke"); map.fitBounds([[48.12, 16.18], [48.33, 16.58]], { paddingBottomRight: [0, 220] });
+  drawContext("bezirke"); map.fitBounds([[48.12, 16.18], [48.33, 16.58]], { paddingBottomRight: [0, padB()] });
   const parties = ["SPÖ", "ÖVP", "FPÖ", "GRÜNE", "NEOS"];
   const right = w.parteien[0][0];
   const opts = parties.map(t => ({ t })); const correct = parties.indexOf(right);
@@ -763,7 +841,7 @@ function askWahl(it) {
 function askFakt(it) {
   const f = it.f;
   if (f.c) { L.circleMarker([f.c[1], f.c[0]], { radius: 9, color: "#b3261e", weight: 4, fillColor: "#fff", fillOpacity: 1 }).addTo(focusLayer); map.setView([f.c[1], f.c[0]], 15); }
-  else { const b = DATA.bezirke.find(x => x.nr === f.b); if (b) { L.geoJSON(b.geom, { style: { color: "#b3261e", weight: 2, fillOpacity: .08 } }).addTo(focusLayer); map.fitBounds(bboxOf(b.geom), { paddingBottomRight: [0, 220] }); } }
+  else { const b = DATA.bezirke.find(x => x.nr === f.b); if (b) { L.geoJSON(b.geom, { style: { color: "#b3261e", weight: 2, fillOpacity: .08 } }).addTo(focusLayer); map.fitBounds(bboxOf(b.geom), { paddingBottomRight: [0, padB()] }); } }
   const m = mcFrom(f.a, f.f.slice(0, 3));
   qbar(esc(f.q), mcBody(m.opts));
   bindMC(m.opts, m.correct, `<p>${esc(f.erkl || "")}</p>${srcLinks(f)}`);
@@ -811,12 +889,12 @@ function showWelcome() {
     <div class="row"><button class="btn rot" id="wloc">◎ Mein Standort</button><a class="btn ghost" href="#/quiz">Zum Quiz</a></div>`, "");
   $("#wloc").onclick = () => locate(true);
 }
-$(".grip").onclick = () => { const s = sheet(); if (s.classList.contains("min")) setSheet(""); else if (s.classList.contains("big")) setSheet("min"); else setSheet("big"); };
 
 (async function init() {
   initMap();
   await Promise.all([loadBase(), loadState()]);
   initSearch();
+  initSheet(); setSheet("half");
   window.addEventListener("hashchange", route);
   map.on("moveend", refreshWikiLayer);
   route();
